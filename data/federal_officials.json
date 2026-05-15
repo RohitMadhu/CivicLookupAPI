@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T01:09:17.999462+00:00",
+  "generated_at": "2026-05-15T03:12:39.706379+00:00",
   "house_by_district": {
     "AK:0": [
       {
@@ -447,7 +447,7 @@
         "social": {},
         "state": "AZ",
         "state_name": "Arizona",
-        "url": "https://grijalva.house.gov/"
+        "url": "https://grijalva.house.gov"
       }
     ],
     "AZ:8": [
@@ -576,31 +576,6 @@
         "state": "CA",
         "state_name": "California",
         "url": "https://gray.house.gov"
-      }
-    ],
-    "CA:14": [
-      {
-        "address": "174 Cannon House Office Building Washington DC 20515-0514",
-        "bioguide_id": "S001193",
-        "chamber": "house",
-        "district": "California District 14",
-        "district_number": 14,
-        "name": "Eric Swalwell",
-        "office": "174 Cannon House Office Building",
-        "party": "Democrat",
-        "phone": "202-225-5065",
-        "social": {
-          "facebook": "CongressmanEricSwalwell",
-          "instagram": "repswalwell",
-          "instagram_id": 338799200,
-          "twitter": "RepSwalwell",
-          "twitter_id": "942156122",
-          "youtube": "ericswalwell",
-          "youtube_id": "UCKvwsFNGD4sDkE_9g-2ft0w"
-        },
-        "state": "CA",
-        "state_name": "California",
-        "url": "https://swalwell.house.gov"
       }
     ],
     "CA:15": [
@@ -2235,25 +2210,6 @@
         "url": "https://dunn.house.gov"
       }
     ],
-    "FL:20": [
-      {
-        "address": "2442 Rayburn House Office Building Washington DC 20515-0920",
-        "bioguide_id": "C001127",
-        "chamber": "house",
-        "district": "Florida District 20",
-        "district_number": 20,
-        "name": "Sheila Cherfilus-McCormick",
-        "office": "2442 Rayburn House Office Building",
-        "party": "Democrat",
-        "phone": "202-225-1313",
-        "social": {
-          "facebook": "congresswomanSCM"
-        },
-        "state": "FL",
-        "state_name": "Florida",
-        "url": "https://cherfilus-mccormick.house.gov"
-      }
-    ],
     "FL:21": [
       {
         "address": "2182 Rayburn House Office Building Washington DC 20515-0921",
@@ -2680,28 +2636,21 @@
         "url": "https://allen.house.gov"
       }
     ],
-    "GA:13": [
+    "GA:14": [
       {
-        "address": "468 Cannon House Office Building Washington DC 20515-1013",
-        "bioguide_id": "S001157",
+        "address": "2201 Rayburn House Office Building Washington DC 20515-1014",
+        "bioguide_id": "F000485",
         "chamber": "house",
-        "district": "Georgia District 13",
-        "district_number": 13,
-        "name": "David Scott",
-        "office": "468 Cannon House Office Building",
-        "party": "Democrat",
-        "phone": "202-225-2939",
-        "social": {
-          "facebook": "113303673339",
-          "instagram": "RepDavidScott",
-          "twitter": "RepDavidScott",
-          "twitter_id": "168673083",
-          "youtube": "RepDavidScott",
-          "youtube_id": "UCgf28zRkLSqAUiPuJhGdF0w"
-        },
+        "district": "Georgia District 14",
+        "district_number": 14,
+        "name": "Clay Fuller",
+        "office": "2201 Rayburn House Office Building",
+        "party": "Republican",
+        "phone": "202-225-5211",
+        "social": {},
         "state": "GA",
         "state_name": "Georgia",
-        "url": "https://davidscott.house.gov"
+        "url": "https://fuller.house.gov"
       }
     ],
     "GA:2": [
@@ -5726,6 +5675,23 @@
         "url": "https://mciver.house.gov"
       }
     ],
+    "NJ:11": [
+      {
+        "address": "1427 Longworth House Office Building Washington DC 20515-3011",
+        "bioguide_id": "M001246",
+        "chamber": "house",
+        "district": "New Jersey District 11",
+        "district_number": 11,
+        "name": "Analilia Mejia",
+        "office": "1427 Longworth House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-5034",
+        "social": {},
+        "state": "NJ",
+        "state_name": "New Jersey",
+        "url": "https://mejia.house.gov"
+      }
+    ],
     "NJ:12": [
       {
         "address": "168 Cannon House Office Building Washington DC 20515-3012",
@@ -8001,7 +7967,7 @@
         "social": {},
         "state": "TN",
         "state_name": "Tennessee",
-        "url": "https://vanepps.house.gov/"
+        "url": "https://vanepps.house.gov"
       }
     ],
     "TN:8": [
@@ -8269,7 +8235,7 @@
         "social": {},
         "state": "TX",
         "state_name": "Texas",
-        "url": "https://menefee.house.gov/"
+        "url": "https://menefee.house.gov"
       }
     ],
     "TX:19": [
@@ -8384,27 +8350,6 @@
         "state": "TX",
         "state_name": "Texas",
         "url": "https://nehls.house.gov"
-      }
-    ],
-    "TX:23": [
-      {
-        "address": "2239 Rayburn House Office Building Washington DC 20515-4323",
-        "bioguide_id": "G000594",
-        "chamber": "house",
-        "district": "Texas District 23",
-        "district_number": 23,
-        "name": "Tony Gonzales",
-        "office": "2239 Rayburn House Office Building",
-        "party": "Republican",
-        "phone": "202-225-4511",
-        "social": {
-          "facebook": "RepTonyGonzales",
-          "twitter": "RepTonyGonzales",
-          "twitter_id": "1343627416120532992"
-        },
-        "state": "TX",
-        "state_name": "Texas",
-        "url": "https://gonzales.house.gov"
       }
     ],
     "TX:24": [
@@ -9047,7 +8992,7 @@
         "social": {},
         "state": "VA",
         "state_name": "Virginia",
-        "url": "https://walkinshaw.house.gov/"
+        "url": "https://walkinshaw.house.gov"
       }
     ],
     "VA:2": [
