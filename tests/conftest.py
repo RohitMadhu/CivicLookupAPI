@@ -1,13 +1,12 @@
 import pytest
 from unittest.mock import patch, MagicMock
 from pathlib import Path
-import json
 
 # Import the Flask app
 import sys
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from app import app as flask_app, load_federal_officials, load_zip_districts, load_state_officials
+from app import app as flask_app
 
 
 @pytest.fixture
