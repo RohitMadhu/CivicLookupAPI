@@ -29,6 +29,21 @@ DISTRICT_SUFFIX_PATTERNS = (
     re.compile(r"\s*district(?:\s+\d+)?$", re.IGNORECASE),
 )
 
+def normalize_district(value) -> Optional[int]:
+    try:
+        district_number = int(value)
+        return 0 if district_number == 98 else district_number
+    except (TypeError, ValueError):
+        return None
+
+
+def format_district_label(state_abbr: str, district_number: int) -> str:
+    state_name = STATE_NAMES.get(state_abbr, state_abbr)
+    if district_number == 0:
+        return f"{state_name} At Large"
+    return f"{state_name} District {district_number}"
+
+
 def normalize_state_legislative_district(value: Optional[str]) -> str:
     if not value:
         return ""
@@ -39,4 +54,13 @@ def normalize_state_legislative_district(value: Optional[str]) -> str:
         normalized = pattern.sub("", normalized)
     return normalized.strip().lower()
 
-# Add other helpers (format_district_label, etc.) here as needed
+
+def strip_state_legislative_label(value: Optional[str]) -> str:
+    if not value:
+        return ""
+    cleaned = " ".join(str(value).strip().split())
+    for pattern in DISTRICT_PREFIX_PATTERNS:
+        cleaned = pattern.sub("", cleaned)
+    for pattern in DISTRICT_SUFFIX_PATTERNS:
+        cleaned = pattern.sub("", cleaned)
+    return cleaned.strip()
