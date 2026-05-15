@@ -1,20 +1,13 @@
 import pytest
-from app import (
-    normalize_district,
-    format_district_label,
-    normalize_state_legislative_district,
-    strip_state_legislative_label,
-    jurisdiction_ocd_id,
-    district_ocd_id,
-    slugify_division_key,
-)
+from civiclookup.utils.normalization import normalize_district, format_district_label, normalize_state_legislative_district, strip_state_legislative_label
+from civiclookup.utils.ocd import jurisdiction_ocd_id, district_ocd_id, slugify_division_key
 
 
 class TestNormalizeDistrict:
     def test_normal_cases(self):
         assert normalize_district(5) == 5
         assert normalize_district("12") == 12
-        assert normalize_district(98) == 0  # Special at-large case
+        assert normalize_district(98) == 0
 
     def test_invalid(self):
         assert normalize_district(None) is None
