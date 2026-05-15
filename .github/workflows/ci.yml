@@ -30,7 +30,10 @@ jobs:
           pip install pytest pytest-flask responses
 
       - name: Run tests
+        env:
+          PYTHONPATH: .
         run: |
+          python -c "import app; print('App import successful')"
           python -m pytest tests/ -v --tb=short
 
       - name: Lint with Ruff (optional)
