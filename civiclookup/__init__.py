@@ -1,1 +1,1 @@
-"""CivicLookupAPI - A partial replacement for Google's Civic Information API."""
+"""CivicLookup - U.S. Civic Information API replacement."""
