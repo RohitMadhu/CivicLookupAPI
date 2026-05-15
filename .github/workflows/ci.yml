@@ -33,8 +33,8 @@ jobs:
         env:
           PYTHONPATH: .
         run: |
-          python -c "import app; print('App import successful')"
-          python -m pytest tests/ -v --tb=short
+          python -c "import app; print('✅ App import successful')"
+          python -m pytest tests/ -v --tb=long --maxfail=5
 
       - name: Lint with Ruff (optional)
         run: |
