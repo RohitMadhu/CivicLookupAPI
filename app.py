@@ -148,9 +148,8 @@ DISTRICT_PREFIX_PATTERNS = (
     re.compile(r"^state legislative district\s+", re.IGNORECASE),
 )
 DISTRICT_SUFFIX_PATTERNS = (
-    re.compile(r"\s+state house district$", re.IGNORECASE),
-    re.compile(r"\s+senatorial district$", re.IGNORECASE),
-    re.compile(r"\s+district$", re.IGNORECASE),
+    re.compile(r"\s*(?:state\s+)?(?:senate|house|senatorial|legislative)?\s*district\s*\d*$", re.IGNORECASE),
+    re.compile(r"\s*district\s*\d*$", re.IGNORECASE),
 )
 
 
@@ -955,7 +954,7 @@ def get_rep(zip_code):
                 matched_address=lookup_result["matched_address"],
                 districts=lookup_result["districts"],
                 states=lookup_states_for_result(lookup_result),
-            )
+        )
             response_payload = build_google_response(normalized_input, lookup_result)
             if not has_lookup_matches(lookup_result):
                 return jsonify(response_payload), 404
