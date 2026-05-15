@@ -40,7 +40,7 @@ class TestStateLegislativeNormalization:
 
     def test_suffix_removal(self):
         assert normalize_state_legislative_district("State Senate District 3") == "3"
-        assert normalize_state_legislative_district("District 7") == "7"
+        assert normalize_state_legislative_district("State House District 7") == "7"
 
     def test_empty(self):
         assert normalize_state_legislative_district(None) == ""
