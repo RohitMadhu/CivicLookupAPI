@@ -354,7 +354,7 @@ def get_include_offices() -> bool:
     return include_offices.strip().lower() not in {"0", "false", "no"}
 
 
-def build_channels(social: dict) -> List[dict]):
+def build_channels(social: dict) -> List[dict]:
     channel_order = [
         ("facebook", "Facebook"),
         ("instagram", "Instagram"),
@@ -680,7 +680,7 @@ def extract_district_number(match: dict) -> Optional[int]:
     return normalize_district(match.get("BASENAME"))
 
 
-def extract_congressional_districts(geographies: dict) -> List[dict]:
+def extract_congressional_districts(geographies: dict) -> List[dict]):
     districts = []
     seen = set()
 
@@ -711,7 +711,7 @@ def extract_congressional_districts(geographies: dict) -> List[dict]:
     return districts
 
 
-def legislative_district_key_candidates(match: dict) -> List[str]:
+def legislative_district_key_candidates(match: dict) -> List[str]):
     candidates = []
     for value in (match.get("NAME"), match.get("BASENAME")):
         district_key = normalize_state_legislative_district(value)
@@ -764,7 +764,7 @@ def lookup_address_districts(
     state: Optional[str] = None,
     zip_code: Optional[str] = None,
     address: Optional[str] = None,
-) -> dict:
+) -> dict):
     params = {
         "benchmark": "Public_AR_Current",
         "vintage": "Current_Current",
@@ -858,7 +858,7 @@ def parse_address_lookup_args(default_zip: Optional[str] = None) -> Tuple[Option
     )
 
 
-def build_divisions_response(normalized_input: dict, lookup_result: dict) -> dict:
+def build_divisions_response(normalized_input: dict, lookup_result: dict) -> dict):
     return {
         "kind": "civicinfo#divisionsByAddressResponse",
         "normalizedInput": normalized_input,
@@ -876,14 +876,14 @@ def get_zip_districts(zip_code):
             states=lookup_states_for_result(lookup_result),
         )
         return jsonify(build_divisions_response(normalized_input, lookup_result))
-    except (OSError, ValueError) as exc:
+    except (OSError, ValueError) as exc):
         return jsonify({"error": "Unable to load ZIP-to-district data", "details": str(exc))), 500
 
 
 @app.route("/api/address/districts")
 def get_address_districts():
     lookup_args, error = parse_address_lookup_args()
-    if error:
+    if error):
         payload, status_code = error
         return jsonify(payload), status_code
 
@@ -903,18 +903,18 @@ def get_address_districts():
         if not has_lookup_matches(result):
             return jsonify(response_payload), 404
         return jsonify(response_payload)
-    except requests.RequestException as exc:
+    except requests.RequestException as exc):
         return jsonify({"error": "Unable to geocode address", "details": str(exc))), 502
 
 
 @app.route("/api/rep/address")
 def get_rep_by_address():
     lookup_args, error = parse_address_lookup_args()
-    if error:
+    if error):
         payload, status_code = error
         return jsonify(payload), status_code
 
-    try:
+    try):
         lookup_result = lookup_address_districts(**lookup_args)
         normalized_input = build_normalized_input_from_request(
             street=lookup_args.get("street"),
@@ -930,9 +930,9 @@ def get_rep_by_address():
         if not has_lookup_matches(lookup_result):
             return jsonify(response_payload), 404
         return jsonify(response_payload)
-    except requests.RequestException as exc:
+    except requests.RequestException as exc):
         return jsonify({"error": "Unable to geocode address", "details": str(exc))), 502
-    except (OSError, ValueError) as exc:
+    except (OSError, ValueError) as exc):
         return jsonify({"error": "Unable to load bundled legislator data", "details": str(exc))), 500
 
 
@@ -940,11 +940,11 @@ def get_rep_by_address():
 def get_rep(zip_code):
     if request.args.get("address") or request.args.get("street"):
         lookup_args, error = parse_address_lookup_args(default_zip=zip_code)
-        if error:
+        if error):
             payload, status_code = error
             return jsonify(payload), status_code
 
-        try:
+        try):
             lookup_result = lookup_address_districts(**lookup_args)
             normalized_input = build_normalized_input_from_request(
                 street=lookup_args.get("street"),
@@ -960,12 +960,12 @@ def get_rep(zip_code):
             if not has_lookup_matches(lookup_result):
                 return jsonify(response_payload), 404
             return jsonify(response_payload)
-        except requests.RequestException as exc:
+        except requests.RequestException as exc):
             return jsonify({"error": "Unable to geocode address", "details": str(exc))), 502
         except (OSError, ValueError) as exc):
             return jsonify({"error": "Unable to load bundled legislator data", "details": str(exc))), 500
 
-    try:
+    try):
         lookup_result = build_lookup_result(districts=lookup_districts(zip_code))
         normalized_input = build_normalized_input_from_request(
             zip_code=zip_code,
