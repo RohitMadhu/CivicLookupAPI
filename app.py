@@ -206,7 +206,7 @@ def jurisdiction_ocd_id(state_abbr: str) -> str:
     return f"{COUNTRY_OCD_ID}/state:{state_abbr.lower()}"
 
 
-def district_ocd_id(district: dict) -> str:
+def district_ocd_id(district: dict) -> str):
     state_abbr = district["state"]
     district_number = district["district_number"]
     if state_abbr == "DC":
@@ -216,7 +216,7 @@ def district_ocd_id(district: dict) -> str:
     return f"{jurisdiction_ocd_id(state_abbr)}/cd:{district_number}"
 
 
-def district_aliases(district: dict) -> List[str]:
+def district_aliases(district: dict) -> List[str]):
     state_abbr = district["state"]
     district_number = district["district_number"]
     if state_abbr == "DC":
@@ -226,13 +226,13 @@ def district_aliases(district: dict) -> List[str]:
     return []
 
 
-def state_legislative_ocd_id(state_abbr: str, chamber: str, code: Optional[str], district_key: str) -> str:
+def state_legislative_ocd_id(state_abbr: str, chamber: str, code: Optional[str], district_key: str) -> str):
     segment = "sldu" if chamber == "upper" else "sldl"
     identifier = (code or slugify_division_key(district_key)).lower()
     return f"{jurisdiction_ocd_id(state_abbr)}/{segment}:{identifier}"
 
 
-def state_legislative_division_name(state_abbr: str, chamber: str, district_name: str) -> str:
+def state_legislative_division_name(state_abbr: str, chamber: str, district_name: str) -> str):
     state_name = STATE_NAMES.get(state_abbr, state_abbr)
     if state_abbr == "DC":
         return f"{state_name} Council {district_name}"
@@ -243,7 +243,7 @@ def state_legislative_division_name(state_abbr: str, chamber: str, district_name
     return f"{state_name} State Legislature District {district_name}"
 
 
-def state_legislative_office_name(state_abbr: str, chamber: str) -> str:
+def state_legislative_office_name(state_abbr: str, chamber: str) -> str):
     state_name = STATE_NAMES.get(state_abbr, state_abbr)
     if state_abbr == "DC":
         return "Council of the District of Columbia"
@@ -254,59 +254,59 @@ def state_legislative_office_name(state_abbr: str, chamber: str) -> str:
     return f"{state_name} State Legislature"
 
 
-def statewide_executive_office_name(state_abbr: str, role_type: str) -> str:
+def statewide_executive_office_name(state_abbr: str, role_type: str) -> str):
     state_name = STATE_NAMES.get(state_abbr, state_abbr)
     label = STATEWIDE_EXECUTIVE_METADATA.get(role_type, {}).get("label", role_type.title())
     return f"{state_name} {label}"
 
 
 @lru_cache(maxsize=1)
-def load_federal_officials() -> dict:
+def load_federal_officials() -> dict):
     with FEDERAL_OFFICIALS_PATH.open() as federal_officials_file:
         return json.load(federal_officials_file)
 
 
 @lru_cache(maxsize=1)
-def load_zip_districts() -> dict:
+def load_zip_districts() -> dict):
     with ZIP_DISTRICTS_PATH.open() as zip_districts_file:
         return json.load(zip_districts_file)
 
 
 @lru_cache(maxsize=1)
-def load_state_officials() -> dict:
+def load_state_officials() -> dict):
     with STATE_OFFICIALS_PATH.open() as state_officials_file:
         return json.load(state_officials_file)
 
 
-def get_reps_by_district() -> Dict[str, List[dict]]:
+def get_reps_by_district() -> Dict[str, List[dict]]):
     return load_federal_officials()["house_by_district"]
 
 
-def get_senators_by_state() -> Dict[str, List[dict]]:
+def get_senators_by_state() -> Dict[str, List[dict]]):
     return load_federal_officials()["senate_by_state"]
 
 
-def get_districts_by_zip() -> Dict[str, List[dict]]:
+def get_districts_by_zip() -> Dict[str, List[dict]]):
     return load_zip_districts()["districts_by_zip"]
 
 
-def get_state_upper_by_district() -> Dict[str, List[dict]]:
+def get_state_upper_by_district() -> Dict[str, List[dict]]):
     return load_state_officials()["state_upper_by_district"]
 
 
-def get_state_lower_by_district() -> Dict[str, List[dict]]:
+def get_state_lower_by_district() -> Dict[str, List[dict]]):
     return load_state_officials()["state_lower_by_district"]
 
 
-def get_state_legislature_by_district() -> Dict[str, List[dict]]:
+def get_state_legislature_by_district() -> Dict[str, List[dict]]):
     return load_state_officials()["state_legislature_by_district"]
 
 
-def get_statewide_executives_by_state() -> Dict[str, List[dict]]:
+def get_statewide_executives_by_state() -> Dict[str, List[dict]]):
     return load_state_officials()["statewide_executives_by_state"]
 
 
-def lookup_districts(zip_code: str) -> List[dict]:
+def lookup_districts(zip_code: str) -> List[dict]]):
     return get_districts_by_zip().get(zip_code, [])
 
 
@@ -316,7 +316,7 @@ def build_lookup_result(
     state_lower_district: Optional[dict] = None,
     matched_address: Optional[str] = None,
     coordinates: Optional[dict] = None,
-) -> dict:
+) -> dict]):
     return {
         "districts": districts or [],
         "state_upper_district": state_upper_district,
@@ -326,11 +326,11 @@ def build_lookup_result(
     }
 
 
-def lookup_states_for_districts(districts: List[dict]) -> List[str]:
+def lookup_states_for_districts(districts: List[dict]]) -> List[str]]):
     return sorted({district["state"] for district in districts})
 
 
-def lookup_states_for_result(lookup_result: dict) -> List[str]:
+def lookup_states_for_result(lookup_result: dict) -> List[str]]):
     states = set(lookup_states_for_districts(lookup_result.get("districts", [])))
     for district_key in ("state_upper_district", "state_lower_district"):
         district = lookup_result.get(district_key)
@@ -339,7 +339,7 @@ def lookup_states_for_result(lookup_result: dict) -> List[str]:
     return sorted(states)
 
 
-def has_lookup_matches(lookup_result: dict) -> bool:
+def has_lookup_matches(lookup_result: dict) -> bool]):
     return bool(
         lookup_result.get("districts")
         or lookup_result.get("state_upper_district")
@@ -347,14 +347,14 @@ def has_lookup_matches(lookup_result: dict) -> bool:
     )
 
 
-def get_include_offices() -> bool:
+def get_include_offices() -> bool]):
     include_offices = request.args.get("includeOffices")
     if include_offices is None:
         return True
     return include_offices.strip().lower() not in {"0", "false", "no"}
 
 
-def build_channels(social: dict) -> List[dict]:
+def build_channels(social: dict) -> List[dict]]:
     channel_order = [
         ("facebook", "Facebook"),
         ("instagram", "Instagram"),
@@ -369,7 +369,7 @@ def build_channels(social: dict) -> List[dict]:
     return channels
 
 
-def build_contact_address(official: dict) -> List[dict]:
+def build_contact_address(official: dict) -> List[dict]]:
     office = official.get("office")
     full_address = official.get("address")
     if not full_address:
@@ -391,7 +391,7 @@ def build_contact_address(official: dict) -> List[dict]:
     return [{"line1": full_address}]
 
 
-def build_google_official(official: dict) -> dict:
+def build_google_official(official: dict) -> dict]):
     google_official = {"name": official["name"]}
 
     if official.get("party"):
@@ -416,7 +416,7 @@ def build_google_official(official: dict) -> dict:
     return google_official
 
 
-def official_registry_key(official: dict) -> str:
+def official_registry_key(official: dict) -> str]):
     return (
         official.get("bioguide_id")
         or official.get("openstates_id")
@@ -424,7 +424,7 @@ def official_registry_key(official: dict) -> str:
     )
 
 
-def build_normalized_input_from_matched_address(matched_address: Optional[str]) -> dict:
+def build_normalized_input_from_matched_address(matched_address: Optional[str]) -> dict]):
     normalized_input = {"line1": "", "city": "", "state": "", "zip": ""}
     if not matched_address:
         return normalized_input
@@ -450,7 +450,7 @@ def build_normalized_input_from_request(
     matched_address: Optional[str] = None,
     districts: Optional[List[dict]] = None,
     states: Optional[List[str]] = None,
-) -> dict:
+) -> dict]):
     if matched_address:
         return build_normalized_input_from_matched_address(matched_address)
 
@@ -463,7 +463,7 @@ def build_normalized_input_from_request(
     return normalized_input
 
 
-def build_google_divisions(lookup_result: dict, include_offices: bool) -> dict:
+def build_google_divisions(lookup_result: dict, include_offices: bool) -> dict]):
     divisions = {COUNTRY_OCD_ID: {"name": "United States"}}
     division_order: List[str] = [COUNTRY_OCD_ID]
 
@@ -502,13 +502,13 @@ def build_google_divisions(lookup_result: dict, include_offices: bool) -> dict:
     return ordered_divisions
 
 
-def add_office_index(division_map: dict, division_id: str, office_index: int):
+def add_office_index(division_map: dict, division_id: str, office_index: int]):
     division = division_map.setdefault(division_id, {"name": division_id})
     office_indices = division.setdefault("officeIndices", [])
     office_indices.append(office_index)
 
 
-def add_google_officials(official_records: List[dict], officials: List[dict], official_indices: Dict[str, int]) -> List[int]:
+def add_google_officials(official_records: List[dict]]) -> List[int]]):
     indices = []
     for official in official_records:
         official_key = official_registry_key(official)
@@ -519,7 +519,7 @@ def add_google_officials(official_records: List[dict], officials: List[dict], of
     return indices
 
 
-def lookup_state_legislators_for_district(district_info: Optional[dict], preferred_chambers: Tuple[str, ...]) -> Tuple[List[dict], Optional[str]]:
+def lookup_state_legislators_for_district(district_info: Optional[dict]], preferred_chambers: Tuple[str, ...]) -> Tuple[List[dict]], Optional[str]]):
     if not district_info:
         return [], None
 
@@ -538,7 +538,7 @@ def lookup_state_legislators_for_district(district_info: Optional[dict], preferr
     return [], None
 
 
-def build_google_response(normalized_input: dict, lookup_result: dict) -> dict:
+def build_google_response(normalized_input: dict, lookup_result: dict) -> dict]):
     include_offices = get_include_offices()
     divisions = build_google_divisions(lookup_result, include_offices)
     response = {
@@ -680,7 +680,7 @@ def extract_district_number(match: dict) -> Optional[int]:
     return normalize_district(match.get("BASENAME"))
 
 
-def extract_congressional_districts(geographies: dict) -> List[dict]):
+def extract_congressional_districts(geographies: dict) -> List[dict]]:
     districts = []
     seen = set()
 
@@ -711,7 +711,7 @@ def extract_congressional_districts(geographies: dict) -> List[dict]):
     return districts
 
 
-def legislative_district_key_candidates(match: dict) -> List[str]):
+def legislative_district_key_candidates(match: dict) -> List[str]]):
     candidates = []
     for value in (match.get("NAME"), match.get("BASENAME")):
         district_key = normalize_state_legislative_district(value)
@@ -720,7 +720,7 @@ def legislative_district_key_candidates(match: dict) -> List[str]):
     return candidates
 
 
-def extract_state_legislative_district(geographies: dict, chamber: str) -> Optional[dict]):
+def extract_state_legislative_district(geographies: dict, chamber: str) -> Optional[dict]]):
     geography_label = "State Legislative Districts - Upper" if chamber == "upper" else "State Legislative Districts - Lower"
     code_key = "SLDU" if chamber == "upper" else "SLDL"
 
@@ -764,7 +764,7 @@ def lookup_address_districts(
     state: Optional[str] = None,
     zip_code: Optional[str] = None,
     address: Optional[str] = None,
-) -> dict):
+) -> dict]):
     params = {
         "benchmark": "Public_AR_Current",
         "vintage": "Current_Current",
@@ -809,7 +809,7 @@ def parse_address_lookup_args(default_zip: Optional[str] = None) -> Tuple[Option
     state = request.args.get("state")
     zip_code = request.args.get("zip", default_zip)
 
-    if address:
+    if address):
         return (
             {
                 "address": address,
@@ -821,7 +821,7 @@ def parse_address_lookup_args(default_zip: Optional[str] = None) -> Tuple[Option
             None,
         )
 
-    if not street:
+    if not street):
         return (
             None,
             (
@@ -858,7 +858,7 @@ def parse_address_lookup_args(default_zip: Optional[str] = None) -> Tuple[Option
     )
 
 
-def build_divisions_response(normalized_input: dict, lookup_result: dict) -> dict):
+def build_divisions_response(normalized_input: dict, lookup_result: dict) -> dict]):
     return {
         "kind": "civicinfo#divisionsByAddressResponse",
         "normalizedInput": normalized_input,
@@ -887,7 +887,7 @@ def get_address_districts():
         payload, status_code = error
         return jsonify(payload), status_code
 
-    try:
+    try):
         result = lookup_address_districts(**lookup_args)
         normalized_input = build_normalized_input_from_request(
             street=lookup_args.get("street"),
