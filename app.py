@@ -148,9 +148,9 @@ DISTRICT_PREFIX_PATTERNS = (
     re.compile(r"^state legislative district\s+", re.IGNORECASE),
 )
 DISTRICT_SUFFIX_PATTERNS = (
-    re.compile(r"\s+state house district(?:\s+\d+)?$", re.IGNORECASE),
-    re.compile(r"\s+senatorial district(?:\s+\d+)?$", re.IGNORECASE),
-    re.compile(r"\s+district(?:\s+\d+)?$", re.IGNORECASE),
+    re.compile(r"\s*state house district(?:\s+\d+)?$", re.IGNORECASE),
+    re.compile(r"\s*senatorial district(?:\s+\d+)?$", re.IGNORECASE),
+    re.compile(r"\s*district(?:\s+\d+)?$", re.IGNORECASE),
 )
 
 
@@ -354,7 +354,7 @@ def get_include_offices() -> bool:
     return include_offices.strip().lower() not in {"0", "false", "no"}
 
 
-def build_channels(social: dict) -> List[dict]:
+def build_channels(social: dict) -> List[dict]):
     channel_order = [
         ("facebook", "Facebook"),
         ("instagram", "Instagram"),
@@ -720,7 +720,7 @@ def legislative_district_key_candidates(match: dict) -> List[str]:
     return candidates
 
 
-def extract_state_legislative_district(geographies: dict, chamber: str) -> Optional[dict]:
+def extract_state_legislative_district(geographies: dict, chamber: str) -> Optional[dict]):
     geography_label = "State Legislative Districts - Upper" if chamber == "upper" else "State Legislative Districts - Lower"
     code_key = "SLDU" if chamber == "upper" else "SLDL"
 
@@ -751,8 +751,8 @@ def extract_state_legislative_district(geographies: dict, chamber: str) -> Optio
                 "division_name": state_legislative_division_name(
                     state_abbr,
                     chamber,
-                    district_name or primary_key.title(),
-                ),
+                district_name or primary_key.title(),
+            ),
             }
 
     return None
@@ -877,7 +877,7 @@ def get_zip_districts(zip_code):
         )
         return jsonify(build_divisions_response(normalized_input, lookup_result))
     except (OSError, ValueError) as exc:
-        return jsonify({"error": "Unable to load ZIP-to-district data", "details": str(exc)}), 500
+        return jsonify({"error": "Unable to load ZIP-to-district data", "details": str(exc))), 500
 
 
 @app.route("/api/address/districts")
@@ -904,7 +904,7 @@ def get_address_districts():
             return jsonify(response_payload), 404
         return jsonify(response_payload)
     except requests.RequestException as exc:
-        return jsonify({"error": "Unable to geocode address", "details": str(exc)}), 502
+        return jsonify({"error": "Unable to geocode address", "details": str(exc))), 502
 
 
 @app.route("/api/rep/address")
@@ -931,9 +931,9 @@ def get_rep_by_address():
             return jsonify(response_payload), 404
         return jsonify(response_payload)
     except requests.RequestException as exc:
-        return jsonify({"error": "Unable to geocode address", "details": str(exc)}), 502
+        return jsonify({"error": "Unable to geocode address", "details": str(exc))), 502
     except (OSError, ValueError) as exc:
-        return jsonify({"error": "Unable to load bundled legislator data", "details": str(exc)}), 500
+        return jsonify({"error": "Unable to load bundled legislator data", "details": str(exc))), 500
 
 
 @app.route("/api/rep/<zip_code>")
@@ -961,9 +961,9 @@ def get_rep(zip_code):
                 return jsonify(response_payload), 404
             return jsonify(response_payload)
         except requests.RequestException as exc:
-            return jsonify({"error": "Unable to geocode address", "details": str(exc)}), 502
-        except (OSError, ValueError) as exc:
-            return jsonify({"error": "Unable to load bundled legislator data", "details": str(exc)}), 500
+            return jsonify({"error": "Unable to geocode address", "details": str(exc))), 502
+        except (OSError, ValueError) as exc):
+            return jsonify({"error": "Unable to load bundled legislator data", "details": str(exc))), 500
 
     try:
         lookup_result = build_lookup_result(districts=lookup_districts(zip_code))
@@ -973,8 +973,8 @@ def get_rep(zip_code):
             states=lookup_states_for_result(lookup_result),
         )
         return jsonify(build_google_response(normalized_input, lookup_result))
-    except (OSError, ValueError) as exc:
-        return jsonify({"error": "Unable to load bundled legislator data", "details": str(exc)}), 500
+    except (OSError, ValueError) as exc):
+        return jsonify({"error": "Unable to load bundled legislator data", "details": str(exc))), 500
 
 
 if __name__ == "__main__":
