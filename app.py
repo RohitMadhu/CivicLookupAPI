@@ -117,15 +117,15 @@ STATE_FIPS_TO_ABBR = {
     "41": "OR",
     "42": "PA",
     "44": "RI",
-    "45": "SC",
-    "46": "SD",
-    "47": "TN",
-    "48": "TX",
-    "49": "UT",
-    "50": "VT",
-    "51": "VA",
-    "53": "WA",
-    "54": "WV",
+    "45": "SC": "South Carolina",
+    "46": "SD": "South Dakota",
+    "47": "TN": "Tennessee",
+    "48": "TX": "Texas",
+    "49": "UT": "Utah",
+    "50": "VT": "Vermont",
+    "51": "VA": "Virginia",
+    "53": "WA": "Washington",
+    "54": "WV": "West Virginia",
     "55": "WI",
     "56": "WY",
     "60": "AS",
@@ -148,8 +148,9 @@ DISTRICT_PREFIX_PATTERNS = (
     re.compile(r"^state legislative district\s+", re.IGNORECASE),
 )
 DISTRICT_SUFFIX_PATTERNS = (
-    re.compile(r"\s*(?:state\s+)?(?:senate|house|senatorial|legislative)?\s*district\s*\d*$", re.IGNORECASE),
-    re.compile(r"\s*district\s*\d*$", re.IGNORECASE),
+    re.compile(r"\s+state house district(?:\s+\d+)?$", re.IGNORECASE),
+    re.compile(r"\s+senatorial district(?:\s+\d+)?$", re.IGNORECASE),
+    re.compile(r"\s+district(?:\s+\d+)?$", re.IGNORECASE),
 )
 
 
@@ -750,8 +751,8 @@ def extract_state_legislative_district(geographies: dict, chamber: str) -> Optio
                 "division_name": state_legislative_division_name(
                     state_abbr,
                     chamber,
-                    district_name or primary_key.title(),
-                ),
+                district_name or primary_key.title(),
+            ),
             }
 
     return None
@@ -954,7 +955,7 @@ def get_rep(zip_code):
                 matched_address=lookup_result["matched_address"],
                 districts=lookup_result["districts"],
                 states=lookup_states_for_result(lookup_result),
-        )
+            )
             response_payload = build_google_response(normalized_input, lookup_result)
             if not has_lookup_matches(lookup_result):
                 return jsonify(response_payload), 404
