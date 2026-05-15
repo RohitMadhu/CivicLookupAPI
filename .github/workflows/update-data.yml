@@ -1,0 +1,59 @@
+name: Update Civic Data
+
+on:
+  schedule:
+    # Run every Monday at 09:00 UTC (adjust as needed)
+    - cron: '0 9 * * 1'
+  workflow_dispatch:  # Allow manual trigger from GitHub UI
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Needed to push commits
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Full history for proper diff
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt pyyaml requests
+
+      - name: Clone OpenStates people data
+        run: |
+          git clone --depth 1 https://github.com/openstates/people.git /tmp/openstates-people
+
+      - name: Generate updated data files
+        env:
+          OPENSTATES_PEOPLE_DIR: /tmp/openstates-people
+        run: |
+          python scripts/generate_data.py
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet data/; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push updated data
+        if: steps.check_changes.outputs.changed == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(data): refresh federal, state, and ZIP district data [skip ci]"
+          file_pattern: data/*.json
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
