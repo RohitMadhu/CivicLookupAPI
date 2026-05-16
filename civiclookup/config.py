@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-from pydantic import BaseSettings
+from pydantic_settings import BaseSettings
 
 class Settings(BaseSettings):
     DATA_DIR: str = str(Path(__file__).resolve().parent.parent / "data")
