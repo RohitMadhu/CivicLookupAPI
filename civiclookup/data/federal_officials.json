@@ -1,1 +1,2814 @@
-{"divisions": {}, "offices": [], "officials": []}
+{
+  "generated_at": "2026-05-15T03:12:39.706379+00:00",
+  "house_by_district": {
+    "AK:0": [
+      {
+        "address": "153 Cannon House Office Building Washington DC 20515-0200",
+        "bioguide_id": "B001323",
+        "chamber": "house",
+        "district": "Alaska At Large",
+        "district_number": 0,
+        "name": "Nicholas J. Begich III",
+        "office": "153 Cannon House Office Building",
+        "party": "Republican",
+        "phone": "202-225-5765",
+        "social": {
+          "facebook": "RepNickBegich",
+          "instagram": "RepNickBegich",
+          "twitter": "repnickbegich"
+        },
+        "state": "AK",
+        "state_name": "Alaska",
+        "url": "https://begich.house.gov"
+      }
+    ],
+    "AL:1": [
+      {
+        "address": "1511 Longworth House Office Building Washington DC 20515-0101",
+        "bioguide_id": "M001212",
+        "chamber": "house",
+        "district": "Alabama District 1",
+        "district_number": 1,
+        "name": "Barry Moore",
+        "office": "1511 Longworth House Office Building",
+        "party": "Republican",
+        "phone": "202-225-2901",
+        "social": {
+          "facebook": "RepBarryMoore",
+          "twitter": "RepBarryMoore",
+          "twitter_id": "1339006078688825344"
+        },
+        "state": "AL",
+        "state_name": "Alabama",
+        "url": "https://barrymoore.house.gov"
+      }
+    ],
+    "AL:2": [
+      {
+        "address": "225 Cannon House Office Building Washington DC 20515-0102",
+        "bioguide_id": "F000481",
+        "chamber": "house",
+        "district": "Alabama District 2",
+        "district_number": 2,
+        "name": "Shomari Figures",
+        "office": "225 Cannon House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-4931",
+        "social": {
+          "facebook": "congressman.shomari.figures",
+          "instagram": "repscfigures",
+          "twitter": "repscfigures"
+        },
+        "state": "AL",
+        "state_name": "Alabama",
+        "url": "https://figures.house.gov"
+      }
+    ],
+    "AL:3": [
+      {
+        "address": "2469 Rayburn House Office Building Washington DC 20515-0103",
+        "bioguide_id": "R000575",
+        "chamber": "house",
+        "district": "Alabama District 3",
+        "district_number": 3,
+        "name": "Mike Rogers",
+        "office": "2469 Rayburn House Office Building",
+        "party": "Republican",
+        "phone": "202-225-3261",
+        "social": {
+          "facebook": "CongressmanMikeDRogers",
+          "instagram": "repmikerogersal",
+          "instagram_id": 259435765,
+          "twitter": "RepMikeRogersAL",
+          "twitter_id": "33977070",
+          "youtube": "MikeRogersAL03",
+          "youtube_id": "UCH-WUWuY0_dlKwJDSqKTJsg"
+        },
+        "state": "AL",
+        "state_name": "Alabama",
+        "url": "https://mikerogers.house.gov"
+      }
+    ],
+    "AL:4": [
+      {
+        "address": "272 Cannon House Office Building Washington DC 20515-0104",
+        "bioguide_id": "A000055",
+        "chamber": "house",
+        "district": "Alabama District 4",
+        "district_number": 4,
+        "name": "Robert B. Aderholt",
+        "office": "272 Cannon House Office Building",
+        "party": "Republican",
+        "phone": "202-225-4876",
+        "social": {
+          "facebook": "RobertAderholt",
+          "twitter": "Robert_Aderholt",
+          "twitter_id": "76452765",
+          "youtube": "RobertAderholt",
+          "youtube_id": "UC71CAgpg1gbLTew_pfTneGA"
+        },
+        "state": "AL",
+        "state_name": "Alabama",
+        "url": "https://aderholt.house.gov"
+      }
+    ],
+    "AL:5": [
+      {
+        "address": "449 Cannon House Office Building Washington DC 20515-0105",
+        "bioguide_id": "S001220",
+        "chamber": "house",
+        "district": "Alabama District 5",
+        "district_number": 5,
+        "name": "Dale W. Strong",
+        "office": "449 Cannon House Office Building",
+        "party": "Republican",
+        "phone": "202-225-4801",
+        "social": {
+          "facebook": "repdalestrong",
+          "instagram": "repdalestrong",
+          "twitter": "RepDaleStrong"
+        },
+        "state": "AL",
+        "state_name": "Alabama",
+        "url": "https://strong.house.gov"
+      }
+    ],
+    "AL:6": [
+      {
+        "address": "170 Cannon House Office Building Washington DC 20515-0106",
+        "bioguide_id": "P000609",
+        "chamber": "house",
+        "district": "Alabama District 6",
+        "district_number": 6,
+        "name": "Gary J. Palmer",
+        "office": "170 Cannon House Office Building",
+        "party": "Republican",
+        "phone": "202-225-4921",
+        "social": {
+          "facebook": "CongressmanGaryPalmer",
+          "instagram": "repgarypalmer",
+          "instagram_id": 1551536636,
+          "twitter": "USRepGaryPalmer",
+          "twitter_id": "2861616083",
+          "youtube_id": "UCYZfP-cNIvlJY3AcAc9OPpQ"
+        },
+        "state": "AL",
+        "state_name": "Alabama",
+        "url": "https://palmer.house.gov"
+      }
+    ],
+    "AL:7": [
+      {
+        "address": "1035 Longworth House Office Building Washington DC 20515-0107",
+        "bioguide_id": "S001185",
+        "chamber": "house",
+        "district": "Alabama District 7",
+        "district_number": 7,
+        "name": "Terri A. Sewell",
+        "office": "1035 Longworth House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-2665",
+        "social": {
+          "facebook": "RepSewell",
+          "instagram": "repterriasewell",
+          "twitter": "RepTerriSewell",
+          "twitter_id": "381152398",
+          "youtube": "RepSewell",
+          "youtube_id": "UCHkEHtfrfUWOFtbUFQTQH7Q"
+        },
+        "state": "AL",
+        "state_name": "Alabama",
+        "url": "https://sewell.house.gov"
+      }
+    ],
+    "AR:1": [
+      {
+        "address": "2422 Rayburn House Office Building Washington DC 20515-0401",
+        "bioguide_id": "C001087",
+        "chamber": "house",
+        "district": "Arkansas District 1",
+        "district_number": 1,
+        "name": "Eric A. \"Rick\" Crawford",
+        "office": "2422 Rayburn House Office Building",
+        "party": "Republican",
+        "phone": "202-225-4076",
+        "social": {
+          "facebook": "RepRickCrawford",
+          "instagram": "reprickcrawford",
+          "instagram_id": 389864684,
+          "twitter": "RepRickCrawford",
+          "twitter_id": "233693291",
+          "youtube": "RepRickCrawford",
+          "youtube_id": "UCLKAkVl4BHRK73lmDiIgPYg"
+        },
+        "state": "AR",
+        "state_name": "Arkansas",
+        "url": "https://crawford.house.gov"
+      }
+    ],
+    "AR:2": [
+      {
+        "address": "1533 Longworth House Office Building Washington DC 20515-0402",
+        "bioguide_id": "H001072",
+        "chamber": "house",
+        "district": "Arkansas District 2",
+        "district_number": 2,
+        "name": "J. French Hill",
+        "office": "1533 Longworth House Office Building",
+        "party": "Republican",
+        "phone": "202-225-2506",
+        "social": {
+          "facebook": "RepFrenchHill",
+          "instagram": "repfrenchhill",
+          "twitter": "RepFrenchHill",
+          "twitter_id": "2953974395",
+          "youtube_id": "UCT8uWroJtkwSsCJlVg0IKvQ"
+        },
+        "state": "AR",
+        "state_name": "Arkansas",
+        "url": "https://hill.house.gov"
+      }
+    ],
+    "AR:3": [
+      {
+        "address": "2412 Rayburn House Office Building Washington DC 20515-0403",
+        "bioguide_id": "W000809",
+        "chamber": "house",
+        "district": "Arkansas District 3",
+        "district_number": 3,
+        "name": "Steve Womack",
+        "office": "2412 Rayburn House Office Building",
+        "party": "Republican",
+        "phone": "202-225-4301",
+        "social": {
+          "facebook": "RepSteveWomack",
+          "instagram": "rep_stevewomack",
+          "twitter": "Rep_SteveWomack",
+          "twitter_id": "234469322",
+          "youtube": "CongressmanWomack",
+          "youtube_id": "UCXJbUDLYX-wGIhRuN66hqZw"
+        },
+        "state": "AR",
+        "state_name": "Arkansas",
+        "url": "https://womack.house.gov"
+      }
+    ],
+    "AR:4": [
+      {
+        "address": "202 Cannon House Office Building Washington DC 20515-0404",
+        "bioguide_id": "W000821",
+        "chamber": "house",
+        "district": "Arkansas District 4",
+        "district_number": 4,
+        "name": "Bruce Westerman",
+        "office": "202 Cannon House Office Building",
+        "party": "Republican",
+        "phone": "202-225-3772",
+        "social": {
+          "facebook": "RepWesterman",
+          "twitter": "RepWesterman",
+          "twitter_id": "2852998461",
+          "youtube_id": "UCNshPbmupCwP5a7Hi79jETQ"
+        },
+        "state": "AR",
+        "state_name": "Arkansas",
+        "url": "https://westerman.house.gov"
+      }
+    ],
+    "AS:0": [
+      {
+        "address": "2001 Rayburn House Office Building Washington DC 20515-5200",
+        "bioguide_id": "R000600",
+        "chamber": "house",
+        "district": "American Samoa At Large",
+        "district_number": 0,
+        "name": "Aumua Amata Coleman Radewagen",
+        "office": "2001 Rayburn House Office Building",
+        "party": "Republican",
+        "phone": "202-225-8577",
+        "social": {
+          "facebook": "aumuaamata",
+          "twitter": "RepAmata",
+          "twitter_id": "3026622545",
+          "youtube_id": "UCGdrLQbt1PYDTPsampx4t1A"
+        },
+        "state": "AS",
+        "state_name": "American Samoa",
+        "url": "https://radewagen.house.gov"
+      }
+    ],
+    "AZ:1": [
+      {
+        "address": "166 Cannon House Office Building Washington DC 20515-0301",
+        "bioguide_id": "S001183",
+        "chamber": "house",
+        "district": "Arizona District 1",
+        "district_number": 1,
+        "name": "David Schweikert",
+        "office": "166 Cannon House Office Building",
+        "party": "Republican",
+        "phone": "202-225-2190",
+        "social": {
+          "facebook": "repdavidschweikert",
+          "instagram": "repdavid",
+          "instagram_id": 181147397,
+          "twitter": "RepDavid",
+          "twitter_id": "229197216",
+          "youtube": "RepDavidSchweikert",
+          "youtube_id": "UCVvuNVzkOUp7p_Pzkc6Zuvw"
+        },
+        "state": "AZ",
+        "state_name": "Arizona",
+        "url": "https://schweikert.house.gov"
+      }
+    ],
+    "AZ:2": [
+      {
+        "address": "307 Cannon House Office Building Washington DC 20515-0302",
+        "bioguide_id": "C001132",
+        "chamber": "house",
+        "district": "Arizona District 2",
+        "district_number": 2,
+        "name": "Elijah Crane",
+        "office": "307 Cannon House Office Building",
+        "party": "Republican",
+        "phone": "202-225-3361",
+        "social": {
+          "facebook": "100088851021670",
+          "twitter": "RepEliCrane",
+          "twitter_id": "1608891205902794753",
+          "youtube": "@rep.elicrane"
+        },
+        "state": "AZ",
+        "state_name": "Arizona",
+        "url": "https://crane.house.gov"
+      }
+    ],
+    "AZ:3": [
+      {
+        "address": "1432 Longworth House Office Building Washington DC 20515-0303",
+        "bioguide_id": "A000381",
+        "chamber": "house",
+        "district": "Arizona District 3",
+        "district_number": 3,
+        "name": "Yassamin Ansari",
+        "office": "1432 Longworth House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-4065",
+        "social": {
+          "facebook": "RepYassAnsari",
+          "instagram": "RepYassAnsari",
+          "twitter": "RepYassAnsari"
+        },
+        "state": "AZ",
+        "state_name": "Arizona",
+        "url": "https://ansari.house.gov"
+      }
+    ],
+    "AZ:4": [
+      {
+        "address": "207 Cannon House Office Building Washington DC 20515-0304",
+        "bioguide_id": "S001211",
+        "chamber": "house",
+        "district": "Arizona District 4",
+        "district_number": 4,
+        "name": "Greg Stanton",
+        "office": "207 Cannon House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-9888",
+        "social": {
+          "facebook": "repgregstanton",
+          "instagram": "repgregstanton",
+          "twitter": "RepGregStanton",
+          "twitter_id": "1080885078425784320"
+        },
+        "state": "AZ",
+        "state_name": "Arizona",
+        "url": "https://stanton.house.gov"
+      }
+    ],
+    "AZ:5": [
+      {
+        "address": "464 Cannon House Office Building Washington DC 20515-0305",
+        "bioguide_id": "B001302",
+        "chamber": "house",
+        "district": "Arizona District 5",
+        "district_number": 5,
+        "name": "Andy Biggs",
+        "office": "464 Cannon House Office Building",
+        "party": "Republican",
+        "phone": "202-225-2635",
+        "social": {
+          "facebook": "RepAndyBiggs",
+          "instagram": "repandybiggs",
+          "twitter": "RepAndyBiggsAZ",
+          "twitter_id": "816652616625168388",
+          "youtube_id": "UCqSq9kWOxk9yNTeILBCVC1w"
+        },
+        "state": "AZ",
+        "state_name": "Arizona",
+        "url": "https://biggs.house.gov"
+      }
+    ],
+    "AZ:6": [
+      {
+        "address": "461 Cannon House Office Building Washington DC 20515-0306",
+        "bioguide_id": "C001133",
+        "chamber": "house",
+        "district": "Arizona District 6",
+        "district_number": 6,
+        "name": "Juan Ciscomani",
+        "office": "461 Cannon House Office Building",
+        "party": "Republican",
+        "phone": "202-225-2542",
+        "social": {
+          "facebook": "100089186535085",
+          "instagram": "repjuanciscomani",
+          "twitter": "RepCiscomani",
+          "twitter_id": "1603530970593775616",
+          "youtube": "UCD329AYGX7YnMMSUaTKWHwA"
+        },
+        "state": "AZ",
+        "state_name": "Arizona",
+        "url": "https://ciscomani.house.gov"
+      }
+    ],
+    "AZ:7": [
+      {
+        "address": "1203 Longworth House Office Building Washington DC 20515-0307",
+        "bioguide_id": "G000606",
+        "chamber": "house",
+        "district": "Arizona District 7",
+        "district_number": 7,
+        "name": "Adelita S. Grijalva",
+        "office": "1203 Longworth House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-2435",
+        "social": {},
+        "state": "AZ",
+        "state_name": "Arizona",
+        "url": "https://grijalva.house.gov"
+      }
+    ],
+    "AZ:8": [
+      {
+        "address": "1722 Longworth House Office Building Washington DC 20515-0308",
+        "bioguide_id": "H001098",
+        "chamber": "house",
+        "district": "Arizona District 8",
+        "district_number": 8,
+        "name": "Abraham J. Hamadeh",
+        "office": "1722 Longworth House Office Building",
+        "party": "Republican",
+        "phone": "202-225-4576",
+        "social": {},
+        "state": "AZ",
+        "state_name": "Arizona",
+        "url": "https://hamadeh.house.gov"
+      }
+    ],
+    "AZ:9": [
+      {
+        "address": "2057 Rayburn House Office Building Washington DC 20515-0309",
+        "bioguide_id": "G000565",
+        "chamber": "house",
+        "district": "Arizona District 9",
+        "district_number": 9,
+        "name": "Paul A. Gosar",
+        "office": "2057 Rayburn House Office Building",
+        "party": "Republican",
+        "phone": "202-225-2315",
+        "social": {
+          "facebook": "repgosar",
+          "instagram": "REPGOSAR",
+          "twitter": "RepGosar",
+          "twitter_id": "240760644",
+          "youtube": "repgosar",
+          "youtube_id": "UC5orqw_9acsKWSRbrqTDXBw"
+        },
+        "state": "AZ",
+        "state_name": "Arizona",
+        "url": "https://gosar.house.gov"
+      }
+    ],
+    "CA:10": [
+      {
+        "address": "2134 Rayburn House Office Building Washington DC 20515-0510",
+        "bioguide_id": "D000623",
+        "chamber": "house",
+        "district": "California District 10",
+        "district_number": 10,
+        "name": "Mark DeSaulnier",
+        "office": "2134 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-2095",
+        "social": {
+          "facebook": "RepMarkDeSaulnier",
+          "instagram": "repdesaulnier",
+          "twitter": "RepDeSaulnier",
+          "twitter_id": "2968007206"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://desaulnier.house.gov"
+      }
+    ],
+    "CA:11": [
+      {
+        "address": "1236 Longworth House Office Building Washington DC 20515-0511",
+        "bioguide_id": "P000197",
+        "chamber": "house",
+        "district": "California District 11",
+        "district_number": 11,
+        "name": "Nancy Pelosi",
+        "office": "1236 Longworth House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-4965",
+        "social": {
+          "facebook": "NancyPelosi",
+          "twitter": "SpeakerPelosi",
+          "twitter_id": "15764644",
+          "youtube": "nancypelosi",
+          "youtube_id": "UCxPeEcH0xaCK9nBK98EFhDg"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://pelosi.house.gov"
+      }
+    ],
+    "CA:12": [
+      {
+        "address": "1023 Longworth House Office Building Washington DC 20515-0512",
+        "bioguide_id": "S001231",
+        "chamber": "house",
+        "district": "California District 12",
+        "district_number": 12,
+        "name": "Lateefah Simon",
+        "office": "1023 Longworth House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-2661",
+        "social": {
+          "facebook": "RepLSimon",
+          "instagram": "RepLSimon",
+          "twitter": "RepLSimon"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://simon.house.gov"
+      }
+    ],
+    "CA:13": [
+      {
+        "address": "1230 Longworth House Office Building Washington DC 20515-0513",
+        "bioguide_id": "G000605",
+        "chamber": "house",
+        "district": "California District 13",
+        "district_number": 13,
+        "name": "Adam Gray",
+        "office": "1230 Longworth House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-1947",
+        "social": {
+          "facebook": "repadamgrayca",
+          "instagram": "repadamgrayca",
+          "twitter": "RepAdamGrayCA"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://gray.house.gov"
+      }
+    ],
+    "CA:15": [
+      {
+        "address": "1404 Longworth House Office Building Washington DC 20515-0515",
+        "bioguide_id": "M001225",
+        "chamber": "house",
+        "district": "California District 15",
+        "district_number": 15,
+        "name": "Kevin Mullin",
+        "office": "1404 Longworth House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-3531",
+        "social": {
+          "facebook": "CongressmanKevinMullin",
+          "instagram": "repkevinmullin",
+          "twitter": "RepKevinMullin",
+          "twitter_id": "1610411994888409088",
+          "youtube": "UCAenuXjUZagZyD4HQL7_2ZA"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://kevinmullin.house.gov"
+      }
+    ],
+    "CA:16": [
+      {
+        "address": "1117 Longworth House Office Building Washington DC 20515-0516",
+        "bioguide_id": "L000607",
+        "chamber": "house",
+        "district": "California District 16",
+        "district_number": 16,
+        "name": "Sam T. Liccardo",
+        "office": "1117 Longworth House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-8104",
+        "social": {
+          "instagram": "repliccardo",
+          "twitter": "repliccardo"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://liccardo.house.gov"
+      }
+    ],
+    "CA:17": [
+      {
+        "address": "306 Cannon House Office Building Washington DC 20515-0517",
+        "bioguide_id": "K000389",
+        "chamber": "house",
+        "district": "California District 17",
+        "district_number": 17,
+        "name": "Ro Khanna",
+        "office": "306 Cannon House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-2631",
+        "social": {
+          "facebook": "RepRoKhanna",
+          "instagram": "reprokhanna",
+          "twitter": "RepRoKhanna",
+          "twitter_id": "816298918468259841",
+          "youtube_id": "UCr4KOYv1o1oEQhy1jhhm3pQ"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://khanna.house.gov"
+      }
+    ],
+    "CA:18": [
+      {
+        "address": "1401 Longworth House Office Building Washington DC 20515-0518",
+        "bioguide_id": "L000397",
+        "chamber": "house",
+        "district": "California District 18",
+        "district_number": 18,
+        "name": "Zoe Lofgren",
+        "office": "1401 Longworth House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-3072",
+        "social": {
+          "facebook": "zoelofgren",
+          "twitter": "RepZoeLofgren",
+          "twitter_id": "267938462",
+          "youtube": "RepZoeLofgren",
+          "youtube_id": "UCOaQ79adORFcaTuJZoIFuZQ"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://lofgren.house.gov"
+      }
+    ],
+    "CA:19": [
+      {
+        "address": "200 Cannon House Office Building Washington DC 20515-0519",
+        "bioguide_id": "P000613",
+        "chamber": "house",
+        "district": "California District 19",
+        "district_number": 19,
+        "name": "Jimmy Panetta",
+        "office": "200 Cannon House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-2861",
+        "social": {
+          "facebook": "RepJimmyPanetta",
+          "instagram": "repjimmypanetta",
+          "twitter": "RepJimmyPanetta",
+          "twitter_id": "796736612554117120",
+          "youtube_id": "UCmw-aERG51C96edMDPN7fXQ"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://panetta.house.gov"
+      }
+    ],
+    "CA:2": [
+      {
+        "address": "2330 Rayburn House Office Building Washington DC 20515-0502",
+        "bioguide_id": "H001068",
+        "chamber": "house",
+        "district": "California District 2",
+        "district_number": 2,
+        "name": "Jared Huffman",
+        "office": "2330 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-5161",
+        "social": {
+          "facebook": "RepHuffman",
+          "instagram": "rephuffman",
+          "twitter": "RepHuffman",
+          "twitter_id": "1071102246",
+          "youtube": "rephuffman",
+          "youtube_id": "UCJU6SP1ppp1ZhSiqZLiFgDA"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://huffman.house.gov"
+      }
+    ],
+    "CA:20": [
+      {
+        "address": "243 Cannon House Office Building Washington DC 20515-0520",
+        "bioguide_id": "F000480",
+        "chamber": "house",
+        "district": "California District 20",
+        "district_number": 20,
+        "name": "Vince Fong",
+        "office": "243 Cannon House Office Building",
+        "party": "Republican",
+        "phone": "202-225-2915",
+        "social": {
+          "instagram": "repvincefong",
+          "twitter": "RepVinceFong"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://fong.house.gov"
+      }
+    ],
+    "CA:21": [
+      {
+        "address": "2081 Rayburn House Office Building Washington DC 20515-0521",
+        "bioguide_id": "C001059",
+        "chamber": "house",
+        "district": "California District 21",
+        "district_number": 21,
+        "name": "Jim Costa",
+        "office": "2081 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-3341",
+        "social": {
+          "facebook": "RepJimCosta",
+          "twitter": "RepJimCosta",
+          "twitter_id": "245451804",
+          "youtube": "RepJimCostaCA20",
+          "youtube_id": "UCVgXX23eJEai6GiBOKO6dvA"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://costa.house.gov"
+      }
+    ],
+    "CA:22": [
+      {
+        "address": "2465 Rayburn House Office Building Washington DC 20515-0522",
+        "bioguide_id": "V000129",
+        "chamber": "house",
+        "district": "California District 22",
+        "district_number": 22,
+        "name": "David G. Valadao",
+        "office": "2465 Rayburn House Office Building",
+        "party": "Republican",
+        "phone": "202-225-4695",
+        "social": {
+          "facebook": "CongressmanDavidValadao",
+          "twitter": "RepDavidValadao",
+          "twitter_id": "1128514404"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://valadao.house.gov"
+      }
+    ],
+    "CA:23": [
+      {
+        "address": "2433 Rayburn House Office Building Washington DC 20515-0523",
+        "bioguide_id": "O000019",
+        "chamber": "house",
+        "district": "California District 23",
+        "district_number": 23,
+        "name": "Jay Obernolte",
+        "office": "2433 Rayburn House Office Building",
+        "party": "Republican",
+        "phone": "202-225-5861",
+        "social": {
+          "twitter": "JayObernolte",
+          "twitter_id": "272482466"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://obernolte.house.gov"
+      }
+    ],
+    "CA:24": [
+      {
+        "address": "2331 Rayburn House Office Building Washington DC 20515-0524",
+        "bioguide_id": "C001112",
+        "chamber": "house",
+        "district": "California District 24",
+        "district_number": 24,
+        "name": "Salud O. Carbajal",
+        "office": "2331 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-3601",
+        "social": {
+          "facebook": "repsaludcarbajal",
+          "instagram": "repcarbajal",
+          "twitter": "RepCarbajal",
+          "twitter_id": "816157667882373120",
+          "youtube": "repcarbajal"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://carbajal.house.gov"
+      }
+    ],
+    "CA:25": [
+      {
+        "address": "2342 Rayburn House Office Building Washington DC 20515-0525",
+        "bioguide_id": "R000599",
+        "chamber": "house",
+        "district": "California District 25",
+        "district_number": 25,
+        "name": "Raul Ruiz",
+        "office": "2342 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-5330",
+        "social": {
+          "facebook": "CongressmanRaulRuizMD",
+          "twitter": "RepRaulRuizMD",
+          "twitter_id": "1089859058",
+          "youtube": "repraulruiz",
+          "youtube_id": "UCSDk-cyNPCo1iy6rweSPmBw"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://ruiz.house.gov"
+      }
+    ],
+    "CA:26": [
+      {
+        "address": "2262 Rayburn House Office Building Washington DC 20515-0526",
+        "bioguide_id": "B001285",
+        "chamber": "house",
+        "district": "California District 26",
+        "district_number": 26,
+        "name": "Julia Brownley",
+        "office": "2262 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-5811",
+        "social": {
+          "facebook": "RepJuliaBrownley",
+          "instagram": "RepBrownley",
+          "twitter": "RepBrownley",
+          "twitter_id": "1243902714",
+          "youtube": "RepJuliaBrownley",
+          "youtube_id": "UCFrC4Ouk5R6xQztS9PZin_A"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://juliabrownley.house.gov"
+      }
+    ],
+    "CA:27": [
+      {
+        "address": "1504 Longworth House Office Building Washington DC 20515-0527",
+        "bioguide_id": "W000830",
+        "chamber": "house",
+        "district": "California District 27",
+        "district_number": 27,
+        "name": "George Whitesides",
+        "office": "1504 Longworth House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-1956",
+        "social": {
+          "facebook": "repwhitesides",
+          "instagram": "repwhitesides",
+          "twitter": "Rep_Whitesides"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://whitesides.house.gov"
+      }
+    ],
+    "CA:28": [
+      {
+        "address": "2423 Rayburn House Office Building Washington DC 20515-0528",
+        "bioguide_id": "C001080",
+        "chamber": "house",
+        "district": "California District 28",
+        "district_number": 28,
+        "name": "Judy Chu",
+        "office": "2423 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-5464",
+        "social": {
+          "facebook": "RepJudyChu",
+          "instagram": "repjudychu",
+          "twitter": "RepJudyChu",
+          "twitter_id": "193732179",
+          "youtube": "RepJudyChu",
+          "youtube_id": "UCfcbYOvdEXZNelM8T05nK-w"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://chu.house.gov"
+      }
+    ],
+    "CA:29": [
+      {
+        "address": "1319 Longworth House Office Building Washington DC 20515-0529",
+        "bioguide_id": "R000620",
+        "chamber": "house",
+        "district": "California District 29",
+        "district_number": 29,
+        "name": "Luz M. Rivas",
+        "office": "1319 Longworth House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-6131",
+        "social": {
+          "facebook": "congresswomanluzrivas",
+          "instagram": "RepLuzRivas",
+          "twitter": "RepLuzRivas"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://rivas.house.gov"
+      }
+    ],
+    "CA:3": [
+      {
+        "address": "2445 Rayburn House Office Building Washington DC 20515-0503",
+        "bioguide_id": "K000401",
+        "chamber": "house",
+        "district": "California District 3",
+        "district_number": 3,
+        "name": "Kevin Kiley",
+        "office": "2445 Rayburn House Office Building",
+        "party": "Independent",
+        "phone": "202-225-2523",
+        "social": {
+          "facebook": "100089382125341",
+          "twitter": "RepKiley",
+          "twitter_id": "1610356961475809280",
+          "youtube": "@repkevinkiley"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://kiley.house.gov"
+      }
+    ],
+    "CA:30": [
+      {
+        "address": "1517 Longworth House Office Building Washington DC 20515-0530",
+        "bioguide_id": "F000483",
+        "chamber": "house",
+        "district": "California District 30",
+        "district_number": 30,
+        "name": "Laura Friedman",
+        "office": "1517 Longworth House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-4176",
+        "social": {
+          "facebook": "RepLauraFriedman",
+          "instagram": "RepLauraFriedman",
+          "twitter": "RepFriedmanCA"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://friedman.house.gov"
+      }
+    ],
+    "CA:31": [
+      {
+        "address": "2463 Rayburn House Office Building Washington DC 20515-0531",
+        "bioguide_id": "C001123",
+        "chamber": "house",
+        "district": "California District 31",
+        "district_number": 31,
+        "name": "Gilbert Ray Cisneros, Jr.",
+        "office": "2463 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-5256",
+        "social": {
+          "facebook": "RepGilCisneros",
+          "instagram": "repgilcisneros"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://cisneros.house.gov"
+      }
+    ],
+    "CA:32": [
+      {
+        "address": "2365 Rayburn House Office Building Washington DC 20515-0532",
+        "bioguide_id": "S000344",
+        "chamber": "house",
+        "district": "California District 32",
+        "district_number": 32,
+        "name": "Brad Sherman",
+        "office": "2365 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-5911",
+        "social": {
+          "facebook": "63158229861",
+          "instagram": "congressmansherman",
+          "twitter": "BradSherman",
+          "twitter_id": "30216513",
+          "youtube": "shermanca27",
+          "youtube_id": "UCPisrz6-SLwVy2l9Mcy8kug"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://sherman.house.gov"
+      }
+    ],
+    "CA:33": [
+      {
+        "address": "108 Cannon House Office Building Washington DC 20515-0533",
+        "bioguide_id": "A000371",
+        "chamber": "house",
+        "district": "California District 33",
+        "district_number": 33,
+        "name": "Pete Aguilar",
+        "office": "108 Cannon House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-3201",
+        "social": {
+          "facebook": "reppeteaguilar",
+          "twitter": "RepPeteAguilar",
+          "twitter_id": "3018670151",
+          "youtube_id": "UCxwbFLOlKDsXrwizV5jah7g"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://aguilar.house.gov"
+      }
+    ],
+    "CA:34": [
+      {
+        "address": "506 Cannon House Office Building Washington DC 20515-0534",
+        "bioguide_id": "G000585",
+        "chamber": "house",
+        "district": "California District 34",
+        "district_number": 34,
+        "name": "Jimmy Gomez",
+        "office": "506 Cannon House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-6235",
+        "social": {
+          "facebook": "RepJimmyGomez",
+          "instagram": "repjimmygomez",
+          "twitter": "RepJimmyGomez",
+          "twitter_id": "2371339658",
+          "youtube": "UCOmm091WM6D01xTdzsWNvbQ"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://gomez.house.gov"
+      }
+    ],
+    "CA:35": [
+      {
+        "address": "2227 Rayburn House Office Building Washington DC 20515-0535",
+        "bioguide_id": "T000474",
+        "chamber": "house",
+        "district": "California District 35",
+        "district_number": 35,
+        "name": "Norma J. Torres",
+        "office": "2227 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-6161",
+        "social": {
+          "facebook": "RepNormaTorres",
+          "instagram": "repnormatorres",
+          "mastodon": "@repnormatorres@mstdn.social",
+          "twitter": "NormaJTorres",
+          "twitter_id": "236279233",
+          "youtube_id": "UCvWY4qKP6--o3pIJY7hhKDg"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://torres.house.gov"
+      }
+    ],
+    "CA:36": [
+      {
+        "address": "2454 Rayburn House Office Building Washington DC 20515-0536",
+        "bioguide_id": "L000582",
+        "chamber": "house",
+        "district": "California District 36",
+        "district_number": 36,
+        "name": "Ted Lieu",
+        "office": "2454 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-3976",
+        "social": {
+          "facebook": "RepTedLieu",
+          "instagram": "RepTedLieu",
+          "twitter": "RepTedLieu",
+          "twitter_id": "3044993235",
+          "youtube_id": "UC9qcJxTqfDNBnVul1IojlFg"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://lieu.house.gov"
+      }
+    ],
+    "CA:37": [
+      {
+        "address": "144 Cannon House Office Building Washington DC 20515-0537",
+        "bioguide_id": "K000400",
+        "chamber": "house",
+        "district": "California District 37",
+        "district_number": 37,
+        "name": "Sydney Kamlager-Dove",
+        "office": "144 Cannon House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-7084",
+        "social": {
+          "facebook": "RepKamlagerDove",
+          "instagram": "rep_kamlagerdove",
+          "twitter": "RepKamlagerDove"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://kamlager-dove.house.gov"
+      }
+    ],
+    "CA:38": [
+      {
+        "address": "2309 Rayburn House Office Building Washington DC 20515-0538",
+        "bioguide_id": "S001156",
+        "chamber": "house",
+        "district": "California District 38",
+        "district_number": 38,
+        "name": "Linda T. Sánchez",
+        "office": "2309 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-6676",
+        "social": {
+          "facebook": "CongresswomanLindaSanchez",
+          "instagram": "replindasanchez",
+          "twitter": "RepLindaSanchez",
+          "twitter_id": "312134473",
+          "youtube": "LindaTSanchez",
+          "youtube_id": "UCu1K6uHxjMgj2mvzM7O9-ow"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://lindasanchez.house.gov"
+      }
+    ],
+    "CA:39": [
+      {
+        "address": "2078 Rayburn House Office Building Washington DC 20515-0539",
+        "bioguide_id": "T000472",
+        "chamber": "house",
+        "district": "California District 39",
+        "district_number": 39,
+        "name": "Mark Takano",
+        "office": "2078 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-2305",
+        "social": {
+          "facebook": "RepMarkTakano",
+          "instagram": "repmarktakano",
+          "twitter": "RepMarkTakano",
+          "twitter_id": "1037321378",
+          "youtube": "RepMarkTakano",
+          "youtube_id": "UCJg4F1irmSFeKoXZBaZbX2w"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://takano.house.gov"
+      }
+    ],
+    "CA:4": [
+      {
+        "address": "268 Cannon House Office Building Washington DC 20515-0504",
+        "bioguide_id": "T000460",
+        "chamber": "house",
+        "district": "California District 4",
+        "district_number": 4,
+        "name": "Mike Thompson",
+        "office": "268 Cannon House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-3311",
+        "social": {
+          "facebook": "RepMikeThompson",
+          "mastodon": "@repthompson@mastodon.social",
+          "twitter": "RepThompson",
+          "twitter_id": "303861808",
+          "youtube": "CongressmanMThompson",
+          "youtube_id": "UC6pGbtqHZYZmScFGSz5bbdg"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://mikethompson.house.gov"
+      }
+    ],
+    "CA:40": [
+      {
+        "address": "2439 Rayburn House Office Building Washington DC 20515-0540",
+        "bioguide_id": "K000397",
+        "chamber": "house",
+        "district": "California District 40",
+        "district_number": 40,
+        "name": "Young Kim",
+        "office": "2439 Rayburn House Office Building",
+        "party": "Republican",
+        "phone": "202-225-4111",
+        "social": {
+          "facebook": "RepYoungKim",
+          "instagram": "repyoungkim",
+          "twitter": "RepYoungKim",
+          "twitter_id": "1344677401465397249",
+          "youtube": "@RepYoungKim"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://youngkim.house.gov"
+      }
+    ],
+    "CA:41": [
+      {
+        "address": "2205 Rayburn House Office Building Washington DC 20515-0541",
+        "bioguide_id": "C000059",
+        "chamber": "house",
+        "district": "California District 41",
+        "district_number": 41,
+        "name": "Ken Calvert",
+        "office": "2205 Rayburn House Office Building",
+        "party": "Republican",
+        "phone": "202-225-1986",
+        "social": {
+          "facebook": "70063393423",
+          "instagram": "repkencalvert",
+          "twitter": "KenCalvert",
+          "twitter_id": "22545491",
+          "youtube": "RepKenCalvert",
+          "youtube_id": "UC5MEj7YOX_QdKoqD_HRxP3A"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://calvert.house.gov"
+      }
+    ],
+    "CA:42": [
+      {
+        "address": "109 Cannon House Office Building Washington DC 20515-0542",
+        "bioguide_id": "G000598",
+        "chamber": "house",
+        "district": "California District 42",
+        "district_number": 42,
+        "name": "Robert Garcia",
+        "office": "109 Cannon House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-7924",
+        "social": {
+          "facebook": "reprobertgarcia",
+          "instagram": "RepRobertGarcia",
+          "twitter": "RepRobertGarcia",
+          "twitter_id": "1602792195878047744"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://robertgarcia.house.gov"
+      }
+    ],
+    "CA:43": [
+      {
+        "address": "2221 Rayburn House Office Building Washington DC 20515-0543",
+        "bioguide_id": "W000187",
+        "chamber": "house",
+        "district": "California District 43",
+        "district_number": 43,
+        "name": "Maxine Waters",
+        "office": "2221 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-2201",
+        "social": {
+          "facebook": "MaxineWaters",
+          "instagram": "repmaxinewaters",
+          "twitter": "RepMaxineWaters",
+          "twitter_id": "36686040",
+          "youtube": "MaxineWaters",
+          "youtube_id": "UCOQ2js1VYFlo74n7Ns8WsLQ"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://waters.house.gov"
+      }
+    ],
+    "CA:44": [
+      {
+        "address": "2312 Rayburn House Office Building Washington DC 20515-0544",
+        "bioguide_id": "B001300",
+        "chamber": "house",
+        "district": "California District 44",
+        "district_number": 44,
+        "name": "Nanette Diaz Barragán",
+        "office": "2312 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-8220",
+        "social": {
+          "facebook": "CongresswomanBarragan",
+          "instagram": "repbarragan",
+          "twitter": "RepBarragan",
+          "twitter_id": "816833925456789505"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://barragan.house.gov"
+      }
+    ],
+    "CA:45": [
+      {
+        "address": "1127 Longworth House Office Building Washington DC 20515-0545",
+        "bioguide_id": "T000491",
+        "chamber": "house",
+        "district": "California District 45",
+        "district_number": 45,
+        "name": "Derek Tran",
+        "office": "1127 Longworth House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-2415",
+        "social": {},
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://tran.house.gov"
+      }
+    ],
+    "CA:46": [
+      {
+        "address": "2082 Rayburn House Office Building Washington DC 20515-0546",
+        "bioguide_id": "C001110",
+        "chamber": "house",
+        "district": "California District 46",
+        "district_number": 46,
+        "name": "J. Luis Correa",
+        "office": "2082 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-2965",
+        "social": {
+          "facebook": "RepLouCorrea",
+          "instagram": "reploucorrea",
+          "twitter": "RepLouCorrea",
+          "twitter_id": "815985039485837312",
+          "youtube_id": "UCIKJJp4QJIDjnjodc23qKkw"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://correa.house.gov"
+      }
+    ],
+    "CA:47": [
+      {
+        "address": "1034 Longworth House Office Building Washington DC 20515-0547",
+        "bioguide_id": "M001241",
+        "chamber": "house",
+        "district": "California District 47",
+        "district_number": 47,
+        "name": "Dave Min",
+        "office": "1034 Longworth House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-5611",
+        "social": {},
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://min.house.gov"
+      }
+    ],
+    "CA:48": [
+      {
+        "address": "2108 Rayburn House Office Building Washington DC 20515-0548",
+        "bioguide_id": "I000056",
+        "chamber": "house",
+        "district": "California District 48",
+        "district_number": 48,
+        "name": "Darrell Issa",
+        "office": "2108 Rayburn House Office Building",
+        "party": "Republican",
+        "phone": "202-225-5672",
+        "social": {
+          "facebook": "congressmandarrellissa",
+          "twitter": "repdarrellissa",
+          "twitter_id": "63650107"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://issa.house.gov"
+      }
+    ],
+    "CA:49": [
+      {
+        "address": "2352 Rayburn House Office Building Washington DC 20515-0549",
+        "bioguide_id": "L000593",
+        "chamber": "house",
+        "district": "California District 49",
+        "district_number": 49,
+        "name": "Mike Levin",
+        "office": "2352 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-3906",
+        "social": {
+          "facebook": "RepMikeLevin",
+          "instagram": "RepMikeLevin",
+          "twitter": "RepMikeLevin",
+          "twitter_id": "1072134139560620033",
+          "youtube": "UCYFDRohyZgoPy5rXQdKlqVA"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://levin.house.gov"
+      }
+    ],
+    "CA:5": [
+      {
+        "address": "2256 Rayburn House Office Building Washington DC 20515-0505",
+        "bioguide_id": "M001177",
+        "chamber": "house",
+        "district": "California District 5",
+        "district_number": 5,
+        "name": "Tom McClintock",
+        "office": "2256 Rayburn House Office Building",
+        "party": "Republican",
+        "phone": "202-225-2511",
+        "social": {
+          "facebook": "81125319109",
+          "instagram": "repmcclintock",
+          "twitter": "RepMcClintock",
+          "twitter_id": "50152441",
+          "youtube": "McClintockCA04",
+          "youtube_id": "UCMh04KC4LfIzKoXh2Xws_pw"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://mcclintock.house.gov"
+      }
+    ],
+    "CA:50": [
+      {
+        "address": "2369 Rayburn House Office Building Washington DC 20515-0550",
+        "bioguide_id": "P000608",
+        "chamber": "house",
+        "district": "California District 50",
+        "district_number": 50,
+        "name": "Scott H. Peters",
+        "office": "2369 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-0508",
+        "social": {
+          "facebook": "RepScottPeters",
+          "instagram": "repscottpeters",
+          "twitter": "RepScottPeters",
+          "twitter_id": "1135486501",
+          "youtube_id": "UCQK77QJxW7Xr-S3zqeMd-0g"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://scottpeters.house.gov"
+      }
+    ],
+    "CA:51": [
+      {
+        "address": "2348 Rayburn House Office Building Washington DC 20515-0551",
+        "bioguide_id": "J000305",
+        "chamber": "house",
+        "district": "California District 51",
+        "district_number": 51,
+        "name": "Sara Jacobs",
+        "office": "2348 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-2040",
+        "social": {
+          "facebook": "RepSaraJacobs",
+          "instagram": "repsarajacobs",
+          "twitter": "RepSaraJacobs",
+          "twitter_id": "1345103905869455361"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://sarajacobs.house.gov"
+      }
+    ],
+    "CA:52": [
+      {
+        "address": "2467 Rayburn House Office Building Washington DC 20515-0552",
+        "bioguide_id": "V000130",
+        "chamber": "house",
+        "district": "California District 52",
+        "district_number": 52,
+        "name": "Juan Vargas",
+        "office": "2467 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-8045",
+        "social": {
+          "facebook": "RepJuanVargas",
+          "instagram": "repjuanvargas",
+          "twitter": "RepJuanVargas",
+          "twitter_id": "1260172386",
+          "youtube": "RepJuanVargas",
+          "youtube_id": "UCpMthf8y7bEMJH_td0dznRQ"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://vargas.house.gov"
+      }
+    ],
+    "CA:6": [
+      {
+        "address": "172 Cannon House Office Building Washington DC 20515-0506",
+        "bioguide_id": "B001287",
+        "chamber": "house",
+        "district": "California District 6",
+        "district_number": 6,
+        "name": "Ami Bera",
+        "office": "172 Cannon House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-5716",
+        "social": {
+          "facebook": "RepAmiBera",
+          "instagram": "repbera",
+          "twitter": "RepBera",
+          "twitter_id": "950783972",
+          "youtube": "repamibera",
+          "youtube_id": "UClJCTCo53Zk6b4kUL-bbdzg"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://bera.house.gov"
+      }
+    ],
+    "CA:7": [
+      {
+        "address": "2206 Rayburn House Office Building Washington DC 20515-0507",
+        "bioguide_id": "M001163",
+        "chamber": "house",
+        "district": "California District 7",
+        "district_number": 7,
+        "name": "Doris O. Matsui",
+        "office": "2206 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-7163",
+        "social": {
+          "facebook": "doris.matsui",
+          "instagram": "repdorismatsui",
+          "twitter": "DorisMatsui",
+          "twitter_id": "38254095",
+          "youtube": "RepDorisMatsui",
+          "youtube_id": "UCSqqxVkvskHq3cY2MCbTZsw"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://matsui.house.gov"
+      }
+    ],
+    "CA:8": [
+      {
+        "address": "2428 Rayburn House Office Building Washington DC 20515-0508",
+        "bioguide_id": "G000559",
+        "chamber": "house",
+        "district": "California District 8",
+        "district_number": 8,
+        "name": "John Garamendi",
+        "office": "2428 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-1880",
+        "social": {
+          "facebook": "repgaramendi",
+          "instagram": "repgaramendi",
+          "twitter": "RepGaramendi",
+          "twitter_id": "88806753",
+          "youtube": "garamendiCA10",
+          "youtube_id": "UCRym1qsO72C39gX6pBu4icg"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://garamendi.house.gov"
+      }
+    ],
+    "CA:9": [
+      {
+        "address": "209 Cannon House Office Building Washington DC 20515-0509",
+        "bioguide_id": "H001090",
+        "chamber": "house",
+        "district": "California District 9",
+        "district_number": 9,
+        "name": "Josh Harder",
+        "office": "209 Cannon House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-4540",
+        "social": {
+          "twitter": "RepJoshHarder",
+          "twitter_id": "1080851152151953410"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://harder.house.gov"
+      }
+    ],
+    "CO:1": [
+      {
+        "address": "2111 Rayburn House Office Building Washington DC 20515-0601",
+        "bioguide_id": "D000197",
+        "chamber": "house",
+        "district": "Colorado District 1",
+        "district_number": 1,
+        "name": "Diana DeGette",
+        "office": "2111 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-4431",
+        "social": {
+          "facebook": "DianaDeGette",
+          "twitter": "RepDianaDeGette",
+          "twitter_id": "28599820",
+          "youtube": "RepDianaDeGette",
+          "youtube_id": "UCWFQCRTHwsHg9P1Hf-EQtew"
+        },
+        "state": "CO",
+        "state_name": "Colorado",
+        "url": "https://degette.house.gov"
+      }
+    ],
+    "CO:2": [
+      {
+        "address": "2400 Rayburn House Office Building Washington DC 20515-0602",
+        "bioguide_id": "N000191",
+        "chamber": "house",
+        "district": "Colorado District 2",
+        "district_number": 2,
+        "name": "Joe Neguse",
+        "office": "2400 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-2161",
+        "social": {
+          "facebook": "RepJoeNeguse",
+          "twitter": "RepJoeNeguse",
+          "twitter_id": "1078749802765139968"
+        },
+        "state": "CO",
+        "state_name": "Colorado",
+        "url": "https://neguse.house.gov"
+      }
+    ],
+    "CO:3": [
+      {
+        "address": "1641 Longworth House Office Building Washington DC 20515-0603",
+        "bioguide_id": "H001100",
+        "chamber": "house",
+        "district": "Colorado District 3",
+        "district_number": 3,
+        "name": "Jeff Hurd",
+        "office": "1641 Longworth House Office Building",
+        "party": "Republican",
+        "phone": "202-225-4676",
+        "social": {
+          "facebook": "61571570223582",
+          "instagram": "repjeffhurd",
+          "twitter": "RepJeffHurd",
+          "youtube": "@RepJeffHurd03"
+        },
+        "state": "CO",
+        "state_name": "Colorado",
+        "url": "https://hurd.house.gov"
+      }
+    ],
+    "CO:4": [
+      {
+        "address": "1713 Longworth House Office Building Washington DC 20515-0604",
+        "bioguide_id": "B000825",
+        "chamber": "house",
+        "district": "Colorado District 4",
+        "district_number": 4,
+        "name": "Lauren Boebert",
+        "office": "1713 Longworth House Office Building",
+        "party": "Republican",
+        "phone": "202-225-4761",
+        "social": {
+          "facebook": "RepBoebert",
+          "twitter": "RepBoebert",
+          "twitter_id": "1342989756611907584"
+        },
+        "state": "CO",
+        "state_name": "Colorado",
+        "url": "https://boebert.house.gov"
+      }
+    ],
+    "CO:5": [
+      {
+        "address": "1029 Longworth House Office Building Washington DC 20515-0605",
+        "bioguide_id": "C001137",
+        "chamber": "house",
+        "district": "Colorado District 5",
+        "district_number": 5,
+        "name": "Jeff Crank",
+        "office": "1029 Longworth House Office Building",
+        "party": "Republican",
+        "phone": "202-225-4422",
+        "social": {
+          "facebook": "RepJeffCrank",
+          "instagram": "repjeffcrank",
+          "twitter": "RepJeffCrank"
+        },
+        "state": "CO",
+        "state_name": "Colorado",
+        "url": "https://crank.house.gov"
+      }
+    ],
+    "CO:6": [
+      {
+        "address": "1323 Longworth House Office Building Washington DC 20515-0606",
+        "bioguide_id": "C001121",
+        "chamber": "house",
+        "district": "Colorado District 6",
+        "district_number": 6,
+        "name": "Jason Crow",
+        "office": "1323 Longworth House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-7882",
+        "social": {
+          "facebook": "RepJasonCrow",
+          "twitter": "RepJasonCrow",
+          "twitter_id": "1083125649609506816"
+        },
+        "state": "CO",
+        "state_name": "Colorado",
+        "url": "https://crow.house.gov"
+      }
+    ],
+    "CO:7": [
+      {
+        "address": "348 Cannon House Office Building Washington DC 20515-0607",
+        "bioguide_id": "P000620",
+        "chamber": "house",
+        "district": "Colorado District 7",
+        "district_number": 7,
+        "name": "Brittany Pettersen",
+        "office": "348 Cannon House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-2645",
+        "social": {
+          "facebook": "repbrittanypettersen",
+          "instagram": "reppettersen",
+          "twitter": "reppettersen"
+        },
+        "state": "CO",
+        "state_name": "Colorado",
+        "url": "https://pettersen.house.gov"
+      }
+    ],
+    "CO:8": [
+      {
+        "address": "1229 Longworth House Office Building Washington DC 20515-0001",
+        "bioguide_id": "E000300",
+        "chamber": "house",
+        "district": "Colorado District 8",
+        "district_number": 8,
+        "name": "Gabe Evans",
+        "office": "1229 Longworth House Office Building",
+        "party": "Republican",
+        "phone": "202-225-5625",
+        "social": {
+          "facebook": "RepGabeEvans",
+          "instagram": "RepGabeEvans",
+          "twitter": "repgabeevans"
+        },
+        "state": "CO",
+        "state_name": "Colorado",
+        "url": "https://gabeevans.house.gov"
+      }
+    ],
+    "CT:1": [
+      {
+        "address": "1501 Longworth House Office Building Washington DC 20515-0701",
+        "bioguide_id": "L000557",
+        "chamber": "house",
+        "district": "Connecticut District 1",
+        "district_number": 1,
+        "name": "John B. Larson",
+        "office": "1501 Longworth House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-2265",
+        "social": {
+          "facebook": "RepJohnLarson",
+          "instagram": "RepJohnBLarson",
+          "twitter": "RepJohnLarson",
+          "twitter_id": "50452197",
+          "youtube": "RepJohnLarson",
+          "youtube_id": "UCGPsvFF-9WfpdRSCcCrPLiQ"
+        },
+        "state": "CT",
+        "state_name": "Connecticut",
+        "url": "https://larson.house.gov"
+      }
+    ],
+    "CT:2": [
+      {
+        "address": "2449 Rayburn House Office Building Washington DC 20515-0702",
+        "bioguide_id": "C001069",
+        "chamber": "house",
+        "district": "Connecticut District 2",
+        "district_number": 2,
+        "name": "Joe Courtney",
+        "office": "2449 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-2076",
+        "social": {
+          "facebook": "joecourtney",
+          "instagram": "repjoecourtney",
+          "twitter": "RepJoeCourtney",
+          "twitter_id": "85396297",
+          "youtube": "repcourtney",
+          "youtube_id": "UCGVIfe1T2hO1Lx7ap5Wkv1w"
+        },
+        "state": "CT",
+        "state_name": "Connecticut",
+        "url": "https://courtney.house.gov"
+      }
+    ],
+    "CT:3": [
+      {
+        "address": "2413 Rayburn House Office Building Washington DC 20515-0703",
+        "bioguide_id": "D000216",
+        "chamber": "house",
+        "district": "Connecticut District 3",
+        "district_number": 3,
+        "name": "Rosa L. DeLauro",
+        "office": "2413 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-3661",
+        "social": {
+          "facebook": "CongresswomanRosaDeLauro",
+          "twitter": "RosaDeLauro",
+          "twitter_id": "140519774",
+          "youtube": "rosadelauro",
+          "youtube_id": "UC9ROfGBm7kSLCEDYwFF6McQ"
+        },
+        "state": "CT",
+        "state_name": "Connecticut",
+        "url": "https://delauro.house.gov"
+      }
+    ],
+    "CT:4": [
+      {
+        "address": "2137 Rayburn House Office Building Washington DC 20515-0704",
+        "bioguide_id": "H001047",
+        "chamber": "house",
+        "district": "Connecticut District 4",
+        "district_number": 4,
+        "name": "James A. Himes",
+        "office": "2137 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-5541",
+        "social": {
+          "facebook": "CongressmanJimHimes",
+          "instagram": "repjimhimes",
+          "mastodon": "@RepJimHimes@mastodon.social",
+          "twitter": "jahimes",
+          "youtube": "congressmanhimes",
+          "youtube_id": "UCCeB6czh6nhCHxOMCk_V4yA"
+        },
+        "state": "CT",
+        "state_name": "Connecticut",
+        "url": "https://himes.house.gov"
+      }
+    ],
+    "CT:5": [
+      {
+        "address": "2049 Rayburn House Office Building Washington DC 20515-0705",
+        "bioguide_id": "H001081",
+        "chamber": "house",
+        "district": "Connecticut District 5",
+        "district_number": 5,
+        "name": "Jahana Hayes",
+        "office": "2049 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-4476",
+        "social": {
+          "facebook": "RepJahanaHayes",
+          "instagram": "repjahanahayes",
+          "twitter": "RepJahanaHayes",
+          "twitter_id": "1082086081238102018",
+          "youtube": "UCXngpVME5LZjcdXxZQxSDQA"
+        },
+        "state": "CT",
+        "state_name": "Connecticut",
+        "url": "https://hayes.house.gov"
+      }
+    ],
+    "DC:0": [
+      {
+        "address": "2136 Rayburn House Office Building Washington DC 20515-5101",
+        "bioguide_id": "N000147",
+        "chamber": "house",
+        "district": "District of Columbia At Large",
+        "district_number": 0,
+        "name": "Eleanor Holmes Norton",
+        "office": "2136 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-8050",
+        "social": {
+          "facebook": "CongresswomanNorton",
+          "instagram": "congresswomannorton",
+          "mastodon": "@CongresswomanNorton@Mastodon.social",
+          "twitter": "EleanorNorton",
+          "twitter_id": "23600262",
+          "youtube": "EleanorHNorton",
+          "youtube_id": "UChRrAXUGylfxJjbquC6aUjQ"
+        },
+        "state": "DC",
+        "state_name": "District of Columbia",
+        "url": "https://norton.house.gov"
+      }
+    ],
+    "DE:0": [
+      {
+        "address": "1306 Longworth House Office Building Washington DC 20515-0800",
+        "bioguide_id": "M001238",
+        "chamber": "house",
+        "district": "Delaware At Large",
+        "district_number": 0,
+        "name": "Sarah McBride",
+        "office": "1306 Longworth House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-4165",
+        "social": {
+          "facebook": "CongresswomanSarahMcBride",
+          "instagram": "congresswomansarahmcbride"
+        },
+        "state": "DE",
+        "state_name": "Delaware",
+        "url": "https://mcbride.house.gov"
+      }
+    ],
+    "FL:1": [
+      {
+        "address": "2021 Rayburn House Office Building Washington DC 20515-0901",
+        "bioguide_id": "P000622",
+        "chamber": "house",
+        "district": "Florida District 1",
+        "district_number": 1,
+        "name": "Jimmy Patronis",
+        "office": "2021 Rayburn House Office Building",
+        "party": "Republican",
+        "phone": "202-225-4136",
+        "social": {},
+        "state": "FL",
+        "state_name": "Florida",
+        "url": "https://patronis.house.gov"
+      }
+    ],
+    "FL:10": [
+      {
+        "address": "1224 Longworth House Office Building Washington DC 20515-0910",
+        "bioguide_id": "F000476",
+        "chamber": "house",
+        "district": "Florida District 10",
+        "district_number": 10,
+        "name": "Maxwell Frost",
+        "office": "1224 Longworth House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-2176",
+        "social": {
+          "facebook": "RepMaxwellFrost",
+          "instagram": "RepMaxwellFrost",
+          "twitter": "RepMaxwellFrost",
+          "twitter_id": "1608494113174822925"
+        },
+        "state": "FL",
+        "state_name": "Florida",
+        "url": "https://frost.house.gov"
+      }
+    ],
+    "FL:11": [
+      {
+        "address": "2184 Rayburn House Office Building Washington DC 20515-0911",
+        "bioguide_id": "W000806",
+        "chamber": "house",
+        "district": "Florida District 11",
+        "district_number": 11,
+        "name": "Daniel Webster",
+        "office": "2184 Rayburn House Office Building",
+        "party": "Republican",
+        "phone": "202-225-1002",
+        "social": {
+          "facebook": "RepWebster",
+          "twitter": "RepWebster",
+          "twitter_id": "281540744",
+          "youtube": "repdanwebster",
+          "youtube_id": "UCCoX4VdU7U11eGEA0lbRtLw"
+        },
+        "state": "FL",
+        "state_name": "Florida",
+        "url": "https://webster.house.gov"
+      }
+    ],
+    "FL:12": [
+      {
+        "address": "2306 Rayburn House Office Building Washington DC 20515-0912",
+        "bioguide_id": "B001257",
+        "chamber": "house",
+        "district": "Florida District 12",
+        "district_number": 12,
+        "name": "Gus M. Bilirakis",
+        "office": "2306 Rayburn House Office Building",
+        "party": "Republican",
+        "phone": "202-225-5755",
+        "social": {
+          "facebook": "GusBilirakis",
+          "instagram": "gusbilirakis",
+          "twitter": "RepGusBilirakis",
+          "twitter_id": "26051676",
+          "youtube": "RepGusBilirakis",
+          "youtube_id": "UC2z1uu1n4-60xXs5x1mvLJw"
+        },
+        "state": "FL",
+        "state_name": "Florida",
+        "url": "https://bilirakis.house.gov"
+      }
+    ],
+    "FL:13": [
+      {
+        "address": "226 Cannon House Office Building Washington DC 20515-0913",
+        "bioguide_id": "L000596",
+        "chamber": "house",
+        "district": "Florida District 13",
+        "district_number": 13,
+        "name": "Anna Paulina Luna",
+        "office": "226 Cannon House Office Building",
+        "party": "Republican",
+        "phone": "202-225-5961",
+        "social": {
+          "instagram": "repluna",
+          "twitter": "RepLuna",
+          "twitter_id": "1610230835289923584",
+          "youtube": "@RepLuna"
+        },
+        "state": "FL",
+        "state_name": "Florida",
+        "url": "https://luna.house.gov"
+      }
+    ],
+    "FL:14": [
+      {
+        "address": "2188 Rayburn House Office Building Washington DC 20515-0914",
+        "bioguide_id": "C001066",
+        "chamber": "house",
+        "district": "Florida District 14",
+        "district_number": 14,
+        "name": "Kathy Castor",
+        "office": "2188 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-3376",
+        "social": {
+          "facebook": "USRepKathyCastor",
+          "instagram": "usrepkathycastor",
+          "twitter": "USRepKCastor",
+          "twitter_id": "1880674038",
+          "youtube": "RepKathyCastor",
+          "youtube_id": "UC_irxhmLqVenTFPxDxznG6g"
+        },
+        "state": "FL",
+        "state_name": "Florida",
+        "url": "https://castor.house.gov"
+      }
+    ],
+    "FL:15": [
+      {
+        "address": "2464 Rayburn House Office Building Washington DC 20515-0915",
+        "bioguide_id": "L000597",
+        "chamber": "house",
+        "district": "Florida District 15",
+        "district_number": 15,
+        "name": "Laurel M. Lee",
+        "office": "2464 Rayburn House Office Building",
+        "party": "Republican",
+        "phone": "202-225-5626",
+        "social": {
+          "facebook": "RepLaurelLee",
+          "instagram": "replaurellee",
+          "twitter": "RepLaurelLee",
+          "twitter_id": "1608230657796227072"
+        },
+        "state": "FL",
+        "state_name": "Florida",
+        "url": "https://laurellee.house.gov"
+      }
+    ],
+    "FL:16": [
+      {
+        "address": "2409 Rayburn House Office Building Washington DC 20515-0916",
+        "bioguide_id": "B001260",
+        "chamber": "house",
+        "district": "Florida District 16",
+        "district_number": 16,
+        "name": "Vern Buchanan",
+        "office": "2409 Rayburn House Office Building",
+        "party": "Republican",
+        "phone": "202-225-5015",
+        "social": {
+          "facebook": "CongressmanBuchanan",
+          "instagram": "repvern",
+          "instagram_id": 344865327,
+          "twitter": "VernBuchanan",
+          "twitter_id": "20467163",
+          "youtube": "vernbuchanan",
+          "youtube_id": "UCY4DEy41NxOTdcF8_XAVZvw"
+        },
+        "state": "FL",
+        "state_name": "Florida",
+        "url": "https://buchanan.house.gov"
+      }
+    ],
+    "FL:17": [
+      {
+        "address": "2457 Rayburn House Office Building Washington DC 20515-0917",
+        "bioguide_id": "S001214",
+        "chamber": "house",
+        "district": "Florida District 17",
+        "district_number": 17,
+        "name": "W. Gregory Steube",
+        "office": "2457 Rayburn House Office Building",
+        "party": "Republican",
+        "phone": "202-225-5792",
+        "social": {
+          "facebook": "RepGregSteube",
+          "instagram": "repgregsteube",
+          "twitter": "RepGregSteube",
+          "twitter_id": "1083125649609506816",
+          "youtube": "@RepGregSteube"
+        },
+        "state": "FL",
+        "state_name": "Florida",
+        "url": "https://steube.house.gov"
+      }
+    ],
+    "FL:18": [
+      {
+        "address": "2301 Rayburn House Office Building Washington DC 20515-0918",
+        "bioguide_id": "F000472",
+        "chamber": "house",
+        "district": "Florida District 18",
+        "district_number": 18,
+        "name": "Scott Franklin",
+        "office": "2301 Rayburn House Office Building",
+        "party": "Republican",
+        "phone": "202-225-1252",
+        "social": {
+          "facebook": "RepFranklin",
+          "instagram": "RepFranklin",
+          "twitter": "RepFranklin",
+          "twitter_id": "1343968646050283522",
+          "youtube": "@RepFranklin"
+        },
+        "state": "FL",
+        "state_name": "Florida",
+        "url": "https://franklin.house.gov"
+      }
+    ],
+    "FL:19": [
+      {
+        "address": "1710 Longworth House Office Building Washington DC 20515-0919",
+        "bioguide_id": "D000032",
+        "chamber": "house",
+        "district": "Florida District 19",
+        "district_number": 19,
+        "name": "Byron Donalds",
+        "office": "1710 Longworth House Office Building",
+        "party": "Republican",
+        "phone": "202-225-2536",
+        "social": {
+          "instagram": "byrondonalds",
+          "twitter": "RepDonaldsPress",
+          "twitter_id": "1345739193721487362",
+          "youtube": "UCjy0W7sksMz37IYY27tAZNQ"
+        },
+        "state": "FL",
+        "state_name": "Florida",
+        "url": "https://donalds.house.gov"
+      }
+    ],
+    "FL:2": [
+      {
+        "address": "466 Cannon House Office Building Washington DC 20515-0902",
+        "bioguide_id": "D000628",
+        "chamber": "house",
+        "district": "Florida District 2",
+        "district_number": 2,
+        "name": "Neal P. Dunn",
+        "office": "466 Cannon House Office Building",
+        "party": "Republican",
+        "phone": "202-225-5235",
+        "social": {
+          "facebook": "drnealdunnfl2",
+          "twitter": "DrNealDunnFL2",
+          "twitter_id": "815952318487298048",
+          "youtube_id": "UCRTGfrYP-RuDzJ2KGok7TRA"
+        },
+        "state": "FL",
+        "state_name": "Florida",
+        "url": "https://dunn.house.gov"
+      }
+    ],
+    "FL:21": [
+      {
+        "address": "2182 Rayburn House Office Building Washington DC 20515-0921",
+        "bioguide_id": "M001199",
+        "chamber": "house",
+        "district": "Florida District 21",
+        "district_number": 21,
+        "name": "Brian J. Mast",
+        "office": "2182 Rayburn House Office Building",
+        "party": "Republican",
+        "phone": "202-225-3026",
+        "social": {
+          "facebook": "repbrianmast",
+          "instagram": "RepBrianMast",
+          "twitter": "RepBrianMast",
+          "twitter_id": "814103950404239360",
+          "youtube": "repbrianmast"
+        },
+        "state": "FL",
+        "state_name": "Florida",
+        "url": "https://mast.house.gov"
+      }
+    ],
+    "FL:22": [
+      {
+        "address": "2305 Rayburn House Office Building Washington DC 20515-0922",
+        "bioguide_id": "F000462",
+        "chamber": "house",
+        "district": "Florida District 22",
+        "district_number": 22,
+        "name": "Lois Frankel",
+        "office": "2305 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-9890",
+        "social": {
+          "facebook": "RepLoisFrankel",
+          "instagram": "reploisfrankel",
+          "twitter": "RepLoisFrankel",
+          "twitter_id": "1077121945",
+          "youtube": "reploisfrankel",
+          "youtube_id": "UCEk5viAhxaW_2OK20-yBwzQ"
+        },
+        "state": "FL",
+        "state_name": "Florida",
+        "url": "https://frankel.house.gov"
+      }
+    ],
+    "FL:23": [
+      {
+        "address": "242 Cannon House Office Building Washington DC 20515-0923",
+        "bioguide_id": "M001217",
+        "chamber": "house",
+        "district": "Florida District 23",
+        "district_number": 23,
+        "name": "Jared Moskowitz",
+        "office": "242 Cannon House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-3001",
+        "social": {
+          "facebook": "RepMoskowitz",
+          "instagram": "repmoskowitz",
+          "twitter": "RepMoskowitz",
+          "twitter_id": "1610009027743830018",
+          "youtube": "@RepMoskowitz"
+        },
+        "state": "FL",
+        "state_name": "Florida",
+        "url": "https://moskowitz.house.gov"
+      }
+    ],
+    "FL:24": [
+      {
+        "address": "2080 Rayburn House Office Building Washington DC 20515-0924",
+        "bioguide_id": "W000808",
+        "chamber": "house",
+        "district": "Florida District 24",
+        "district_number": 24,
+        "name": "Frederica S. Wilson",
+        "office": "2080 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-4506",
+        "social": {
+          "facebook": "RepWilson",
+          "instagram": "repwilson",
+          "twitter": "RepWilson",
+          "twitter_id": "234014087",
+          "youtube": "repfredericawilson",
+          "youtube_id": "UCPJGVbOVcAVGiBwq8qr_T9w"
+        },
+        "state": "FL",
+        "state_name": "Florida",
+        "url": "https://wilson.house.gov"
+      }
+    ],
+    "FL:25": [
+      {
+        "address": "270 Cannon House Office Building Washington DC 20515-0925",
+        "bioguide_id": "W000797",
+        "chamber": "house",
+        "district": "Florida District 25",
+        "district_number": 25,
+        "name": "Debbie Wasserman Schultz",
+        "office": "270 Cannon House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-7931",
+        "social": {
+          "facebook": "RepDWS",
+          "instagram": "RepDWSTweets",
+          "twitter": "RepDWStweets",
+          "twitter_id": "1140648348",
+          "youtube": "RepWassermanSchultz",
+          "youtube_id": "UCfHQiJVvMlYbVAxrMSLdO4w"
+        },
+        "state": "FL",
+        "state_name": "Florida",
+        "url": "https://wassermanschultz.house.gov"
+      }
+    ],
+    "FL:26": [
+      {
+        "address": "374 Cannon House Office Building Washington DC 20515-0926",
+        "bioguide_id": "D000600",
+        "chamber": "house",
+        "district": "Florida District 26",
+        "district_number": 26,
+        "name": "Mario Diaz-Balart",
+        "office": "374 Cannon House Office Building",
+        "party": "Republican",
+        "phone": "202-225-4211",
+        "social": {
+          "facebook": "mdiazbalart",
+          "instagram": "repmariodb",
+          "instagram_id": 316477657,
+          "twitter": "MarioDB",
+          "twitter_id": "37094727",
+          "youtube": "MarioDiazBalart",
+          "youtube_id": "UCpEEdOPlxx5D78pI4a4mFTQ"
+        },
+        "state": "FL",
+        "state_name": "Florida",
+        "url": "https://mariodiazbalart.house.gov"
+      }
+    ],
+    "FL:27": [
+      {
+        "address": "2162 Rayburn House Office Building Washington DC 20515-0927",
+        "bioguide_id": "S000168",
+        "chamber": "house",
+        "district": "Florida District 27",
+        "district_number": 27,
+        "name": "Maria Elvira Salazar",
+        "office": "2162 Rayburn House Office Building",
+        "party": "Republican",
+        "phone": "202-225-3931",
+        "social": {
+          "facebook": "RepMariaSalazar",
+          "instagram": "repmariasalazar",
+          "twitter": "RepMariaSalazar",
+          "twitter_id": "1325928411689349120"
+        },
+        "state": "FL",
+        "state_name": "Florida",
+        "url": "https://salazar.house.gov"
+      }
+    ],
+    "FL:28": [
+      {
+        "address": "448 Cannon House Office Building Washington DC 20515-0001",
+        "bioguide_id": "G000593",
+        "chamber": "house",
+        "district": "Florida District 28",
+        "district_number": 28,
+        "name": "Carlos A. Gimenez",
+        "office": "448 Cannon House Office Building",
+        "party": "Republican",
+        "phone": "202-225-2778",
+        "social": {
+          "facebook": "RepCarlosGimenez",
+          "instagram": "repcarlosfl",
+          "twitter": "RepCarlos",
+          "twitter_id": "1343679195034103808"
+        },
+        "state": "FL",
+        "state_name": "Florida",
+        "url": "https://gimenez.house.gov"
+      }
+    ],
+    "FL:3": [
+      {
+        "address": "2421 Rayburn House Office Building Washington DC 20515-0903",
+        "bioguide_id": "C001039",
+        "chamber": "house",
+        "district": "Florida District 3",
+        "district_number": 3,
+        "name": "Kat Cammack",
+        "office": "2421 Rayburn House Office Building",
+        "party": "Republican",
+        "phone": "202-225-5744",
+        "social": {
+          "facebook": "RepKatCammack",
+          "instagram": "repkatcammack",
+          "twitter": "RepKatCammack",
+          "twitter_id": "1344325638983987201"
+        },
+        "state": "FL",
+        "state_name": "Florida",
+        "url": "https://cammack.house.gov"
+      }
+    ],
+    "FL:4": [
+      {
+        "address": "2459 Rayburn House Office Building Washington DC 20515-0904",
+        "bioguide_id": "B001314",
+        "chamber": "house",
+        "district": "Florida District 4",
+        "district_number": 4,
+        "name": "Aaron Bean",
+        "office": "2459 Rayburn House Office Building",
+        "party": "Republican",
+        "phone": "202-225-0123",
+        "social": {
+          "facebook": "100089355874563",
+          "instagram": "RepAaronBean",
+          "twitter": "RepAaronBean",
+          "twitter_id": "1604927550081359875"
+        },
+        "state": "FL",
+        "state_name": "Florida",
+        "url": "https://bean.house.gov"
+      }
+    ],
+    "FL:5": [
+      {
+        "address": "1711 Longworth House Office Building Washington DC 20515-0905",
+        "bioguide_id": "R000609",
+        "chamber": "house",
+        "district": "Florida District 5",
+        "district_number": 5,
+        "name": "John H. Rutherford",
+        "office": "1711 Longworth House Office Building",
+        "party": "Republican",
+        "phone": "202-225-2501",
+        "social": {
+          "facebook": "RepRutherfordFL",
+          "instagram": "reprutherfordfl",
+          "twitter": "RepRutherfordFL",
+          "twitter_id": "828977216595849216",
+          "youtube": "Reprutherfordfl"
+        },
+        "state": "FL",
+        "state_name": "Florida",
+        "url": "https://rutherford.house.gov"
+      }
+    ],
+    "FL:6": [
+      {
+        "address": "244 Cannon House Office Building Washington DC 20515-0906",
+        "bioguide_id": "F000484",
+        "chamber": "house",
+        "district": "Florida District 6",
+        "district_number": 6,
+        "name": "Randy Fine",
+        "office": "244 Cannon House Office Building",
+        "party": "Republican",
+        "phone": "202-225-2706",
+        "social": {},
+        "state": "FL",
+        "state_name": "Florida",
+        "url": "https://fine.house.gov"
+      }
+    ],
+    "FL:7": [
+      {
+        "address": "346 Cannon House Office Building Washington DC 20515-0907",
+        "bioguide_id": "M001216",
+        "chamber": "house",
+        "district": "Florida District 7",
+        "district_number": 7,
+        "name": "Cory Mills",
+        "office": "346 Cannon House Office Building",
+        "party": "Republican",
+        "phone": "202-225-4035",
+        "social": {
+          "facebook": "100089218152197",
+          "instagram": "repcorymills",
+          "twitter": "RepMillsPress"
+        },
+        "state": "FL",
+        "state_name": "Florida",
+        "url": "https://mills.house.gov"
+      }
+    ],
+    "FL:8": [
+      {
+        "address": "1039 Longworth House Office Building Washington DC 20515-0908",
+        "bioguide_id": "H001099",
+        "chamber": "house",
+        "district": "Florida District 8",
+        "district_number": 8,
+        "name": "Mike Haridopolos",
+        "office": "1039 Longworth House Office Building",
+        "party": "Republican",
+        "phone": "202-225-3671",
+        "social": {
+          "twitter": "repharidopolos"
+        },
+        "state": "FL",
+        "state_name": "Florida",
+        "url": "https://haridopolos.house.gov"
+      }
+    ],
+    "FL:9": [
+      {
+        "address": "2353 Rayburn House Office Building Washington DC 20515-0909",
+        "bioguide_id": "S001200",
+        "chamber": "house",
+        "district": "Florida District 9",
+        "district_number": 9,
+        "name": "Darren Soto",
+        "office": "2353 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-9889",
+        "social": {
+          "facebook": "CongressmanDarrenSoto",
+          "instagram": "RepDarrenSoto",
+          "twitter": "RepDarrenSoto",
+          "twitter_id": "818713465653051392",
+          "youtube": "repdarrensoto"
+        },
+        "state": "FL",
+        "state_name": "Florida",
+        "url": "https://soto.house.gov"
+      }
+    ],
+    "GA:1": [
+      {
+        "address": "2432 Rayburn House Office Building Washington DC 20515-1001",
+        "bioguide_id": "C001103",
+        "chamber": "house",
+        "district": "Georgia District 1",
+        "district_number": 1,
+        "name": "Earl L. \"Buddy\" Carter",
+        "office": "2432 Rayburn House Office Building",
+        "party": "Republican",
+        "phone": "202-225-5831",
+        "social": {
+          "facebook": "congressmanbuddycarter",
+          "instagram": "repbuddycarter",
+          "twitter": "RepBuddyCarter",
+          "twitter_id": "2973870195",
+          "youtube_id": "UCHQm49T6ikD_ioMAt50AwKQ"
+        },
+        "state": "GA",
+        "state_name": "Georgia",
+        "url": "https://buddycarter.house.gov"
+      }
+    ],
+    "GA:10": [
+      {
+        "address": "2351 Rayburn House Office Building Washington DC 20515-1010",
+        "bioguide_id": "C001129",
+        "chamber": "house",
+        "district": "Georgia District 10",
+        "district_number": 10,
+        "name": "Mike Collins",
+        "office": "2351 Rayburn House Office Building",
+        "party": "Republican",
+        "phone": "202-225-4101",
+        "social": {
+          "facebook": "RepMikeCollinsGA",
+          "instagram": "repmikecollins",
+          "twitter": "RepMikeCollins",
+          "twitter_id": "1603127874512453632"
+        },
+        "state": "GA",
+        "state_name": "Georgia",
+        "url": "https://collins.house.gov"
+      }
+    ],
+    "GA:11": [
+      {
+        "address": "2133 Rayburn House Office Building Washington DC 20515-1011",
+        "bioguide_id": "L000583",
+        "chamber": "house",
+        "district": "Georgia District 11",
+        "district_number": 11,
+        "name": "Barry Loudermilk",
+        "office": "2133 Rayburn House Office Building",
+        "party": "Republican",
+        "phone": "202-225-2931",
+        "social": {
+          "facebook": "reploudermilk",
+          "instagram": "RepLoudermilk",
+          "twitter": "RepLoudermilk",
+          "twitter_id": "2914163523",
+          "youtube_id": "UC2Kfw8fjca8k3w3KpzL5tNg"
+        },
+        "state": "GA",
+        "state_name": "Georgia",
+        "url": "https://loudermilk.house.gov"
+      }
+    ],
+    "GA:12": [
+      {
+        "address": "462 Cannon House Office Building Washington DC 20515-1012",
+        "bioguide_id": "A000372",
+        "chamber": "house",
+        "district": "Georgia District 12",
+        "district_number": 12,
+        "name": "Rick W. Allen",
+        "office": "462 Cannon House Office Building",
+        "party": "Republican",
+        "phone": "202-225-2823",
+        "social": {
+          "facebook": "CongressmanRickAllen",
+          "instagram": "Rep_RickAllen",
+          "instagram_id": 1666787116,
+          "twitter": "RepRickAllen",
+          "twitter_id": "2964287128",
+          "youtube_id": "UCZPoYXHFDAV17BGLMzGAmpg"
+        },
+        "state": "GA",
+        "state_name": "Georgia",
+        "url": "https://allen.house.gov"
+      }
+    ],
+    "GA:14": [
+      {
+        "address": "2201 Rayburn House Office Building Washington DC 20515-1014",
+        "bioguide_id": "F000485",
+        "chamber": "house",
+        "district": "Georgia District 14",
+        "district_number": 14,
+        "name": "Clay Fuller",
+        "office": "2201 Rayburn House Office Building",
+        "party": "Republican",
+        "phone": "202-225-5211",
+        "social": {},
+        "state": "GA",
+        "state_name": "Georgia",
+        "url": "https://fuller.house.gov"
+      }
+    ],
+    "GA:2": [
+      {
+        "address": "2407 Rayburn House Office Building Washington DC 20515-1002",
+        "bioguide_id": "B000490",
+        "chamber": "house",
+        "district": "Georgia District 2",
+        "district_number": 2,
+        "name": "Sanford D. Bishop, Jr.",
+        "office": "2407 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-3631",
+        "social": {
+          "facebook": "sanfordbishop",
+          "twitter": "SanfordBishop",
+          "twitter_id": "249410485",
+          "youtube": "RepSanfordBishop",
+          "youtube_id": "UCxF9veLBrkr_CqVq5eFYVGg"
+        },
+        "state": "GA",
+        "state_name": "Georgia",
+        "url": "https://bishop.house.gov"
+      }
+    ],
+    "GA:3": [
+      {
+        "address": "1320 Longworth House Office Building Washington DC 20515-1003",
+        "bioguide_id": "J000311",
+        "chamber": "house",
+        "district": "Georgia District 3",
+        "district_number": 3,
+        "name": "Brian Jack",
+        "office": "1320 Longworth House Office Building",
+        "party": "Republican",
+        "phone": "202-225-5901",
+        "social": {
+          "facebook": "RepBrianJack",
+          "instagram": "repbrianjack",
+          "twitter": "RepBrianJack"
+        },
+        "state": "GA",
+        "state_name": "Georgia",
+        "url": "https://jack.house.gov"
+      }
+    ],
+    "GA:4": [
+      {
+        "address": "2240 Rayburn House Office Building Washington DC 20515-1004",
+        "bioguide_id": "J000288",
+        "chamber": "house",
+        "district": "Georgia District 4",
+        "district_number": 4,
+        "name": "Henry C. \"Hank\" Johnson, Jr.",
+        "office": "2240 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-1605",
+        "social": {
+          "facebook": "115356957005",
+          "instagram": "rephankjohnson",
+          "twitter": "RepHankJohnson",
+          "twitter_id": "24745957",
+          "youtube": "RepHankJohnson",
+          "youtube_id": "UCqMici9I7nz_i-PN7eSYjwQ"
+        },
+        "state": "GA",
+        "state_name": "Georgia",
+        "url": "https://hankjohnson.house.gov"
+      }
+    ],
+    "GA:5": [
+      {
+        "address": "1406 Longworth House Office Building Washington DC 20515-1005",
+        "bioguide_id": "W000788",
+        "chamber": "house",
+        "district": "Georgia District 5",
+        "district_number": 5,
+        "name": "Nikema Williams",
+        "office": "1406 Longworth House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-3801",
+        "social": {
+          "facebook": "RepNikemaWilliams",
+          "instagram": "repnikema",
+          "twitter": "RepNikema",
+          "twitter_id": "1345461797361504259"
+        },
+        "state": "GA",
+        "state_name": "Georgia",
+        "url": "https://nikemawilliams.house.gov"
+      }
+    ],
+    "GA:6": [
+      {
+        "address": "2246 Rayburn House Office Building Washington DC 20515-1006",
+        "bioguide_id": "M001208",
+        "chamber": "house",
+        "district": "Georgia District 6",
+        "district_number": 6,
+        "name": "Lucy McBath",
+        "office": "2246 Rayburn House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-4501",
+        "social": {
+          "facebook": "RepLucyMcBath",
+          "instagram": "replucymcbath",
+          "twitter": "RepLucyMcBath",
+          "twitter_id": "1082380458976051202"
+        },
+        "state": "GA",
+        "state_name": "Georgia",
+        "url": "https://mcbath.house.gov"
+      }
+    ],
+    "GA:7": [
+      {
+        "address": "1719 Longworth House Office Building Washington DC 20515-1007",
+        "bioguide_id": "M001218",
+        "chamber": "house",
+        "district": "Georgia District 7",
+        "district_number": 7,
+        "name": "Richard McCormick",
+        "office": "1719 Longworth House Office Building",
+        "party": "Republican",
+        "phone": "202-225-4272",
+        "social": {
+          "facebook": "100089135203690",
+          "instagram": "reprichmccormick",
+          "twitter": "RepMcCormick",
+          "twitter_id": "1610689483929780225"
+        },
+        "state": "GA",
+        "state_name": "Georgia",
+        "url": "https://mccormick.house.gov"
+      }
+    ],
+    "GA:8": [
+      {
+        "address": "2185 Rayburn House Office Building Washington DC 20515-1008",
+        "bioguide_id": "S001189",
+        "chamber": "house",
+        "district": "Georgia District 8",
+        "district_number": 8,
+        "name": "Austin Scott",
+        "office": "2185 Rayburn House Office Building",
+        "party": "Republican",
+        "phone": "202-225-5744",
+        "social": {
+          "facebook": "RepAustinScott",
+          "instagram": "repaustinscottga",
+          "twitter": "RepAustinScott",
+          "twitter_id": "2964287128",
+          "youtube_id": "UCZPoYXHFDAV17BGLMzGAmpg"
+        },
+        "state": "GA",
+        "state_name": "Georgia",
+        "url": "https://allen.house.gov"
+      }
+    ]
+  }
+}
