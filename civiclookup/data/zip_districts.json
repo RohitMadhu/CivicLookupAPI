@@ -1,1 +1,5739 @@
-{"districts_by_zip": {}}
+{
+  "districts_by_zip": {
+    "00601": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00602": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00603": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00606": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00610": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00611": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00612": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00616": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00617": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00622": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00623": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00624": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00627": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00631": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00636": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00637": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00638": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00641": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00646": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00647": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00650": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00652": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00653": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00656": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00659": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00660": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00662": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00664": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00667": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00669": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00670": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00674": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00676": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00677": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00678": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00680": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00682": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00683": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00685": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00687": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00688": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00690": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00692": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00693": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00694": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00698": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00703": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00704": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00705": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00707": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00714": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00715": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00716": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00717": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00718": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00719": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00720": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00723": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00725": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00727": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00728": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00729": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00730": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00731": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00735": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00736": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00738": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00739": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00740": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00741": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00745": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00751": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00754": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00757": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00765": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00766": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00767": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00769": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00771": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00772": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00773": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00775": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00777": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00778": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00780": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00782": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00783": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00784": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00786": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00791": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00794": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00795": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00901": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00906": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00907": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00909": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00911": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00912": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00913": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00915": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00917": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00918": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00920": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00921": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00923": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00924": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00925": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00926": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00927": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00934": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00949": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00950": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00951": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00952": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00953": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00956": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00957": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00959": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00960": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00961": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00962": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00965": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00966": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00968": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00969": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00971": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00976": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00979": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00982": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00983": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00985": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "00987": [
+      {
+        "district": "Puerto Rico At Large",
+        "district_number": 0,
+        "state": "PR"
+      }
+    ],
+    "01001": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01002": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01003": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01005": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01007": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01008": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01009": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01010": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01011": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01012": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01013": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01020": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01022": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01026": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01027": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01028": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01029": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01030": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01031": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01032": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01033": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01034": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01035": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01036": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01037": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01038": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01039": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01040": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01050": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01053": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01054": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01056": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01057": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01060": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01062": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01063": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01066": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01068": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01069": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01070": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01071": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01072": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01073": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01074": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01075": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01077": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01079": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01080": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01081": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01082": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01083": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01084": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01085": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01088": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01089": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01092": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01093": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01094": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01095": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01096": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01097": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01098": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01103": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01104": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01105": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01106": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01107": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01108": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01109": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01118": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01119": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01128": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01129": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01144": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01151": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01201": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01220": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01222": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01223": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01224": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01225": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01226": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01229": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01230": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01235": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01236": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01237": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01238": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01240": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01242": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01243": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01244": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01245": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01247": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01253": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01254": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01255": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01256": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01257": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01258": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01259": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01260": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01262": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01264": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01266": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01267": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01270": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01301": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01330": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01331": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01337": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01338": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01339": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01340": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01341": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01342": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01343": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01344": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01346": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01347": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01349": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01350": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01351": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01354": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01355": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01360": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01364": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01366": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01367": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01368": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01370": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01373": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01375": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01376": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01378": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01379": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01380": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01420": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01430": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01431": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01432": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01434": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01436": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01438": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01440": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01450": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01451": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01452": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01453": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01460": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01462": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01463": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01464": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01468": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01469": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01473": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01474": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01475": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01501": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01503": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01504": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "01505": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01506": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01507": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01510": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01515": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01516": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01518": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01519": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01520": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01521": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01522": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01523": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01524": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01525": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01527": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01529": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "01531": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01532": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01534": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01535": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01536": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01537": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01540": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01541": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01542": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01543": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01545": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01550": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01560": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01561": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01562": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01564": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01566": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01568": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01569": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01570": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01571": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01581": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01583": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01585": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      }
+    ],
+    "01588": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01590": [
+      {
+        "district": "Massachusetts District 1",
+        "district_number": 1,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01602": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01603": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01604": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01605": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01606": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01607": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01608": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01609": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01610": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01611": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01612": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01701": [
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      }
+    ],
+    "01702": [
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      }
+    ],
+    "01718": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01719": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01720": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01721": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01730": [
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01731": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01740": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01741": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01742": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01745": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01746": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01747": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "01748": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01749": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01752": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01754": [
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      }
+    ],
+    "01756": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "01757": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "01760": [
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      }
+    ],
+    "01770": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "01772": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "01773": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      }
+    ],
+    "01775": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      }
+    ],
+    "01776": [
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      }
+    ],
+    "01778": [
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      }
+    ],
+    "01801": [
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01803": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01810": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01821": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01824": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01826": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01827": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01830": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01832": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01833": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01834": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01835": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01840": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01841": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01843": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01844": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01845": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01850": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01851": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01852": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01854": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01860": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01862": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01863": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01864": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01867": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01876": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01879": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01880": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01886": [
+      {
+        "district": "Massachusetts District 3",
+        "district_number": 3,
+        "state": "MA"
+      }
+    ],
+    "01887": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01890": [
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      }
+    ],
+    "01901": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01902": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01904": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01905": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01906": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01907": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01908": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01913": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01915": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01921": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01922": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01923": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01929": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01930": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01937": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01938": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01940": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01944": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01945": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01949": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01950": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01951": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01952": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01960": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01965": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01966": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01969": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01970": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01982": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01983": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01984": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "01985": [
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "02019": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02021": [
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02025": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02026": [
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02030": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02032": [
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02035": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02038": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02043": [
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02045": [
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02047": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02048": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02050": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02052": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02053": [
+      {
+        "district": "Massachusetts District 2",
+        "district_number": 2,
+        "state": "MA"
+      }
+    ],
+    "02054": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02056": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02061": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02062": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02066": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02067": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02071": [
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02072": [
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02081": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02090": [
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02093": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02108": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02109": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02110": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02111": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02113": [
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02114": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02115": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02116": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02118": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02119": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      }
+    ],
+    "02120": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      }
+    ],
+    "02121": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      }
+    ],
+    "02122": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02124": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02125": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02126": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02127": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02128": [
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      }
+    ],
+    "02129": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      }
+    ],
+    "02130": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02131": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02132": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02133": [
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02134": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02135": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02136": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02138": [
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      }
+    ],
+    "02139": [
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      }
+    ],
+    "02140": [
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      }
+    ],
+    "02141": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      }
+    ],
+    "02142": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      }
+    ],
+    "02143": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      }
+    ],
+    "02144": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      }
+    ],
+    "02145": [
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      }
+    ],
+    "02148": [
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      }
+    ],
+    "02149": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      }
+    ],
+    "02150": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      }
+    ],
+    "02151": [
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      }
+    ],
+    "02152": [
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      }
+    ],
+    "02155": [
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      }
+    ],
+    "02163": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      }
+    ],
+    "02169": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02170": [
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02171": [
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02176": [
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      }
+    ],
+    "02180": [
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      }
+    ],
+    "02184": [
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02186": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02188": [
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02189": [
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02190": [
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02191": [
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02199": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      }
+    ],
+    "02203": [
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02205": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02210": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02215": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02301": [
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02302": [
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02322": [
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02324": [
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02325": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02330": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02332": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02333": [
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02338": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02339": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02341": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02343": [
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02346": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02347": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02350": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02351": [
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02356": [
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02357": [
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02359": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02360": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02364": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02366": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02367": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02368": [
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02370": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02375": [
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02379": [
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02382": [
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02420": [
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 6",
+        "district_number": 6,
+        "state": "MA"
+      }
+    ],
+    "02421": [
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      }
+    ],
+    "02445": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02446": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      }
+    ],
+    "02451": [
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      }
+    ],
+    "02452": [
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      }
+    ],
+    "02453": [
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      }
+    ],
+    "02457": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      }
+    ],
+    "02458": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02459": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02460": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02461": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02462": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02464": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02465": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02466": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02467": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 7",
+        "district_number": 7,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 8",
+        "district_number": 8,
+        "state": "MA"
+      }
+    ],
+    "02468": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02472": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      }
+    ],
+    "02474": [
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      }
+    ],
+    "02476": [
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      }
+    ],
+    "02478": [
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      }
+    ],
+    "02481": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      }
+    ],
+    "02482": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      },
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      }
+    ],
+    "02492": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02493": [
+      {
+        "district": "Massachusetts District 5",
+        "district_number": 5,
+        "state": "MA"
+      }
+    ],
+    "02494": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02532": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02534": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02535": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02536": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02537": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02538": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02539": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02540": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02542": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02543": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02553": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02554": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02556": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02557": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02558": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02559": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02561": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02562": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02563": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02564": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02565": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02571": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02574": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02576": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02584": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02601": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02630": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02631": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02632": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02633": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02635": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02637": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02638": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02639": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02641": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02642": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02643": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02645": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02646": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02647": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02648": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02649": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02650": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02651": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02652": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02653": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02655": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02657": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02659": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02660": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02663": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02664": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02666": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02667": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02668": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02669": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02670": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02671": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02672": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02673": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02675": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02691": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02702": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02703": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02715": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02717": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02718": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02719": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02720": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02721": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02723": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02724": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02725": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02726": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02738": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02739": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02740": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02743": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02744": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02745": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02746": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02747": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02748": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02760": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02762": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02763": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02764": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02766": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02767": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02769": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02770": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02771": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02777": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02779": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02780": [
+      {
+        "district": "Massachusetts District 4",
+        "district_number": 4,
+        "state": "MA"
+      }
+    ],
+    "02790": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02791": [
+      {
+        "district": "Massachusetts District 9",
+        "district_number": 9,
+        "state": "MA"
+      }
+    ],
+    "02801": [
+      {
+        "district": "Rhode Island District 1",
+        "district_number": 1,
+        "state": "RI"
+      }
+    ],
+    "02802": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02804": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02806": [
+      {
+        "district": "Rhode Island District 1",
+        "district_number": 1,
+        "state": "RI"
+      }
+    ],
+    "02807": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02808": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02809": [
+      {
+        "district": "Rhode Island District 1",
+        "district_number": 1,
+        "state": "RI"
+      }
+    ],
+    "02812": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02813": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02814": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02815": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02816": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02817": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02818": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02822": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02823": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02824": [
+      {
+        "district": "Rhode Island District 1",
+        "district_number": 1,
+        "state": "RI"
+      }
+    ],
+    "02825": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02826": [
+      {
+        "district": "Rhode Island District 1",
+        "district_number": 1,
+        "state": "RI"
+      }
+    ],
+    "02827": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02828": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02829": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02830": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02831": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02832": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02833": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02835": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02836": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02837": [
+      {
+        "district": "Rhode Island District 1",
+        "district_number": 1,
+        "state": "RI"
+      }
+    ],
+    "02838": [
+      {
+        "district": "Rhode Island District 1",
+        "district_number": 1,
+        "state": "RI"
+      }
+    ],
+    "02839": [
+      {
+        "district": "Rhode Island District 1",
+        "district_number": 1,
+        "state": "RI"
+      }
+    ],
+    "02840": [
+      {
+        "district": "Rhode Island District 1",
+        "district_number": 1,
+        "state": "RI"
+      }
+    ],
+    "02841": [
+      {
+        "district": "Rhode Island District 1",
+        "district_number": 1,
+        "state": "RI"
+      }
+    ],
+    "02842": [
+      {
+        "district": "Rhode Island District 1",
+        "district_number": 1,
+        "state": "RI"
+      }
+    ],
+    "02852": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02857": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02858": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02859": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02860": [
+      {
+        "district": "Rhode Island District 1",
+        "district_number": 1,
+        "state": "RI"
+      }
+    ],
+    "02861": [
+      {
+        "district": "Rhode Island District 1",
+        "district_number": 1,
+        "state": "RI"
+      }
+    ],
+    "02863": [
+      {
+        "district": "Rhode Island District 1",
+        "district_number": 1,
+        "state": "RI"
+      }
+    ],
+    "02864": [
+      {
+        "district": "Rhode Island District 1",
+        "district_number": 1,
+        "state": "RI"
+      }
+    ],
+    "02865": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02871": [
+      {
+        "district": "Rhode Island District 1",
+        "district_number": 1,
+        "state": "RI"
+      }
+    ],
+    "02872": [
+      {
+        "district": "Rhode Island District 1",
+        "district_number": 1,
+        "state": "RI"
+      }
+    ],
+    "02873": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02874": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02875": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02876": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02877": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02878": [
+      {
+        "district": "Rhode Island District 1",
+        "district_number": 1,
+        "state": "RI"
+      }
+    ],
+    "02879": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02881": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02882": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02883": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02885": [
+      {
+        "district": "Rhode Island District 1",
+        "district_number": 1,
+        "state": "RI"
+      }
+    ],
+    "02886": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02887": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02888": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02889": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02891": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02892": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02893": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02894": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02895": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02896": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02898": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02901": [
+      {
+        "district": "Rhode Island District 1",
+        "district_number": 1,
+        "state": "RI"
+      }
+    ],
+    "02902": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02903": [
+      {
+        "district": "Rhode Island District 1",
+        "district_number": 1,
+        "state": "RI"
+      }
+    ],
+    "02904": [
+      {
+        "district": "Rhode Island District 1",
+        "district_number": 1,
+        "state": "RI"
+      },
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02905": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02906": [
+      {
+        "district": "Rhode Island District 1",
+        "district_number": 1,
+        "state": "RI"
+      }
+    ],
+    "02907": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02908": [
+      {
+        "district": "Rhode Island District 1",
+        "district_number": 1,
+        "state": "RI"
+      },
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02909": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02910": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02911": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02912": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02914": [
+      {
+        "district": "Rhode Island District 1",
+        "district_number": 1,
+        "state": "RI"
+      }
+    ],
+    "02915": [
+      {
+        "district": "Rhode Island District 1",
+        "district_number": 1,
+        "state": "RI"
+      }
+    ],
+    "02916": [
+      {
+        "district": "Rhode Island District 1",
+        "district_number": 1,
+        "state": "RI"
+      }
+    ],
+    "02917": [
+      {
+        "district": "Rhode Island District 1",
+        "district_number": 1,
+        "state": "RI"
+      }
+    ],
+    "02918": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02919": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02920": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02921": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ],
+    "02940": [
+      {
+        "district": "Rhode Island District 2",
+        "district_number": 2,
+        "state": "RI"
+      }
+    ]
+  }
+}
