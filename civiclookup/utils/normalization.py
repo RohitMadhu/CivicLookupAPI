@@ -64,3 +64,8 @@ def strip_state_legislative_label(value: Optional[str]) -> str:
     for pattern in DISTRICT_SUFFIX_PATTERNS:
         cleaned = pattern.sub("", cleaned)
     return cleaned.strip()
+
+
+def slugify_division_key(value: str) -> str:
+    slug = re.sub(r"[^a-z0-9]+", "_", value.lower()).strip("_")
+    return slug or "unknown"
