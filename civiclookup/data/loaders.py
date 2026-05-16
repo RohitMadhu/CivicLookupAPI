@@ -1,17 +1,21 @@
 import json
 from functools import lru_cache
-from importlib.resources import files
+from pathlib import Path
 
-DATA_PACKAGE = "civiclookup.data"
+# Use the root /data folder (simpler and more reliable for Vercel)
+DATA_DIR = Path(__file__).parent.parent.parent / "data"
 
 @lru_cache(maxsize=1)
 def load_federal_officials() -> dict:
-    return json.loads((files(DATA_PACKAGE) / "federal_officials.json").read_text(encoding="utf-8"))
+    with (DATA_DIR / "federal_officials.json").open(encoding="utf-8") as f:
+        return json.load(f)
 
 @lru_cache(maxsize=1)
 def load_zip_districts() -> dict:
-    return json.loads((files(DATA_PACKAGE) / "zip_districts.json").read_text(encoding="utf-8"))
+    with (DATA_DIR / "zip_districts.json").open(encoding="utf-8") as f:
+        return json.load(f)
 
 @lru_cache(maxsize=1)
 def load_state_officials() -> dict:
-    return json.loads((files(DATA_PACKAGE) / "state_officials.json").read_text(encoding="utf-8"))
+    with (DATA_DIR / "state_officials.json").open(encoding="utf-8") as f:
+        return json.load(f)
