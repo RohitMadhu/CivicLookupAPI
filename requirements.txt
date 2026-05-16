@@ -6,3 +6,5 @@ pydantic>=2.0
 flask-limiter
 structlog
 tenacity
+pytest
+pytest-flask
