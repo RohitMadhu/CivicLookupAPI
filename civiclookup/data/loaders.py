@@ -1,20 +1,17 @@
 import json
 from functools import lru_cache
-from civiclookup.config import get_config
+from importlib.resources import files
 
-config = get_config()
+DATA_PACKAGE = "civiclookup.data"
 
 @lru_cache(maxsize=1)
 def load_federal_officials() -> dict:
-    with (config.DATA_DIR / "federal_officials.json").open() as f:
-        return json.load(f)
+    return json.loads((files(DATA_PACKAGE) / "federal_officials.json").read_text(encoding="utf-8"))
 
 @lru_cache(maxsize=1)
 def load_zip_districts() -> dict:
-    with (config.DATA_DIR / "zip_districts.json").open() as f:
-        return json.load(f)
+    return json.loads((files(DATA_PACKAGE) / "zip_districts.json").read_text(encoding="utf-8"))
 
 @lru_cache(maxsize=1)
 def load_state_officials() -> dict:
-    with (config.DATA_DIR / "state_officials.json").open() as f:
-        return json.load(f)
+    return json.loads((files(DATA_PACKAGE) / "state_officials.json").read_text(encoding="utf-8"))
