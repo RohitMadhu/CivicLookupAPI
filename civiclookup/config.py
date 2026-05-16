@@ -4,7 +4,7 @@ from pathlib import Path
 from pydantic_settings import BaseSettings
 
 class Settings(BaseSettings):
-    DATA_DIR: Path = Path(__file__).resolve().parent.parent / "data"
+    DATA_DIR: Path = Path(__file__).resolve().parent / "data"
     GEOCODER_URL: str = "https://geocoding.geo.census.gov/geocoder/geographies"
     REQUEST_TIMEOUT: int = 30
     DEBUG: bool = False
