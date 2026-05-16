@@ -5,19 +5,47 @@ from civiclookup.utils.normalization import normalize_state_legislative_district
 
 import json
 
-api_bp = Blueprint("api", __name__)
+api_bp = Blueprint("api", "__name__")
 
 @api_bp.route("/api/rep/<zip_code>")
 def get_rep(zip_code):
     try:
+        zip_data = load_zip_districts()
         federal = load_federal_officials()
-        # Simplified but working version - returns real data structure
+
+        districts = zip_data.get("districts_by_zip", {}).get(zip_code, [])
+
+        if not districts:
+            return jsonify({
+                "kind": "civicinfo#representativeInfoResponse",
+                "normalizedInput": {"zip": zip_code},
+                "error": "No congressional districts found for this ZIP code",
+                "divisions": {},
+                "offices": [],
+                "officials": []
+            }), 404
+
+        officials = []
+        seen = set()
+
+        for d in districts:
+            state = d.get("state", "")
+            dist_num = d.get("district_number", 0)
+            key = f"{state}:{dist_num}"
+
+            district_officials = federal.get("house_by_district", {}).get(key, [])
+            for off in district_officials:
+                off_id = off.get("name", "") + off.get("party", "")
+                if off_id not in seen:
+                    seen.add(off_id)
+                    officials.append(off)
+
         return jsonify({
             "kind": "civicinfo#representativeInfoResponse",
             "normalizedInput": {"zip": zip_code},
-            "divisions": federal.get("divisions", {}),
-            "offices": federal.get("offices", []),
-            "officials": federal.get("officials", [])
+            "districts": districts,
+            "officials": officials,
+            "count": len(officials)
         })
     except Exception as e:
         return jsonify({"error": str(e)}), 500
