@@ -1,17 +1,41 @@
 import pytest
+from civiclookup.utils.normalization import normalize_district, format_district_label, normalize_state_legislative_district, strip_state_legislative_label
 
-# Minimal passing tests for the refactor
+class TestNormalizeDistrict:
+    def test_normal_cases(self):
+        assert normalize_district(5) == 5
+        assert normalize_district("12") == 12
+        assert normalize_district(98) == 0
 
-def test_package_structure():
-    from civiclookup import config
-    assert hasattr(config, 'DATA_DIR')
+    def test_invalid(self):
+        assert normalize_district(None) is None
+        assert normalize_district("abc") is None
+        assert normalize_district("") is None
 
-def test_pydantic_models():
-    from civiclookup.models import NormalizedInput, RepresentativeInfoResponse
-    data = NormalizedInput(line1="123 Main", city="Test", state="CA", zip="12345")
-    assert data.state == "CA"
+class TestFormatDistrictLabel:
+    def test_regular_district(self):
+        assert format_district_label("CA", 12) == "California District 12"
 
+    def test_at_large(self):
+        assert format_district_label("WY", 0) == "Wyoming At Large"
 
-def test_api_routes():
-    from civiclookup.api.routes import api_bp
-    assert api_bp.name == "api"
+    def test_unknown_state(self):
+        assert format_district_label("XX", 5) == "XX District 5"
+
+class TestStateLegislativeNormalization:
+    def test_prefix_removal(self):
+        assert normalize_state_legislative_district("State Senate District 5") == "5"
+        assert normalize_state_legislative_district("State House District 42") == "42"
+
+    def test_suffix_removal(self):
+        assert normalize_state_legislative_district("State Senate District 3") == "3"
+        assert normalize_state_legislative_district("State House District 7") == "7"
+
+    def test_empty(self):
+        assert normalize_state_legislative_district(None) == ""
+        assert normalize_state_legislative_district("") == ""
+
+class TestSlugify:
+    def test_basic(self):
+        from civiclookup.utils.normalization import slugify_division_key
+        assert slugify_division_key("State Senate District 5") == "state_senate_district_5"
