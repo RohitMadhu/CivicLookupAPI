@@ -3,3 +3,6 @@ requests
 gunicorn
 pyyaml
 pydantic>=2.0
+flask-limiter
+structlog
+tenacity
