@@ -1,4 +1,4 @@
-# Federal and State Officials Lookup API
+# CivicLookupAPI
 
 Flask API for looking up U.S. federal officials by ZIP code and federal plus state officials by street address, with responses shaped like Google Civic Information API's old representatives model.
 
