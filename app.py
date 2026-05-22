@@ -1,11 +1,35 @@
-import os
 import time
 import uuid
+import logging
 from flask import Flask, jsonify, request, g
-from flask_limiter import Limiter
-from flask_limiter.util import get_remote_address
-import structlog
-from tenacity import retry, stop_after_attempt, wait_exponential
+
+try:
+    from flask_limiter import Limiter
+    from flask_limiter.util import get_remote_address
+except ModuleNotFoundError:
+    Limiter = None
+
+    def get_remote_address():
+        return request.remote_addr or "127.0.0.1"
+
+try:
+    import structlog
+except ModuleNotFoundError:
+    structlog = None
+
+try:
+    from tenacity import retry, stop_after_attempt, wait_exponential
+except ModuleNotFoundError:
+    def retry(*args, **kwargs):
+        def decorator(fn):
+            return fn
+        return decorator
+
+    def stop_after_attempt(*args, **kwargs):
+        return None
+
+    def wait_exponential(*args, **kwargs):
+        return None
 
 from civiclookup.api.routes import api_bp
 from civiclookup.config import get_config
@@ -16,28 +40,42 @@ app = Flask(__name__)
 app.register_blueprint(api_bp)
 
 # Rate Limiting
-limiter = Limiter(
-    get_remote_address,
-    app=app,
-    default_limits=["100 per minute"],
-    storage_uri="memory://"
-)
+limiter = None
+if Limiter is not None:
+    limiter = Limiter(
+        get_remote_address,
+        app=app,
+        default_limits=[config.RATE_LIMIT],
+        storage_uri="memory://"
+    )
 
 # Structured Logging
-structlog.configure(
-    processors=[
-        structlog.stdlib.filter_by_level,
-        structlog.stdlib.add_logger_name,
-        structlog.stdlib.add_log_level,
-        structlog.stdlib.PositionalArgumentsFormatter(),
-        structlog.processors.TimeStamper(fmt="iso"),
-        structlog.processors.JSONRenderer()
-    ],
-    logger_factory=structlog.stdlib.LoggerFactory(),
-    wrapper_class=structlog.stdlib.BoundLogger,
-    cache_logger_on_first_use=True,
-)
-logger = structlog.get_logger()
+if structlog is not None:
+    structlog.configure(
+        processors=[
+            structlog.stdlib.filter_by_level,
+            structlog.stdlib.add_logger_name,
+            structlog.stdlib.add_log_level,
+            structlog.stdlib.PositionalArgumentsFormatter(),
+            structlog.processors.TimeStamper(fmt="iso"),
+            structlog.processors.JSONRenderer()
+        ],
+        logger_factory=structlog.stdlib.LoggerFactory(),
+        wrapper_class=structlog.stdlib.BoundLogger,
+        cache_logger_on_first_use=True,
+    )
+    logger = structlog.get_logger()
+else:
+    logging.basicConfig(level=logging.INFO)
+
+    class _FallbackLogger:
+        def __init__(self):
+            self._logger = logging.getLogger("civiclookup")
+
+        def info(self, event, **kwargs):
+            self._logger.info("%s %s", event, kwargs)
+
+    logger = _FallbackLogger()
 
 # Request ID + Timing Middleware
 @app.before_request
