@@ -8,9 +8,14 @@ from flask import Blueprint, abort, jsonify, request
 from civiclookup.config import get_config
 from civiclookup.data.loaders import (
     DATA_DIR,
+    load_financial_disclosures,
     load_federal_officials,
     load_state_officials,
     load_zip_districts,
+)
+from civiclookup.services.disclosure_service import (
+    disclosure_source_status,
+    get_financial_disclosures_for_official,
 )
 from civiclookup.utils.normalization import (
     format_district_label,
@@ -252,6 +257,7 @@ def source_metadata(include_geocoder: bool = False) -> List[dict]:
     federal_data = load_federal_officials()
     state_data = load_state_officials()
     zip_data = load_zip_districts()
+    disclosure_data = load_financial_disclosures()
     sources = [
         {
             "name": "unitedstates/congress-legislators",
@@ -272,6 +278,16 @@ def source_metadata(include_geocoder: bool = False) -> List[dict]:
             "generatedAt": zip_data.get("generated_at"),
         },
     ]
+    if disclosure_data.get("generated_at"):
+        sources.append(
+            {
+                "name": "Kadoa Congress Trading Monitor",
+                "type": "financial_disclosures",
+                "url": disclosure_data.get("sources", {}).get("kadoa_trades"),
+                "generatedAt": disclosure_data.get("generated_at"),
+                "upstreamGeneratedAt": disclosure_data.get("upstream_generated_at"),
+            }
+        )
     if include_geocoder:
         sources.append(
             {
@@ -975,11 +991,7 @@ def native_office_id(office: dict) -> str:
 def disclosure_stub_for_official(official: dict, includes: Set[str]) -> Optional[dict]:
     if "financial_disclosures" not in includes:
         return None
-    return {
-        "status": "not_configured",
-        "message": "Financial disclosure and trading enrichment is reserved for a future source integration.",
-        "sources": [],
-    }
+    return get_financial_disclosures_for_official(official)
 
 
 def build_native_official(official: dict, includes: Set[str]) -> dict:
@@ -1077,10 +1089,11 @@ def build_native_metadata(
         "confidence": confidence,
     }
     if "financial_disclosures" in includes:
+        disclosure_status = disclosure_source_status()
         metadata["enrichments"] = {
             "financial_disclosures": {
-                "status": "not_configured",
-                "message": "Disclosure enrichment is intentionally stubbed until a source integration is added.",
+                "status": "available" if disclosure_status["generatedAt"] else "not_loaded",
+                "source": disclosure_status,
             }
         }
     return metadata
@@ -1336,11 +1349,13 @@ def v1_sources_status():
         ("federal_officials", DATA_DIR / "federal_officials.json", load_federal_officials()),
         ("state_officials", DATA_DIR / "state_officials.json", load_state_officials()),
         ("zip_districts", DATA_DIR / "zip_districts.json", load_zip_districts()),
+        ("financial_disclosures", DATA_DIR / "financial_disclosures.json", load_financial_disclosures()),
     ]
     return jsonify(
         {
             "generatedAt": utc_now_iso(),
             "sources": source_metadata(include_geocoder=True),
+            "financialDisclosures": disclosure_source_status(),
             "files": [
                 {
                     "type": source_type,

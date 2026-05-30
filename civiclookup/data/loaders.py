@@ -19,3 +19,17 @@ def load_zip_districts() -> dict:
 def load_state_officials() -> dict:
     with (DATA_DIR / "state_officials.json").open(encoding="utf-8") as f:
         return json.load(f)
+
+@lru_cache(maxsize=1)
+def load_financial_disclosures() -> dict:
+    path = DATA_DIR / "financial_disclosures.json"
+    if not path.exists():
+        return {
+            "generated_at": None,
+            "sources": {},
+            "stats": {},
+            "indexes": {},
+            "filers": {},
+        }
+    with path.open(encoding="utf-8") as f:
+        return json.load(f)

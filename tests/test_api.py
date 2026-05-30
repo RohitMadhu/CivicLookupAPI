@@ -215,6 +215,26 @@ def test_v1_official_route_uses_stable_id(client):
     assert response.get_json()["official"]["id"] == official_id
 
 
+def test_v1_financial_disclosure_include_matches_kadoa_data(client):
+    response = client.get("/v1/lookup/zip/22030?include=financial_disclosures")
+
+    assert response.status_code == 200
+    payload = response.get_json()
+    assert payload["metadata"]["enrichments"]["financial_disclosures"]["status"] == "available"
+    officials = [
+        official
+        for office in payload["offices"]
+        for official in office["officials"]
+    ]
+    matched = [
+        official["financialDisclosures"]
+        for official in officials
+        if official["financialDisclosures"]["status"] == "matched"
+    ]
+    assert matched
+    assert matched[0]["matches"][0]["summary"]["trade_count"] > 0
+
+
 def test_v1_sources_status_returns_bundled_data_status(client):
     response = client.get("/v1/sources/status")
 
@@ -222,4 +242,5 @@ def test_v1_sources_status_returns_bundled_data_status(client):
     payload = response.get_json()
     assert "generatedAt" in payload
     assert len(payload["sources"]) >= 3
+    assert payload["financialDisclosures"]["filerCount"] > 0
     assert all(file_info["available"] for file_info in payload["files"])

@@ -16,6 +16,10 @@ ZIP_DISTRICTS_URL = (
     "https://raw.githubusercontent.com/OpenSourceActivismTech/us-zipcodes-congress/master/zccd.csv"
 )
 OPENSTATES_PEOPLE_REPO = "https://github.com/openstates/people"
+KADOA_BASE_URL = "https://congress.kadoa.com/data"
+KADOA_TRADES_URL = f"{KADOA_BASE_URL}/trades.json"
+KADOA_FILERS_URL = f"{KADOA_BASE_URL}/filers.json"
+KADOA_STATS_URL = f"{KADOA_BASE_URL}/stats.json"
 REQUEST_TIMEOUT_SECONDS = 60
 
 STATE_NAMES = {
@@ -438,6 +442,147 @@ def build_state_officials(openstates_people_dir):
     }
 
 
+def normalize_match_text(value):
+    if not value:
+        return ""
+    value = re.sub(r"[^a-z0-9]+", " ", str(value).lower())
+    suffixes = {"jr", "sr", "ii", "iii", "iv", "honorable"}
+    return " ".join(part for part in value.split() if part not in suffixes)
+
+
+def parse_kadoa_district(office):
+    if not office:
+        return None
+    match = re.search(r"·\s*[A-Z]{2}-(\d{1,2})", office)
+    if not match:
+        return None
+    return int(match.group(1))
+
+
+def index_kadoa_keys(record):
+    keys = set()
+    filer_id = record.get("id") or record.get("filer_id")
+    if filer_id:
+        keys.add(f"id:{filer_id}")
+
+    normalized_name = normalize_match_text(record.get("full_name") or record.get("filer_name"))
+    state = record.get("state")
+    chamber = record.get("chamber")
+    if normalized_name and state and chamber:
+        keys.add(f"name:{state}:{chamber}:{normalized_name}")
+        district_number = parse_kadoa_district(record.get("office"))
+        if chamber == "house" and district_number is not None:
+            keys.add(f"seat:{state}:house:{district_number}:{normalized_name}")
+    return sorted(keys)
+
+
+def summarize_kadoa_trades(trades):
+    purchases = 0
+    sales = 0
+    late_filings = 0
+    estimated_volume = 0
+    tickers = set()
+    latest_transaction_date = None
+    latest_filing_date = None
+
+    for trade in trades:
+        transaction_type = (trade.get("transaction_type") or "").lower()
+        if "purchase" in transaction_type:
+            purchases += 1
+        if "sale" in transaction_type:
+            sales += 1
+        if trade.get("is_late"):
+            late_filings += 1
+        low = trade.get("amount_range_low") or 0
+        high = trade.get("amount_range_high") or low
+        estimated_volume += (low + high) / 2
+        if trade.get("ticker"):
+            tickers.add(trade["ticker"])
+        transaction_date = trade.get("transaction_date")
+        filing_date = trade.get("filing_date")
+        if transaction_date and (latest_transaction_date is None or transaction_date > latest_transaction_date):
+            latest_transaction_date = transaction_date
+        if filing_date and (latest_filing_date is None or filing_date > latest_filing_date):
+            latest_filing_date = filing_date
+
+    return {
+        "trade_count": len(trades),
+        "purchases": purchases,
+        "sales": sales,
+        "late_filings": late_filings,
+        "estimated_volume": estimated_volume,
+        "tickers": sorted(tickers),
+        "latest_transaction_date": latest_transaction_date,
+        "latest_filing_date": latest_filing_date,
+    }
+
+
+def build_kadoa_disclosures():
+    trades = fetch_json(KADOA_TRADES_URL)
+    filers = fetch_json(KADOA_FILERS_URL)
+    stats = fetch_json(KADOA_STATS_URL)
+
+    trades_by_filer = defaultdict(list)
+    for trade in trades:
+        filer_id = trade.get("filer_id")
+        if filer_id:
+            trades_by_filer[filer_id].append(trade)
+
+    filers_by_id = {}
+    indexes = defaultdict(list)
+    for filer in filers:
+        filer_id = filer.get("id")
+        if not filer_id:
+            continue
+        filers_by_id[filer_id] = filer
+        for key in index_kadoa_keys(filer):
+            indexes[key].append(filer_id)
+
+    summaries_by_filer = {}
+    all_filer_ids = sorted(set(filers_by_id) | set(trades_by_filer))
+    for filer_id in all_filer_ids:
+        filer = filers_by_id.get(filer_id, {})
+        recent_trades = sorted(
+            trades_by_filer.get(filer_id, []),
+            key=lambda trade: (
+                trade.get("transaction_date") or "",
+                trade.get("filing_date") or "",
+                trade.get("id") or "",
+            ),
+            reverse=True,
+        )
+        recent_summary = summarize_kadoa_trades(recent_trades)
+        summaries_by_filer[filer_id] = {
+            "filer": filer,
+            "summary": {
+                "trade_count": filer.get("trade_count", recent_summary["trade_count"]),
+                "purchases": filer.get("purchases", recent_summary["purchases"]),
+                "sales": filer.get("sales", recent_summary["sales"]),
+                "late_filings": filer.get("late_filings", recent_summary["late_filings"]),
+                "estimated_volume": filer.get("est_volume", recent_summary["estimated_volume"]),
+                "recent_trade_count": recent_summary["trade_count"],
+                "recent_tickers": recent_summary["tickers"],
+                "latest_transaction_date": recent_summary["latest_transaction_date"],
+                "latest_filing_date": recent_summary["latest_filing_date"],
+            },
+            "recent_trades": recent_trades[:50],
+        }
+
+    return {
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "sources": {
+            "kadoa_trades": KADOA_TRADES_URL,
+            "kadoa_filers": KADOA_FILERS_URL,
+            "kadoa_stats": KADOA_STATS_URL,
+            "license": "https://github.com/kadoa-org/congress-trading-monitor/blob/main/LICENSE",
+        },
+        "upstream_generated_at": stats.get("generatedAt"),
+        "stats": stats,
+        "indexes": dict(sorted((key, sorted(set(value))) for key, value in indexes.items())),
+        "filers": summaries_by_filer,
+    }
+
+
 def write_json(path, payload):
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(payload, indent=2, sort_keys=True) + "\n")
@@ -447,6 +592,7 @@ def main():
     write_json(DATA_DIR / "federal_officials.json", build_federal_officials())
     write_json(DATA_DIR / "zip_districts.json", build_zip_districts())
     write_json(DATA_DIR / "state_officials.json", build_state_officials(DEFAULT_OPENSTATES_PEOPLE_DIR))
+    write_json(DATA_DIR / "financial_disclosures.json", build_kadoa_disclosures())
     print("Generated data files in", DATA_DIR)
 
 

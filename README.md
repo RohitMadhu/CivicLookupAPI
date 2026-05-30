@@ -3,7 +3,7 @@
 CivicLookupAPI is a Flask API for looking up U.S. federal and state officials by ZIP code or street address. It has two API modes:
 
 - Google Civic-compatible mode under `/api`, which preserves the familiar `normalizedInput`, `divisions`, `offices`, `officials`, `officeIndices`, and `officialIndices` response model.
-- Native v1 mode under `/v1`, which returns nested, source-transparent JSON that is easier for app developers to consume and ready for future enrichment such as financial disclosure or congressional trading data.
+- Native v1 mode under `/v1`, which returns nested, source-transparent JSON that is easier for app developers to consume and can optionally include congressional financial disclosure and trading data.
 
 ## Data Sources
 
@@ -11,11 +11,13 @@ CivicLookupAPI is a Flask API for looking up U.S. federal and state officials by
   - `data/federal_officials.json`
   - `data/zip_districts.json`
   - `data/state_officials.json`
+  - `data/financial_disclosures.json`
 - Generated from:
   - `https://unitedstates.github.io/congress-legislators/legislators-current.json`
   - `https://unitedstates.github.io/congress-legislators/legislators-social-media.json`
   - [`zccd.csv`](https://github.com/OpenSourceActivismTech/us-zipcodes-congress)
   - [Open States people](https://github.com/openstates/people)
+  - [Kadoa Congress Trading Monitor](https://github.com/kadoa-org/congress-trading-monitor), which publishes static JSON from House Clerk, Senate eFD, and OGE STOCK Act disclosures
 - Address disambiguation uses the [U.S. Census Geocoder](https://geocoding.geo.census.gov/geo/geographies/address)
 
 ## Installation
@@ -33,6 +35,12 @@ git clone --depth 1 https://github.com/openstates/people.git /tmp/openstates-peo
 3. Refresh bundled data when needed:
 ```bash
 python3 scripts/generate_data.py
+```
+
+To refresh only the financial disclosure/trading cache:
+
+```bash
+python3 scripts/fetch_kadoa_data.py
 ```
 
 To use a different checkout path:
@@ -117,9 +125,11 @@ Basic Prometheus-style metrics endpoint.
 
 Native v1 supports an `include` query parameter for future enrichment:
 
-- `include=financial_disclosures` adds a stub `financialDisclosures` object to officials and an enrichment status in metadata. Data ingestion is intentionally not implemented yet.
+- `include=financial_disclosures` adds Kadoa Congress Trading Monitor matches when an official can be linked to a filer. Each match includes filer metadata, aggregate trade counts, estimated volume, late filing counts, and recent trade rows with source filing URLs.
 - `include=social`, `include=offices`, and `include=sources` are reserved as stable extension points. Current native lookup responses already include offices, social handles, and source metadata by default.
 - Multiple includes can be comma-separated, for example `include=financial_disclosures,sources`.
+
+Financial disclosure matching is deterministic and local. Federal officials are matched to Kadoa filers by normalized name plus state/chamber, with House matches also using district when available. Records that do not match return `financialDisclosures.status = "no_match"` instead of failing the lookup.
 
 ## Examples
 
