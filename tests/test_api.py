@@ -1,3 +1,6 @@
+from civiclookup.api import routes
+
+
 class MockResponse:
     def __init__(self, payload):
         self.payload = payload
@@ -135,3 +138,88 @@ def test_address_districts_returns_divisions_payload(client, monkeypatch):
     assert body["kind"] == "civicinfo#divisionsByAddressResponse"
     assert "message" not in body
     assert "ocd-division/country:us/state:ks/cd:2" in body["divisions"]
+
+
+def test_v1_zip_lookup_returns_nested_native_shape(client):
+    response = client.get("/v1/lookup/zip/22030")
+
+    assert response.status_code == 200
+    payload = response.get_json()
+    assert payload["input"]["normalized"]["zip"] == "22030"
+    assert payload["jurisdictions"]
+    assert payload["offices"]
+    assert "officials" in payload["offices"][0]
+    assert "sources" in payload["metadata"]
+    assert "ZIP-only lookup may be ambiguous" in " ".join(payload["metadata"]["warnings"])
+
+
+def test_v1_zip_lookup_no_match_returns_warning(client):
+    response = client.get("/v1/lookup/zip/00000")
+
+    assert response.status_code == 404
+    payload = response.get_json()
+    assert payload["offices"] == []
+    assert "No matching districts" in " ".join(payload["metadata"]["warnings"])
+
+
+def test_v1_address_lookup_accepts_one_line_address(client, monkeypatch):
+    lookup_result = routes.build_lookup_result(
+        districts=[{"state": "VA", "district_number": 11, "district": "Virginia District 11"}],
+        matched_address="123 MAIN ST, FAIRFAX, VA, 22030",
+    )
+    monkeypatch.setattr("civiclookup.api.routes.lookup_address_districts", lambda **kwargs: lookup_result)
+
+    response = client.get("/v1/lookup/address?address=123%20Main%20St,%20Fairfax,%20VA")
+
+    assert response.status_code == 200
+    payload = response.get_json()
+    assert payload["input"]["raw"] == "123 Main St, Fairfax, VA"
+    assert payload["input"]["normalized"]["city"] == "FAIRFAX"
+    assert payload["metadata"]["confidence"] == "exact_address_match"
+    assert payload["offices"]
+
+
+def test_v1_address_lookup_no_match_returns_warning(client, monkeypatch):
+    monkeypatch.setattr(
+        "civiclookup.api.routes.lookup_address_districts",
+        lambda **kwargs: routes.build_lookup_result(),
+    )
+
+    response = client.get("/v1/lookup/address?street=123%20Main%20St&zip=00000")
+
+    assert response.status_code == 404
+    warnings = " ".join(response.get_json()["metadata"]["warnings"])
+    assert "No matching districts" in warnings
+    assert "US Census Geocoder returned no address match" in warnings
+
+
+def test_v1_division_and_official_routes(client):
+    division_id = "ocd-division/country:us/state:va/cd:11"
+
+    division = client.get(f"/v1/divisions/{division_id}")
+    officials = client.get(f"/v1/divisions/{division_id}/officials")
+
+    assert division.status_code == 200
+    assert division.get_json()["division"]["id"] == division_id
+    assert officials.status_code == 200
+    assert officials.get_json()["officials"]
+
+
+def test_v1_official_route_uses_stable_id(client):
+    lookup = client.get("/v1/lookup/zip/22030").get_json()
+    official_id = lookup["offices"][0]["officials"][0]["id"]
+
+    response = client.get(f"/v1/officials/{official_id}")
+
+    assert response.status_code == 200
+    assert response.get_json()["official"]["id"] == official_id
+
+
+def test_v1_sources_status_returns_bundled_data_status(client):
+    response = client.get("/v1/sources/status")
+
+    assert response.status_code == 200
+    payload = response.get_json()
+    assert "generatedAt" in payload
+    assert len(payload["sources"]) >= 3
+    assert all(file_info["available"] for file_info in payload["files"])

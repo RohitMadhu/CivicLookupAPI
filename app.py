@@ -1,7 +1,8 @@
+import logging
 import time
 import uuid
-import logging
-from flask import Flask, jsonify, request, g
+
+from flask import Flask, g, jsonify, request
 
 try:
     from flask_limiter import Limiter
@@ -12,6 +13,7 @@ except ModuleNotFoundError:
     def get_remote_address():
         return request.remote_addr or "127.0.0.1"
 
+
 try:
     import structlog
 except ModuleNotFoundError:
@@ -20,9 +22,11 @@ except ModuleNotFoundError:
 try:
     from tenacity import retry, stop_after_attempt, wait_exponential
 except ModuleNotFoundError:
+
     def retry(*args, **kwargs):
         def decorator(fn):
             return fn
+
         return decorator
 
     def stop_after_attempt(*args, **kwargs):
@@ -30,6 +34,7 @@ except ModuleNotFoundError:
 
     def wait_exponential(*args, **kwargs):
         return None
+
 
 from civiclookup.api.routes import api_bp
 from civiclookup.config import get_config
@@ -46,7 +51,7 @@ if Limiter is not None:
         get_remote_address,
         app=app,
         default_limits=[config.RATE_LIMIT],
-        storage_uri="memory://"
+        storage_uri="memory://",
     )
 
 # Structured Logging
@@ -58,7 +63,7 @@ if structlog is not None:
             structlog.stdlib.add_log_level,
             structlog.stdlib.PositionalArgumentsFormatter(),
             structlog.processors.TimeStamper(fmt="iso"),
-            structlog.processors.JSONRenderer()
+            structlog.processors.JSONRenderer(),
         ],
         logger_factory=structlog.stdlib.LoggerFactory(),
         wrapper_class=structlog.stdlib.BoundLogger,
@@ -77,11 +82,13 @@ else:
 
     logger = _FallbackLogger()
 
+
 # Request ID + Timing Middleware
 @app.before_request
 def before_request():
     g.request_id = request.headers.get("X-Request-ID", str(uuid.uuid4()))
     g.start_time = time.time()
+
 
 @app.after_request
 def after_request(response):
@@ -97,26 +104,33 @@ def after_request(response):
     response.headers["X-Request-ID"] = g.request_id
     return response
 
+
 # Health Check
 @app.route("/health")
 def health():
     return jsonify({"status": "healthy", "version": "1.0.0"})
+
 
 # Prometheus Metrics (basic)
 @app.route("/metrics")
 def metrics():
     return "# HELP civiclookup_requests_total Total requests\nciviclookup_requests_total 42\n", 200, {"Content-Type": "text/plain"}
 
+
 # Input Validation Helper
 def validate_zip(zip_code: str) -> bool:
     import re
+
     return bool(re.match(r"^\d{5}(-\d{4})?$", zip_code))
+
 
 # Retry for Geocoder
 @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=1, max=5))
 def geocode_with_retry(params):
     import requests
+
     return requests.get(config.GEOCODER_URL, params=params, timeout=config.REQUEST_TIMEOUT)
+
 
 if __name__ == "__main__":
     app.run(debug=config.DEBUG)

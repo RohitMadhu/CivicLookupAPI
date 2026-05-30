@@ -1,11 +1,13 @@
 import re
-from typing import Dict, List, Optional, Tuple
+from datetime import datetime, timezone
+from typing import Dict, List, Optional, Set, Tuple
 
 import requests
-from flask import Blueprint, jsonify, request
+from flask import Blueprint, abort, jsonify, request
 
 from civiclookup.config import get_config
 from civiclookup.data.loaders import (
+    DATA_DIR,
     load_federal_officials,
     load_state_officials,
     load_zip_districts,
@@ -22,6 +24,7 @@ api_bp = Blueprint("api", __name__)
 config = get_config()
 
 COUNTRY_OCD_ID = "ocd-division/country:us"
+SUPPORTED_NATIVE_INCLUDES = {"financial_disclosures", "social", "offices", "sources"}
 
 STATE_NAMES = {
     "AL": "Alabama",
@@ -241,6 +244,46 @@ def get_statewide_executives_by_state() -> Dict[str, List[dict]]:
     return load_state_officials()["statewide_executives_by_state"]
 
 
+def utc_now_iso() -> str:
+    return datetime.now(timezone.utc).isoformat()
+
+
+def source_metadata(include_geocoder: bool = False) -> List[dict]:
+    federal_data = load_federal_officials()
+    state_data = load_state_officials()
+    zip_data = load_zip_districts()
+    sources = [
+        {
+            "name": "unitedstates/congress-legislators",
+            "type": "federal_officials",
+            "url": federal_data.get("sources", {}).get("legislators"),
+            "generatedAt": federal_data.get("generated_at"),
+        },
+        {
+            "name": "OpenStates people",
+            "type": "state_officials",
+            "url": state_data.get("sources", {}).get("openstates_people"),
+            "generatedAt": state_data.get("generated_at"),
+        },
+        {
+            "name": "OpenSourceActivismTech/us-zipcodes-congress",
+            "type": "zip_districts",
+            "url": zip_data.get("sources", {}).get("zip_districts"),
+            "generatedAt": zip_data.get("generated_at"),
+        },
+    ]
+    if include_geocoder:
+        sources.append(
+            {
+                "name": "US Census Geocoder",
+                "type": "address_geocoder",
+                "url": config.GEOCODER_URL,
+                "generatedAt": None,
+            }
+        )
+    return sources
+
+
 def lookup_districts(zip_code: str) -> List[dict]:
     return get_districts_by_zip().get(zip_code, [])
 
@@ -251,6 +294,7 @@ def build_lookup_result(
     state_lower_district: Optional[dict] = None,
     matched_address: Optional[str] = None,
     coordinates: Optional[dict] = None,
+    states: Optional[List[str]] = None,
 ) -> dict:
     return {
         "districts": districts or [],
@@ -258,6 +302,7 @@ def build_lookup_result(
         "state_lower_district": state_lower_district,
         "matched_address": matched_address,
         "coordinates": coordinates,
+        "states": states or [],
     }
 
 
@@ -266,7 +311,8 @@ def lookup_states_for_districts(districts: List[dict]) -> List[str]:
 
 
 def lookup_states_for_result(lookup_result: dict) -> List[str]:
-    states = set(lookup_states_for_districts(lookup_result.get("districts", [])))
+    states = set(lookup_result.get("states", []))
+    states.update(lookup_states_for_districts(lookup_result.get("districts", [])))
     for district_key in ("state_upper_district", "state_lower_district"):
         district = lookup_result.get(district_key)
         if district:
@@ -279,6 +325,7 @@ def has_lookup_matches(lookup_result: dict) -> bool:
         lookup_result.get("districts")
         or lookup_result.get("state_upper_district")
         or lookup_result.get("state_lower_district")
+        or lookup_result.get("states")
     )
 
 
@@ -491,6 +538,101 @@ def lookup_state_legislators_for_district(
     return [], None
 
 
+def collect_office_records(lookup_result: dict) -> List[dict]:
+    offices = []
+    states = lookup_states_for_result(lookup_result)
+
+    for state_abbr in states:
+        state_senators = get_senators_by_state().get(state_abbr, [])
+        if state_senators:
+            offices.append(
+                {
+                    "name": "United States Senate",
+                    "divisionId": jurisdiction_ocd_id(state_abbr),
+                    "levels": ["country"],
+                    "roles": ["legislatorUpperBody"],
+                    "officials": state_senators,
+                }
+            )
+
+    for district in lookup_result.get("districts", []):
+        district_key = f"{district['state']}:{district['district_number']}"
+        district_reps = get_reps_by_district().get(district_key, [])
+        if district_reps:
+            offices.append(
+                {
+                    "name": "United States House of Representatives",
+                    "divisionId": district_ocd_id(district),
+                    "levels": ["country"],
+                    "roles": ["legislatorLowerBody"],
+                    "officials": district_reps,
+                }
+            )
+
+    for state_abbr in states:
+        executive_officials = get_statewide_executives_by_state().get(state_abbr, [])
+        grouped_by_role: Dict[str, List[dict]] = {}
+        for executive in executive_officials:
+            grouped_by_role.setdefault(executive["role_type"], []).append(executive)
+
+        for role_type, metadata in sorted(
+            STATEWIDE_EXECUTIVE_METADATA.items(),
+            key=lambda item: item[1]["order"],
+        ):
+            role_officials = grouped_by_role.get(role_type, [])
+            if not role_officials:
+                continue
+            offices.append(
+                {
+                    "name": statewide_executive_office_name(state_abbr, role_type),
+                    "divisionId": jurisdiction_ocd_id(state_abbr),
+                    "levels": ["administrativeArea1"],
+                    "roles": metadata["roles"],
+                    "officials": role_officials,
+                }
+            )
+
+    state_upper_district = lookup_result.get("state_upper_district")
+    upper_officials, upper_chamber = lookup_state_legislators_for_district(
+        state_upper_district,
+        ("upper", "legislature"),
+    )
+    if state_upper_district and upper_officials:
+        offices.append(
+            {
+                "name": state_legislative_office_name(
+                    state_upper_district["state"],
+                    upper_chamber or "upper",
+                ),
+                "divisionId": state_upper_district["division_id"],
+                "levels": ["administrativeArea1"],
+                "roles": ["legislatorUpperBody"],
+                "officials": upper_officials,
+            }
+        )
+
+    state_lower_district = lookup_result.get("state_lower_district")
+    lower_officials, lower_chamber = lookup_state_legislators_for_district(
+        state_lower_district,
+        ("lower", "legislature"),
+    )
+    if state_lower_district and lower_officials:
+        offices.append(
+            {
+                "name": state_legislative_office_name(
+                    state_lower_district["state"],
+                    lower_chamber or "lower",
+                ),
+                "divisionId": state_lower_district["division_id"],
+                "levels": ["administrativeArea1"],
+                "roles": ["legislatorLowerBody"],
+                "officials": lower_officials,
+            }
+        )
+
+    return offices
+
+
 def build_google_response(normalized_input: dict, lookup_result: dict) -> dict:
     include_offices = get_include_offices()
     divisions = build_google_divisions(lookup_result, include_offices)
@@ -506,121 +648,23 @@ def build_google_response(normalized_input: dict, lookup_result: dict) -> dict:
     offices = []
     officials = []
     official_indices: Dict[str, int] = {}
-    states = lookup_states_for_result(lookup_result)
-
-    for state_abbr in states:
-        state_senators = get_senators_by_state().get(state_abbr, [])
-        if not state_senators:
-            continue
-
-        senator_indices = add_google_officials(state_senators, officials, official_indices)
-        office_index = len(offices)
-        senate_division_id = jurisdiction_ocd_id(state_abbr)
-        offices.append(
-            {
-                "name": "United States Senate",
-                "divisionId": senate_division_id,
-                "levels": ["country"],
-                "roles": ["legislatorUpperBody"],
-                "officialIndices": senator_indices,
-            }
+    for office_record in collect_office_records(lookup_result):
+        official_indices_for_office = add_google_officials(
+            office_record["officials"],
+            officials,
+            official_indices,
         )
-        add_office_index(divisions, senate_division_id, office_index)
-
-    for district in lookup_result.get("districts", []):
-        district_key = f"{district['state']}:{district['district_number']}"
-        district_reps = get_reps_by_district().get(district_key, [])
-        if not district_reps:
-            continue
-
-        rep_indices = add_google_officials(district_reps, officials, official_indices)
-        office_index = len(offices)
-        office_division_id = district_ocd_id(district)
-        offices.append(
-            {
-                "name": "United States House of Representatives",
-                "divisionId": office_division_id,
-                "levels": ["country"],
-                "roles": ["legislatorLowerBody"],
-                "officialIndices": rep_indices,
-            }
-        )
-        add_office_index(divisions, office_division_id, office_index)
-
-    for state_abbr in states:
-        executive_officials = get_statewide_executives_by_state().get(state_abbr, [])
-        if not executive_officials:
-            continue
-
-        grouped_by_role: Dict[str, List[dict]] = {}
-        for executive in executive_officials:
-            grouped_by_role.setdefault(executive["role_type"], []).append(executive)
-
-        state_division_id = jurisdiction_ocd_id(state_abbr)
-        for role_type, metadata in sorted(
-            STATEWIDE_EXECUTIVE_METADATA.items(),
-            key=lambda item: item[1]["order"],
-        ):
-            role_officials = grouped_by_role.get(role_type, [])
-            if not role_officials:
-                continue
-
-            role_indices = add_google_officials(role_officials, officials, official_indices)
-            office_index = len(offices)
-            office = {
-                "name": statewide_executive_office_name(state_abbr, role_type),
-                "divisionId": state_division_id,
-                "levels": ["administrativeArea1"],
-                "officialIndices": role_indices,
-            }
-            if metadata["roles"]:
-                office["roles"] = metadata["roles"]
-            offices.append(office)
-            add_office_index(divisions, state_division_id, office_index)
-
-    state_upper_district = lookup_result.get("state_upper_district")
-    upper_officials, upper_chamber = lookup_state_legislators_for_district(
-        state_upper_district,
-        ("upper", "legislature"),
-    )
-    if state_upper_district and upper_officials:
-        upper_indices = add_google_officials(upper_officials, officials, official_indices)
         office_index = len(offices)
         offices.append(
             {
-                "name": state_legislative_office_name(
-                    state_upper_district["state"],
-                    upper_chamber or "upper",
-                ),
-                "divisionId": state_upper_district["division_id"],
-                "levels": ["administrativeArea1"],
-                "roles": ["legislatorUpperBody"],
-                "officialIndices": upper_indices,
+                "name": office_record["name"],
+                "divisionId": office_record["divisionId"],
+                "levels": office_record["levels"],
+                "roles": office_record.get("roles", []),
+                "officialIndices": official_indices_for_office,
             }
         )
-        add_office_index(divisions, state_upper_district["division_id"], office_index)
-
-    state_lower_district = lookup_result.get("state_lower_district")
-    lower_officials, lower_chamber = lookup_state_legislators_for_district(
-        state_lower_district,
-        ("lower", "legislature"),
-    )
-    if state_lower_district and lower_officials:
-        lower_indices = add_google_officials(lower_officials, officials, official_indices)
-        office_index = len(offices)
-        offices.append(
-            {
-                "name": state_legislative_office_name(
-                    state_lower_district["state"],
-                    lower_chamber or "lower",
-                ),
-                "divisionId": state_lower_district["division_id"],
-                "levels": ["administrativeArea1"],
-                "roles": ["legislatorLowerBody"],
-                "officialIndices": lower_indices,
-            }
-        )
-        add_office_index(divisions, state_lower_district["division_id"], office_index)
+        add_office_index(divisions, office_record["divisionId"], office_index)
 
     response["offices"] = offices
     response["officials"] = officials
@@ -831,6 +875,486 @@ def build_divisions_response(normalized_input: dict, lookup_result: dict) -> dic
     }
 
 
+def parse_native_includes() -> Tuple[Set[str], List[str]]:
+    raw_include = request.args.get("include", "")
+    includes = {item.strip() for item in raw_include.split(",") if item.strip()}
+    unknown = sorted(includes - SUPPORTED_NATIVE_INCLUDES)
+    return includes & SUPPORTED_NATIVE_INCLUDES, [
+        f"Unsupported include ignored: {include}" for include in unknown
+    ]
+
+
+def slugify_identifier(value: str) -> str:
+    slug = re.sub(r"[^a-z0-9]+", "-", value.lower()).strip("-")
+    return slug or "unknown"
+
+
+def native_official_id(official: dict) -> str:
+    if official.get("bioguide_id"):
+        return f"bioguide:{official['bioguide_id']}"
+    if official.get("openstates_id"):
+        return f"openstates:{official['openstates_id']}"
+    fallback = "|".join(
+        str(official.get(field) or "")
+        for field in ("state", "name", "district", "role_type", "chamber")
+    )
+    return f"slug:{slugify_identifier(fallback)}"
+
+
+def parse_state_from_division_id(division_id: str) -> Optional[str]:
+    match = re.search(r"/(?:state|territory):([a-z]{2})", division_id)
+    if match:
+        return match.group(1).upper()
+    if "/district:dc" in division_id:
+        return "DC"
+    return None
+
+
+def parse_cd_from_division_id(division_id: str) -> Optional[int]:
+    match = re.search(r"/cd:(\d+)$", division_id)
+    if match:
+        return int(match.group(1))
+    return None
+
+
+def parse_state_legislative_from_division_id(
+    division_id: str,
+) -> Tuple[Optional[str], Optional[str], Optional[str]]:
+    match = re.search(r"/(sldu|sldl):([^/]+)$", division_id)
+    if not match:
+        return None, None, None
+    chamber = "upper" if match.group(1) == "sldu" else "lower"
+    return parse_state_from_division_id(division_id), chamber, match.group(2)
+
+
+def native_division_type(division_id: str) -> str:
+    if division_id == COUNTRY_OCD_ID:
+        return "country"
+    if "/cd:" in division_id:
+        return "congressional_district"
+    if "/sldu:" in division_id:
+        return "state_senate_district"
+    if "/sldl:" in division_id:
+        return "state_house_district"
+    if "/state:" in division_id or "/territory:" in division_id or "/district:" in division_id:
+        return "state"
+    return "division"
+
+
+def native_division_level(division_id: str) -> str:
+    if division_id == COUNTRY_OCD_ID or "/cd:" in division_id:
+        return "country"
+    return "administrativeArea1"
+
+
+def native_office_id(office: dict) -> str:
+    state_abbr = parse_state_from_division_id(office["divisionId"]) or "us"
+    state_slug = state_abbr.lower()
+    name = office["name"]
+    role = (office.get("roles") or ["office"])[0]
+
+    if name == "United States Senate":
+        return f"us-senate-{state_slug}"
+    if name == "United States House of Representatives":
+        district_number = parse_cd_from_division_id(office["divisionId"])
+        district_slug = str(district_number) if district_number is not None else "at-large"
+        return f"us-house-{state_slug}-{district_slug}"
+    if role == "legislatorUpperBody":
+        identifier = office["divisionId"].rsplit(":", 1)[-1]
+        return f"{state_slug}-state-senate-{slugify_identifier(identifier)}"
+    if role == "legislatorLowerBody":
+        identifier = office["divisionId"].rsplit(":", 1)[-1]
+        return f"{state_slug}-state-house-{slugify_identifier(identifier)}"
+
+    for role_type, metadata in STATEWIDE_EXECUTIVE_METADATA.items():
+        if name == statewide_executive_office_name(state_abbr, role_type):
+            return f"{state_slug}-{slugify_identifier(metadata['label'])}"
+    return f"{state_slug}-{slugify_identifier(name)}"
+
+
+def disclosure_stub_for_official(official: dict, includes: Set[str]) -> Optional[dict]:
+    if "financial_disclosures" not in includes:
+        return None
+    return {
+        "status": "not_configured",
+        "message": "Financial disclosure and trading enrichment is reserved for a future source integration.",
+        "sources": [],
+    }
+
+
+def build_native_official(official: dict, includes: Set[str]) -> dict:
+    native_official = {
+        "id": native_official_id(official),
+        "name": official.get("name"),
+        "party": official.get("party"),
+        "state": official.get("state"),
+        "chamber": official.get("chamber") or official.get("role_type"),
+        "district": official.get("district"),
+        "phones": [official["phone"]] if official.get("phone") else [],
+        "emails": [official["email"]] if official.get("email") else [],
+        "urls": [official["url"]] if official.get("url") else [],
+        "photoUrl": official.get("image"),
+        "social": official.get("social") or {},
+    }
+    disclosure = disclosure_stub_for_official(official, includes)
+    if disclosure:
+        native_official["financialDisclosures"] = disclosure
+    return native_official
+
+
+def build_native_jurisdictions(lookup_result: dict, confidence: str) -> List[dict]:
+    divisions = build_google_divisions(lookup_result, include_offices=False)
+    return [
+        {
+            "id": division_id,
+            "name": division.get("name", division_id),
+            "type": native_division_type(division_id),
+            "level": native_division_level(division_id),
+            "confidence": confidence,
+        }
+        for division_id, division in divisions.items()
+    ]
+
+
+def build_native_offices(lookup_result: dict, includes: Set[str]) -> List[dict]:
+    native_offices = []
+    for office in collect_office_records(lookup_result):
+        roles = office.get("roles") or []
+        native_offices.append(
+            {
+                "id": native_office_id(office),
+                "name": office["name"],
+                "divisionId": office["divisionId"],
+                "level": office["levels"][0] if office.get("levels") else None,
+                "role": roles[0] if roles else None,
+                "officials": [
+                    build_native_official(official, includes)
+                    for official in office["officials"]
+                ],
+            }
+        )
+    return native_offices
+
+
+def native_lookup_warnings(
+    lookup_result: dict,
+    lookup_mode: str,
+    include_warnings: Optional[List[str]] = None,
+) -> List[str]:
+    warnings = list(include_warnings or [])
+    if lookup_mode == "zip":
+        warnings.append(
+            "ZIP-only lookup may be ambiguous; use an address lookup for exact district matching."
+        )
+    if not has_lookup_matches(lookup_result):
+        warnings.append("No matching districts or officials were found for the provided input.")
+        if lookup_mode == "address" and not lookup_result.get("matched_address"):
+            warnings.append("US Census Geocoder returned no address match.")
+    if len(lookup_result.get("districts", [])) > 1:
+        warnings.append("ZIP maps to multiple congressional districts; address lookup is recommended.")
+    return warnings
+
+
+def build_native_metadata(
+    lookup_result: dict,
+    lookup_mode: str,
+    includes: Set[str],
+    warnings: List[str],
+) -> dict:
+    if lookup_mode == "division":
+        confidence = "source_record"
+    elif lookup_mode == "address" and lookup_result.get("matched_address"):
+        confidence = "exact_address_match"
+    else:
+        confidence = "zip_approximate"
+    if not has_lookup_matches(lookup_result):
+        confidence = "no_match"
+
+    metadata = {
+        "generatedAt": utc_now_iso(),
+        "sources": source_metadata(include_geocoder=lookup_mode == "address"),
+        "warnings": warnings,
+        "confidence": confidence,
+    }
+    if "financial_disclosures" in includes:
+        metadata["enrichments"] = {
+            "financial_disclosures": {
+                "status": "not_configured",
+                "message": "Disclosure enrichment is intentionally stubbed until a source integration is added.",
+            }
+        }
+    return metadata
+
+
+def build_native_lookup_response(
+    lookup_args: dict,
+    normalized_input: dict,
+    lookup_result: dict,
+    lookup_mode: str,
+    includes: Set[str],
+    include_warnings: Optional[List[str]] = None,
+) -> dict:
+    warnings = native_lookup_warnings(lookup_result, lookup_mode, include_warnings)
+    jurisdiction_confidence = (
+        "exact" if lookup_mode == "address" and lookup_result.get("matched_address") else "approximate"
+    )
+    if not has_lookup_matches(lookup_result):
+        jurisdiction_confidence = "none"
+    raw_input = lookup_args.get("address") or ", ".join(
+        value
+        for value in [
+            lookup_args.get("street"),
+            lookup_args.get("city"),
+            lookup_args.get("state"),
+            lookup_args.get("zip_code"),
+        ]
+        if value
+    )
+    return {
+        "input": {"raw": raw_input, "normalized": normalized_input},
+        "jurisdictions": build_native_jurisdictions(lookup_result, jurisdiction_confidence),
+        "offices": build_native_offices(lookup_result, includes),
+        "metadata": build_native_metadata(lookup_result, lookup_mode, includes, warnings),
+    }
+
+
+def lookup_result_for_division(division_id: str) -> Optional[dict]:
+    if division_id == COUNTRY_OCD_ID:
+        return build_lookup_result()
+
+    state_abbr = parse_state_from_division_id(division_id)
+    if not state_abbr:
+        return None
+
+    congressional_district = parse_cd_from_division_id(division_id)
+    if congressional_district is not None:
+        return build_lookup_result(
+            districts=[
+                {
+                    "state": state_abbr,
+                    "district_number": congressional_district,
+                    "district": format_district_label(state_abbr, congressional_district),
+                }
+            ]
+        )
+
+    legislative_state, chamber, identifier = parse_state_legislative_from_division_id(division_id)
+    if legislative_state and chamber and identifier:
+        district_info = {
+            "state": legislative_state,
+            "district_name": identifier,
+            "district_key_candidates": [identifier, identifier.lstrip("0") or identifier],
+            "division_id": division_id,
+            "division_name": state_legislative_division_name(
+                legislative_state,
+                chamber,
+                identifier,
+            ),
+        }
+        if chamber == "upper":
+            return build_lookup_result(state_upper_district=district_info)
+        return build_lookup_result(state_lower_district=district_info)
+
+    return build_lookup_result(states=[state_abbr])
+
+
+def find_native_official(official_id: str, includes: Set[str]) -> Optional[dict]:
+    seen = set()
+    collections = [
+        *get_senators_by_state().values(),
+        *get_reps_by_district().values(),
+        *get_statewide_executives_by_state().values(),
+        *get_state_upper_by_district().values(),
+        *get_state_lower_by_district().values(),
+        *get_state_legislature_by_district().values(),
+    ]
+    for officials in collections:
+        for official in officials:
+            registry_key = official_registry_key(official)
+            if registry_key in seen:
+                continue
+            seen.add(registry_key)
+            native_official = build_native_official(official, includes)
+            if native_official["id"] == official_id:
+                return native_official
+    return None
+
+
+@api_bp.route("/v1/lookup/address")
+def v1_lookup_address():
+    includes, include_warnings = parse_native_includes()
+    lookup_args, error = parse_address_lookup_args()
+    if error:
+        payload, status_code = error
+        return jsonify(payload), status_code
+
+    try:
+        lookup_result = lookup_address_districts(**lookup_args)
+        normalized_input = build_normalized_input_from_request(
+            street=lookup_args.get("street"),
+            city=lookup_args.get("city"),
+            state=lookup_args.get("state"),
+            zip_code=lookup_args.get("zip_code"),
+            address=lookup_args.get("address"),
+            matched_address=lookup_result["matched_address"],
+            districts=lookup_result["districts"],
+            states=lookup_states_for_result(lookup_result),
+        )
+        response_payload = build_native_lookup_response(
+            lookup_args,
+            normalized_input,
+            lookup_result,
+            "address",
+            includes,
+            include_warnings,
+        )
+        if not has_lookup_matches(lookup_result):
+            return jsonify(response_payload), 404
+        return jsonify(response_payload)
+    except requests.RequestException as exc:
+        return jsonify({"error": "Unable to geocode address", "details": str(exc)}), 502
+    except (OSError, ValueError) as exc:
+        return jsonify({"error": "Unable to load bundled legislator data", "details": str(exc)}), 500
+
+
+@api_bp.route("/v1/lookup/zip/<zip_code>")
+def v1_lookup_zip(zip_code):
+    if not re.fullmatch(r"\d{5}", zip_code):
+        abort(404)
+
+    includes, include_warnings = parse_native_includes()
+    try:
+        lookup_result = build_lookup_result(districts=lookup_districts(zip_code))
+        normalized_input = build_normalized_input_from_request(
+            zip_code=zip_code,
+            districts=lookup_result["districts"],
+            states=lookup_states_for_result(lookup_result),
+        )
+        response_payload = build_native_lookup_response(
+            {"zip_code": zip_code},
+            normalized_input,
+            lookup_result,
+            "zip",
+            includes,
+            include_warnings,
+        )
+        if not has_lookup_matches(lookup_result):
+            return jsonify(response_payload), 404
+        return jsonify(response_payload)
+    except (OSError, ValueError) as exc:
+        return jsonify({"error": "Unable to load bundled legislator data", "details": str(exc)}), 500
+
+
+def build_native_division_payload(
+    division_id: str,
+    lookup_result: dict,
+    includes: Set[str],
+) -> Optional[dict]:
+    jurisdictions = build_native_jurisdictions(lookup_result, "exact")
+    division = next(
+        (jurisdiction for jurisdiction in jurisdictions if jurisdiction["id"] == division_id),
+        None,
+    )
+    if not division:
+        return None
+    return {
+        "division": division,
+        "offices": build_native_offices(lookup_result, includes),
+        "metadata": build_native_metadata(lookup_result, "division", includes, []),
+    }
+
+
+@api_bp.route("/v1/divisions/<path:division_id>/officials")
+def v1_division_officials(division_id):
+    includes, include_warnings = parse_native_includes()
+    lookup_result = lookup_result_for_division(division_id)
+    if lookup_result is None:
+        abort(404)
+
+    payload = build_native_division_payload(division_id, lookup_result, includes)
+    if payload is None:
+        abort(404)
+
+    officials = []
+    seen = set()
+    for office in payload["offices"]:
+        if office["divisionId"] != division_id:
+            continue
+        for official in office["officials"]:
+            if official["id"] not in seen:
+                officials.append(official)
+                seen.add(official["id"])
+
+    warnings = include_warnings
+    if not officials:
+        warnings.append("No officials were found for this division.")
+    return jsonify(
+        {
+            "division": payload["division"],
+            "officials": officials,
+            "metadata": build_native_metadata(lookup_result, "division", includes, warnings),
+        }
+    )
+
+
+@api_bp.route("/v1/divisions/<path:division_id>")
+def v1_division(division_id):
+    includes, include_warnings = parse_native_includes()
+    lookup_result = lookup_result_for_division(division_id)
+    if lookup_result is None:
+        abort(404)
+
+    payload = build_native_division_payload(division_id, lookup_result, includes)
+    if payload is None:
+        abort(404)
+    payload["metadata"]["warnings"].extend(include_warnings)
+    return jsonify(payload)
+
+
+@api_bp.route("/v1/officials/<path:official_id>")
+def v1_official(official_id):
+    includes, include_warnings = parse_native_includes()
+    official = find_native_official(official_id, includes)
+    if not official:
+        abort(404)
+    return jsonify(
+        {
+            "official": official,
+            "metadata": {
+                "generatedAt": utc_now_iso(),
+                "sources": source_metadata(include_geocoder=False),
+                "warnings": include_warnings,
+                "confidence": "source_record",
+            },
+        }
+    )
+
+
+@api_bp.route("/v1/sources/status")
+def v1_sources_status():
+    files = [
+        ("federal_officials", DATA_DIR / "federal_officials.json", load_federal_officials()),
+        ("state_officials", DATA_DIR / "state_officials.json", load_state_officials()),
+        ("zip_districts", DATA_DIR / "zip_districts.json", load_zip_districts()),
+    ]
+    return jsonify(
+        {
+            "generatedAt": utc_now_iso(),
+            "sources": source_metadata(include_geocoder=True),
+            "files": [
+                {
+                    "type": source_type,
+                    "path": str(path.relative_to(DATA_DIR.parent)),
+                    "generatedAt": data.get("generated_at"),
+                    "available": path.exists(),
+                    "sizeBytes": path.stat().st_size if path.exists() else None,
+                }
+                for source_type, path, data in files
+            ],
+        }
+    )
+
+
 @api_bp.route("/api/zip/<zip_code>/districts")
 def get_zip_districts(zip_code):
     try:
@@ -909,6 +1433,7 @@ def get_rep_by_address():
 
 
 @api_bp.route("/api/rep/<zip_code>")
+@api_bp.route("/api/<zip_code>")
 def get_rep(zip_code):
     if request.args.get("address") or request.args.get("street"):
         lookup_args, error = parse_address_lookup_args(default_zip=zip_code)
