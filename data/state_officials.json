@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T14:52:43.692217+00:00",
+  "generated_at": "2026-06-08T12:59:45.641744+00:00",
   "sources": {
     "openstates_people": "https://github.com/openstates/people"
   },
@@ -6012,7 +6012,7 @@
         "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2053"
       },
       {
-        "address": "Room 302, 1700 W. Washington St., Phoenix, AZ 85007",
+        "address": "Room 313, 1700 W. Washington St., Phoenix, AZ 85007",
         "chamber": "lower",
         "district": "19",
         "district_key": "19",
@@ -6591,6 +6591,25 @@
       }
     ],
     "AZ:7": [
+      {
+        "address": "Room 302, 1700 W. Washington St., Phoenix, AZ 85007",
+        "chamber": "lower",
+        "district": "7",
+        "district_key": "7",
+        "email": "sallen@azleg.gov",
+        "image": "http://www.azleg.gov/alisImages/MemberPhotos/50leg/Senate/ALLEN.gif",
+        "name": "Sylvia Allen",
+        "openstates_id": "ocd-person/fa74a7b7-6413-4abb-813d-056b84252549",
+        "party": "Republican",
+        "phone": "602-926-3579",
+        "social": {
+          "facebook": "SenatorSylviaAllen",
+          "twitter": "SylviaAllenAZ"
+        },
+        "state": "AZ",
+        "state_name": "Arizona",
+        "url": "https://www.azleg.gov/house-member/?legislature=57&legislator=2419"
+      },
       {
         "address": "Room 224, 1700 W. Washington St., Phoenix, AZ 85007",
         "chamber": "lower",
@@ -9220,7 +9239,7 @@
         "chamber": "lower",
         "district": "65",
         "district_key": "65",
-        "email": "lori.garciasander.house@coleg.gov",
+        "email": "lori garciasander.house@coleg.gov",
         "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/LoriSander2024.jpg",
         "name": "Lori Garcia Sander",
         "openstates_id": "ocd-person/d450c0d3-b829-4855-ad0d-1228c5284a4f",
@@ -14452,24 +14471,6 @@
         "url": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4892"
       }
     ],
-    "FL:78": [
-      {
-        "address": "Room 222, The Capitol 402 S. Monroe St., Tallahassee, FL 32399",
-        "chamber": "lower",
-        "district": "78",
-        "district_key": "78",
-        "email": "jenna.persons@flhouse.gov",
-        "image": "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4785.jpg",
-        "name": "Jenna Persons-Mulicka",
-        "openstates_id": "ocd-person/bc54a6ff-f7b3-4bbf-a23a-4acc9caa8064",
-        "party": "Republican",
-        "phone": "850-717-5078",
-        "social": {},
-        "state": "FL",
-        "state_name": "Florida",
-        "url": "https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4785"
-      }
-    ],
     "FL:79": [
       {
         "address": "Room 214, House Office Building 402 S. Monroe St., Tallahassee, FL 32399",
@@ -16830,7 +16831,7 @@
     ],
     "GA:35": [
       {
-        "address": "Room 507-F, Coverdell Legislative Office Building 18 Capitol Square SW, Atlanta, GA 30334",
+        "address": "18 Capitol Square SW, Room 507-F, Coverdell Legislative Office Building, Atlanta, GA 30334",
         "chamber": "lower",
         "district": "35",
         "district_key": "35",
@@ -17550,7 +17551,7 @@
     ],
     "GA:71": [
       {
-        "address": "Room 501-D, Coverdell Legislative Office Building 18 Capitol Square SW, Atlanta, GA 30334",
+        "address": "18 Capitol Square SW, Room 501-D, Coverdell Legislative Office Building, Atlanta, GA 30334",
         "chamber": "lower",
         "district": "71",
         "district_key": "71",
@@ -26081,7 +26082,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_helwig_dale_1/"
+        "url": "https://kslegislature.gov/legislators/rep_helwig_dale_1/"
       }
     ],
     "KS:10": [
@@ -26099,25 +26100,25 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_wikle_suzanne_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_wikle_suzanne_1/"
       }
     ],
     "KS:100": [
       {
-        "address": "State Capitol Room 368-W, Kansas  Building 300 SW 10th St., Topeka, KS 66612",
+        "address": null,
         "chamber": "lower",
         "district": "100",
         "district_key": "100",
         "email": "dan.hawkins@house.ks.gov",
-        "image": "https://i0.wp.com/danhawkinskansas.com/wp-content/uploads/2020/06/Rep.-Hawkins.jpg?resize=1000%2C1000&ssl=1",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_hawkins_daniel_1.jpg",
         "name": "Dan Hawkins",
         "openstates_id": "ocd-person/26eb8f32-d499-4b8b-82c6-8fef014633a3",
         "party": "Republican",
-        "phone": "785-296-2302",
+        "phone": null,
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_hawkins_daniel_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_hawkins_daniel_1/"
       }
     ],
     "KS:101": [
@@ -26127,7 +26128,7 @@
         "district": "101",
         "district_key": "101",
         "email": "joe.seiwert@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_seiwert_joe_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_seiwert_joe_1.jpg",
         "name": "Joe Seiwert",
         "openstates_id": "ocd-person/29dad718-27f5-4cbb-9a2c-56fad33e4569",
         "party": "Republican",
@@ -26135,7 +26136,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_seiwert_joe_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_seiwert_joe_1/"
       }
     ],
     "KS:102": [
@@ -26145,7 +26146,7 @@
         "district": "102",
         "district_key": "102",
         "email": "kyler.sweely@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_sweely_kyler_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_sweely_kyler_1.jpg",
         "name": "Kyler Sweely",
         "openstates_id": "ocd-person/630804aa-ee95-4839-9b15-7522ef06d5dd",
         "party": "Republican",
@@ -26153,7 +26154,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_sweely_kyler_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_sweely_kyler_1/"
       }
     ],
     "KS:103": [
@@ -26163,7 +26164,7 @@
         "district": "103",
         "district_key": "103",
         "email": "angela.martinez@house.ks.gov",
-        "image": "http://www.kslegislature.org/li/s/images/pics/rep_martinez_angela_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_martinez_angela_1.jpg",
         "name": "Angela Martinez",
         "openstates_id": "ocd-person/a587476a-1201-4d9f-b8b7-ac6f74b3f6ce",
         "party": "Democratic",
@@ -26171,25 +26172,25 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_martinez_angela_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_martinez_angela_1/"
       }
     ],
     "KS:104": [
       {
-        "address": null,
+        "address": "State Capitol Room 187-N, Kansas  Building 300 SW 10th St., Topeka, KS 66612",
         "chamber": "lower",
         "district": "104",
         "district_key": "104",
         "email": "paul.waggoner@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_waggoner_paul_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_waggoner_paul_1.jpg",
         "name": "Paul Waggoner",
         "openstates_id": "ocd-person/8dc23ca9-1ad8-466d-83d4-453f1bf324b0",
         "party": "Republican",
-        "phone": null,
+        "phone": "785-296-7196",
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_waggoner_paul_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_waggoner_paul_1/"
       }
     ],
     "KS:105": [
@@ -26207,7 +26208,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_ward_jill_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_ward_jill_1/"
       }
     ],
     "KS:106": [
@@ -26217,7 +26218,7 @@
         "district": "106",
         "district_key": "106",
         "email": "lisa.moser@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_moser_lisa_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_moser_lisa_1.jpg",
         "name": "Lisa Moser",
         "openstates_id": "ocd-person/019607dd-e8e2-4c2e-b4cc-e95ccddb54a2",
         "party": "Republican",
@@ -26225,7 +26226,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_moser_lisa_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_moser_lisa_1/"
       }
     ],
     "KS:107": [
@@ -26235,7 +26236,7 @@
         "district": "107",
         "district_key": "107",
         "email": "dawn.wolf@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_wolf_dawn_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_wolf_dawn_1.jpg",
         "name": "Dawn Wolf",
         "openstates_id": "ocd-person/39cab563-99a8-4412-8112-7b88b0911714",
         "party": "Republican",
@@ -26243,7 +26244,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_wolf_dawn_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_wolf_dawn_1/"
       }
     ],
     "KS:108": [
@@ -26253,7 +26254,7 @@
         "district": "108",
         "district_key": "108",
         "email": "brandon.woodard@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_woodard_brandon_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_woodard_brandon_1.jpg",
         "name": "Brandon Woodard",
         "openstates_id": "ocd-person/c56cf970-39c2-4821-8723-a85dfe09cd6b",
         "party": "Democratic",
@@ -26261,25 +26262,25 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_woodard_brandon_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_woodard_brandon_1/"
       }
     ],
     "KS:109": [
       {
-        "address": null,
+        "address": "State Capitol Room 111-N, Kansas  Building 300 SW 10th St., Topeka, KS 66612",
         "chamber": "lower",
         "district": "109",
         "district_key": "109",
         "email": "troy.waymaster@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_waymaster_troy_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_waymaster_troy_1.jpg",
         "name": "Troy Waymaster",
         "openstates_id": "ocd-person/655437d6-f80f-4e14-b061-c28a8977cf0f",
         "party": "Republican",
-        "phone": null,
+        "phone": "785-296-7672",
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_waymaster_troy_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_waymaster_troy_1/"
       }
     ],
     "KS:11": [
@@ -26289,7 +26290,7 @@
         "district": "11",
         "district_key": "11",
         "email": "ron.bryce@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_bryce_ron_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_bryce_ron_1.jpg",
         "name": "Ron Bryce",
         "openstates_id": "ocd-person/61d402db-ed53-4310-9c6b-c392755834a6",
         "party": "Republican",
@@ -26297,43 +26298,43 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_bryce_ron_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_bryce_ron_1/"
       }
     ],
     "KS:110": [
       {
-        "address": null,
+        "address": "State Capitol Room 186-N, Kansas  Building 300 SW 10th St., Topeka, KS 66612",
         "chamber": "lower",
         "district": "110",
         "district_key": "110",
         "email": "ken.rahjes@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_rahjes_ken_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_rahjes_ken_1.jpg",
         "name": "Ken Rahjes",
         "openstates_id": "ocd-person/782cdea1-59a1-4930-8126-ffd1264420f9",
         "party": "Republican",
-        "phone": null,
+        "phone": "785-296-7463",
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_rahjes_ken_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_rahjes_ken_1/"
       }
     ],
     "KS:111": [
       {
-        "address": null,
+        "address": "State Capitol Room 151-S, Kansas  Building 300 SW 10th St., Topeka, KS 66612",
         "chamber": "lower",
         "district": "111",
         "district_key": "111",
         "email": "barb.wasinger@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_wasinger_barbara_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_wasinger_barbara_1.jpg",
         "name": "Barb Wasinger",
         "openstates_id": "ocd-person/7aac5ab6-1590-4cfe-8c02-d61f292497c8",
         "party": "Republican",
-        "phone": null,
+        "phone": "785-296-4683",
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_wasinger_barbara_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_wasinger_barbara_1/"
       }
     ],
     "KS:112": [
@@ -26343,7 +26344,7 @@
         "district": "112",
         "district_key": "112",
         "email": "sherri.brantley@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_brantley_sherri_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_brantley_sherri_1.jpg",
         "name": "Sherri Brantley",
         "openstates_id": "ocd-person/cf31199e-7382-4bbe-9359-92c92b428861",
         "party": "Republican",
@@ -26351,7 +26352,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_brantley_sherri_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_brantley_sherri_1/"
       }
     ],
     "KS:113": [
@@ -26361,7 +26362,7 @@
         "district": "113",
         "district_key": "113",
         "email": "brett.fairchild@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_fairchild_brett_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_fairchild_brett_1.jpg",
         "name": "Brett Fairchild",
         "openstates_id": "ocd-person/ca3f1bf6-44e0-4d67-b242-3cd29905723c",
         "party": "Republican",
@@ -26369,7 +26370,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_fairchild_brett_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_fairchild_brett_1/"
       }
     ],
     "KS:114": [
@@ -26379,7 +26380,7 @@
         "district": "114",
         "district_key": "114",
         "email": "kevin.schwertfeger@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_schwertfeger_kevin_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_schwertfeger_kevin_1.jpg",
         "name": "Kevin Schwertfeger",
         "openstates_id": "ocd-person/d0ddb22e-8135-4ca0-856a-4c00c29f1d47",
         "party": "Republican",
@@ -26387,7 +26388,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_schwertfeger_kevin_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_schwertfeger_kevin_1/"
       }
     ],
     "KS:115": [
@@ -26405,25 +26406,25 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_white_gary_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_white_gary_1/"
       }
     ],
     "KS:116": [
       {
-        "address": null,
+        "address": "State Capitol Room 481-W, Kansas  Building 300 SW 10th St., Topeka, KS 66612",
         "chamber": "lower",
         "district": "116",
         "district_key": "116",
         "email": "kyle.hoffman@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_hoffman_kyle_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_hoffman_kyle_1.jpg",
         "name": "Kyle Hoffman",
         "openstates_id": "ocd-person/c51517ec-db1e-433d-a1d0-683547ae34a2",
         "party": "Republican",
-        "phone": null,
+        "phone": "785-296-7643",
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_hoffman_kyle_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_hoffman_kyle_1/"
       }
     ],
     "KS:117": [
@@ -26433,7 +26434,7 @@
         "district": "117",
         "district_key": "117",
         "email": "adam.turk@house.ks.gov",
-        "image": "http://www.kslegislature.org/li/s/images/pics/rep_turk_adam_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_turk_adam_1.jpg",
         "name": "Adam Turk",
         "openstates_id": "ocd-person/d7dd1de1-73e2-438a-bf25-c70e12ede30d",
         "party": "Republican",
@@ -26441,7 +26442,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_turk_adam_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_turk_adam_1/"
       }
     ],
     "KS:118": [
@@ -26451,7 +26452,7 @@
         "district": "118",
         "district_key": "118",
         "email": "jim.minnix@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_minnix_jim_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_minnix_jim_1.jpg",
         "name": "Jim Minnix",
         "openstates_id": "ocd-person/ca29b8ff-9845-40ba-a196-458cef943041",
         "party": "Republican",
@@ -26459,7 +26460,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_minnix_jim_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_minnix_jim_1/"
       }
     ],
     "KS:119": [
@@ -26469,7 +26470,7 @@
         "district": "119",
         "district_key": "119",
         "email": "jason.goetz@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_goetz_jason_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_goetz_jason_1.jpg",
         "name": "Jason Goetz",
         "openstates_id": "ocd-person/55f1cbff-5420-44f1-8d6e-1970317cd150",
         "party": "Republican",
@@ -26477,7 +26478,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_goetz_jason_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_goetz_jason_1/"
       }
     ],
     "KS:12": [
@@ -26487,7 +26488,7 @@
         "district": "12",
         "district_key": "12",
         "email": "doug.blex@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_blex_doug_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_blex_doug_1.jpg",
         "name": "Doug Blex",
         "openstates_id": "ocd-person/050b34c6-14a3-4998-a67a-13c02217a666",
         "party": "Republican",
@@ -26495,7 +26496,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_blex_doug_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_blex_doug_1/"
       }
     ],
     "KS:120": [
@@ -26505,7 +26506,7 @@
         "district": "120",
         "district_key": "120",
         "email": "adam.smith@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_smith_adam_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_smith_adam_1.jpg",
         "name": "Adam Smith",
         "openstates_id": "ocd-person/c1802270-0126-4be5-b7e7-1a9a472f5fd7",
         "party": "Republican",
@@ -26513,7 +26514,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_smith_adam_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_smith_adam_1/"
       }
     ],
     "KS:121": [
@@ -26523,7 +26524,7 @@
         "district": "121",
         "district_key": "121",
         "email": "mike.storm@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_storm_mike_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_storm_mike_1.jpg",
         "name": "Mike Storm",
         "openstates_id": "ocd-person/daab06b2-f8a1-4ef4-96b4-3826ab4a3905",
         "party": "Republican",
@@ -26531,7 +26532,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_storm_mike_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_storm_mike_1/"
       }
     ],
     "KS:122": [
@@ -26549,7 +26550,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_pishny_lon_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_pishny_lon_1/"
       }
     ],
     "KS:123": [
@@ -26559,7 +26560,7 @@
         "district": "123",
         "district_key": "123",
         "email": "bob.lewis@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_lewis_bob_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_lewis_bob_1.jpg",
         "name": "Bob Lewis",
         "openstates_id": "ocd-person/05ca3b77-c9d8-4d8e-92bf-603b2f71eda6",
         "party": "Republican",
@@ -26567,7 +26568,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_lewis_bob_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_lewis_bob_1/"
       }
     ],
     "KS:124": [
@@ -26577,7 +26578,7 @@
         "district": "124",
         "district_key": "124",
         "email": "marty.long@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_long_martin_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_long_martin_1.jpg",
         "name": "Marty Long",
         "openstates_id": "ocd-person/ef29753b-3048-4126-bc08-353befde18ab",
         "party": "Republican",
@@ -26585,7 +26586,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_long_martin_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_long_martin_1/"
       }
     ],
     "KS:125": [
@@ -26595,7 +26596,7 @@
         "district": "125",
         "district_key": "125",
         "email": "shannon.francis@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_francis_shannon_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_francis_shannon_1.jpg",
         "name": "Shannon Francis",
         "openstates_id": "ocd-person/cc0df3af-9c8b-4834-a629-c16e4c8debcb",
         "party": "Republican",
@@ -26603,7 +26604,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_francis_shannon_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_francis_shannon_1/"
       }
     ],
     "KS:13": [
@@ -26613,7 +26614,7 @@
         "district": "13",
         "district_key": "13",
         "email": "duane.droge@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_droge_duane_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_droge_duane_1.jpg",
         "name": "Duane Droge",
         "openstates_id": "ocd-person/75db09fb-b9dd-4c6f-ae73-bfde55d7dd62",
         "party": "Republican",
@@ -26621,7 +26622,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_droge_duane_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_droge_duane_1/"
       }
     ],
     "KS:14": [
@@ -26639,7 +26640,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_esau_charlotte_1/"
+        "url": "https://www.kslegislature.gov/b2025_26/legislators/rep_esau_charlotte_1/"
       }
     ],
     "KS:15": [
@@ -26649,7 +26650,7 @@
         "district": "15",
         "district_key": "15",
         "email": "lauren.bohi@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_bohi_lauren_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_bohi_lauren_1.jpg",
         "name": "Lauren Bohi",
         "openstates_id": "ocd-person/20c5c197-1683-45a4-a6f6-32b9cab0ba93",
         "party": "Republican",
@@ -26657,7 +26658,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_bohi_lauren_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_bohi_lauren_1/"
       }
     ],
     "KS:16": [
@@ -26675,7 +26676,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_featherston_linda_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_featherston_linda_1/"
       }
     ],
     "KS:17": [
@@ -26693,7 +26694,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_hoye_jo_ella_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_hoye_jo_ella_1/"
       }
     ],
     "KS:18": [
@@ -26703,7 +26704,7 @@
         "district": "18",
         "district_key": "18",
         "email": "cindy.neighbor@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_neighbor_cindy_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_neighbor_cindy_1.jpg",
         "name": "Cindy Neighbor",
         "openstates_id": "ocd-person/eafd24b5-d096-4fa0-92c4-3b4ced58c40f",
         "party": "Democratic",
@@ -26711,7 +26712,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_neighbor_cindy_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_neighbor_cindy_1/"
       }
     ],
     "KS:19": [
@@ -26721,7 +26722,7 @@
         "district": "19",
         "district_key": "19",
         "email": "stephanie.clayton@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_clayton_stephanie_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_clayton_stephanie_1.jpg",
         "name": "Stephanie Sawyer-Clayton",
         "openstates_id": "ocd-person/6c410bc7-76fd-4488-aca4-5158a5a55d70",
         "party": "Democratic",
@@ -26729,7 +26730,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_clayton_stephanie_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_clayton_stephanie_1/"
       }
     ],
     "KS:2": [
@@ -26739,7 +26740,7 @@
         "district": "2",
         "district_key": "2",
         "email": "ken.collins@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_collins_kenneth_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_collins_kenneth_1.jpg",
         "name": "Ken Collins",
         "openstates_id": "ocd-person/9d1f2540-8f56-49c1-be08-2ee7b7faed8e",
         "party": "Republican",
@@ -26747,7 +26748,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_collins_kenneth_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_collins_kenneth_1/"
       }
     ],
     "KS:20": [
@@ -26757,7 +26758,7 @@
         "district": "20",
         "district_key": "20",
         "email": "mari-lynn.poskin@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_poskin_mari_lynn_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_poskin_mari_lynn_1.jpg",
         "name": "Mari-Lynn Poskin",
         "openstates_id": "ocd-person/46d9caea-ab2c-4a6e-a08c-ebc927403dc8",
         "party": "Democratic",
@@ -26765,25 +26766,25 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_poskin_mari_lynn_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_poskin_mari_lynn_1/"
       }
     ],
     "KS:21": [
       {
-        "address": null,
+        "address": "State Capitol Room 452-S, Kansas  Building 300 SW 10th St., Topeka, KS 66612",
         "chamber": "lower",
         "district": "21",
         "district_key": "21",
         "email": "jerry.stogsdill@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_stogsdill_jerry_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_stogsdill_jerry_1.jpg",
         "name": "Jerry Stogsdill",
         "openstates_id": "ocd-person/4a358caf-0fad-4d45-8fa7-3c5ef062a544",
         "party": "Democratic",
-        "phone": null,
+        "phone": "785-296-7692",
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_stogsdill_jerry_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_stogsdill_jerry_1/"
       }
     ],
     "KS:22": [
@@ -26793,7 +26794,7 @@
         "district": "22",
         "district_key": "22",
         "email": "lindsay.vaughn@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_vaughn_lindsay_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_vaughn_lindsay_1.jpg",
         "name": "Lindsay Vaughn",
         "openstates_id": "ocd-person/4a16a87e-2567-4361-9874-aaee47278840",
         "party": "Democratic",
@@ -26801,7 +26802,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_vaughn_lindsay_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_vaughn_lindsay_1/"
       }
     ],
     "KS:23": [
@@ -26811,7 +26812,7 @@
         "district": "23",
         "district_key": "23",
         "email": "susan.ruiz@house.ks.gov",
-        "image": "http://www.kslegislature.org/li/s/images/pics/rep_ruiz_susan_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_ruiz_susan_1.jpg",
         "name": "Susan Ruiz",
         "openstates_id": "ocd-person/c06bc779-d072-495b-95f8-e5f4e67bdd4c",
         "party": "Democratic",
@@ -26819,7 +26820,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_ruiz_susan_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_ruiz_susan_1/"
       }
     ],
     "KS:24": [
@@ -26829,7 +26830,7 @@
         "district": "24",
         "district_key": "24",
         "email": "jarrod.ousley@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_ousley_jarrod_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_ousley_jarrod_1.jpg",
         "name": "Jarrod Ousley",
         "openstates_id": "ocd-person/65fa3818-4803-4821-8533-51a7802694ec",
         "party": "Democratic",
@@ -26837,7 +26838,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_ousley_jarrod_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_ousley_jarrod_1/"
       }
     ],
     "KS:25": [
@@ -26855,7 +26856,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_xu_rui_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_xu_rui_1/"
       }
     ],
     "KS:26": [
@@ -26865,7 +26866,7 @@
         "district": "26",
         "district_key": "26",
         "email": "chip.vanhouden@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_vanhouden_charles_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_vanhouden_charles_1.jpg",
         "name": "Chip VanHouden",
         "openstates_id": "ocd-person/bb92c4f1-d89e-4147-9b09-5fc1f56fca1c",
         "party": "Republican",
@@ -26873,7 +26874,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_vanhouden_charles_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_vanhouden_charles_1/"
       }
     ],
     "KS:27": [
@@ -26883,7 +26884,7 @@
         "district": "27",
         "district_key": "27",
         "email": "sean.tarwater@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_tarwater_sean_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_tarwater_sean_1.jpg",
         "name": "Sean Tarwater",
         "openstates_id": "ocd-person/a65df523-1cb7-4ee3-ac85-1eec82b3fe2c",
         "party": "Republican",
@@ -26891,7 +26892,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_tarwater_sean_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_tarwater_sean_1/"
       }
     ],
     "KS:28": [
@@ -26901,7 +26902,7 @@
         "district": "28",
         "district_key": "28",
         "email": "carl.turner@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_turner_carl_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_turner_carl_1.jpg",
         "name": "Carl Turner",
         "openstates_id": "ocd-person/71b474cb-1732-41fc-b525-4d53911cbbbe",
         "party": "Republican",
@@ -26909,7 +26910,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_turner_carl_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_turner_carl_1/"
       }
     ],
     "KS:29": [
@@ -26919,7 +26920,7 @@
         "district": "29",
         "district_key": "29",
         "email": "heather.meyer@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_meyer_heather_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_meyer_heather_1.jpg",
         "name": "Heather Meyer",
         "openstates_id": "ocd-person/eaf4ca2d-ba48-4c99-88cc-2845e7237143",
         "party": "Democratic",
@@ -26927,25 +26928,25 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_meyer_heather_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_meyer_heather_1/"
       }
     ],
     "KS:3": [
       {
-        "address": null,
+        "address": "State Capitol Room 519-N, Kansas  Building 300 SW 10th St., Topeka, KS 66612",
         "chamber": "lower",
         "district": "3",
         "district_key": "3",
         "email": "chuck.smith@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_smith_charles_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_smith_charles_1.jpg",
         "name": "Chuck Smith",
         "openstates_id": "ocd-person/8b617466-af12-4848-8cca-ed088fb196da",
         "party": "Republican",
-        "phone": null,
+        "phone": "785-296-7426",
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_smith_charles_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_smith_charles_1/"
       }
     ],
     "KS:30": [
@@ -26955,7 +26956,7 @@
         "district": "30",
         "district_key": "30",
         "email": "laura.williams@house.ks.gov",
-        "image": "http://www.kslegislature.org/li/s/images/pics/rep_williams_laura_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_williams_laura_1.jpg",
         "name": "Laura Williams",
         "openstates_id": "ocd-person/0ebc0742-f24c-4ab3-9155-7a4c37e2fa87",
         "party": "Republican",
@@ -26963,43 +26964,43 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_williams_laura_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_williams_laura_1/"
       }
     ],
     "KS:31": [
       {
-        "address": null,
+        "address": "State Capitol Room 47-S, Kansas  Building 300 SW 10th St., Topeka, KS 66612",
         "chamber": "lower",
         "district": "31",
         "district_key": "31",
         "email": "louis.ruiz@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_ruiz_louis_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_ruiz_louis_1.jpg",
         "name": "Louis Ruiz",
         "openstates_id": "ocd-person/6a7f0eed-6a34-4bd2-842c-2978ca9c6008",
         "party": "Democratic",
-        "phone": null,
+        "phone": "785-296-7885",
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_ruiz_louis_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_ruiz_louis_1/"
       }
     ],
     "KS:32": [
       {
-        "address": null,
+        "address": "State Capitol Room 452-S, Kansas  Building 300 SW 10th St., Topeka, KS 66612",
         "chamber": "lower",
         "district": "32",
         "district_key": "32",
         "email": "pam.curtis@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_curtis_pam_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_curtis_pam_1.jpg",
         "name": "Pam Curtis",
         "openstates_id": "ocd-person/57e6524f-40c5-4708-89ad-c80570bf31b1",
         "party": "Democratic",
-        "phone": null,
+        "phone": "785-296-7430",
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_curtis_pam_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_curtis_pam_1/"
       }
     ],
     "KS:33": [
@@ -27009,7 +27010,7 @@
         "district": "33",
         "district_key": "33",
         "email": "carolyn.caiharr@house.ks.gov",
-        "image": "https://sunflowerstatejournal.com/wp-content/uploads/2025/08/IMG_1022.jpeg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_caiharr_carolyn_1.jpg",
         "name": "Carolyn Caiharr",
         "openstates_id": "ocd-person/f1e5ad82-52f7-4a6a-b028-40df8a3f929b",
         "party": "Republican",
@@ -27017,25 +27018,25 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_caiharr_carolyn_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_caiharr_carolyn_1/"
       }
     ],
     "KS:34": [
       {
-        "address": null,
+        "address": "State Capitol Room 54-S, Kansas  Building 300 SW 10th St., Topeka, KS 66612",
         "chamber": "lower",
         "district": "34",
         "district_key": "34",
         "email": "valdenia.winn@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_winn_valdenia_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_winn_valdenia_1.jpg",
         "name": "Val Winn",
         "openstates_id": "ocd-person/8d608ede-12f3-4ec4-8206-2c3dde0db6b7",
         "party": "Democratic",
-        "phone": null,
+        "phone": "785-296-5593",
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_winn_valdenia_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_winn_valdenia_1/"
       }
     ],
     "KS:35": [
@@ -27063,7 +27064,7 @@
         "district": "36",
         "district_key": "36",
         "email": "lynn.melton@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_melton_lynn_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_melton_lynn_1.jpg",
         "name": "Lynn Melton",
         "openstates_id": "ocd-person/c1529b6d-c377-4491-9397-d61c1301243a",
         "party": "Democratic",
@@ -27071,7 +27072,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_melton_lynn_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_melton_lynn_1/"
       }
     ],
     "KS:37": [
@@ -27089,7 +27090,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_oropeza_melissa_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_oropeza_melissa_1/"
       }
     ],
     "KS:38": [
@@ -27099,7 +27100,7 @@
         "district": "38",
         "district_key": "38",
         "email": "timothy.johnson@house.ks.gov",
-        "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Timothy-Johnson.PNG",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_johnson_timothy_1.jpg",
         "name": "Tim Johnson",
         "openstates_id": "ocd-person/ecff64bf-dfd7-4df4-a1c2-681348e68fa8",
         "party": "Republican",
@@ -27107,7 +27108,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_johnson_timothy_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_johnson_timothy_1/"
       }
     ],
     "KS:39": [
@@ -27117,7 +27118,7 @@
         "district": "39",
         "district_key": "39",
         "email": "angela.stiens@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_stiens_angela_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_stiens_angela_1.jpg",
         "name": "Angela Stiens",
         "openstates_id": "ocd-person/e0cddd71-639c-4b74-8dea-bc189418034d",
         "party": "Republican",
@@ -27125,7 +27126,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_stiens_angela_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_stiens_angela_1/"
       }
     ],
     "KS:4": [
@@ -27135,7 +27136,7 @@
         "district": "4",
         "district_key": "4",
         "email": "rick.james@house.ks.gov",
-        "image": "https://fortscott.biz/wp-content/uploads/2024/06/rick-james-submitted-.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_james_ricky_1.jpg",
         "name": "Rick James",
         "openstates_id": "ocd-person/241d0891-9169-443e-be77-d3d00a57f401",
         "party": "Republican",
@@ -27143,7 +27144,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_james_ricky_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_james_ricky_1/"
       }
     ],
     "KS:40": [
@@ -27153,7 +27154,7 @@
         "district": "40",
         "district_key": "40",
         "email": "david.buehler@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_buehler_david_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_buehler_david_1.jpg",
         "name": "Dave Buehler",
         "openstates_id": "ocd-person/0a2abc46-725c-4637-bf38-dc83cb7f90fd",
         "party": "Republican",
@@ -27161,7 +27162,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_buehler_david_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_buehler_david_1/"
       }
     ],
     "KS:41": [
@@ -27171,7 +27172,7 @@
         "district": "41",
         "district_key": "41",
         "email": "pat.proctor@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_proctor_pat_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_proctor_pat_1.jpg",
         "name": "Pat Proctor",
         "openstates_id": "ocd-person/fcd23935-0e7e-4896-9381-45ca745e8903",
         "party": "Republican",
@@ -27179,7 +27180,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_proctor_pat_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_proctor_pat_1/"
       }
     ],
     "KS:42": [
@@ -27189,7 +27190,7 @@
         "district": "42",
         "district_key": "42",
         "email": "lance.neelly@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_neelly_lance_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_neelly_lance_1.jpg",
         "name": "Lance Neelly",
         "openstates_id": "ocd-person/a1546322-9d4b-467c-a65a-57dddcc9c4cf",
         "party": "Republican",
@@ -27197,7 +27198,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_neelly_lance_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_neelly_lance_1/"
       }
     ],
     "KS:43": [
@@ -27207,7 +27208,7 @@
         "district": "43",
         "district_key": "43",
         "email": "bill.sutton@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_sutton_william_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_sutton_william_1.jpg",
         "name": "Bill Sutton",
         "openstates_id": "ocd-person/dc23fc2c-0f64-4fab-96ec-951f0efbe7bb",
         "party": "Republican",
@@ -27215,12 +27216,12 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_sutton_william_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_sutton_william_1/"
       }
     ],
     "KS:44": [
       {
-        "address": null,
+        "address": "State Capitol Room 451-S, Kansas  Building 300 SW 10th St., Topeka, KS 66612",
         "chamber": "lower",
         "district": "44",
         "district_key": "44",
@@ -27229,11 +27230,11 @@
         "name": "Barbara Ballard",
         "openstates_id": "ocd-person/3bf41768-e1b5-4017-8ab5-8d1fb1d6521c",
         "party": "Democratic",
-        "phone": null,
+        "phone": "785-296-7697",
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_ballard_barbara_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_ballard_barbara_1/"
       }
     ],
     "KS:45": [
@@ -27243,7 +27244,7 @@
         "district": "45",
         "district_key": "45",
         "email": "mike.amyx@house.ks.gov",
-        "image": "https://assets.lawrenceks.org/images/commission/mike-amyx.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_amyx_mike_1.jpg",
         "name": "Mike Amyx",
         "openstates_id": "ocd-person/05204bb3-1917-4f12-848e-b83f68f5fddf",
         "party": "Democratic",
@@ -27251,7 +27252,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_amyx_mike_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_amyx_mike_1/"
       }
     ],
     "KS:46": [
@@ -27261,7 +27262,7 @@
         "district": "46",
         "district_key": "46",
         "email": "brooklynne.mosley@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_mosley_brooklynne_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_mosley_brooklynne_1.jpg",
         "name": "Brooklynne Mosley",
         "openstates_id": "ocd-person/7191d22a-a111-4e14-b3d2-87c4084bea1b",
         "party": "Democratic",
@@ -27269,7 +27270,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_mosley_brooklynne_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_mosley_brooklynne_1/"
       }
     ],
     "KS:47": [
@@ -27279,7 +27280,7 @@
         "district": "47",
         "district_key": "47",
         "email": "ronald.ellis@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_ellis_ronald_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_ellis_ronald_1.jpg",
         "name": "Ronald Ellis",
         "openstates_id": "ocd-person/6daed22d-40c3-492c-948a-d3de94499e53",
         "party": "Republican",
@@ -27287,7 +27288,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_ellis_ronald_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_ellis_ronald_1/"
       }
     ],
     "KS:48": [
@@ -27297,7 +27298,7 @@
         "district": "48",
         "district_key": "48",
         "email": "dan.osman@house.ks.gov",
-        "image": "http://www.kslegislature.org/li/s/images/pics/rep_osman_dan_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_osman_dan_1.jpg",
         "name": "Dan Osman",
         "openstates_id": "ocd-person/d9b94e4b-d2b0-4139-8135-cba9ff03e8b7",
         "party": "Democratic",
@@ -27305,7 +27306,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_osman_dan_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_osman_dan_1/"
       }
     ],
     "KS:49": [
@@ -27315,7 +27316,7 @@
         "district": "49",
         "district_key": "49",
         "email": "nikki.mcdonald@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_mcdonald_nikki_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_mcdonald_nikki_1.jpg",
         "name": "Nikki McDonald",
         "openstates_id": "ocd-person/7bb01d00-be23-4fb4-ab33-074c2826b69e",
         "party": "Democratic",
@@ -27323,7 +27324,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_mcdonald_nikki_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_mcdonald_nikki_1/"
       }
     ],
     "KS:5": [
@@ -27333,7 +27334,7 @@
         "district": "5",
         "district_key": "5",
         "email": "courtney.sappington@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_sappington_courtney_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_sappington_courtney_1.jpg",
         "name": "Courtney Sappington",
         "openstates_id": "ocd-person/3618106c-5f38-4df6-bf12-d58576bd7c93",
         "party": "Republican",
@@ -27341,7 +27342,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_sappington_courtney_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_sappington_courtney_1/"
       }
     ],
     "KS:50": [
@@ -27351,7 +27352,7 @@
         "district": "50",
         "district_key": "50",
         "email": "kyle.mcnorton@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_mcnorton_kyle_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_mcnorton_kyle_1.jpg",
         "name": "Kyle McNorton",
         "openstates_id": "ocd-person/2abcd1bf-54b0-4abe-a716-065895d88d6b",
         "party": "Republican",
@@ -27359,7 +27360,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_mcnorton_kyle_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_mcnorton_kyle_1/"
       }
     ],
     "KS:51": [
@@ -27369,7 +27370,7 @@
         "district": "51",
         "district_key": "51",
         "email": "megan.steele@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_steele_megan_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_steele_megan_1.jpg",
         "name": "Megan Steele",
         "openstates_id": "ocd-person/2b9bf649-25fe-4910-8ee9-fe1de5e978da",
         "party": "Republican",
@@ -27377,7 +27378,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_steele_megan_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_steele_megan_1/"
       }
     ],
     "KS:52": [
@@ -27387,7 +27388,7 @@
         "district": "52",
         "district_key": "52",
         "email": "jesse.borjon@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_borjon_jesse_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_borjon_jesse_1.jpg",
         "name": "Jesse Borjon",
         "openstates_id": "ocd-person/0c2ba27f-4208-475d-a625-a12c5f0581b5",
         "party": "Republican",
@@ -27395,7 +27396,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_borjon_jesse_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_borjon_jesse_1/"
       }
     ],
     "KS:53": [
@@ -27405,7 +27406,7 @@
         "district": "53",
         "district_key": "53",
         "email": "kirk.haskins@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_haskins_kirk_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_haskins_kirk_1.jpg",
         "name": "Kirk Haskins",
         "openstates_id": "ocd-person/a81f29c0-88a5-4984-a36e-214eddb912fb",
         "party": "Democratic",
@@ -27413,25 +27414,25 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_haskins_kirk_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_haskins_kirk_1/"
       }
     ],
     "KS:54": [
       {
-        "address": null,
+        "address": "State Capitol Room 187-N, Kansas  Building 300 SW 10th St., Topeka, KS 66612",
         "chamber": "lower",
         "district": "54",
         "district_key": "54",
         "email": "ken.corbet@house.ks.gov",
-        "image": "https://ogden_images.s3.amazonaws.com/www.ljworld.com/images/2012/10/21162428/corbet_ken-682x1024.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_corbet_ken_1.jpg",
         "name": "Ken Corbet",
         "openstates_id": "ocd-person/afee9b4c-c30b-4cba-b5a2-e20a186c75b1",
         "party": "Republican",
-        "phone": null,
+        "phone": "785-296-7679",
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_corbet_ken_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_corbet_ken_1/"
       }
     ],
     "KS:55": [
@@ -27449,7 +27450,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_schlingensiepen_tobias_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_schlingensiepen_tobias_1/"
       }
     ],
     "KS:56": [
@@ -27459,7 +27460,7 @@
         "district": "56",
         "district_key": "56",
         "email": "virgil.weigel@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_weigel_virgil_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_weigel_virgil_1.jpg",
         "name": "Virgil Weigel",
         "openstates_id": "ocd-person/acb8f24a-aecd-43a5-887c-be8bbf963e3d",
         "party": "Democratic",
@@ -27467,7 +27468,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_weigel_virgil_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_weigel_virgil_1/"
       }
     ],
     "KS:57": [
@@ -27477,7 +27478,7 @@
         "district": "57",
         "district_key": "57",
         "email": "john.alcala@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_alcala_john_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_alcala_john_1.jpg",
         "name": "John Alcala",
         "openstates_id": "ocd-person/f29363f0-8ac1-4c25-a8a7-74db5cefd9a4",
         "party": "Democratic",
@@ -27485,7 +27486,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_alcala_john_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_alcala_john_1/"
       }
     ],
     "KS:58": [
@@ -27495,7 +27496,7 @@
         "district": "58",
         "district_key": "58",
         "email": "alexis.simmons@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_simmons_alexis_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_simmons_alexis_1.jpg",
         "name": "Alexis Simmons",
         "openstates_id": "ocd-person/f3a06f5c-fe9a-42c9-ad04-82e1532b6979",
         "party": "Democratic",
@@ -27503,7 +27504,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_simmons_alexis_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_simmons_alexis_1/"
       }
     ],
     "KS:59": [
@@ -27513,7 +27514,7 @@
         "district": "59",
         "district_key": "59",
         "email": "rebecca.schmoe@house.ks.gov",
-        "image": "http://www.kslegislature.org/li/s/images/pics/rep_schmoe_rebecca_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_schmoe_rebecca_1.jpg",
         "name": "Rebecca Schmoe",
         "openstates_id": "ocd-person/23c34f8e-b06b-4de9-91c3-44892dbb2b7d",
         "party": "Republican",
@@ -27521,7 +27522,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_schmoe_rebecca_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_schmoe_rebecca_1/"
       }
     ],
     "KS:6": [
@@ -27531,7 +27532,7 @@
         "district": "6",
         "district_key": "6",
         "email": "samantha.poetter@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_poetter_samantha_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_poetter_samantha_1.jpg",
         "name": "Samantha Poetter Parshall",
         "openstates_id": "ocd-person/31351496-5fc5-44fc-911f-0e7547a50a72",
         "party": "Republican",
@@ -27539,7 +27540,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_poetter_samantha_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_poetter_samantha_1/"
       }
     ],
     "KS:60": [
@@ -27549,7 +27550,7 @@
         "district": "60",
         "district_key": "60",
         "email": "mark.schreiber@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_schreiber_mark_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_schreiber_mark_1.jpg",
         "name": "Mark Schreiber",
         "openstates_id": "ocd-person/1748d756-be07-4eaf-be90-82992092e990",
         "party": "Republican",
@@ -27557,7 +27558,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_schreiber_mark_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_schreiber_mark_1/"
       }
     ],
     "KS:61": [
@@ -27567,7 +27568,7 @@
         "district": "61",
         "district_key": "61",
         "email": "francis.awerkamp@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_awerkamp_francis_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_awerkamp_francis_1.jpg",
         "name": "Francis Awerkamp",
         "openstates_id": "ocd-person/aa7fa5a0-596b-4f52-9af5-732b76f875e9",
         "party": "Republican",
@@ -27575,7 +27576,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_awerkamp_francis_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_awerkamp_francis_1/"
       }
     ],
     "KS:62": [
@@ -27585,7 +27586,7 @@
         "district": "62",
         "district_key": "62",
         "email": "sean.willcott@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_willcott_sean_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_willcott_sean_1.jpg",
         "name": "Sean Willcott",
         "openstates_id": "ocd-person/c4b83a00-d449-498a-915f-7a7943110545",
         "party": "Republican",
@@ -27593,7 +27594,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_willcott_sean_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_willcott_sean_1/"
       }
     ],
     "KS:63": [
@@ -27611,7 +27612,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_reavis_allen_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_reavis_allen_1/"
       }
     ],
     "KS:64": [
@@ -27621,7 +27622,7 @@
         "district": "64",
         "district_key": "64",
         "email": "lewis.bloom@house.ks.gov",
-        "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Lewis_Bloom.png",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_bloom_lewis_1.jpg",
         "name": "Bill Bloom",
         "openstates_id": "ocd-person/e6316819-6e7e-4560-9acf-a7c28e5cfbe7",
         "party": "Republican",
@@ -27629,7 +27630,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_bloom_lewis_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_bloom_lewis_1/"
       }
     ],
     "KS:65": [
@@ -27639,7 +27640,7 @@
         "district": "65",
         "district_key": "65",
         "email": "shawn.chauncey@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_chauncey_shawn_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_chauncey_shawn_1.jpg",
         "name": "Shawn Chauncey",
         "openstates_id": "ocd-person/97a9a84c-4616-44eb-845c-1e7064c41066",
         "party": "Republican",
@@ -27647,12 +27648,12 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_chauncey_shawn_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_chauncey_shawn_1/"
       }
     ],
     "KS:66": [
       {
-        "address": "State Capitol Room 451-S, Kansas  Building 300 SW 10th St., Topeka, KS 66612",
+        "address": null,
         "chamber": "lower",
         "district": "66",
         "district_key": "66",
@@ -27661,11 +27662,11 @@
         "name": "Sydney Carlin",
         "openstates_id": "ocd-person/61dc8b8f-5016-4114-b08a-b2dd0cb16993",
         "party": "Democratic",
-        "phone": "785-296-7657",
+        "phone": null,
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_carlin_sydney_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_carlin_sydney_1/"
       }
     ],
     "KS:67": [
@@ -27675,7 +27676,7 @@
         "district": "67",
         "district_key": "67",
         "email": "angel.roeser@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_roeser_angelina_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_roeser_angelina_1.jpg",
         "name": "Angel Roeser",
         "openstates_id": "ocd-person/372f4e97-d36e-41c3-aae3-fd69da828ee5",
         "party": "Republican",
@@ -27683,7 +27684,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_roeser_angelina_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_roeser_angelina_1/"
       }
     ],
     "KS:68": [
@@ -27693,7 +27694,7 @@
         "district": "68",
         "district_key": "68",
         "email": "nate.butler@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_butler_nathan_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_butler_nathan_1.jpg",
         "name": "Nate Butler",
         "openstates_id": "ocd-person/529d7e5b-3acd-467b-b6b2-bf4314fcf633",
         "party": "Republican",
@@ -27701,7 +27702,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_butler_nathan_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_butler_nathan_1/"
       }
     ],
     "KS:69": [
@@ -27711,7 +27712,7 @@
         "district": "69",
         "district_key": "69",
         "email": "clarke.sanders@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_sanders_clarke_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_sanders_clarke_1.jpg",
         "name": "Clarke Sanders",
         "openstates_id": "ocd-person/3df522a5-5542-4ad4-b1bf-54736e60c601",
         "party": "Republican",
@@ -27719,7 +27720,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_sanders_clarke_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_sanders_clarke_1/"
       }
     ],
     "KS:7": [
@@ -27729,7 +27730,7 @@
         "district": "7",
         "district_key": "7",
         "email": "dan.goddard@house.ks.gov",
-        "image": "http://www.kslegislature.org/li/s/images/pics/rep_goddard_dan_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_goddard_dan_1.jpg",
         "name": "Dan Goddard",
         "openstates_id": "ocd-person/2d7cf122-fd6c-406c-a158-de6c61ff0afa",
         "party": "Republican",
@@ -27737,7 +27738,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_goddard_dan_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_goddard_dan_1/"
       }
     ],
     "KS:70": [
@@ -27755,7 +27756,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_wilson_greg_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_wilson_greg_1/"
       }
     ],
     "KS:71": [
@@ -27765,7 +27766,7 @@
         "district": "71",
         "district_key": "71",
         "email": "steven.howe@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_howe_steven_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_howe_steven_1.jpg",
         "name": "Steve Howe",
         "openstates_id": "ocd-person/e5b4d1e8-40a3-4f75-af3a-36fc7e84a228",
         "party": "Republican",
@@ -27773,7 +27774,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_howe_steven_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_howe_steven_1/"
       }
     ],
     "KS:72": [
@@ -27783,7 +27784,7 @@
         "district": "72",
         "district_key": "72",
         "email": "avery.anderson@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_anderson_avery_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_anderson_avery_1.jpg",
         "name": "Avery Anderson",
         "openstates_id": "ocd-person/4544fc4e-fff8-4bbe-bc29-4e28c6be3179",
         "party": "Republican",
@@ -27791,7 +27792,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_anderson_avery_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_anderson_avery_1/"
       }
     ],
     "KS:73": [
@@ -27801,7 +27802,7 @@
         "district": "73",
         "district_key": "73",
         "email": "richard.wilborn@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/sen_wilborn_rick_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_wilborn_rick_1.jpg",
         "name": "Rick Wilborn",
         "openstates_id": "ocd-person/d9e298ca-0584-41ff-bb18-082072dfe73f",
         "party": "Republican",
@@ -27809,7 +27810,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_wilborn_rick_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_wilborn_rick_1/"
       }
     ],
     "KS:74": [
@@ -27819,7 +27820,7 @@
         "district": "74",
         "district_key": "74",
         "email": "mike.king@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_king_mike_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_king_mike_1.jpg",
         "name": "Mike King",
         "openstates_id": "ocd-person/59368846-3703-44a5-a898-d7ab00c32c8b",
         "party": "Republican",
@@ -27827,7 +27828,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_king_mike_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_king_mike_1/"
       }
     ],
     "KS:75": [
@@ -27845,7 +27846,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_carpenter_will_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_carpenter_will_1/"
       }
     ],
     "KS:76": [
@@ -27855,7 +27856,7 @@
         "district": "76",
         "district_key": "76",
         "email": "brad.barrett@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_barrett_bradley_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_barrett_bradley_1.jpg",
         "name": "Brad Barrett",
         "openstates_id": "ocd-person/cb7f246f-5619-4086-8e6a-79614bcbaca6",
         "party": "Republican",
@@ -27863,7 +27864,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_barrett_bradley_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_barrett_bradley_1/"
       }
     ],
     "KS:77": [
@@ -27873,7 +27874,7 @@
         "district": "77",
         "district_key": "77",
         "email": "kristey.williams@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_williams_kristey_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_williams_kristey_1.jpg",
         "name": "Kristey Williams",
         "openstates_id": "ocd-person/81803637-3bf0-4bbe-9ae4-7724488955b7",
         "party": "Republican",
@@ -27881,7 +27882,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_williams_kristey_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_williams_kristey_1/"
       }
     ],
     "KS:78": [
@@ -27891,7 +27892,7 @@
         "district": "78",
         "district_key": "78",
         "email": "robyn.essex@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_essex_robyn_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_essex_robyn_1.jpg",
         "name": "Robyn Essex",
         "openstates_id": "ocd-person/d034154f-ba03-4c97-ac96-c4023968f9b3",
         "party": "Republican",
@@ -27899,7 +27900,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_essex_robyn_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_essex_robyn_1/"
       }
     ],
     "KS:79": [
@@ -27909,7 +27910,7 @@
         "district": "79",
         "district_key": "79",
         "email": "webster.roth@house.ks.gov",
-        "image": "http://www.kslegislature.org/li/s/images/pics/rep_roth_webster_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_roth_webster_1.jpg",
         "name": "Web Roth",
         "openstates_id": "ocd-person/41909a90-1eff-473a-8cb7-3c8770f667f4",
         "party": "Republican",
@@ -27917,7 +27918,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_roth_webster_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_roth_webster_1/"
       }
     ],
     "KS:8": [
@@ -27927,7 +27928,7 @@
         "district": "8",
         "district_key": "8",
         "email": "chris.croft@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_croft_chris_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_croft_chris_1.jpg",
         "name": "Chris Croft",
         "openstates_id": "ocd-person/e0cd5e74-7229-4c04-be9e-aa688868e703",
         "party": "Republican",
@@ -27935,7 +27936,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_croft_chris_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_croft_chris_1/"
       }
     ],
     "KS:80": [
@@ -27945,7 +27946,7 @@
         "district": "80",
         "district_key": "80",
         "email": "bill.rhiley@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_rhiley_bill_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_rhiley_bill_1.jpg",
         "name": "Bill Rhiley",
         "openstates_id": "ocd-person/d01abc3e-cce3-450e-8d2c-41491b5bbde6",
         "party": "Republican",
@@ -27953,7 +27954,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_rhiley_bill_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_rhiley_bill_1/"
       }
     ],
     "KS:81": [
@@ -27971,7 +27972,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_carpenter_blake_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_carpenter_blake_1/"
       }
     ],
     "KS:82": [
@@ -27989,7 +27990,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_howell_leah_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_howell_leah_1/"
       }
     ],
     "KS:83": [
@@ -28007,7 +28008,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_helgerson_henry_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_helgerson_henry_1/"
       }
     ],
     "KS:84": [
@@ -28017,7 +28018,7 @@
         "district": "84",
         "district_key": "84",
         "email": "ford.carr@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_carr_ford_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_carr_ford_1.jpg",
         "name": "Ford Carr",
         "openstates_id": "ocd-person/96643a66-5a00-41ba-9aa6-fc126a92849c",
         "party": "Democratic",
@@ -28025,7 +28026,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_carr_ford_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_carr_ford_1/"
       }
     ],
     "KS:85": [
@@ -28035,7 +28036,7 @@
         "district": "85",
         "district_key": "85",
         "email": "steve.brunk@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_brunk_steve_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_brunk_steve_1.jpg",
         "name": "Steve Brunk",
         "openstates_id": "ocd-person/434a4028-6a95-4e5c-8f5e-98c8762f6570",
         "party": "Republican",
@@ -28043,7 +28044,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_brunk_steve_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_brunk_steve_1/"
       }
     ],
     "KS:86": [
@@ -28053,7 +28054,7 @@
         "district": "86",
         "district_key": "86",
         "email": "abi.boatman@house.ks.gov",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyf1OqbY53kdN7weK9WEc-d2TY_Hwkdzpng&s",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_boatman_abi_1.jpg",
         "name": "Abi Boatman",
         "openstates_id": "ocd-person/052c229e-ad06-4b61-abec-4e64858b3a3b",
         "party": "Democratic",
@@ -28061,7 +28062,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_boatman_abi_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_boatman_abi_1/"
       }
     ],
     "KS:87": [
@@ -28071,7 +28072,7 @@
         "district": "87",
         "district_key": "87",
         "email": "susan.estes@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_estes_susan_2.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_estes_susan_2.jpg",
         "name": "Susan Estes",
         "openstates_id": "ocd-person/075f264c-efcf-408f-baf8-b3f9306bae36",
         "party": "Republican",
@@ -28079,7 +28080,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_estes_susan_2/"
+        "url": "https://www.kslegislature.gov/legislators/rep_estes_susan_2/"
       }
     ],
     "KS:88": [
@@ -28089,7 +28090,7 @@
         "district": "88",
         "district_key": "88",
         "email": "sandy.pickert@house.ks.gov",
-        "image": "http://www.kslegislature.org/li/s/images/pics/rep_pickert_sandy_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_pickert_sandy_1.jpg",
         "name": "Sandy Pickert",
         "openstates_id": "ocd-person/8e21a303-1c30-4c02-a8f8-8eacccb6873c",
         "party": "Republican",
@@ -28097,7 +28098,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_pickert_sandy_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_pickert_sandy_1/"
       }
     ],
     "KS:89": [
@@ -28107,7 +28108,7 @@
         "district": "89",
         "district_key": "89",
         "email": "kc.ohaebosim@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_ohaebosim_kc_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_ohaebosim_kc_1.jpg",
         "name": "K.C. Ohaebosim",
         "openstates_id": "ocd-person/16ed9e2b-5a1b-48b1-99c9-651a55061060",
         "party": "Democratic",
@@ -28115,7 +28116,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_ohaebosim_kc_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_ohaebosim_kc_1/"
       }
     ],
     "KS:9": [
@@ -28125,7 +28126,7 @@
         "district": "9",
         "district_key": "9",
         "email": "fred.gardner@house.ks.gov",
-        "image": "http://www.kslegislature.org/li/s/images/pics/rep_gardner_fred_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_gardner_fred_1.jpg",
         "name": "Fred Gardner",
         "openstates_id": "ocd-person/3ebdf5bf-c602-4181-914d-fd63b564ea2b",
         "party": "Republican",
@@ -28133,25 +28134,25 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_gardner_fred_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_gardner_fred_1/"
       }
     ],
     "KS:90": [
       {
-        "address": null,
+        "address": "State Capitol Room 512-N, Kansas  Building 300 SW 10th St., Topeka, KS 66612",
         "chamber": "lower",
         "district": "90",
         "district_key": "90",
         "email": "steve.huebert@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_huebert_steve_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_huebert_steve_1.jpg",
         "name": "Steve Huebert",
         "openstates_id": "ocd-person/528160f1-93ab-49f0-89d5-c00cf6e87b81",
         "party": "Republican",
-        "phone": null,
+        "phone": "785-296-1754",
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_huebert_steve_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_huebert_steve_1/"
       }
     ],
     "KS:91": [
@@ -28161,7 +28162,7 @@
         "district": "91",
         "district_key": "91",
         "email": "emil.bergquist@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_bergquist_emil_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_bergquist_emil_1.jpg",
         "name": "Emil Bergquist",
         "openstates_id": "ocd-person/06e5710d-2c6a-4baa-829f-803417539415",
         "party": "Republican",
@@ -28169,7 +28170,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_bergquist_emil_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_bergquist_emil_1/"
       }
     ],
     "KS:92": [
@@ -28187,7 +28188,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_carmichael_john_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_carmichael_john_1/"
       }
     ],
     "KS:93": [
@@ -28233,7 +28234,7 @@
         "district": "95",
         "district_key": "95",
         "email": "tom.sawyer@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_sawyer_tom_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_sawyer_tom_1.jpg",
         "name": "Tom Sawyer",
         "openstates_id": "ocd-person/e6ca4faa-17ec-4256-9265-fbba8afcbb0e",
         "party": "Democratic",
@@ -28241,25 +28242,25 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_sawyer_tom_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_sawyer_tom_1/"
       }
     ],
     "KS:96": [
       {
-        "address": null,
+        "address": "State Capitol Room 285-N, Kansas  Building 300 SW 10th St., Topeka, KS 66612",
         "chamber": "lower",
         "district": "96",
         "district_key": "96",
         "email": "tom.kessler@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_kessler_tom_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_kessler_tom_1.jpg",
         "name": "Tom Kessler",
         "openstates_id": "ocd-person/9cef565d-6e73-4090-80bc-a752310efc4c",
         "party": "Republican",
-        "phone": null,
+        "phone": "785-296-8610",
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_kessler_tom_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_kessler_tom_1/"
       }
     ],
     "KS:97": [
@@ -28269,7 +28270,7 @@
         "district": "97",
         "district_key": "97",
         "email": "nick.hoheisel@house.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_hoheisel_nick_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_hoheisel_nick_1.jpg",
         "name": "Nick Hoheisel",
         "openstates_id": "ocd-person/df19b642-2877-4b6d-ab29-bbdd26deaa26",
         "party": "Republican",
@@ -28277,7 +28278,7 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_hoheisel_nick_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_hoheisel_nick_1/"
       }
     ],
     "KS:98": [
@@ -28287,7 +28288,7 @@
         "district": "98",
         "district_key": "98",
         "email": "cyndi.howerton@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_howerton_cyndi_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_howerton_cyndi_1.jpg",
         "name": "Cyndi Howerton",
         "openstates_id": "ocd-person/c333ddca-e5a2-4638-910c-a816bcddd666",
         "party": "Republican",
@@ -28295,25 +28296,25 @@
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_howerton_cyndi_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_howerton_cyndi_1/"
       }
     ],
     "KS:99": [
       {
-        "address": null,
+        "address": "State Capitol Room 519-N, Kansas  Building 300 SW 10th St., Topeka, KS 66612",
         "chamber": "lower",
         "district": "99",
         "district_key": "99",
         "email": "susan.humphries@house.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/rep_humphries_susan_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/rep_humphries_susan_1.jpg",
         "name": "Susan Humphries",
         "openstates_id": "ocd-person/4ab616b7-79d2-4d89-ae25-cd4ea4e8c4c8",
         "party": "Republican",
-        "phone": null,
+        "phone": "785-296-7699",
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
-        "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_humphries_susan_1/"
+        "url": "https://www.kslegislature.gov/legislators/rep_humphries_susan_1/"
       }
     ],
     "KY:1": [
@@ -31806,7 +31807,7 @@
         "district_key": "86",
         "email": "muscarellon@legis.la.gov",
         "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep86.jpg",
-        "name": "Nicholas Muscarello",
+        "name": "Nicky Muscarello",
         "openstates_id": "ocd-person/bc967860-a12b-4285-bd97-36379803f119",
         "party": "Republican",
         "phone": "225-342-6945",
@@ -34194,16 +34195,16 @@
     ],
     "MA:5th essex": [
       {
-        "address": "Room 277, State House 24 Beacon St., Boston, MA 02133",
+        "address": "Room 39, State House 24 Beacon St., Boston, MA 02133",
         "chamber": "lower",
         "district": "5th Essex",
         "district_key": "5th essex",
         "email": "andrew.tarr@mahouse.gov",
-        "image": "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/assets/v3/editorial/3/ee/3eecbb2e-2770-4e6e-a1d3-44ae2d7b8342/69398400d2c1b.image.jpg?resize=400%2C645",
+        "image": "https://malegislature.gov/Legislators/Profile/170/AFT1.jpg",
         "name": "Dru Tarr",
         "openstates_id": "ocd-person/b4f97e46-d8cd-45f7-88c4-94926b0bf60b",
         "party": "Democratic",
-        "phone": "617-722-2012",
+        "phone": "617-722-2014",
         "social": {},
         "state": "MA",
         "state_name": "Massachusetts",
@@ -34523,7 +34524,7 @@
         "district": "7th Middlesex",
         "district_key": "7th middlesex",
         "email": "jack.lewis@mahouse.gov",
-        "image": "https://malegislature.gov/Legislators/Profile/170/JPL1.jpg",
+        "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jack_Patrick_Lewis.jpg",
         "name": "Jack Lewis",
         "openstates_id": "ocd-person/e3dc06b1-8523-4a33-959f-21ed0d5da851",
         "party": "Democratic",
@@ -37451,7 +37452,7 @@
         "social": {},
         "state": "ME",
         "state_name": "Maine",
-        "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/259"
+        "url": "https://www.mainelegislature.org/house/house/MemberProfiles/Details/259"
       }
     ],
     "ME:106": [
@@ -38200,7 +38201,7 @@
         "district_key": "143",
         "email": "ann.fredericks@legislature.maine.gov",
         "image": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/d04ae08f-1582-4de6-a34e-bdd72386622e_FREDRICKS.jpg",
-        "name": "Ann Marie Fredericks",
+        "name": "Ann Fredericks",
         "openstates_id": "ocd-person/8646c09c-1d84-4065-bcf2-8be6a8baf494",
         "party": "Republican",
         "phone": "800-423-2900",
@@ -38261,7 +38262,7 @@
         "social": {},
         "state": "ME",
         "state_name": "Maine",
-        "url": "https://legislature.maine.gov/housedems/runte/index.html"
+        "url": "https://legislature.maine.gov/house/MemberProfiles/Details/1470"
       }
     ],
     "ME:147": [
@@ -38495,7 +38496,7 @@
         "social": {},
         "state": "ME",
         "state_name": "Maine",
-        "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1464"
+        "url": "http://www.maine.gov/housedems/rana"
       }
     ],
     "ME:22": [
@@ -38812,7 +38813,7 @@
         "district_key": "39",
         "email": "jan.dodge@legislature.maine.gov",
         "image": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/3966d66f-a9d5-4de6-963e-cbe39eacecb3_JDODGE.jpg",
-        "name": "Janice Dodge",
+        "name": "Jan Dodge",
         "openstates_id": "ocd-person/b7b97724-7abc-44fb-bace-d3606d3fadb2",
         "party": "Democratic",
         "phone": "800-423-2900",
@@ -39629,7 +39630,7 @@
         "social": {},
         "state": "ME",
         "state_name": "Maine",
-        "url": "https://mainehousegop.org/members/quint-tracy/"
+        "url": "https://legislature.maine.gov/house/MemberProfiles/Details/1443"
       }
     ],
     "ME:80": [
@@ -41312,7 +41313,7 @@
         "chamber": "lower",
         "district": "63",
         "district_key": "63",
-        "email": "jaydeboyerr@house.mi.gov",
+        "email": "jaydeboyer@house.mi.gov",
         "image": "https://www.house.mi.gov/media/Representatives/DeBoyer-063.jpg",
         "name": "Jay DeBoyer",
         "openstates_id": "ocd-person/569bf706-64ce-4dd7-8639-886beb018d8c",
@@ -41825,7 +41826,7 @@
         "social": {},
         "state": "MI",
         "state_name": "Michigan",
-        "url": "https://gophouse.org/representatives/southwest/meerman/"
+        "url": "https://gophouse.org/member/replukemeerman/posts"
       }
     ],
     "MI:9": [
@@ -41888,7 +41889,7 @@
         "chamber": "lower",
         "district": "92",
         "district_key": "92",
-        "email": "jerryneyerr@house.mi.gov",
+        "email": "jerryneyer@house.mi.gov",
         "image": "https://www.house.mi.gov/media/Representatives/Neyer-092.jpg",
         "name": "Jerry Neyer",
         "openstates_id": "ocd-person/549e485e-c1ea-4582-8db3-91d1e15fe27a",
@@ -43828,7 +43829,7 @@
     ],
     "MN:56a": [
       {
-        "address": null,
+        "address": "Centennial Office Building 658 Cedar St., Fifth Floor, St. Paul, MN 55155",
         "chamber": "lower",
         "district": "56A",
         "district_key": "56a",
@@ -43837,7 +43838,7 @@
         "name": "Robert Bierman",
         "openstates_id": "ocd-person/f2b7f80c-abb4-4204-839f-eb9a4de6dbab",
         "party": "Democratic-Farmer-Labor",
-        "phone": null,
+        "phone": "651-296-5506",
         "social": {},
         "state": "MN",
         "state_name": "Minnesota",
@@ -44404,7 +44405,7 @@
     ],
     "MN:9a": [
       {
-        "address": null,
+        "address": "Centennial Office Building 658 Cedar St., Second Floor, St. Paul, MN 55155",
         "chamber": "lower",
         "district": "9A",
         "district_key": "9a",
@@ -44413,7 +44414,7 @@
         "name": "Jeff Backer",
         "openstates_id": "ocd-person/edcf7ea6-b735-46b3-9d50-fa189cda6e8d",
         "party": "Republican",
-        "phone": null,
+        "phone": "651-296-4929",
         "social": {},
         "state": "MN",
         "state_name": "Minnesota",
@@ -45416,7 +45417,7 @@
         "chamber": "lower",
         "district": "150",
         "district_key": "150",
-        "email": "cameron.buntingparke@house.mo.gov",
+        "email": "cameron.parker@house.mo.gov",
         "image": "https://house.mo.gov/MemberPhoto.aspx?id=2393",
         "name": "Cameron Parker",
         "openstates_id": "ocd-person/08f76b3a-4317-4d18-a44b-f2d6a673f1e3",
@@ -51432,7 +51433,7 @@
         "image": "https://www.ncleg.gov/Members/MemberImage/H/642/Low",
         "name": "Carla Cunningham",
         "openstates_id": "ocd-person/f1ba290a-c2a5-453a-884c-6d03a2c8e83a",
-        "party": "Democratic",
+        "party": "Independent",
         "phone": "919-733-5807",
         "social": {},
         "state": "NC",
@@ -51681,7 +51682,7 @@
         "district": "119",
         "district_key": "119",
         "email": "anna.ferguson@ncleg.gov",
-        "image": "https://img.legistorm.com/people/562/207562.jpg?rand=35526",
+        "image": null,
         "name": "Anna Ferguson",
         "openstates_id": "ocd-person/5ca31513-814c-44b9-9206-aae55c05d056",
         "party": "Republican",
@@ -53432,7 +53433,7 @@
         "image": "https://www.ncleg.gov/Members/MemberImage/H/752/Low",
         "name": "Nasif Majeed",
         "openstates_id": "ocd-person/6acc3963-2724-4d88-8762-f78df333be94",
-        "party": "Democratic",
+        "party": "Independent",
         "phone": "919-733-5606",
         "social": {},
         "state": "NC",
@@ -53514,6 +53515,22 @@
         "chamber": "lower",
         "district": "11",
         "district_key": "11",
+        "email": null,
+        "image": "https://www.ndsu.edu/sites/default/files/styles/content_profile_full_medium/public/fileadmin/english.ndsu.edu/IMG_7188.JPG.webp?itok=Fwkfn24a&cb=44eb361c",
+        "name": "Adam Goldwyn",
+        "openstates_id": "ocd-person/3735ca02-1a6a-4f2f-b13b-1a5118d78ae2",
+        "party": "Democratic",
+        "phone": null,
+        "social": {},
+        "state": "ND",
+        "state_name": "North Dakota",
+        "url": null
+      },
+      {
+        "address": "State Capitol 600 E. Boulevard Ave., Bismarck, ND 58505",
+        "chamber": "lower",
+        "district": "11",
+        "district_key": "11",
         "email": "gdobervich@ndlegis.gov",
         "image": "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo/public/person/photo/gdobervich2023.jpg?itok=zDWXbvGB",
         "name": "Gretchen Dobervich",
@@ -53524,22 +53541,6 @@
         "state": "ND",
         "state_name": "North Dakota",
         "url": "https://ndlegis.gov/biography/gretchen-dobervich"
-      },
-      {
-        "address": "State Capitol 600 E. Boulevard Ave., Bismarck, ND 58505",
-        "chamber": "lower",
-        "district": "11",
-        "district_key": "11",
-        "email": "lconmy@ndlegis.gov",
-        "image": "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo/public/person/photo/lconmy2023.jpg?itok=4p3lHbz-",
-        "name": "Liz Conmy",
-        "openstates_id": "ocd-person/d8e43158-838e-40fc-a960-c29c46aa512e",
-        "party": "Democratic",
-        "phone": null,
-        "social": {},
-        "state": "ND",
-        "state_name": "North Dakota",
-        "url": "https://ndlegis.gov/biography/liz-conmy"
       }
     ],
     "ND:12": [
@@ -53854,16 +53855,16 @@
         "chamber": "lower",
         "district": "20",
         "district_key": "20",
-        "email": "mbeltz@ndlegis.gov",
-        "image": "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo/public/person/photo/mbeltz2023.jpg?itok=VV6jACpR",
-        "name": "Mike Beltz",
-        "openstates_id": "ocd-person/2e1bbdc9-a4e1-4ab2-953f-2e51910b7b58",
+        "email": "drustebakke@ndlegis.gov",
+        "image": "https://img.legistorm.com/people/034/208034.jpg?rand=18313",
+        "name": "Dave Rustebakke",
+        "openstates_id": "ocd-person/62c94736-93a5-43a9-af8d-5a37b65159c6",
         "party": "Republican",
-        "phone": null,
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
-        "url": "https://ndlegis.gov/biography/mike-beltz"
+        "url": "https://ndlegis.gov/biography/dave-rustebakke"
       }
     ],
     "ND:21": [
@@ -56016,6 +56017,22 @@
         "chamber": "lower",
         "district": "Coos 5",
         "district_key": "coos 5",
+        "email": "marc.tremblay@gc.nh.gov",
+        "image": "https://indepthnh.org/wp-content/uploads/2025/11/marc-tmblay.jpg",
+        "name": "Marc Tremblay",
+        "openstates_id": "ocd-person/20e7dbe4-40e8-4a11-bf8b-c7f7d2658725",
+        "party": "Republican",
+        "phone": "603-271-3661",
+        "social": {},
+        "state": "NH",
+        "state_name": "New Hampshire",
+        "url": "https://gc.nh.gov/house/members/member.aspx?pid=6469"
+      },
+      {
+        "address": "State House 107 N. Main St., Concord, NH 03301",
+        "chamber": "lower",
+        "district": "Coos 5",
+        "district_key": "coos 5",
         "email": "peter.morency@gc.nh.gov",
         "image": "https://bloximages.newyork1.vip.townnews.com/conwaydailysun.com/content/tncms/assets/v3/editorial/6/46/6467e002-7331-11ec-9cc3-9f90488fe870/61de0acc9a4e0.image.jpg?resize=400%2C308",
         "name": "Pete Morency",
@@ -56026,24 +56043,6 @@
         "state": "NH",
         "state_name": "New Hampshire",
         "url": "https://gc.nh.gov/house/members/member.aspx?pid=8401"
-      }
-    ],
-    "NH:coos 6": [
-      {
-        "address": "State House 107 N. Main St., Concord, NH 03301",
-        "chamber": "lower",
-        "district": "Coos 6",
-        "district_key": "coos 6",
-        "email": "michael.murphy@gc.nh.gov",
-        "image": "https://nhjournal.com/wp-content/uploads/2024/01/mike-murphy-233x300.jpeg",
-        "name": "Mike Murphy",
-        "openstates_id": "ocd-person/546b9d6e-0e31-4a6c-9d8f-63a0c9bb2b1f",
-        "party": "Republican",
-        "phone": "603-271-3661",
-        "social": {},
-        "state": "NH",
-        "state_name": "New Hampshire",
-        "url": "https://gc.nh.gov/house/members/member.aspx?pid=11119"
       }
     ],
     "NH:coos 7": [
@@ -58030,22 +58029,6 @@
         "chamber": "lower",
         "district": "Hillsborough 40",
         "district_key": "hillsborough 40",
-        "email": "suraj.budathoki@gc.nh.gov",
-        "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Suraj_Budathoki.JPG",
-        "name": "Suraj Budathoki",
-        "openstates_id": "ocd-person/128e737d-1ff8-45c1-937e-34e66c08069d",
-        "party": "Democratic",
-        "phone": "603-271-3661",
-        "social": {},
-        "state": "NH",
-        "state_name": "New Hampshire",
-        "url": "https://gc.nh.gov/house/members/member.aspx?pid=11217"
-      },
-      {
-        "address": "State House 107 N. Main St., Concord, NH 03301",
-        "chamber": "lower",
-        "district": "Hillsborough 40",
-        "district_key": "hillsborough 40",
         "email": "trinidad.tellez@gc.nh.gov",
         "image": "https://i0.wp.com/healthequitystrategiesllc.com/wp-content/uploads/2021/06/trini-headshot-pink.jpeg",
         "name": "Trinidad Tellez",
@@ -58159,6 +58142,22 @@
       }
     ],
     "NH:hillsborough 43": [
+      {
+        "address": "State House 107 N. Main St., Concord, NH 03301",
+        "chamber": "lower",
+        "district": "Hillsborough 43",
+        "district_key": "hillsborough 43",
+        "email": "gary.daniels@gc.nh.gov",
+        "image": "http://www.livefreeordiealliance.org/Portals/0/images_candidates/GDanielsHH40.jpg",
+        "name": "Gary Daniels",
+        "openstates_id": "ocd-person/281c916b-4280-41ff-9ee1-ba183d838536",
+        "party": "Republican",
+        "phone": "603-271-3661",
+        "social": {},
+        "state": "NH",
+        "state_name": "New Hampshire",
+        "url": "https://gc.nh.gov/house/members/member.aspx?pid=423"
+      },
       {
         "address": "State House 107 N. Main St., Concord, NH 03301",
         "chamber": "lower",
@@ -60966,6 +60965,22 @@
         "chamber": "lower",
         "district": "Strafford 12",
         "district_key": "strafford 12",
+        "email": null,
+        "image": "https://www.fosters.com/gcdn/authoring/authoring-images/2025/06/11/NFDD/84151476007-billie-1.jpg?width=660&height=495&fit=crop&format=pjpg&auto=webp",
+        "name": "Billie Butler",
+        "openstates_id": "ocd-person/1c179bc8-d192-44c1-aed6-4801e9d6b338",
+        "party": "Democratic",
+        "phone": "603-271-3661",
+        "social": {},
+        "state": "NH",
+        "state_name": "New Hampshire",
+        "url": "https://gc.nh.gov/house/members/member.aspx?pid=11524"
+      },
+      {
+        "address": "State House 107 N. Main St., Concord, NH 03301",
+        "chamber": "lower",
+        "district": "Strafford 12",
+        "district_key": "strafford 12",
         "email": "biggamehunter53@aol.com",
         "image": "https://straffordcountydemocraticcommittee.org/wp-content/uploads/2024/08/John-Stone-Candidate-Profile-300x300.jpg",
         "name": "John Stone",
@@ -61576,7 +61591,7 @@
         "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Dale_Girard_20240808_093423.jpg",
         "name": "Dale Girard",
         "openstates_id": "ocd-person/87ac63e4-d144-451e-a13b-0b834f1ef81b",
-        "party": "Democratic",
+        "party": "Republican",
         "phone": "603-271-3661",
         "social": {},
         "state": "NH",
@@ -67992,7 +68007,7 @@
     ],
     "OH:1": [
       {
-        "address": "77 S. High St. 14th Floor, Columbus, OH 43215",
+        "address": "77 S. High St. 10th Floor, Columbus, OH 43215",
         "chamber": "lower",
         "district": "1",
         "district_key": "1",
@@ -68172,7 +68187,7 @@
     ],
     "OH:19": [
       {
-        "address": "77 S. High St. 10th Floor, Columbus, OH 43215",
+        "address": "77 S. High St. 14th Floor, Columbus, OH 43215",
         "chamber": "lower",
         "district": "19",
         "district_key": "19",
@@ -68550,7 +68565,7 @@
     ],
     "OH:38": [
       {
-        "address": "77 S. High St. 10th Floor, Columbus, OH 43215",
+        "address": "77 S. High St. 14th Floor, Columbus, OH 43215",
         "chamber": "lower",
         "district": "38",
         "district_key": "38",
@@ -68658,7 +68673,7 @@
     ],
     "OH:43": [
       {
-        "address": "77 S. High St. 14th Floor, Columbus, OH 43215",
+        "address": "77 S. High St. 10th Floor, Columbus, OH 43215",
         "chamber": "lower",
         "district": "43",
         "district_key": "43",
@@ -73576,7 +73591,7 @@
         "district_key": "141",
         "email": "repdavis@pahouse.net",
         "image": "https://www.palegis.us/resources/images/members/300/1204.jpg",
-        "name": "Tina Marie Davis",
+        "name": "Tina Davis",
         "openstates_id": "ocd-person/f9a1f1ab-9538-424c-87f1-65e2a4f4bfc7",
         "party": "Democratic",
         "phone": "717-783-4903",
@@ -74144,7 +74159,7 @@
         "chamber": "lower",
         "district": "166",
         "district_key": "166",
-        "email": "gvitali@pahouse.net",
+        "email": "repvitali@pahouse.net",
         "image": "https://www.palegis.us/resources/images/members/300/210.jpg",
         "name": "Greg Vitali",
         "openstates_id": "ocd-person/7a1f510f-12e0-4018-b6da-556b404399be",
@@ -74814,6 +74829,24 @@
         "state": "PA",
         "state_name": "Pennsylvania",
         "url": "https://www.pahouse.com/KHarris/"
+      }
+    ],
+    "PA:196": [
+      {
+        "address": "Room 214, P.O. Box 202196 Ryan Office Building, Harrisburg, PA 17120",
+        "chamber": "lower",
+        "district": "196",
+        "district_key": "196",
+        "email": null,
+        "image": "https://votemargetas.com/wp-content/uploads/2025/09/George-Margetas-Portrait-Bio-5.jpg",
+        "name": "George Margetas",
+        "openstates_id": "ocd-person/3beadda2-daa5-4006-a2eb-32f9d9abdc71",
+        "party": "Republican",
+        "phone": "717-783-2655",
+        "social": {},
+        "state": "PA",
+        "state_name": "Pennsylvania",
+        "url": "https://www.palegis.us/house/members/bio/2066/rep-margetas"
       }
     ],
     "PA:197": [
@@ -76623,7 +76656,7 @@
         "chamber": "lower",
         "district": "95",
         "district_key": "95",
-        "email": "chill-evans@pahouse.net",
+        "email": "rephill-evans@pahouse.net",
         "image": "https://www.palegis.us/resources/images/members/300/1749.jpg",
         "name": "Carol Hill-Evans",
         "openstates_id": "ocd-person/cafbffed-be4d-4e5b-9d99-9aec024675e2",
@@ -78691,7 +78724,7 @@
         "social": {},
         "state": "RI",
         "state_name": "Rhode Island",
-        "url": "http://www.rayhull.com/"
+        "url": "https://www.rayhull.com/"
       }
     ],
     "RI:60": [
@@ -81286,7 +81319,7 @@
         "url": "https://sdlegislature.gov/Legislators/Profile/4685/Detail"
       },
       {
-        "address": null,
+        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
         "chamber": "lower",
         "district": "1",
         "district_key": "1",
@@ -81422,7 +81455,7 @@
         "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1538&Session=2018s"
       },
       {
-        "address": null,
+        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
         "chamber": "lower",
         "district": "13",
         "district_key": "13",
@@ -81490,7 +81523,7 @@
         "url": "https://sdlegislature.gov/Legislators/Profile/4719/Detail"
       },
       {
-        "address": null,
+        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
         "chamber": "lower",
         "district": "15",
         "district_key": "15",
@@ -81558,7 +81591,7 @@
         "url": "https://sdlegislature.gov/Legislators/Profile/4462/Detail"
       },
       {
-        "address": null,
+        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
         "chamber": "lower",
         "district": "17",
         "district_key": "17",
@@ -81592,7 +81625,7 @@
         "url": "https://sdlegislature.gov/Legislators/Profile/4445/Detail"
       },
       {
-        "address": null,
+        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
         "chamber": "lower",
         "district": "18",
         "district_key": "18",
@@ -81712,7 +81745,7 @@
     ],
     "SD:21": [
       {
-        "address": null,
+        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
         "chamber": "lower",
         "district": "21",
         "district_key": "21",
@@ -81728,7 +81761,7 @@
         "url": "https://sdlegislature.gov/Legislators/Profile/4712/Detail"
       },
       {
-        "address": null,
+        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
         "chamber": "lower",
         "district": "21",
         "district_key": "21",
@@ -81762,7 +81795,7 @@
         "url": "https://sdlegislature.gov/Legislators/Profile/4699/Detail"
       },
       {
-        "address": null,
+        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
         "chamber": "lower",
         "district": "22",
         "district_key": "22",
@@ -81780,7 +81813,7 @@
     ],
     "SD:23": [
       {
-        "address": null,
+        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
         "chamber": "lower",
         "district": "23",
         "district_key": "23",
@@ -81864,7 +81897,7 @@
         "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1635&Session=2019"
       },
       {
-        "address": null,
+        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
         "chamber": "lower",
         "district": "25",
         "district_key": "25",
@@ -81970,7 +82003,7 @@
     ],
     "SD:28b": [
       {
-        "address": null,
+        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
         "chamber": "lower",
         "district": "28B",
         "district_key": "28b",
@@ -81988,7 +82021,7 @@
     ],
     "SD:29": [
       {
-        "address": null,
+        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
         "chamber": "lower",
         "district": "29",
         "district_key": "29",
@@ -82056,7 +82089,7 @@
     ],
     "SD:30": [
       {
-        "address": null,
+        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
         "chamber": "lower",
         "district": "30",
         "district_key": "30",
@@ -82124,7 +82157,7 @@
     ],
     "SD:32": [
       {
-        "address": null,
+        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
         "chamber": "lower",
         "district": "32",
         "district_key": "32",
@@ -82242,7 +82275,7 @@
         "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1646&Session=2019"
       },
       {
-        "address": null,
+        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
         "chamber": "lower",
         "district": "35",
         "district_key": "35",
@@ -82430,7 +82463,7 @@
     ],
     "SD:9": [
       {
-        "address": null,
+        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
         "chamber": "lower",
         "district": "9",
         "district_key": "9",
@@ -82446,7 +82479,7 @@
         "url": "https://sdlegislature.gov/Legislators/Profile/3793/Detail"
       },
       {
-        "address": null,
+        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
         "chamber": "lower",
         "district": "9",
         "district_key": "9",
@@ -89368,36 +89401,14 @@
         "url": "https://allen.house.gov/"
       }
     ],
-    "US:ga-13": [
-      {
-        "address": "468 Cannon House Office Building, Washington, DC 20515",
-        "chamber": "lower",
-        "district": "GA-13",
-        "district_key": "ga-13",
-        "email": "https://davidscott.house.gov/contact/contactform.htm",
-        "image": "https://unitedstates.github.io/images/congress/450x550/S001157.jpg",
-        "name": "David Scott",
-        "openstates_id": "ocd-person/e6650822-1063-5485-b062-d169ea173ec2",
-        "party": "Democratic",
-        "phone": "202-225-2939",
-        "social": {
-          "facebook": "113303673339",
-          "twitter": "RepDavidScott",
-          "youtube": "UCgf28zRkLSqAUiPuJhGdF0w"
-        },
-        "state": "US",
-        "state_name": "US",
-        "url": "https://davidscott.house.gov/"
-      }
-    ],
     "US:ga-14": [
       {
         "address": "2201 Rayburn House Office Building, Washington, DC 20515",
         "chamber": "lower",
         "district": "GA-14",
         "district_key": "ga-14",
-        "email": null,
-        "image": "https://img.legistorm.com/people/699/207699.jpg?rand=138603",
+        "email": "https://fuller.house.gov/contact",
+        "image": null,
         "name": "Clay Fuller",
         "openstates_id": "ocd-person/84e83f43-5bd6-4074-ba64-0f6addc51718",
         "party": "Republican",
@@ -92167,8 +92178,8 @@
         "chamber": "lower",
         "district": "NJ-11",
         "district_key": "nj-11",
-        "email": null,
-        "image": "https://img.legistorm.com/people/696/203696.jpg?rand=25383",
+        "email": "https://mejia.house.gov/address_authentication?form=/contact/email-me",
+        "image": null,
         "name": "Analilia Mej\u00eda",
         "openstates_id": "ocd-person/76235fec-99b2-46b9-8632-d4ef1ad24466",
         "party": "Democratic",
@@ -96796,6 +96807,42 @@
         "url": "https://house.utah.gov/rep/KOHLEM"
       }
     ],
+    "UT:6": [
+      {
+        "address": "P.O. Box 145030 350 N. State St., Suite 350, Salt Lake City, UT 84114",
+        "chamber": "lower",
+        "district": "6",
+        "district_key": "6",
+        "email": "rbishop@le.utah.gov",
+        "image": "https://img.legistorm.com/people/411/70411.jpg?rand=60557",
+        "name": "Rob Bishop",
+        "openstates_id": "ocd-person/b68ab473-0a2e-41f5-9732-fbffd6738865",
+        "party": "Republican",
+        "phone": "801-538-1029",
+        "social": {},
+        "state": "UT",
+        "state_name": "Utah",
+        "url": "https://house.utleg.gov/rep/BISHORW/"
+      }
+    ],
+    "UT:60": [
+      {
+        "address": "P.O. Box 145030 350 N. State St., Suite 350, Salt Lake City, UT 84114",
+        "chamber": "lower",
+        "district": "60",
+        "district_key": "60",
+        "email": "gpace@le.utah.gov",
+        "image": "https://cdn-hdbdp.nitrocdn.com/iWmKbInheBqiLbgJHQSBxQqpIXvFXnqc/assets/images/optimized/rev-e4f0a15/juuva.com/wp-content/uploads/2021/04/grant-portrait-1.jpg",
+        "name": "Grant Pace",
+        "openstates_id": "ocd-person/83efadab-9aba-4506-96d7-04a79581348c",
+        "party": "Republican",
+        "phone": "801-538-1029",
+        "social": {},
+        "state": "UT",
+        "state_name": "Utah",
+        "url": "https://house.utleg.gov/rep/PACEG/"
+      }
+    ],
     "UT:61": [
       {
         "address": "P.O. Box 145030 350 N. State St., Suite 350, Salt Lake City, UT 84114",
@@ -96856,16 +96903,16 @@
         "chamber": "lower",
         "district": "64",
         "district_key": "64",
-        "email": "jburton@le.utah.gov",
-        "image": "https://le.utah.gov/images/legislator/BURTOJS.jpg",
-        "name": "Jeff Burton",
-        "openstates_id": "ocd-person/1773d5d5-4967-4af5-9880-3106ace372d7",
+        "email": "jlarson@le.utah.gov",
+        "image": "https://static.wixstatic.com/media/355155_bfae42d4d46d4e1f86e11a37eef18af1~mv2.jpeg/v1/fill/w_873,h_1484,fp_0.46_0.23,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/355155_bfae42d4d46d4e1f86e11a37eef18af1~mv2.jpeg",
+        "name": "Jackie Larson",
+        "openstates_id": "ocd-person/c078ef2d-7a7a-469a-a8bc-d6e5c16203c4",
         "party": "Republican",
         "phone": "801-538-1029",
         "social": {},
         "state": "UT",
         "state_name": "Utah",
-        "url": "https://house.utah.gov/rep/BURTOJS"
+        "url": "https://house.utleg.gov/rep/LARSOJ/"
       }
     ],
     "UT:65": [
@@ -97369,24 +97416,6 @@
         "state": "VA",
         "state_name": "Virginia",
         "url": "https://house.vga.virginia.gov/members/H0375"
-      }
-    ],
-    "VA:20": [
-      {
-        "address": "Room 1105, General Assembly Building 201 N. 9th St., Richmond, VA 23219",
-        "chamber": "lower",
-        "district": "20",
-        "district_key": "20",
-        "email": "delmmaldonado@house.virginia.gov",
-        "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Michelle-Maldonado.jpg",
-        "name": "Michelle Maldonado",
-        "openstates_id": "ocd-person/47e6d456-740e-4707-ae93-4b6efe8c0ce1",
-        "party": "Democratic",
-        "phone": "804-698-1020",
-        "social": {},
-        "state": "VA",
-        "state_name": "Virginia",
-        "url": "https://house.vga.virginia.gov/members/H0340"
       }
     ],
     "VA:21": [
@@ -103307,7 +103336,7 @@
     ],
     "WI:1": [
       {
-        "address": null,
+        "address": "State Capitol Room 314 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "1",
         "district_key": "1",
@@ -103316,7 +103345,7 @@
         "name": "Joel Kitchens",
         "openstates_id": "ocd-person/e127b754-c756-4017-a414-83cff1bb30f5",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9101",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103343,7 +103372,7 @@
     ],
     "WI:11": [
       {
-        "address": null,
+        "address": "State Capitol Room 16 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "11",
         "district_key": "11",
@@ -103352,7 +103381,7 @@
         "name": "Sequanna Taylor",
         "openstates_id": "ocd-person/a3db3b70-1e27-44a4-a5ae-025450ae4d3d",
         "party": "Democratic",
-        "phone": null,
+        "phone": "608-237-9111",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103415,7 +103444,7 @@
     ],
     "WI:15": [
       {
-        "address": null,
+        "address": "State Capitol Room 204 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "15",
         "district_key": "15",
@@ -103424,7 +103453,7 @@
         "name": "Adam Neylon",
         "openstates_id": "ocd-person/22d8a510-3b36-432a-9d3d-08efe7e74d5e",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9115",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103433,7 +103462,7 @@
     ],
     "WI:16": [
       {
-        "address": null,
+        "address": "State Capitol Room 119 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "16",
         "district_key": "16",
@@ -103442,7 +103471,7 @@
         "name": "Kalan Haywood",
         "openstates_id": "ocd-person/ac00fa62-2863-4ce4-97fb-57c094eaa158",
         "party": "Democratic",
-        "phone": null,
+        "phone": "608-237-9116",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103487,7 +103516,7 @@
     ],
     "WI:19": [
       {
-        "address": null,
+        "address": "State Capitol Room 21 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "19",
         "district_key": "19",
@@ -103496,7 +103525,7 @@
         "name": "Ryan Clancy",
         "openstates_id": "ocd-person/91423371-a92c-4006-ad7d-e21f2f7e666b",
         "party": "Democratic",
-        "phone": null,
+        "phone": "608-237-9119",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103505,7 +103534,7 @@
     ],
     "WI:2": [
       {
-        "address": null,
+        "address": "State Capitol Room 214 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "2",
         "district_key": "2",
@@ -103514,7 +103543,7 @@
         "name": "Shae Sortwell",
         "openstates_id": "ocd-person/82745ad9-d4b8-48e7-bbb9-3c5d73535c30",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9102",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103541,7 +103570,7 @@
     ],
     "WI:21": [
       {
-        "address": null,
+        "address": "State Capitol Room 306 East, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "21",
         "district_key": "21",
@@ -103550,7 +103579,7 @@
         "name": "Jessie Rodriguez",
         "openstates_id": "ocd-person/1dd290f4-6504-4967-9566-55cb3340d303",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9121",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103559,7 +103588,7 @@
     ],
     "WI:22": [
       {
-        "address": null,
+        "address": "State Capitol Room 308 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "22",
         "district_key": "22",
@@ -103568,7 +103597,7 @@
         "name": "Paul Melotik",
         "openstates_id": "ocd-person/dab88795-9c78-44c5-a0c7-c93cb677f2e3",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9122",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103613,7 +103642,7 @@
     ],
     "WI:25": [
       {
-        "address": null,
+        "address": "State Capitol Room 218 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "25",
         "district_key": "25",
@@ -103622,7 +103651,7 @@
         "name": "Paul Tittl",
         "openstates_id": "ocd-person/2e759534-4cf1-43f5-85d0-bf48fea3a048",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9125",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103649,7 +103678,7 @@
     ],
     "WI:27": [
       {
-        "address": null,
+        "address": "State Capitol Room 409 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "27",
         "district_key": "27",
@@ -103658,7 +103687,7 @@
         "name": "Lindee Brill",
         "openstates_id": "ocd-person/a8bf9343-7c1b-4a9d-812c-eef5a89365a6",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9127",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103667,7 +103696,7 @@
     ],
     "WI:28": [
       {
-        "address": null,
+        "address": "State Capitol Room 107 West, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "28",
         "district_key": "28",
@@ -103676,7 +103705,7 @@
         "name": "Rob Kreibich",
         "openstates_id": "ocd-person/a5d9287a-c3e7-4457-8faf-31024e0e9ac6",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9128",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103685,7 +103714,7 @@
     ],
     "WI:29": [
       {
-        "address": null,
+        "address": "State Capitol Room 103 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "29",
         "district_key": "29",
@@ -103694,7 +103723,7 @@
         "name": "Treig Pronschinske",
         "openstates_id": "ocd-person/0ea516ae-e0f5-4d3e-baee-124e0b00d70e",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9129",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103703,7 +103732,7 @@
     ],
     "WI:3": [
       {
-        "address": null,
+        "address": "State Capitol Room 22 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "3",
         "district_key": "3",
@@ -103712,7 +103741,7 @@
         "name": "Ron Tusler",
         "openstates_id": "ocd-person/1c2038cc-ee27-475c-a578-0236dba3f3f3",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9103",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103721,7 +103750,7 @@
     ],
     "WI:30": [
       {
-        "address": null,
+        "address": "State Capitol Room 324 East, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "30",
         "district_key": "30",
@@ -103730,7 +103759,7 @@
         "name": "Shannon Zimmerman",
         "openstates_id": "ocd-person/d949fee5-765b-43ea-913c-386fe2b3c441",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9130",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103739,7 +103768,7 @@
     ],
     "WI:31": [
       {
-        "address": null,
+        "address": "State Capitol Room 115 West, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "31",
         "district_key": "31",
@@ -103748,7 +103777,7 @@
         "name": "Tyler August",
         "openstates_id": "ocd-person/b4554989-ede4-44a0-a541-c2aea2659d39",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9131",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103757,7 +103786,7 @@
     ],
     "WI:32": [
       {
-        "address": null,
+        "address": "State Capitol Room 208 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "32",
         "district_key": "32",
@@ -103766,7 +103795,7 @@
         "name": "Amanda Nedweski",
         "openstates_id": "ocd-person/5c70d5df-b7a6-471c-a766-05816ee009a5",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9132",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103775,7 +103804,7 @@
     ],
     "WI:33": [
       {
-        "address": null,
+        "address": "State Capitol Room 217 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "33",
         "district_key": "33",
@@ -103784,7 +103813,7 @@
         "name": "Robin Vos",
         "openstates_id": "ocd-person/c8381cb6-1fcf-4a82-a6c5-5c60773a85e1",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9133",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103793,7 +103822,7 @@
     ],
     "WI:34": [
       {
-        "address": null,
+        "address": "State Capitol Room 123 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "34",
         "district_key": "34",
@@ -103802,7 +103831,7 @@
         "name": "Rob Swearingen",
         "openstates_id": "ocd-person/3a7f3611-78c4-453a-ae50-3cad3761dc9b",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9134",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103811,7 +103840,7 @@
     ],
     "WI:35": [
       {
-        "address": null,
+        "address": "State Capitol Room 127 West, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "35",
         "district_key": "35",
@@ -103820,7 +103849,7 @@
         "name": "Calvin Callahan",
         "openstates_id": "ocd-person/23c03244-880a-4263-8e2f-18c0c5556b45",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9135",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103829,7 +103858,7 @@
     ],
     "WI:36": [
       {
-        "address": null,
+        "address": "State Capitol Room 113 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "36",
         "district_key": "36",
@@ -103838,7 +103867,7 @@
         "name": "Jeff Mursau",
         "openstates_id": "ocd-person/5254db79-a23b-4496-ad9b-cc0e7a9b7f3a",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9136",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103847,7 +103876,7 @@
     ],
     "WI:37": [
       {
-        "address": null,
+        "address": "State Capitol Room 308 East, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "37",
         "district_key": "37",
@@ -103856,7 +103885,7 @@
         "name": "Mark Born",
         "openstates_id": "ocd-person/b6559841-9e69-4435-8788-0d8bc087baed",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9137",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103865,7 +103894,7 @@
     ],
     "WI:38": [
       {
-        "address": null,
+        "address": "State Capitol Room 207 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "38",
         "district_key": "38",
@@ -103874,7 +103903,7 @@
         "name": "Will Penterman",
         "openstates_id": "ocd-person/790447a2-d03d-4bc7-b15c-a72b25689eb3",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9138",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103883,7 +103912,7 @@
     ],
     "WI:39": [
       {
-        "address": null,
+        "address": "State Capitol Room 320 East, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "39",
         "district_key": "39",
@@ -103892,7 +103921,7 @@
         "name": "Alex Dallman",
         "openstates_id": "ocd-person/c4afc94c-3bad-4e77-9f81-de613c406860",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9139",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103901,7 +103930,7 @@
     ],
     "WI:4": [
       {
-        "address": null,
+        "address": "State Capitol Room 323 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "4",
         "district_key": "4",
@@ -103910,7 +103939,7 @@
         "name": "David Steffen",
         "openstates_id": "ocd-person/2a067a93-dffc-4ce7-8975-d37fb67b4512",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9104",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103937,7 +103966,7 @@
     ],
     "WI:41": [
       {
-        "address": null,
+        "address": "State Capitol Room 304 East, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "41",
         "district_key": "41",
@@ -103946,7 +103975,7 @@
         "name": "Tony Kurtz",
         "openstates_id": "ocd-person/5967b2fb-a060-4262-b10d-6fd27d81bf3f",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9141",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103973,7 +104002,7 @@
     ],
     "WI:43": [
       {
-        "address": null,
+        "address": "State Capitol Room 9 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "43",
         "district_key": "43",
@@ -103982,7 +104011,7 @@
         "name": "Brienne Brown",
         "openstates_id": "ocd-person/f8f3683e-3615-4a4b-bafe-d4d042f291d0",
         "party": "Democratic",
-        "phone": null,
+        "phone": "608-237-9143",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104081,7 +104110,7 @@
     ],
     "WI:49": [
       {
-        "address": null,
+        "address": "State Capitol Room 302 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "49",
         "district_key": "49",
@@ -104090,7 +104119,7 @@
         "name": "Travis Tranel",
         "openstates_id": "ocd-person/97dae592-4e4a-4cf2-9d56-069d7432b8d9",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9149",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104099,7 +104128,7 @@
     ],
     "WI:5": [
       {
-        "address": null,
+        "address": "State Capitol Room 209 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "5",
         "district_key": "5",
@@ -104108,7 +104137,7 @@
         "name": "Joy Goeben",
         "openstates_id": "ocd-person/b8666d84-956f-40a7-8faa-75709f9d4a12",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9105",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104135,7 +104164,7 @@
     ],
     "WI:51": [
       {
-        "address": null,
+        "address": "State Capitol Room 310 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "51",
         "district_key": "51",
@@ -104144,7 +104173,7 @@
         "name": "Todd Novak",
         "openstates_id": "ocd-person/c1e8d1c1-380d-4f59-893e-a18f77be21dd",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9151",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104171,7 +104200,7 @@
     ],
     "WI:53": [
       {
-        "address": null,
+        "address": "State Capitol Room 223 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "53",
         "district_key": "53",
@@ -104180,7 +104209,7 @@
         "name": "Dean Kaufert",
         "openstates_id": "ocd-person/72aa0b66-48f0-41fd-8ac8-b33f610d97c7",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9153",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104207,7 +104236,7 @@
     ],
     "WI:55": [
       {
-        "address": null,
+        "address": "State Capitol Room 316 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "55",
         "district_key": "55",
@@ -104216,7 +104245,7 @@
         "name": "Gus Gustafson",
         "openstates_id": "ocd-person/58b31138-e0a5-41ae-bd2f-5713e6c0cc0c",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9155",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104225,7 +104254,7 @@
     ],
     "WI:56": [
       {
-        "address": null,
+        "address": "State Capitol Room 318 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "56",
         "district_key": "56",
@@ -104234,7 +104263,7 @@
         "name": "Dave Murphy",
         "openstates_id": "ocd-person/1e2717f2-3426-47b6-8e86-a63f0a507c81",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9156",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104243,7 +104272,7 @@
     ],
     "WI:57": [
       {
-        "address": null,
+        "address": "State Capitol Room 309 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "57",
         "district_key": "57",
@@ -104252,7 +104281,7 @@
         "name": "Kevin Petersen",
         "openstates_id": "ocd-person/43c33bdc-3c41-47cc-8ffb-10a043ecdc93",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9157",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104261,7 +104290,7 @@
     ],
     "WI:58": [
       {
-        "address": null,
+        "address": "State Capitol Room 312 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "58",
         "district_key": "58",
@@ -104270,7 +104299,7 @@
         "name": "Rick Gundrum",
         "openstates_id": "ocd-person/264f7afa-69cb-46f3-97f3-ff8f21a1d68a",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9158",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104279,7 +104308,7 @@
     ],
     "WI:59": [
       {
-        "address": null,
+        "address": "State Capitol Room 216 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "59",
         "district_key": "59",
@@ -104288,7 +104317,7 @@
         "name": "Rob Brooks",
         "openstates_id": "ocd-person/d8956a67-d280-4219-853f-c21ec173f80a",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9159",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104297,7 +104326,7 @@
     ],
     "WI:6": [
       {
-        "address": null,
+        "address": "State Capitol Room 219 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "6",
         "district_key": "6",
@@ -104306,7 +104335,7 @@
         "name": "Elijah Behnke",
         "openstates_id": "ocd-person/de5dfe78-e3a2-4a58-a7f1-bb184bfd1ade",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9106",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104315,7 +104344,7 @@
     ],
     "WI:60": [
       {
-        "address": null,
+        "address": "State Capitol Room 109 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "60",
         "district_key": "60",
@@ -104324,7 +104353,7 @@
         "name": "Jerry O'Connor",
         "openstates_id": "ocd-person/4e1004c1-d397-4a50-baeb-2d3fbbd2912f",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9160",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104333,7 +104362,7 @@
     ],
     "WI:61": [
       {
-        "address": null,
+        "address": "State Capitol Room 3 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "61",
         "district_key": "61",
@@ -104342,7 +104371,7 @@
         "name": "Bob Donovan",
         "openstates_id": "ocd-person/54522ac6-81ad-4b83-929f-b94e94b8acb4",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9161",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104369,7 +104398,7 @@
     ],
     "WI:63": [
       {
-        "address": null,
+        "address": "State Capitol Room 129 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "63",
         "district_key": "63",
@@ -104378,7 +104407,7 @@
         "name": "Bob Wittke",
         "openstates_id": "ocd-person/ea4d8d73-19b6-408f-a802-22b2ddf816d9",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9163",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104387,7 +104416,7 @@
     ],
     "WI:64": [
       {
-        "address": null,
+        "address": "State Capitol Room 321 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "64",
         "district_key": "64",
@@ -104396,7 +104425,7 @@
         "name": "Tip McGuire",
         "openstates_id": "ocd-person/c66ed13a-e5a7-49e0-9cce-02d677c5da15",
         "party": "Democratic",
-        "phone": null,
+        "phone": "608-237-9164",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104441,7 +104470,7 @@
     ],
     "WI:67": [
       {
-        "address": null,
+        "address": "State Capitol Room 220 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "67",
         "district_key": "67",
@@ -104450,7 +104479,7 @@
         "name": "Dave Armstrong",
         "openstates_id": "ocd-person/28caa8bd-605b-4755-85a0-52434a9be02f",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9167",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104459,7 +104488,7 @@
     ],
     "WI:68": [
       {
-        "address": null,
+        "address": "State Capitol Room 119 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "68",
         "district_key": "68",
@@ -104468,7 +104497,7 @@
         "name": "Rob Summerfield",
         "openstates_id": "ocd-person/e23ff9c6-f6d5-4ada-8974-74c6ce90c422",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9168",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104477,7 +104506,7 @@
     ],
     "WI:69": [
       {
-        "address": null,
+        "address": "State Capitol Room 321 East, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "69",
         "district_key": "69",
@@ -104486,7 +104515,7 @@
         "name": "Karen Hurd",
         "openstates_id": "ocd-person/1332581f-d860-43a0-b7d9-ddf619451efa",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9169",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104513,7 +104542,7 @@
     ],
     "WI:70": [
       {
-        "address": null,
+        "address": "State Capitol Room 13 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "70",
         "district_key": "70",
@@ -104522,7 +104551,7 @@
         "name": "Nancy VanderMeer",
         "openstates_id": "ocd-person/5858f406-f96a-4846-8a9e-0bede48d94ed",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9170",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104549,7 +104578,7 @@
     ],
     "WI:72": [
       {
-        "address": null,
+        "address": "State Capitol Room 315 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "72",
         "district_key": "72",
@@ -104558,7 +104587,7 @@
         "name": "Scott Krug",
         "openstates_id": "ocd-person/77257644-eb9a-447d-bcd8-f3e3de7e49e4",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9172",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104585,7 +104614,7 @@
     ],
     "WI:74": [
       {
-        "address": null,
+        "address": "State Capitol Room 125 West, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "74",
         "district_key": "74",
@@ -104594,7 +104623,7 @@
         "name": "Chanz Green",
         "openstates_id": "ocd-person/2a6503b4-d030-4569-b5b2-8fe62ff6132d",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9174",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104603,7 +104632,7 @@
     ],
     "WI:75": [
       {
-        "address": null,
+        "address": "State Capitol Room 418 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "75",
         "district_key": "75",
@@ -104612,7 +104641,7 @@
         "name": "Duke Tucker",
         "openstates_id": "ocd-person/2a047fc5-2adb-4c4b-9c67-0eda3aa07233",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9175",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104639,7 +104668,7 @@
     ],
     "WI:77": [
       {
-        "address": null,
+        "address": "State Capitol Room 10 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "77",
         "district_key": "77",
@@ -104648,7 +104677,7 @@
         "name": "Renuka Mayadev",
         "openstates_id": "ocd-person/8b54c039-be1b-4320-89f8-415ac1afa698",
         "party": "Democratic",
-        "phone": null,
+        "phone": "608-237-9177",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104675,7 +104704,7 @@
     ],
     "WI:79": [
       {
-        "address": null,
+        "address": "State Capitol Room 113 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "79",
         "district_key": "79",
@@ -104684,7 +104713,7 @@
         "name": "Lisa Subeck",
         "openstates_id": "ocd-person/eed49381-7c5b-4890-bba3-d63b8681463d",
         "party": "Democratic",
-        "phone": null,
+        "phone": "608-237-9179",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104711,7 +104740,7 @@
     ],
     "WI:80": [
       {
-        "address": null,
+        "address": "State Capitol Room 306 West, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "80",
         "district_key": "80",
@@ -104720,7 +104749,7 @@
         "name": "Mike Bare",
         "openstates_id": "ocd-person/1b0b0777-af08-40f2-a45b-3c2431b37722",
         "party": "Democratic",
-        "phone": null,
+        "phone": "608-237-9180",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104747,7 +104776,7 @@
     ],
     "WI:82": [
       {
-        "address": null,
+        "address": "State Capitol Room 105 West, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "82",
         "district_key": "82",
@@ -104756,7 +104785,7 @@
         "name": "Scott Allen",
         "openstates_id": "ocd-person/06b28490-4fb0-43fe-9577-60bdb921164b",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9182",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104765,7 +104794,7 @@
     ],
     "WI:83": [
       {
-        "address": null,
+        "address": "State Capitol Room 4 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "83",
         "district_key": "83",
@@ -104774,7 +104803,7 @@
         "name": "Dave Maxey",
         "openstates_id": "ocd-person/f20f569f-1f36-4856-9193-b4b938dfcdaf",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9183",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104783,7 +104812,7 @@
     ],
     "WI:84": [
       {
-        "address": null,
+        "address": "State Capitol Room 306 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "84",
         "district_key": "84",
@@ -104792,7 +104821,7 @@
         "name": "Chuck Wichgers",
         "openstates_id": "ocd-person/ef921fbc-cb1a-4208-a4ab-b2ea99114f0a",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9184",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104801,7 +104830,7 @@
     ],
     "WI:85": [
       {
-        "address": null,
+        "address": "State Capitol Room 307 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "85",
         "district_key": "85",
@@ -104810,7 +104839,7 @@
         "name": "Pat Snyder",
         "openstates_id": "ocd-person/38649f7a-eba4-4908-b264-f95fe908fc7a",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9185",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104819,7 +104848,7 @@
     ],
     "WI:86": [
       {
-        "address": null,
+        "address": "State Capitol Room 212 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "86",
         "district_key": "86",
@@ -104828,7 +104857,7 @@
         "name": "John Spiros",
         "openstates_id": "ocd-person/38070b4e-d50c-4bc1-86ad-6739c5edc60a",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9186",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104837,7 +104866,7 @@
     ],
     "WI:87": [
       {
-        "address": null,
+        "address": "State Capitol Room 420 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "87",
         "district_key": "87",
@@ -104846,7 +104875,7 @@
         "name": "Brent Jacobson",
         "openstates_id": "ocd-person/3089bcca-553d-4637-9b50-2d9698944d5a",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9187",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104855,7 +104884,7 @@
     ],
     "WI:88": [
       {
-        "address": null,
+        "address": "State Capitol Room 304 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "88",
         "district_key": "88",
@@ -104864,7 +104893,7 @@
         "name": "Ben Franklin",
         "openstates_id": "ocd-person/04b709c6-b487-49c1-9bcf-dfbbc7082beb",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9188",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104873,7 +104902,7 @@
     ],
     "WI:89": [
       {
-        "address": null,
+        "address": "State Capitol Room 17 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "89",
         "district_key": "89",
@@ -104882,7 +104911,7 @@
         "name": "Ryan Spaude",
         "openstates_id": "ocd-person/3d4582f2-ed69-468c-ad02-33cbd612199d",
         "party": "Democratic",
-        "phone": null,
+        "phone": "608-237-9189",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104909,7 +104938,7 @@
     ],
     "WI:90": [
       {
-        "address": null,
+        "address": "State Capitol Room 18 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "90",
         "district_key": "90",
@@ -104918,7 +104947,7 @@
         "name": "Amaad Rivera-Wagner",
         "openstates_id": "ocd-person/998f8ecc-8772-44f4-a81d-622f567c0142",
         "party": "Democratic",
-        "phone": null,
+        "phone": "608-237-9190",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104927,7 +104956,7 @@
     ],
     "WI:91": [
       {
-        "address": null,
+        "address": "State Capitol Room 322 West, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "91",
         "district_key": "91",
@@ -104936,7 +104965,7 @@
         "name": "Jodi Emerson",
         "openstates_id": "ocd-person/71d596fa-95f2-4411-9b7c-9e250380b701",
         "party": "Democratic",
-        "phone": null,
+        "phone": "608-237-9191",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104945,7 +104974,7 @@
     ],
     "WI:92": [
       {
-        "address": null,
+        "address": "State Capitol Room 12 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "92",
         "district_key": "92",
@@ -104954,7 +104983,7 @@
         "name": "Clint Moses",
         "openstates_id": "ocd-person/21e310b1-c14b-42e6-b3fc-84c1613c3063",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9192",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104981,7 +105010,7 @@
     ],
     "WI:94": [
       {
-        "address": null,
+        "address": "State Capitol Room 124 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "94",
         "district_key": "94",
@@ -104990,7 +105019,7 @@
         "name": "Steve Doyle",
         "openstates_id": "ocd-person/b3064a65-976e-4324-a66d-dfd44a0f0e3e",
         "party": "Democratic",
-        "phone": null,
+        "phone": "608-237-9194",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104999,7 +105028,7 @@
     ],
     "WI:95": [
       {
-        "address": null,
+        "address": "State Capitol Room 118 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "95",
         "district_key": "95",
@@ -105008,7 +105037,7 @@
         "name": "Jill Billings",
         "openstates_id": "ocd-person/7da63875-0a3c-4b03-aaa8-fe48c718eb45",
         "party": "Democratic",
-        "phone": null,
+        "phone": "608-237-9195",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -105035,7 +105064,7 @@
     ],
     "WI:97": [
       {
-        "address": null,
+        "address": "State Capitol Room 210 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "97",
         "district_key": "97",
@@ -105044,7 +105073,7 @@
         "name": "Cindi Duchow",
         "openstates_id": "ocd-person/171aec6e-ba95-4244-9854-84cddf028d90",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9197",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -105053,7 +105082,7 @@
     ],
     "WI:98": [
       {
-        "address": null,
+        "address": "State Capitol Room 412 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "98",
         "district_key": "98",
@@ -105062,7 +105091,7 @@
         "name": "Jim Piwowarczyk",
         "openstates_id": "ocd-person/61dfe0c1-631f-401a-a4db-6641547db7ef",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9198",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -105071,7 +105100,7 @@
     ],
     "WI:99": [
       {
-        "address": null,
+        "address": "State Capitol Room 317 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "99",
         "district_key": "99",
@@ -105080,7 +105109,7 @@
         "name": "Barbara Dittrich",
         "openstates_id": "ocd-person/0580ebef-0cfa-40ae-a4ea-d960e0ea30ee",
         "party": "Republican",
-        "phone": null,
+        "phone": "608-237-9199",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -105863,7 +105892,7 @@
     ],
     "WV:48": [
       {
-        "address": "State Capitol Room 230E, Complex Building 1, Charleston, WV 25305",
+        "address": "Room 230E, Building 1, State Capitol Complex, Charleston, WV 25305",
         "chamber": "lower",
         "district": "48",
         "district_key": "48",
@@ -106493,7 +106522,7 @@
     ],
     "WV:8": [
       {
-        "address": "State Capitol Room 206E, Complex Building 1, Charleston, WV 25305",
+        "address": "Room 206E, Building 1, State Capitol Complex, Charleston, WV 25305",
         "chamber": "lower",
         "district": "8",
         "district_key": "8",
@@ -117306,24 +117335,6 @@
         "url": "https://ilga.gov/house/Rep.asp?GA=101&MemberID=2656"
       }
     ],
-    "IL:59": [
-      {
-        "address": "Room 309-J, Capitol Building, Springfield, IL 62706",
-        "chamber": "upper",
-        "district": "59",
-        "district_key": "59",
-        "email": "senatorfowler59@gmail.com",
-        "image": "https://cdn.ilga.gov/assets/img/members/{1E60CA94-7006-4CAB-841D-C9D99569D9D3}.jpg",
-        "name": "Dale Fowler",
-        "openstates_id": "ocd-person/5a84a944-7d29-454e-aec6-85e6c3238d53",
-        "party": "Republican",
-        "phone": "217-782-5509",
-        "social": {},
-        "state": "IL",
-        "state_name": "Illinois",
-        "url": "https://ilga.gov/senate/Senator.asp?GA=101&MemberID=2678"
-      }
-    ],
     "IL:6": [
       {
         "address": "Room 121-D, Capitol Building, Springfield, IL 62706",
@@ -118339,7 +118350,7 @@
         "district": "10",
         "district_key": "10",
         "email": "mike.thompson@senate.ks.gov",
-        "image": "http://www.kslegislature.org/li/s/images/pics/sen_thompson_mike_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/sen_thompson_mike_1.jpg",
         "name": "Mike Thompson",
         "openstates_id": "ocd-person/97943c08-7d1f-400e-b71d-7a20e939b1d9",
         "party": "Republican",
@@ -118357,7 +118368,7 @@
         "district": "11",
         "district_key": "11",
         "email": "kellie.warren@senate.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/sen_warren_kellie_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/sen_warren_kellie_1.jpg",
         "name": "Kellie Warren",
         "openstates_id": "ocd-person/85a66c0d-6f9e-4a55-947e-4d3dc28af0d8",
         "party": "Republican",
@@ -118375,7 +118386,7 @@
         "district": "12",
         "district_key": "12",
         "email": "caryn.tyson@senate.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/sen_tyson_caryn_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/sen_tyson_caryn_1.jpg",
         "name": "Caryn Tyson",
         "openstates_id": "ocd-person/cc84252c-b7c6-484d-a036-dd38a90b1b04",
         "party": "Republican",
@@ -118393,7 +118404,7 @@
         "district": "13",
         "district_key": "13",
         "email": "tim.shallenburger@senate.ks.gov",
-        "image": "http://www.kslegislature.org/li/s/images/pics/sen_shallenburger_tim_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/sen_shallenburger_tim_1.jpg",
         "name": "Tim Shallenburger",
         "openstates_id": "ocd-person/c091ed05-ad26-42f2-b7e8-a830404cb152",
         "party": "Republican",
@@ -118411,7 +118422,7 @@
         "district": "14",
         "district_key": "14",
         "email": "michael.fagg@senate.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/sen_fagg_michael_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/sen_fagg_michael_1.jpg",
         "name": "Mike Fagg",
         "openstates_id": "ocd-person/a0787678-986f-459f-bba3-38d46ef55d8b",
         "party": "Republican",
@@ -118429,7 +118440,7 @@
         "district": "15",
         "district_key": "15",
         "email": "virgil.peck@senate.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/sen_peck_virgil_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/sen_peck_virgil_1.jpg",
         "name": "Virgil Peck",
         "openstates_id": "ocd-person/90f4cf61-cce8-4f87-8495-c0dc298c8d27",
         "party": "Republican",
@@ -118447,7 +118458,7 @@
         "district": "16",
         "district_key": "16",
         "email": "ty.masterson@senate.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/sen_masterson_ty_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/sen_masterson_ty_1.jpg",
         "name": "Ty Masterson",
         "openstates_id": "ocd-person/b4774ff4-de16-4716-8956-65ecc740eb8c",
         "party": "Republican",
@@ -118483,7 +118494,7 @@
         "district": "18",
         "district_key": "18",
         "email": "kenny.titus@senate.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_titus_kenny_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/sen_titus_kenny_1.jpg",
         "name": "Kenny Titus",
         "openstates_id": "ocd-person/8a353296-bd2d-4fd6-b1b9-d8b3c8b3f771",
         "party": "Republican",
@@ -118501,7 +118512,7 @@
         "district": "19",
         "district_key": "19",
         "email": "patrick.schmidt@senate.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/sen_schmidt_patrick_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/sen_schmidt_patrick_1.jpg",
         "name": "Patrick Schmidt",
         "openstates_id": "ocd-person/8a08b0a9-eeff-495c-8fc8-7bbfe3e4dc26",
         "party": "Democratic",
@@ -118519,7 +118530,7 @@
         "district": "2",
         "district_key": "2",
         "email": "marci.francisco@senate.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/sen_francisco_marci_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/sen_francisco_marci_1.jpg",
         "name": "Marci Francisco",
         "openstates_id": "ocd-person/4fca7c3e-1f7c-455e-b555-a293ff578e60",
         "party": "Democratic",
@@ -118555,7 +118566,7 @@
         "district": "21",
         "district_key": "21",
         "email": "dinah.sykes@senate.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/sen_sykes_dinah_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/sen_sykes_dinah_1.jpg",
         "name": "Dinah Sykes",
         "openstates_id": "ocd-person/549c712e-1cc1-4ca7-9ef7-b09bb36d7229",
         "party": "Democratic",
@@ -118573,7 +118584,7 @@
         "district": "22",
         "district_key": "22",
         "email": "brad.starnes@senate.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/sen_starnes_brad_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/sen_starnes_brad_1.jpg",
         "name": "Brad Starnes",
         "openstates_id": "ocd-person/2b66826b-7af3-4053-8d3b-90dbcf4f0740",
         "party": "Republican",
@@ -118591,7 +118602,7 @@
         "district": "23",
         "district_key": "23",
         "email": "adam.thomas@senate.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/rep_thomas_adam_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/sen_thomas_adam_1.jpg",
         "name": "Adam Thomas",
         "openstates_id": "ocd-person/2c46aedb-f7a4-4f9a-bade-5ae192acc2a3",
         "party": "Republican",
@@ -118609,7 +118620,7 @@
         "district": "24",
         "district_key": "24",
         "email": "scott.hill@senate.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/sen_hill_scott_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/sen_hill_scott_1.jpg",
         "name": "Scott Hill",
         "openstates_id": "ocd-person/64c3ae14-1ec8-46ed-b317-bcd9722319f5",
         "party": "Republican",
@@ -118622,7 +118633,7 @@
     ],
     "KS:25": [
       {
-        "address": null,
+        "address": "State Capitol Room 135-E, Kansas  Building 300 SW 10th St., Topeka, KS 66612",
         "chamber": "upper",
         "district": "25",
         "district_key": "25",
@@ -118631,7 +118642,7 @@
         "name": "Silas Miller",
         "openstates_id": "ocd-person/38e5e1b5-72d2-4968-be98-032e8320d475",
         "party": "Democratic",
-        "phone": null,
+        "phone": "785-296-7391",
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
@@ -118645,7 +118656,7 @@
         "district": "26",
         "district_key": "26",
         "email": "chase.blasi@senate.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/sen_blasi_chase_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/sen_blasi_chase_1.jpg",
         "name": "Chase Blasi",
         "openstates_id": "ocd-person/c0c78c6c-d725-4f3b-8ae5-11446753d9a7",
         "party": "Republican",
@@ -118663,7 +118674,7 @@
         "district": "27",
         "district_key": "27",
         "email": "joseph.claeys@senate.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/sen_claeys_joseph_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/sen_claeys_joseph_1.jpg",
         "name": "Joe Claeys",
         "openstates_id": "ocd-person/918f677f-eac8-4e2d-acc9-eb2c3e4de80f",
         "party": "Republican",
@@ -118676,16 +118687,16 @@
     ],
     "KS:28": [
       {
-        "address": null,
+        "address": "State Capitol Room 345-S, Kansas  Building 300 SW 10th St., Topeka, KS 66612",
         "chamber": "upper",
         "district": "28",
         "district_key": "28",
         "email": "mike.petersen@senate.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/sen_petersen_mike_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/sen_petersen_mike_1.jpg",
         "name": "Mike Petersen",
         "openstates_id": "ocd-person/4d244ceb-6d50-4670-93db-22ad153b3961",
         "party": "Republican",
-        "phone": null,
+        "phone": "785-296-7355",
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
@@ -118735,7 +118746,7 @@
         "district": "30",
         "district_key": "30",
         "email": "renee.erickson@senate.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/sen_erickson_renee_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/sen_erickson_renee_1.jpg",
         "name": "Renee Erickson",
         "openstates_id": "ocd-person/3093633a-62dc-4e93-a305-258a20bfd0f2",
         "party": "Republican",
@@ -118753,7 +118764,7 @@
         "district": "31",
         "district_key": "31",
         "email": "stephen.owens@senate.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/sen_owens_stephen_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/sen_owens_stephen_1.jpg",
         "name": "Stephen Owens",
         "openstates_id": "ocd-person/413cc3ff-a3b9-465b-827d-4aeb4b0b42c1",
         "party": "Republican",
@@ -118789,7 +118800,7 @@
         "district": "33",
         "district_key": "33",
         "email": "torymarie.blew@senate.ks.gov",
-        "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/blewmarie.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/sen_blew_marie_1.jpg",
         "name": "Tory Marie Blew",
         "openstates_id": "ocd-person/80f9f23c-fa36-43ef-b97e-a9563bd4237b",
         "party": "Republican",
@@ -118838,7 +118849,7 @@
     ],
     "KS:36": [
       {
-        "address": null,
+        "address": "State Capitol Room 223-E, Kansas  Building 300 SW 10th St., Topeka, KS 66612",
         "chamber": "upper",
         "district": "36",
         "district_key": "36",
@@ -118847,7 +118858,7 @@
         "name": "Elaine Bowers",
         "openstates_id": "ocd-person/416dbc91-431f-4dc6-8c8a-ca2db2cd3300",
         "party": "Republican",
-        "phone": null,
+        "phone": "785-296-7389",
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
@@ -118861,7 +118872,7 @@
         "district": "37",
         "district_key": "37",
         "email": "doug.shane@senate.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/sen_shane_doug_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/sen_shane_doug_1.jpg",
         "name": "Doug Shane",
         "openstates_id": "ocd-person/d0ae10e6-5c26-4be4-af00-036b23664127",
         "party": "Republican",
@@ -118879,7 +118890,7 @@
         "district": "38",
         "district_key": "38",
         "email": "ron.ryckman@senate.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/sen_ryckman_ronald_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/sen_ryckman_ronald_1.jpg",
         "name": "Ron Ryckman",
         "openstates_id": "ocd-person/43caafd7-9177-40f4-b515-0681ef5930f3",
         "party": "Republican",
@@ -118897,7 +118908,7 @@
         "district": "39",
         "district_key": "39",
         "email": "william.clifford@senate.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/sen_clifford_william_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/sen_clifford_william_1.jpg",
         "name": "Bill Clifford",
         "openstates_id": "ocd-person/463dcd61-1bf6-4182-ae6f-a840e43ea7fe",
         "party": "Republican",
@@ -118933,7 +118944,7 @@
         "district": "40",
         "district_key": "40",
         "email": "rick.billinger@senate.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/sen_billinger_rick_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/sen_billinger_rick_1.jpg",
         "name": "Rick Billinger",
         "openstates_id": "ocd-person/e5d951f2-88c7-47d4-ac28-08c175ba440d",
         "party": "Republican",
@@ -118969,7 +118980,7 @@
         "district": "6",
         "district_key": "6",
         "email": "pat.pettey@senate.ks.gov",
-        "image": "https://www.kslegislature.org/li/s/images/pics/sen_pettey_pat_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/sen_pettey_pat_1.jpg",
         "name": "Pat Pettey",
         "openstates_id": "ocd-person/148ed29a-4c96-4e69-9791-29b2bd3f09b6",
         "party": "Democratic",
@@ -118987,7 +118998,7 @@
         "district": "7",
         "district_key": "7",
         "email": "ethan.corson@senate.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/sen_corson_ethan_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/sen_corson_ethan_1.jpg",
         "name": "Ethan Corson",
         "openstates_id": "ocd-person/76d729c5-1b4d-4966-8c99-5ac8b74d8719",
         "party": "Democratic",
@@ -119023,7 +119034,7 @@
         "district": "9",
         "district_key": "9",
         "email": "beverly.gossage@senate.ks.gov",
-        "image": "https://www.kslegislature.gov/li/s/images/pics/sen_gossage_beverly_1.jpg",
+        "image": "https://www.kslegislature.gov/static/li_pics/sen_gossage_beverly_1.jpg",
         "name": "Beverly Gossage",
         "openstates_id": "ocd-person/35630402-1f6a-4a3e-b6cf-48c1b93bd6ae",
         "party": "Republican",
@@ -121177,7 +121188,7 @@
         "social": {},
         "state": "MA",
         "state_name": "Massachusetts",
-        "url": "https://malegislature.gov/Legislators/Profile/JJC0"
+        "url": "https://johnjcronin.com/"
       }
     ],
     "MD:1": [
@@ -121524,7 +121535,7 @@
     ],
     "MD:27": [
       {
-        "address": "Annapolis, MD 21401",
+        "address": "Room 302, James Senate Office Building 11 Bladen St., Annapolis, MD 21401",
         "chamber": "upper",
         "district": "27",
         "district_key": "27",
@@ -121782,7 +121793,7 @@
         "district_key": "4",
         "email": "william.folden@senate.maryland.gov",
         "image": "http://mgaleg.maryland.gov/2016RS/images/folden01.jpg",
-        "name": "William Folden",
+        "name": "Bill Folden",
         "openstates_id": "ocd-person/d8938e62-87cd-420e-a009-f78a418ed138",
         "party": "Republican",
         "phone": "410-841-3704",
@@ -123158,6 +123169,24 @@
         "state": "MI",
         "state_name": "Michigan",
         "url": "https://gophouse.org/representatives/central/hauck/"
+      }
+    ],
+    "MI:35": [
+      {
+        "address": "P.O. Box 30036, Lansing, MI 48909",
+        "chamber": "upper",
+        "district": "35",
+        "district_key": "35",
+        "email": "sencgreene@senate.michigan.gov",
+        "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Chedrick_Greene_20251023_010156.jpeg",
+        "name": "Chedrick Greene",
+        "openstates_id": "ocd-person/b5b41ca8-2f16-4df4-9808-66b2a13bfecc",
+        "party": "Democratic",
+        "phone": "517-373-1725",
+        "social": {},
+        "state": "MI",
+        "state_name": "Michigan",
+        "url": "https://senatedems.com/greene/"
       }
     ],
     "MI:36": [
@@ -124548,16 +124577,16 @@
     ],
     "MO:10": [
       {
-        "address": "Room 418, 201 W. Capitol Ave., Jefferson City, MO 65101",
+        "address": null,
         "chamber": "upper",
         "district": "10",
         "district_key": "10",
         "email": "travis.fitzwater@senate.mo.gov",
-        "image": null,
+        "image": "https://house.mo.gov/MemberPhoto.aspx?id=1804",
         "name": "Travis Fitzwater",
-        "openstates_id": "ocd-person/c9758b3c-066c-40b4-9d40-a93880fda67a",
+        "openstates_id": "ocd-person/0889a1d5-7416-4391-b235-6c7772dc5ce2",
         "party": "Republican",
-        "phone": "573-751-2757",
+        "phone": null,
         "social": {},
         "state": "MO",
         "state_name": "Missouri",
@@ -125381,7 +125410,7 @@
         "district": "21",
         "district_key": "21",
         "email": "bblackmon@senate.ms.gov",
-        "image": "https://billstatus.ls.state.ms.us/members/senate/blackmon.jpeg",
+        "image": "https://billstatus.ls.state.ms.us/members/senate/blackmon.jpg",
         "name": "Bradford Blackmon",
         "openstates_id": "ocd-person/3b2b3cb2-3ef8-400d-b395-6b0895ea7631",
         "party": "Democratic",
@@ -127144,16 +127173,16 @@
         "chamber": "upper",
         "district": "18",
         "district_key": "18",
-        "email": "terence.everitt@ncleg.gov",
-        "image": "https://www.ncleg.gov/Members/MemberImage/H/741/Low",
-        "name": "Terence Everitt",
-        "openstates_id": "ocd-person/1217dc52-8590-4c6b-832b-666b57ef121c",
+        "email": "haseeb.fatmi@ncleg.gov",
+        "image": "https://ogletree.com/app/uploads/people/haseeb-s-fatmi.jpg",
+        "name": "Haseeb Fatmi",
+        "openstates_id": "ocd-person/e94fc39b-d33c-4d24-81c7-2cd2cc5aa997",
         "party": "Democratic",
         "phone": "919-733-5850",
         "social": {},
         "state": "NC",
         "state_name": "North Carolina",
-        "url": "https://www.ncleg.gov/Members/Biography/H/741"
+        "url": "https://www.ncleg.gov/Members/Biography/S/1002"
       }
     ],
     "NC:19": [
@@ -132313,9 +132342,9 @@
         "district": "10",
         "district_key": "10",
         "email": "sd10@ohiosenate.gov",
-        "image": "https://img.legistorm.com/people/980/46980.jpg?rand=345402",
+        "image": "http://www.ohiohouse.gov/Assets/Headshots/Small/79.jpg",
         "name": "Kyle Koehler",
-        "openstates_id": "ocd-person/f2e79c7c-7e3a-496d-8f87-d43b62eb54a5",
+        "openstates_id": "ocd-person/9578948b-5af3-46fd-9567-8438c67fa148",
         "party": "Republican",
         "phone": "614-466-3780",
         "social": {},
@@ -136515,7 +136544,7 @@
         "district_key": "1",
         "email": "thomasalexander@scsenate.gov",
         "image": "https://scstatehouse.gov/images/members/0013636362.jpg",
-        "name": "Thomas Alexander",
+        "name": "Tom Alexander",
         "openstates_id": "ocd-person/06c7c886-4087-499e-855c-f36b0fa75195",
         "party": "Republican",
         "phone": "803-212-6220",
@@ -137571,7 +137600,7 @@
     ],
     "SD:21": [
       {
-        "address": null,
+        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
         "chamber": "upper",
         "district": "21",
         "district_key": "21",
@@ -137841,7 +137870,7 @@
     ],
     "SD:35": [
       {
-        "address": null,
+        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
         "chamber": "upper",
         "district": "35",
         "district_key": "35",
@@ -137877,7 +137906,7 @@
     ],
     "SD:5": [
       {
-        "address": null,
+        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
         "chamber": "upper",
         "district": "5",
         "district_key": "5",
@@ -137913,7 +137942,7 @@
     ],
     "SD:7": [
       {
-        "address": null,
+        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
         "chamber": "upper",
         "district": "7",
         "district_key": "7",
@@ -139007,6 +139036,24 @@
         "state": "TX",
         "state_name": "Texas",
         "url": "https://senate.texas.gov/member.php?d=31"
+      }
+    ],
+    "TX:4": [
+      {
+        "address": null,
+        "chamber": "upper",
+        "district": "4",
+        "district_key": "4",
+        "email": null,
+        "image": "https://www.bihmfirm.com/images/att_brett.jpg",
+        "name": "Brett Ligon",
+        "openstates_id": "ocd-person/6fde08be-f7c0-464a-83a7-430c60617beb",
+        "party": "Republican",
+        "phone": null,
+        "social": {},
+        "state": "TX",
+        "state_name": "Texas",
+        "url": null
       }
     ],
     "TX:5": [
@@ -140500,7 +140547,7 @@
     ],
     "US:oklahoma": [
       {
-        "address": "G12 Dirksen Senate Office Building, Washington, DC 20510",
+        "address": "330 Hart Senate Office Building, Washington, DC 20510",
         "chamber": "upper",
         "district": "Oklahoma",
         "district_key": "oklahoma",
@@ -140990,7 +141037,7 @@
         "chamber": "upper",
         "district": "West Virginia",
         "district_key": "west virginia",
-        "email": "https://www.justice.senate.gov/share-your-opinion/",
+        "email": "https://www.justice.senate.gov/contact/write-to-jim/",
         "image": null,
         "name": "Jim Justice",
         "openstates_id": "ocd-person/2f9a1274-1a6a-4a78-b253-01ec02f20eee",
@@ -144893,7 +144940,7 @@
         "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Phillips"
       },
       {
-        "address": "State Capitol Room 204W, Complex Building 1, Charleston, WV 25305",
+        "address": "Room 204W, Building 1, State Capitol Complex, Charleston, WV 25305",
         "chamber": "upper",
         "district": "7",
         "district_key": "7",
