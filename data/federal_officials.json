@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T12:59:21.325630+00:00",
+  "generated_at": "2026-06-15T14:57:19.011459+00:00",
   "house_by_district": {
     "AK:0": [
       {
@@ -489,6 +489,23 @@
         "state": "AZ",
         "state_name": "Arizona",
         "url": "https://gosar.house.gov"
+      }
+    ],
+    "CA:1": [
+      {
+        "address": null,
+        "bioguide_id": "G000607",
+        "chamber": "house",
+        "district": "California District 1",
+        "district_number": 1,
+        "name": "James Gallagher",
+        "office": null,
+        "party": "Republican",
+        "phone": null,
+        "social": {},
+        "state": "CA",
+        "state_name": "California",
+        "url": null
       }
     ],
     "CA:10": [
