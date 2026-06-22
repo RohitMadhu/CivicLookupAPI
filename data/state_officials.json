@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T14:57:42.630272+00:00",
+  "generated_at": "2026-06-22T14:28:14.618563+00:00",
   "sources": {
     "openstates_people": "https://github.com/openstates/people"
   },
@@ -19009,7 +19009,7 @@
     ],
     "HI:6": [
       {
-        "address": "State Capitol Room 403, 415 S. Beretania St., Honolulu, HI 96813",
+        "address": "State Capitol Room 438, 415 S. Beretania St., Honolulu, HI 96813",
         "chamber": "lower",
         "district": "6",
         "district_key": "6",
@@ -26267,7 +26267,7 @@
     ],
     "KS:109": [
       {
-        "address": "State Capitol Room 111-N, Kansas  Building 300 SW 10th St., Topeka, KS 66612",
+        "address": null,
         "chamber": "lower",
         "district": "109",
         "district_key": "109",
@@ -26276,7 +26276,7 @@
         "name": "Troy Waymaster",
         "openstates_id": "ocd-person/655437d6-f80f-4e14-b061-c28a8977cf0f",
         "party": "Republican",
-        "phone": "785-296-7672",
+        "phone": null,
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
@@ -26411,7 +26411,7 @@
     ],
     "KS:116": [
       {
-        "address": "State Capitol Room 481-W, Kansas  Building 300 SW 10th St., Topeka, KS 66612",
+        "address": null,
         "chamber": "lower",
         "district": "116",
         "district_key": "116",
@@ -26420,7 +26420,7 @@
         "name": "Kyle Hoffman",
         "openstates_id": "ocd-person/c51517ec-db1e-433d-a1d0-683547ae34a2",
         "party": "Republican",
-        "phone": "785-296-7643",
+        "phone": null,
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
@@ -26969,7 +26969,7 @@
     ],
     "KS:31": [
       {
-        "address": "State Capitol Room 47-S, Kansas  Building 300 SW 10th St., Topeka, KS 66612",
+        "address": null,
         "chamber": "lower",
         "district": "31",
         "district_key": "31",
@@ -26978,7 +26978,7 @@
         "name": "Louis Ruiz",
         "openstates_id": "ocd-person/6a7f0eed-6a34-4bd2-842c-2978ca9c6008",
         "party": "Democratic",
-        "phone": "785-296-7885",
+        "phone": null,
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
@@ -26987,7 +26987,7 @@
     ],
     "KS:32": [
       {
-        "address": "State Capitol Room 452-S, Kansas  Building 300 SW 10th St., Topeka, KS 66612",
+        "address": null,
         "chamber": "lower",
         "district": "32",
         "district_key": "32",
@@ -26996,7 +26996,7 @@
         "name": "Pam Curtis",
         "openstates_id": "ocd-person/57e6524f-40c5-4708-89ad-c80570bf31b1",
         "party": "Democratic",
-        "phone": "785-296-7430",
+        "phone": null,
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
@@ -27221,7 +27221,7 @@
     ],
     "KS:44": [
       {
-        "address": "State Capitol Room 451-S, Kansas  Building 300 SW 10th St., Topeka, KS 66612",
+        "address": null,
         "chamber": "lower",
         "district": "44",
         "district_key": "44",
@@ -27230,7 +27230,7 @@
         "name": "Barbara Ballard",
         "openstates_id": "ocd-person/3bf41768-e1b5-4017-8ab5-8d1fb1d6521c",
         "party": "Democratic",
-        "phone": "785-296-7697",
+        "phone": null,
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
@@ -27419,7 +27419,7 @@
     ],
     "KS:54": [
       {
-        "address": "State Capitol Room 187-N, Kansas  Building 300 SW 10th St., Topeka, KS 66612",
+        "address": null,
         "chamber": "lower",
         "district": "54",
         "district_key": "54",
@@ -27428,7 +27428,7 @@
         "name": "Ken Corbet",
         "openstates_id": "ocd-person/afee9b4c-c30b-4cba-b5a2-e20a186c75b1",
         "party": "Republican",
-        "phone": "785-296-7679",
+        "phone": null,
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
@@ -42459,24 +42459,6 @@
         "url": "https://www.house.mn.gov/members/profile/15603"
       }
     ],
-    "MN:21a": [
-      {
-        "address": "Centennial Office Building 658 Cedar St., Second Floor, St. Paul, MN 55155",
-        "chamber": "lower",
-        "district": "21A",
-        "district_key": "21a",
-        "email": "rep.joe.schomacker@house.mn.gov",
-        "image": "https://www.house.mn.gov/hinfo/memberimgls94/21A.gif?v=112221",
-        "name": "Joe Schomacker",
-        "openstates_id": "ocd-person/f08531c2-0974-4606-ab08-f5453ff76edd",
-        "party": "Republican",
-        "phone": "651-296-5505",
-        "social": {},
-        "state": "MN",
-        "state_name": "Minnesota",
-        "url": "https://www.house.mn.gov/members/profile/15367"
-      }
-    ],
     "MN:21b": [
       {
         "address": "Centennial Office Building 658 Cedar St., Second Floor, St. Paul, MN 55155",
@@ -43829,7 +43811,7 @@
     ],
     "MN:56a": [
       {
-        "address": "Centennial Office Building 658 Cedar St., Fifth Floor, St. Paul, MN 55155",
+        "address": null,
         "chamber": "lower",
         "district": "56A",
         "district_key": "56a",
@@ -43838,7 +43820,7 @@
         "name": "Robert Bierman",
         "openstates_id": "ocd-person/f2b7f80c-abb4-4204-839f-eb9a4de6dbab",
         "party": "Democratic-Farmer-Labor",
-        "phone": "651-296-5506",
+        "phone": null,
         "social": {},
         "state": "MN",
         "state_name": "Minnesota",
@@ -44405,7 +44387,7 @@
     ],
     "MN:9a": [
       {
-        "address": "Centennial Office Building 658 Cedar St., Second Floor, St. Paul, MN 55155",
+        "address": null,
         "chamber": "lower",
         "district": "9A",
         "district_key": "9a",
@@ -44414,7 +44396,7 @@
         "name": "Jeff Backer",
         "openstates_id": "ocd-person/edcf7ea6-b735-46b3-9d50-fa189cda6e8d",
         "party": "Republican",
-        "phone": "651-296-4929",
+        "phone": null,
         "social": {},
         "state": "MN",
         "state_name": "Minnesota",
@@ -74833,7 +74815,7 @@
     ],
     "PA:196": [
       {
-        "address": "Room 214, P.O. Box 202196 Ryan Office Building, Harrisburg, PA 17120",
+        "address": "Room 414, Irvis Office Building P.O. Box 202196, Harrisburg, PA 17120",
         "chamber": "lower",
         "district": "196",
         "district_key": "196",
@@ -74842,11 +74824,11 @@
         "name": "George Margetas",
         "openstates_id": "ocd-person/3beadda2-daa5-4006-a2eb-32f9d9abdc71",
         "party": "Republican",
-        "phone": "717-783-2655",
+        "phone": "717-783-2910",
         "social": {},
         "state": "PA",
         "state_name": "Pennsylvania",
-        "url": "https://www.palegis.us/house/members/bio/2066/rep-margetas"
+        "url": "https://repmargetas.com/"
       }
     ],
     "PA:197": [
@@ -80465,7 +80447,7 @@
         "image": "https://scstatehouse.gov/images/members/0066477265.jpg",
         "name": "Lucas Atkinson",
         "openstates_id": "ocd-person/e3d0a679-af6a-4861-aac2-be366fda3210",
-        "party": "Democratic",
+        "party": "Republican",
         "phone": "803-212-6936",
         "social": {},
         "state": "SC",
@@ -81319,7 +81301,7 @@
         "url": "https://sdlegislature.gov/Legislators/Profile/4685/Detail"
       },
       {
-        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
+        "address": null,
         "chamber": "lower",
         "district": "1",
         "district_key": "1",
@@ -81455,7 +81437,7 @@
         "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1538&Session=2018s"
       },
       {
-        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
+        "address": null,
         "chamber": "lower",
         "district": "13",
         "district_key": "13",
@@ -81523,7 +81505,7 @@
         "url": "https://sdlegislature.gov/Legislators/Profile/4719/Detail"
       },
       {
-        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
+        "address": null,
         "chamber": "lower",
         "district": "15",
         "district_key": "15",
@@ -81591,7 +81573,7 @@
         "url": "https://sdlegislature.gov/Legislators/Profile/4462/Detail"
       },
       {
-        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
+        "address": null,
         "chamber": "lower",
         "district": "17",
         "district_key": "17",
@@ -81625,7 +81607,7 @@
         "url": "https://sdlegislature.gov/Legislators/Profile/4445/Detail"
       },
       {
-        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
+        "address": null,
         "chamber": "lower",
         "district": "18",
         "district_key": "18",
@@ -81745,7 +81727,7 @@
     ],
     "SD:21": [
       {
-        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
+        "address": null,
         "chamber": "lower",
         "district": "21",
         "district_key": "21",
@@ -81761,7 +81743,7 @@
         "url": "https://sdlegislature.gov/Legislators/Profile/4712/Detail"
       },
       {
-        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
+        "address": null,
         "chamber": "lower",
         "district": "21",
         "district_key": "21",
@@ -81795,7 +81777,7 @@
         "url": "https://sdlegislature.gov/Legislators/Profile/4699/Detail"
       },
       {
-        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
+        "address": null,
         "chamber": "lower",
         "district": "22",
         "district_key": "22",
@@ -81813,7 +81795,7 @@
     ],
     "SD:23": [
       {
-        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
+        "address": null,
         "chamber": "lower",
         "district": "23",
         "district_key": "23",
@@ -81897,7 +81879,7 @@
         "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1635&Session=2019"
       },
       {
-        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
+        "address": null,
         "chamber": "lower",
         "district": "25",
         "district_key": "25",
@@ -82003,7 +81985,7 @@
     ],
     "SD:28b": [
       {
-        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
+        "address": null,
         "chamber": "lower",
         "district": "28B",
         "district_key": "28b",
@@ -82021,7 +82003,7 @@
     ],
     "SD:29": [
       {
-        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
+        "address": null,
         "chamber": "lower",
         "district": "29",
         "district_key": "29",
@@ -82089,7 +82071,7 @@
     ],
     "SD:30": [
       {
-        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
+        "address": null,
         "chamber": "lower",
         "district": "30",
         "district_key": "30",
@@ -82157,7 +82139,7 @@
     ],
     "SD:32": [
       {
-        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
+        "address": null,
         "chamber": "lower",
         "district": "32",
         "district_key": "32",
@@ -82275,7 +82257,7 @@
         "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1646&Session=2019"
       },
       {
-        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
+        "address": null,
         "chamber": "lower",
         "district": "35",
         "district_key": "35",
@@ -82463,7 +82445,7 @@
     ],
     "SD:9": [
       {
-        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
+        "address": null,
         "chamber": "lower",
         "district": "9",
         "district_key": "9",
@@ -82479,7 +82461,7 @@
         "url": "https://sdlegislature.gov/Legislators/Profile/3793/Detail"
       },
       {
-        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
+        "address": null,
         "chamber": "lower",
         "district": "9",
         "district_key": "9",
@@ -96814,7 +96796,7 @@
         "district": "6",
         "district_key": "6",
         "email": "rbishop@le.utah.gov",
-        "image": "https://img.legistorm.com/people/411/70411.jpg?rand=60557",
+        "image": null,
         "name": "Rob Bishop",
         "openstates_id": "ocd-person/b68ab473-0a2e-41f5-9732-fbffd6738865",
         "party": "Republican",
@@ -118687,7 +118669,7 @@
     ],
     "KS:28": [
       {
-        "address": "State Capitol Room 345-S, Kansas  Building 300 SW 10th St., Topeka, KS 66612",
+        "address": null,
         "chamber": "upper",
         "district": "28",
         "district_key": "28",
@@ -118696,7 +118678,7 @@
         "name": "Mike Petersen",
         "openstates_id": "ocd-person/4d244ceb-6d50-4670-93db-22ad153b3961",
         "party": "Republican",
-        "phone": "785-296-7355",
+        "phone": null,
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
@@ -118849,7 +118831,7 @@
     ],
     "KS:36": [
       {
-        "address": "State Capitol Room 223-E, Kansas  Building 300 SW 10th St., Topeka, KS 66612",
+        "address": null,
         "chamber": "upper",
         "district": "36",
         "district_key": "36",
@@ -118858,7 +118840,7 @@
         "name": "Elaine Bowers",
         "openstates_id": "ocd-person/416dbc91-431f-4dc6-8c8a-ca2db2cd3300",
         "party": "Republican",
-        "phone": "785-296-7389",
+        "phone": null,
         "social": {},
         "state": "KS",
         "state_name": "Kansas",
@@ -137600,7 +137582,7 @@
     ],
     "SD:21": [
       {
-        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
+        "address": null,
         "chamber": "upper",
         "district": "21",
         "district_key": "21",
@@ -137870,7 +137852,7 @@
     ],
     "SD:35": [
       {
-        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
+        "address": null,
         "chamber": "upper",
         "district": "35",
         "district_key": "35",
@@ -137906,7 +137888,7 @@
     ],
     "SD:5": [
       {
-        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
+        "address": null,
         "chamber": "upper",
         "district": "5",
         "district_key": "5",
@@ -137942,7 +137924,7 @@
     ],
     "SD:7": [
       {
-        "address": "Capitol Building 500 E. Capitol Ave., Pierre, SD 57501",
+        "address": null,
         "chamber": "upper",
         "district": "7",
         "district_key": "7",
