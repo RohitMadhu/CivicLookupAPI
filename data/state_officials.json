@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T14:28:14.618563+00:00",
+  "generated_at": "2026-06-29T12:59:16.709034+00:00",
   "sources": {
     "openstates_people": "https://github.com/openstates/people"
   },
@@ -145570,7 +145570,7 @@
       {
         "address": "State Capitol; P.O. Box 110001; Juneau, AK 99811-0001",
         "email": null,
-        "image": "https://gov.alaska.gov/wp-content/uploads/sites/2/Governor-8x10-1.jpg",
+        "image": "https://gov.alaska.gov/wp-content/uploads/Gov-website-photo.jpg",
         "name": "Mike Dunleavy",
         "openstates_id": "ocd-person/80f0f5f8-976d-427b-b980-ce3a23a23e84",
         "party": "Republican",
@@ -145634,7 +145634,7 @@
       {
         "address": "State Capitol Building, Suite S-105, 600 Dexter Ave, Montgomery, AL 36130",
         "email": "wes.allen@sos.alabama.gov",
-        "image": "https://www.sos.alabama.gov/sites/default/files/inline-images/AllenBioHighRes.jpg?_ga=2.173722979.1183358616.1677197705-807791829.1677197705",
+        "image": "https://www.nass.org/sites/default/files/2023-01/AL-Allen-2023.jpg",
         "name": "Wes Allen",
         "openstates_id": "ocd-person/f8daba65-dcf6-43b4-8c38-8b02b5b59db7",
         "party": "Republican",
@@ -145678,23 +145678,9 @@
         "url": "https://www.ltgovernor.arkansas.gov/"
       },
       {
-        "address": "State Capitol, Suite 270; Little Rock, AR 72201-1061",
-        "email": null,
-        "image": null,
-        "name": "Leslie Rutledge",
-        "openstates_id": "ocd-person/4c6b83dc-b4d7-4202-aee3-76fdd2d6575e",
-        "party": "Republican",
-        "phone": "501-682-2144",
-        "role_type": "lt_governor",
-        "social": {},
-        "state": "AR",
-        "state_name": "Arkansas",
-        "url": "https://ltgovernor.arkansas.gov/"
-      },
-      {
         "address": "State Capitol, Suite 256; 500 Woodlane Avenue; Little Rock, AR 72201",
         "email": null,
-        "image": null,
+        "image": "https://www.sos.arkansas.gov/uploads/aboutOffice/Cole-Jester-123124.jpg",
         "name": "Cole Jester",
         "openstates_id": "ocd-person/77a57e2c-188c-42fd-adad-24066f27ec3c",
         "party": "Republican",
@@ -146014,7 +146000,7 @@
       {
         "address": "Iowa State Capitol; 1007 East Grand Avenue; Des Moines, IA 50319",
         "email": null,
-        "image": "https://governor.iowa.gov/sites/default/files/inline-images/2022%20GovKimReynolds_Headshot.jpg",
+        "image": "https://governor.iowa.gov/sites/default/files/images/2025-01/DSC_6655-Edit.jpg",
         "name": "Kim Reynolds",
         "openstates_id": "ocd-person/3895278c-5226-4b70-bce0-d2ac15b3bce1",
         "party": "Republican",
@@ -146092,7 +146078,7 @@
       {
         "address": "PO Box 83720 ; ; Boise, ID 83720-0080",
         "email": "elections@sos.idaho.gov",
-        "image": null,
+        "image": "https://www.nass.org/sites/default/files/2023-01/ID-McGrane-2023.jpg",
         "name": "Phil McGrane",
         "openstates_id": "ocd-person/e64e04bc-21eb-475a-87f3-89aeacfc9f0c",
         "party": "Republican",
@@ -146302,7 +146288,7 @@
       {
         "address": "State House, Room 360; Boston, MA 02133",
         "email": null,
-        "image": null,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Kim_Driscoll%2C_official_portrait%2C_lieutenant_governor.jpg",
         "name": "Kim Driscoll",
         "openstates_id": "ocd-person/e4405312-71fd-4192-a658-6adbeeebe48c",
         "party": "Democratic",
@@ -146330,7 +146316,7 @@
       {
         "address": "State House Rm 337; 24 Beacon St.; Boston, MA 02133-1099",
         "email": "cis@sec.state.ma.us",
-        "image": null,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/WFGalvin_Official_Portrait.png",
         "name": "William Galvin",
         "openstates_id": "ocd-person/ead7f955-7ff0-4ac0-bc29-35688074b79f",
         "party": "Democratic",
@@ -146348,7 +146334,7 @@
       {
         "address": "100 State Circle; Annapolis, Maryland; 21401-1925",
         "email": null,
-        "image": "https://governor.maryland.gov/PublishingImages/governor-wes-moore-official-portrait-web.jpg",
+        "image": "https://cdn.maryland.gov/maryland-cms/prod/governor/s3fs-public/images/2026-04/gov%201st%20size.png",
         "name": "Wes Moore",
         "openstates_id": "ocd-person/a6a4f3ad-59c0-471c-8fd3-ea06a8e21a87",
         "party": "Democratic",
@@ -146364,7 +146350,7 @@
       {
         "address": "100 State Circle; Annapolis, MD 21401-1925",
         "email": null,
-        "image": "https://governor.maryland.gov/leadership/ltgovernor/PublishingImages/Pages/biography/Lt.%20Governor%20Aruna%20K.%20Miller.jpg",
+        "image": "https://cdn.maryland.gov/maryland-cms/prod/governor/s3fs-public/images/2026-04/lg%201st%20size.png",
         "name": "Aruna Miller",
         "openstates_id": "ocd-person/27dd7c4f-0e25-4cd0-b849-6830e5ec7fa1",
         "party": "Democratic",
@@ -146588,7 +146574,7 @@
       {
         "address": "600 E. Boulevard Ave. Dept. 108 ; ; Bismarck, ND 58505-0500",
         "email": "sos@nd.gov",
-        "image": "https://sos.nd.gov/files/images/michael-howe-2023.jpg",
+        "image": "https://www.sos.nd.gov/sites/www/files/documents/about/michael-howe-official-headshot.jpg",
         "name": "Michael Howe",
         "openstates_id": "ocd-person/31c83885-ce7e-4b8f-ac6d-bf310c12acb8",
         "party": "Republican",
@@ -146728,7 +146714,7 @@
       {
         "address": "101 N. Carson Street; Suite 3; Carson City, NV 89701-",
         "email": "sosexec@sos.nv.gov",
-        "image": null,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Francisco_Aguilar%2C_Secretary_of_State_of_Nevada%2C_2024.jpg",
         "name": "Francisco V. Aguilar",
         "openstates_id": "ocd-person/b71b3b3a-2122-43ec-a5e8-1ac394f13cf0",
         "party": "Republican",
@@ -146778,7 +146764,7 @@
       {
         "address": "Riffe Center, 30th Floor, 77 South High Street, Columbus, OH 43215-6117",
         "email": null,
-        "image": "https://governor.ohio.gov/wps/wcm/connect/gov/e9a970b4-a222-4dde-a817-29581c87f3e6/Gov-Mike-DeWine.jpg?MOD=AJPERES",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gov-Mike-DeWine.jpg/960px-Gov-Mike-DeWine.jpg",
         "name": "Mike DeWine",
         "openstates_id": "ocd-person/37478cd9-ed21-43f7-b2cc-578df43ad32d",
         "party": "Republican",
@@ -146794,7 +146780,7 @@
       {
         "address": "Riffe Center, 30th Floor, 77 South High Street; Columbus, OH 43215-6117",
         "email": null,
-        "image": "https://governor.ohio.gov/wps/wcm/connect/gov/12ebe94c-b50b-41d2-b88f-eafb0b1734e7/Jim+Tressel.jpg?MOD=AJPERES",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Jim_Tressel_2025_portrait_%28cropped%29.jpg/960px-Jim_Tressel_2025_portrait_%28cropped%29.jpg",
         "name": "Jim Tressel",
         "openstates_id": "ocd-person/6aef5093-5720-48fd-9997-e4f5451014b4",
         "party": "Republican",
@@ -146982,7 +146968,7 @@
       {
         "address": "82 Smith St.; Rm 217; Providence, RI 02903-",
         "email": "secretaryamore@sos.ri.gov",
-        "image": null,
+        "image": "https://www.sos.ri.gov/assets/img/secretary-amore-headshot.jpg",
         "name": "Gregg Amore",
         "openstates_id": "ocd-person/18b9f6aa-ba50-4c0a-953c-fba2720ef2a6",
         "party": "Democratic",
@@ -147145,7 +147131,7 @@
       {
         "address": "1100 Congress Ave. ; ; Austin, TX 78701-",
         "email": "secretary@sos.texas.gov",
-        "image": null,
+        "image": "https://www.sos.state.tx.us/images/jane-nelson-portrait-small.jpg",
         "name": "Jane Nelson",
         "openstates_id": "ocd-person/ff63d52e-ec3f-4749-9b96-8e8323cd655f",
         "party": "Republican",
@@ -147212,7 +147198,7 @@
       {
         "address": "128 State Street; ; Montpelier, VT 05633-",
         "email": "secretary@vermont.gov",
-        "image": "https://sos.vermont.gov/media/isaloynw/sarah.jpg",
+        "image": "https://sos.vermont.gov/sites/sos/files/images/sarah.jpg",
         "name": "Sarah L. Copeland Hanzas",
         "openstates_id": "ocd-person/19d6cf01-f77c-4db7-8765-af838a00bc75",
         "party": "Democratic",
