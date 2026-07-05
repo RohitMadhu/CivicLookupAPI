@@ -37680,7 +37680,7 @@
       }
     }
   },
-  "generated_at": "2026-07-05T14:08:36.699931+00:00",
+  "generated_at": "2026-07-05T19:41:27.676756+00:00",
   "indexes": {
     "id:house_abigail_spanberger": [
       "house_abigail_spanberger"
@@ -40983,12 +40983,12 @@
       "tradesWithLag": 61674
     },
     "estVolumeUsd": 7329479634,
-    "generatedAt": "2026-07-05T07:53:05.336Z",
+    "generatedAt": "2026-07-05T14:54:04.440Z",
     "lateFilings": 17209,
     "totalFilers": 435,
     "totalFilings": 54826,
     "totalParsedFilings": 7149,
     "totalTrades": 64314
   },
-  "upstream_generated_at": "2026-07-05T07:53:05.336Z"
+  "upstream_generated_at": "2026-07-05T14:54:04.440Z"
 }
