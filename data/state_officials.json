@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T12:59:16.709034+00:00",
+  "generated_at": "2026-07-06T12:37:53.026993+00:00",
   "sources": {
     "openstates_people": "https://github.com/openstates/people"
   },
@@ -42,22 +42,6 @@
         "state": "DC",
         "state_name": "District of Columbia",
         "url": "https://dccouncil.us/council/at-large-councilmember-christina-henderson/"
-      },
-      {
-        "address": "1350 Pennsylvania Ave. NW Suite 506, Washington, DC 20004",
-        "chamber": "legislature",
-        "district": "At-Large",
-        "district_key": "at-large",
-        "email": "dcrawford@dccouncil.gov",
-        "image": "https://dccouncil.gov/wp-content/uploads/2026/01/Bio-Pic-scaled-125x125-c-default.jpeg",
-        "name": "Doni Crawford",
-        "openstates_id": "ocd-person/5b179576-4f3f-453c-b40a-32917d38d751",
-        "party": "Independent",
-        "phone": "202-724-7772",
-        "social": {},
-        "state": "DC",
-        "state_name": "District of Columbia",
-        "url": "https://dccouncil.gov/council/at-large-councilmember-doni-crawford/"
       },
       {
         "address": "1350 Pennsylvania Ave. NW Suite 107, Washington, DC 20004",
@@ -53245,20 +53229,20 @@
     ],
     "NC:90": [
       {
-        "address": "Room 635, Legislative Office Building 300 N. Salisbury St., Raleigh, NC 27603",
+        "address": "Room 418A, 300 N. Salisbury St., Raleigh, NC 27603",
         "chamber": "lower",
         "district": "90",
         "district_key": "90",
-        "email": "sarah.stevens@ncleg.gov",
-        "image": "https://www.ncleg.gov/Members/MemberImage/H/592/Low",
-        "name": "Sarah Stevens",
-        "openstates_id": "ocd-person/09099128-27fc-463f-af36-28253d1e7a60",
+        "email": "dan.kiger@ncleg.gov",
+        "image": "https://img.legistorm.com/people/912/211912.jpg?rand=39180",
+        "name": "Dan Kiger",
+        "openstates_id": "ocd-person/443b38b0-1881-443c-ba43-70ffb1d7a9ea",
         "party": "Republican",
         "phone": "919-715-1883",
         "social": {},
         "state": "NC",
         "state_name": "North Carolina",
-        "url": "https://www.ncleg.gov/Members/Biography/H/592"
+        "url": "https://www.ncleg.gov/Members/Biography/H/1004"
       }
     ],
     "NC:91": [
@@ -108312,7 +108296,7 @@
         "district_key": "q",
         "email": "senator.robert.myers@akleg.gov",
         "image": "http://akleg.gov/images/legislators/450x600/MYE.jpg",
-        "name": "Robert Myers",
+        "name": "Robb Myers",
         "openstates_id": "ocd-person/697cb834-6aa1-44f1-9c6e-9cf57ad30774",
         "party": "Republican",
         "phone": "907-465-3719",
@@ -134247,7 +134231,7 @@
         "district": "6",
         "district_key": "6",
         "email": "sen.cedrichayden@oregonlegislature.gov",
-        "image": "https://www.oregonlegislature.gov/hayden/PublishingImages/member_photo.jpg",
+        "image": "https://www.oregonlegislature.gov/hayden/PublishingImages/Pages/default/Sen%20Hayden%202023%20closer.jpg",
         "name": "Cedric Hayden",
         "openstates_id": "ocd-person/95da50da-34df-41f5-8900-ff8bec038272",
         "party": "Republican",
