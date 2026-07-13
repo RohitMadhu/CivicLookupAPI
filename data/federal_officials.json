@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T12:37:25.066249+00:00",
+  "generated_at": "2026-07-13T11:53:02.576456+00:00",
   "house_by_district": {
     "AK:0": [
       {
@@ -11335,26 +11335,6 @@
       }
     ],
     "SC": [
-      {
-        "address": "211 Russell Senate Office Building Washington DC 20510",
-        "bioguide_id": "G000359",
-        "chamber": "senate",
-        "class": 2,
-        "name": "Lindsey Graham",
-        "office": "211 Russell Senate Office Building",
-        "party": "Republican",
-        "phone": "202-224-5972",
-        "social": {
-          "facebook": "USSenatorLindseyGraham",
-          "twitter": "GrahamBlog",
-          "twitter_id": "14845376",
-          "youtube": "USSenLindseyGraham",
-          "youtube_id": "UClLGZMA5Ei2Z8fR1PLEx6yQ"
-        },
-        "state": "SC",
-        "state_name": "South Carolina",
-        "url": "https://www.lgraham.senate.gov/public"
-      },
       {
         "address": "104 Hart Senate Office Building Washington DC 20510",
         "bioguide_id": "S001184",
