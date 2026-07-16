@@ -34779,7 +34779,7 @@
           "row_index": 1,
           "source_id": "oge_executive",
           "state": null,
-          "ticker": "FPS_NOT_EXPLICIT_TICKER_BUT_FPS_IN_PARENTHESES_SO_NULL_OR_FPS_LET_US_USE_NULL_AS_IT_IS_NOT_A_TICKER_SYMBOL_BUT_COMPANY_ABBREVIATION_OR_NULL_TICKER_IS_NULL_FOR_FPS_SINCE_IT_IS_NOT_A_TICKER_SYMBOL_ON_EXCHANGE_BUT_LET_US_SET_NULL_FOR_FPS_AND_EXTRACT_OTHERS_PROPERLY_OR_FPS_IF_CONSIDERED_TICKER_BUT_WE_WILL_USE_NULL_FOR_FPS_AND_GLW_FOR_CORNING_AND_FLNC_FOR_FLUENCE_AND_AKAM_FOR_AKAMAI_AND_QCOM_FOR_QUALCOMM",
+          "ticker": null,
           "transaction_date": "2026-05-14",
           "transaction_type": "Purchase"
         }
@@ -34790,9 +34790,7 @@
         "latest_filing_date": "2026-07-15",
         "latest_transaction_date": "2026-05-14",
         "purchases": 14,
-        "recent_tickers": [
-          "FPS_NOT_EXPLICIT_TICKER_BUT_FPS_IN_PARENTHESES_SO_NULL_OR_FPS_LET_US_USE_NULL_AS_IT_IS_NOT_A_TICKER_SYMBOL_BUT_COMPANY_ABBREVIATION_OR_NULL_TICKER_IS_NULL_FOR_FPS_SINCE_IT_IS_NOT_A_TICKER_SYMBOL_ON_EXCHANGE_BUT_LET_US_SET_NULL_FOR_FPS_AND_EXTRACT_OTHERS_PROPERLY_OR_FPS_IF_CONSIDERED_TICKER_BUT_WE_WILL_USE_NULL_FOR_FPS_AND_GLW_FOR_CORNING_AND_FLNC_FOR_FLUENCE_AND_AKAM_FOR_AKAMAI_AND_QCOM_FOR_QUALCOMM"
-        ],
+        "recent_tickers": [],
         "recent_trade_count": 1,
         "sales": 7,
         "trade_count": 21
@@ -42261,7 +42259,7 @@
       }
     }
   },
-  "generated_at": "2026-07-16T08:33:48.195175+00:00",
+  "generated_at": "2026-07-16T14:21:56.538804+00:00",
   "indexes": {
     "id:house_abigail_spanberger": [
       "house_abigail_spanberger"
@@ -45573,12 +45571,12 @@
       "tradesWithLag": 61987
     },
     "estVolumeUsd": 7343819291,
-    "generatedAt": "2026-07-16T08:00:05.783Z",
+    "generatedAt": "2026-07-16T11:37:52.193Z",
     "lateFilings": 17213,
     "totalFilers": 436,
     "totalFilings": 54980,
     "totalParsedFilings": 7156,
     "totalTrades": 64627
   },
-  "upstream_generated_at": "2026-07-16T08:00:05.783Z"
+  "upstream_generated_at": "2026-07-16T11:37:52.193Z"
 }
