@@ -19476,7 +19476,7 @@
           "comment": null,
           "days_to_file": 43,
           "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034815.pdf",
-          "excess_since": -4.010125303559586,
+          "excess_since": -2.6443195210906403,
           "filer_id": "house_nealpatrickmdfacs_dunn",
           "filer_name": "Neal Patrick MD, Facs Dunn",
           "filing_date": "2026-06-23",
@@ -19490,7 +19490,7 @@
           "party": "R",
           "ret_1y": null,
           "ret_30d": -4.149125767914311,
-          "ret_since": -2.4654231395235344,
+          "ret_since": -2.1046211171604154,
           "row_index": null,
           "source_id": "house_clerk",
           "state": "FL",
@@ -19544,7 +19544,7 @@
           "comment": null,
           "days_to_file": 43,
           "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034815.pdf",
-          "excess_since": -8.995491097212689,
+          "excess_since": -7.791130673948805,
           "filer_id": "house_nealpatrickmdfacs_dunn",
           "filer_name": "Neal Patrick MD, Facs Dunn",
           "filing_date": "2026-06-23",
@@ -19558,7 +19558,7 @@
           "party": "R",
           "ret_1y": null,
           "ret_30d": -5.606777822360209,
-          "ret_since": -7.450788933176638,
+          "ret_since": -7.25143227001858,
           "row_index": null,
           "source_id": "house_clerk",
           "state": "FL",
@@ -29079,7 +29079,7 @@
           "comment": null,
           "days_to_file": 10,
           "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034895.pdf",
-          "excess_since": -1.096868046795066,
+          "excess_since": 0.07282700818911464,
           "filer_id": "house_virginia_foxx",
           "filer_name": "Virginia Foxx",
           "filing_date": "2026-07-10",
@@ -29093,7 +29093,7 @@
           "party": "R",
           "ret_1y": null,
           "ret_30d": null,
-          "ret_since": -0.5679299442244249,
+          "ret_since": -0.3931854739523998,
           "row_index": null,
           "source_id": "house_clerk",
           "state": "NC",
@@ -29113,7 +29113,7 @@
           "comment": null,
           "days_to_file": 22,
           "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034895.pdf",
-          "excess_since": -0.7521795238532786,
+          "excess_since": 0.41816841105324976,
           "filer_id": "house_virginia_foxx",
           "filer_name": "Virginia Foxx",
           "filing_date": "2026-07-10",
@@ -29127,7 +29127,7 @@
           "party": "R",
           "ret_1y": null,
           "ret_30d": null,
-          "ret_since": -0.21919876471369829,
+          "ret_since": -0.0438414253221149,
           "row_index": null,
           "source_id": "house_clerk",
           "state": "NC",
@@ -44102,7 +44102,7 @@
       }
     }
   },
-  "generated_at": "2026-07-19T13:52:39.848174+00:00",
+  "generated_at": "2026-07-19T19:31:21.082417+00:00",
   "indexes": {
     "id:house_abigail_spanberger": [
       "house_abigail_spanberger"
@@ -47423,12 +47423,12 @@
       "tradesWithLag": 62039
     },
     "estVolumeUsd": 7344887817,
-    "generatedAt": "2026-07-18T08:22:33.698Z",
+    "generatedAt": "2026-07-19T14:30:53.936Z",
     "lateFilings": 17215,
     "totalFilers": 437,
-    "totalFilings": 55022,
+    "totalFilings": 55027,
     "totalParsedFilings": 7157,
     "totalTrades": 64679
   },
-  "upstream_generated_at": "2026-07-18T08:22:33.698Z"
+  "upstream_generated_at": "2026-07-19T14:30:53.936Z"
 }
