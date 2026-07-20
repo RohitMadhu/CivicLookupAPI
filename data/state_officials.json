@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T11:53:26.547597+00:00",
+  "generated_at": "2026-07-20T11:37:29.185572+00:00",
   "sources": {
     "openstates_people": "https://github.com/openstates/people"
   },
@@ -12032,7 +12032,7 @@
         "district": "10",
         "district_key": "10",
         "email": "melanie.rosslevin@delaware.gov",
-        "image": "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2024/11/image-2-1-710x710.jpg",
+        "image": "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2024/11/Untitled-design-2-1-710x710.png",
         "name": "Melanie Ross Levin",
         "openstates_id": "ocd-person/ec594c77-7bbe-45c5-9ffd-0f6a3aad1e36",
         "party": "Democratic",
@@ -53234,7 +53234,7 @@
         "district": "90",
         "district_key": "90",
         "email": "dan.kiger@ncleg.gov",
-        "image": "https://img.legistorm.com/people/912/211912.jpg?rand=39180",
+        "image": null,
         "name": "Dan Kiger",
         "openstates_id": "ocd-person/443b38b0-1881-443c-ba43-70ffb1d7a9ea",
         "party": "Republican",
@@ -103302,7 +103302,7 @@
     ],
     "WI:1": [
       {
-        "address": "State Capitol Room 314 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "1",
         "district_key": "1",
@@ -103311,7 +103311,7 @@
         "name": "Joel Kitchens",
         "openstates_id": "ocd-person/e127b754-c756-4017-a414-83cff1bb30f5",
         "party": "Republican",
-        "phone": "608-237-9101",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103338,7 +103338,7 @@
     ],
     "WI:11": [
       {
-        "address": "State Capitol Room 16 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "11",
         "district_key": "11",
@@ -103347,7 +103347,7 @@
         "name": "Sequanna Taylor",
         "openstates_id": "ocd-person/a3db3b70-1e27-44a4-a5ae-025450ae4d3d",
         "party": "Democratic",
-        "phone": "608-237-9111",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103410,7 +103410,7 @@
     ],
     "WI:15": [
       {
-        "address": "State Capitol Room 204 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "15",
         "district_key": "15",
@@ -103419,7 +103419,7 @@
         "name": "Adam Neylon",
         "openstates_id": "ocd-person/22d8a510-3b36-432a-9d3d-08efe7e74d5e",
         "party": "Republican",
-        "phone": "608-237-9115",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103428,7 +103428,7 @@
     ],
     "WI:16": [
       {
-        "address": "State Capitol Room 119 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "16",
         "district_key": "16",
@@ -103437,7 +103437,7 @@
         "name": "Kalan Haywood",
         "openstates_id": "ocd-person/ac00fa62-2863-4ce4-97fb-57c094eaa158",
         "party": "Democratic",
-        "phone": "608-237-9116",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103482,7 +103482,7 @@
     ],
     "WI:19": [
       {
-        "address": "State Capitol Room 21 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "19",
         "district_key": "19",
@@ -103491,7 +103491,7 @@
         "name": "Ryan Clancy",
         "openstates_id": "ocd-person/91423371-a92c-4006-ad7d-e21f2f7e666b",
         "party": "Democratic",
-        "phone": "608-237-9119",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103500,7 +103500,7 @@
     ],
     "WI:2": [
       {
-        "address": "State Capitol Room 214 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "2",
         "district_key": "2",
@@ -103509,7 +103509,7 @@
         "name": "Shae Sortwell",
         "openstates_id": "ocd-person/82745ad9-d4b8-48e7-bbb9-3c5d73535c30",
         "party": "Republican",
-        "phone": "608-237-9102",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103536,7 +103536,7 @@
     ],
     "WI:21": [
       {
-        "address": "State Capitol Room 306 East, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "21",
         "district_key": "21",
@@ -103545,7 +103545,7 @@
         "name": "Jessie Rodriguez",
         "openstates_id": "ocd-person/1dd290f4-6504-4967-9566-55cb3340d303",
         "party": "Republican",
-        "phone": "608-237-9121",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103554,7 +103554,7 @@
     ],
     "WI:22": [
       {
-        "address": "State Capitol Room 308 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "22",
         "district_key": "22",
@@ -103563,7 +103563,7 @@
         "name": "Paul Melotik",
         "openstates_id": "ocd-person/dab88795-9c78-44c5-a0c7-c93cb677f2e3",
         "party": "Republican",
-        "phone": "608-237-9122",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103608,7 +103608,7 @@
     ],
     "WI:25": [
       {
-        "address": "State Capitol Room 218 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "25",
         "district_key": "25",
@@ -103617,7 +103617,7 @@
         "name": "Paul Tittl",
         "openstates_id": "ocd-person/2e759534-4cf1-43f5-85d0-bf48fea3a048",
         "party": "Republican",
-        "phone": "608-237-9125",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103644,7 +103644,7 @@
     ],
     "WI:27": [
       {
-        "address": "State Capitol Room 409 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "27",
         "district_key": "27",
@@ -103653,7 +103653,7 @@
         "name": "Lindee Brill",
         "openstates_id": "ocd-person/a8bf9343-7c1b-4a9d-812c-eef5a89365a6",
         "party": "Republican",
-        "phone": "608-237-9127",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103662,7 +103662,7 @@
     ],
     "WI:28": [
       {
-        "address": "State Capitol Room 107 West, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "28",
         "district_key": "28",
@@ -103671,7 +103671,7 @@
         "name": "Rob Kreibich",
         "openstates_id": "ocd-person/a5d9287a-c3e7-4457-8faf-31024e0e9ac6",
         "party": "Republican",
-        "phone": "608-237-9128",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103680,7 +103680,7 @@
     ],
     "WI:29": [
       {
-        "address": "State Capitol Room 103 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "29",
         "district_key": "29",
@@ -103689,7 +103689,7 @@
         "name": "Treig Pronschinske",
         "openstates_id": "ocd-person/0ea516ae-e0f5-4d3e-baee-124e0b00d70e",
         "party": "Republican",
-        "phone": "608-237-9129",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103698,7 +103698,7 @@
     ],
     "WI:3": [
       {
-        "address": "State Capitol Room 22 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "3",
         "district_key": "3",
@@ -103707,7 +103707,7 @@
         "name": "Ron Tusler",
         "openstates_id": "ocd-person/1c2038cc-ee27-475c-a578-0236dba3f3f3",
         "party": "Republican",
-        "phone": "608-237-9103",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103716,7 +103716,7 @@
     ],
     "WI:30": [
       {
-        "address": "State Capitol Room 324 East, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "30",
         "district_key": "30",
@@ -103725,7 +103725,7 @@
         "name": "Shannon Zimmerman",
         "openstates_id": "ocd-person/d949fee5-765b-43ea-913c-386fe2b3c441",
         "party": "Republican",
-        "phone": "608-237-9130",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103734,7 +103734,7 @@
     ],
     "WI:31": [
       {
-        "address": "State Capitol Room 115 West, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "31",
         "district_key": "31",
@@ -103743,7 +103743,7 @@
         "name": "Tyler August",
         "openstates_id": "ocd-person/b4554989-ede4-44a0-a541-c2aea2659d39",
         "party": "Republican",
-        "phone": "608-237-9131",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103752,7 +103752,7 @@
     ],
     "WI:32": [
       {
-        "address": "State Capitol Room 208 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "32",
         "district_key": "32",
@@ -103761,7 +103761,7 @@
         "name": "Amanda Nedweski",
         "openstates_id": "ocd-person/5c70d5df-b7a6-471c-a766-05816ee009a5",
         "party": "Republican",
-        "phone": "608-237-9132",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103770,7 +103770,7 @@
     ],
     "WI:33": [
       {
-        "address": "State Capitol Room 217 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "33",
         "district_key": "33",
@@ -103779,7 +103779,7 @@
         "name": "Robin Vos",
         "openstates_id": "ocd-person/c8381cb6-1fcf-4a82-a6c5-5c60773a85e1",
         "party": "Republican",
-        "phone": "608-237-9133",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103788,7 +103788,7 @@
     ],
     "WI:34": [
       {
-        "address": "State Capitol Room 123 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "34",
         "district_key": "34",
@@ -103797,7 +103797,7 @@
         "name": "Rob Swearingen",
         "openstates_id": "ocd-person/3a7f3611-78c4-453a-ae50-3cad3761dc9b",
         "party": "Republican",
-        "phone": "608-237-9134",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103806,7 +103806,7 @@
     ],
     "WI:35": [
       {
-        "address": "State Capitol Room 127 West, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "35",
         "district_key": "35",
@@ -103815,7 +103815,7 @@
         "name": "Calvin Callahan",
         "openstates_id": "ocd-person/23c03244-880a-4263-8e2f-18c0c5556b45",
         "party": "Republican",
-        "phone": "608-237-9135",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103824,7 +103824,7 @@
     ],
     "WI:36": [
       {
-        "address": "State Capitol Room 113 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "36",
         "district_key": "36",
@@ -103833,7 +103833,7 @@
         "name": "Jeff Mursau",
         "openstates_id": "ocd-person/5254db79-a23b-4496-ad9b-cc0e7a9b7f3a",
         "party": "Republican",
-        "phone": "608-237-9136",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103842,7 +103842,7 @@
     ],
     "WI:37": [
       {
-        "address": "State Capitol Room 308 East, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "37",
         "district_key": "37",
@@ -103851,7 +103851,7 @@
         "name": "Mark Born",
         "openstates_id": "ocd-person/b6559841-9e69-4435-8788-0d8bc087baed",
         "party": "Republican",
-        "phone": "608-237-9137",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103860,7 +103860,7 @@
     ],
     "WI:38": [
       {
-        "address": "State Capitol Room 207 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "38",
         "district_key": "38",
@@ -103869,7 +103869,7 @@
         "name": "Will Penterman",
         "openstates_id": "ocd-person/790447a2-d03d-4bc7-b15c-a72b25689eb3",
         "party": "Republican",
-        "phone": "608-237-9138",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103878,7 +103878,7 @@
     ],
     "WI:39": [
       {
-        "address": "State Capitol Room 320 East, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "39",
         "district_key": "39",
@@ -103887,7 +103887,7 @@
         "name": "Alex Dallman",
         "openstates_id": "ocd-person/c4afc94c-3bad-4e77-9f81-de613c406860",
         "party": "Republican",
-        "phone": "608-237-9139",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103896,7 +103896,7 @@
     ],
     "WI:4": [
       {
-        "address": "State Capitol Room 323 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "4",
         "district_key": "4",
@@ -103905,7 +103905,7 @@
         "name": "David Steffen",
         "openstates_id": "ocd-person/2a067a93-dffc-4ce7-8975-d37fb67b4512",
         "party": "Republican",
-        "phone": "608-237-9104",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103932,7 +103932,7 @@
     ],
     "WI:41": [
       {
-        "address": "State Capitol Room 304 East, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "41",
         "district_key": "41",
@@ -103941,7 +103941,7 @@
         "name": "Tony Kurtz",
         "openstates_id": "ocd-person/5967b2fb-a060-4262-b10d-6fd27d81bf3f",
         "party": "Republican",
-        "phone": "608-237-9141",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103968,7 +103968,7 @@
     ],
     "WI:43": [
       {
-        "address": "State Capitol Room 9 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "43",
         "district_key": "43",
@@ -103977,7 +103977,7 @@
         "name": "Brienne Brown",
         "openstates_id": "ocd-person/f8f3683e-3615-4a4b-bafe-d4d042f291d0",
         "party": "Democratic",
-        "phone": "608-237-9143",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104076,7 +104076,7 @@
     ],
     "WI:49": [
       {
-        "address": "State Capitol Room 302 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "49",
         "district_key": "49",
@@ -104085,7 +104085,7 @@
         "name": "Travis Tranel",
         "openstates_id": "ocd-person/97dae592-4e4a-4cf2-9d56-069d7432b8d9",
         "party": "Republican",
-        "phone": "608-237-9149",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104094,7 +104094,7 @@
     ],
     "WI:5": [
       {
-        "address": "State Capitol Room 209 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "5",
         "district_key": "5",
@@ -104103,7 +104103,7 @@
         "name": "Joy Goeben",
         "openstates_id": "ocd-person/b8666d84-956f-40a7-8faa-75709f9d4a12",
         "party": "Republican",
-        "phone": "608-237-9105",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104130,7 +104130,7 @@
     ],
     "WI:51": [
       {
-        "address": "State Capitol Room 310 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "51",
         "district_key": "51",
@@ -104139,7 +104139,7 @@
         "name": "Todd Novak",
         "openstates_id": "ocd-person/c1e8d1c1-380d-4f59-893e-a18f77be21dd",
         "party": "Republican",
-        "phone": "608-237-9151",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104166,7 +104166,7 @@
     ],
     "WI:53": [
       {
-        "address": "State Capitol Room 223 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "53",
         "district_key": "53",
@@ -104175,7 +104175,7 @@
         "name": "Dean Kaufert",
         "openstates_id": "ocd-person/72aa0b66-48f0-41fd-8ac8-b33f610d97c7",
         "party": "Republican",
-        "phone": "608-237-9153",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104202,7 +104202,7 @@
     ],
     "WI:55": [
       {
-        "address": "State Capitol Room 316 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "55",
         "district_key": "55",
@@ -104211,7 +104211,7 @@
         "name": "Gus Gustafson",
         "openstates_id": "ocd-person/58b31138-e0a5-41ae-bd2f-5713e6c0cc0c",
         "party": "Republican",
-        "phone": "608-237-9155",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104220,7 +104220,7 @@
     ],
     "WI:56": [
       {
-        "address": "State Capitol Room 318 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "56",
         "district_key": "56",
@@ -104229,7 +104229,7 @@
         "name": "Dave Murphy",
         "openstates_id": "ocd-person/1e2717f2-3426-47b6-8e86-a63f0a507c81",
         "party": "Republican",
-        "phone": "608-237-9156",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104238,7 +104238,7 @@
     ],
     "WI:57": [
       {
-        "address": "State Capitol Room 309 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "57",
         "district_key": "57",
@@ -104247,7 +104247,7 @@
         "name": "Kevin Petersen",
         "openstates_id": "ocd-person/43c33bdc-3c41-47cc-8ffb-10a043ecdc93",
         "party": "Republican",
-        "phone": "608-237-9157",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104256,7 +104256,7 @@
     ],
     "WI:58": [
       {
-        "address": "State Capitol Room 312 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "58",
         "district_key": "58",
@@ -104265,7 +104265,7 @@
         "name": "Rick Gundrum",
         "openstates_id": "ocd-person/264f7afa-69cb-46f3-97f3-ff8f21a1d68a",
         "party": "Republican",
-        "phone": "608-237-9158",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104274,7 +104274,7 @@
     ],
     "WI:59": [
       {
-        "address": "State Capitol Room 216 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "59",
         "district_key": "59",
@@ -104283,7 +104283,7 @@
         "name": "Rob Brooks",
         "openstates_id": "ocd-person/d8956a67-d280-4219-853f-c21ec173f80a",
         "party": "Republican",
-        "phone": "608-237-9159",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104292,7 +104292,7 @@
     ],
     "WI:6": [
       {
-        "address": "State Capitol Room 219 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "6",
         "district_key": "6",
@@ -104301,7 +104301,7 @@
         "name": "Elijah Behnke",
         "openstates_id": "ocd-person/de5dfe78-e3a2-4a58-a7f1-bb184bfd1ade",
         "party": "Republican",
-        "phone": "608-237-9106",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104310,7 +104310,7 @@
     ],
     "WI:60": [
       {
-        "address": "State Capitol Room 109 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "60",
         "district_key": "60",
@@ -104319,7 +104319,7 @@
         "name": "Jerry O'Connor",
         "openstates_id": "ocd-person/4e1004c1-d397-4a50-baeb-2d3fbbd2912f",
         "party": "Republican",
-        "phone": "608-237-9160",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104328,7 +104328,7 @@
     ],
     "WI:61": [
       {
-        "address": "State Capitol Room 3 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "61",
         "district_key": "61",
@@ -104337,7 +104337,7 @@
         "name": "Bob Donovan",
         "openstates_id": "ocd-person/54522ac6-81ad-4b83-929f-b94e94b8acb4",
         "party": "Republican",
-        "phone": "608-237-9161",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104364,7 +104364,7 @@
     ],
     "WI:63": [
       {
-        "address": "State Capitol Room 129 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "63",
         "district_key": "63",
@@ -104373,7 +104373,7 @@
         "name": "Bob Wittke",
         "openstates_id": "ocd-person/ea4d8d73-19b6-408f-a802-22b2ddf816d9",
         "party": "Republican",
-        "phone": "608-237-9163",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104382,7 +104382,7 @@
     ],
     "WI:64": [
       {
-        "address": "State Capitol Room 321 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "64",
         "district_key": "64",
@@ -104391,7 +104391,7 @@
         "name": "Tip McGuire",
         "openstates_id": "ocd-person/c66ed13a-e5a7-49e0-9cce-02d677c5da15",
         "party": "Democratic",
-        "phone": "608-237-9164",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104436,7 +104436,7 @@
     ],
     "WI:67": [
       {
-        "address": "State Capitol Room 220 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "67",
         "district_key": "67",
@@ -104445,7 +104445,7 @@
         "name": "Dave Armstrong",
         "openstates_id": "ocd-person/28caa8bd-605b-4755-85a0-52434a9be02f",
         "party": "Republican",
-        "phone": "608-237-9167",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104454,7 +104454,7 @@
     ],
     "WI:68": [
       {
-        "address": "State Capitol Room 119 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "68",
         "district_key": "68",
@@ -104463,7 +104463,7 @@
         "name": "Rob Summerfield",
         "openstates_id": "ocd-person/e23ff9c6-f6d5-4ada-8974-74c6ce90c422",
         "party": "Republican",
-        "phone": "608-237-9168",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104472,7 +104472,7 @@
     ],
     "WI:69": [
       {
-        "address": "State Capitol Room 321 East, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "69",
         "district_key": "69",
@@ -104481,7 +104481,7 @@
         "name": "Karen Hurd",
         "openstates_id": "ocd-person/1332581f-d860-43a0-b7d9-ddf619451efa",
         "party": "Republican",
-        "phone": "608-237-9169",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104508,7 +104508,7 @@
     ],
     "WI:70": [
       {
-        "address": "State Capitol Room 13 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "70",
         "district_key": "70",
@@ -104517,7 +104517,7 @@
         "name": "Nancy VanderMeer",
         "openstates_id": "ocd-person/5858f406-f96a-4846-8a9e-0bede48d94ed",
         "party": "Republican",
-        "phone": "608-237-9170",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104544,7 +104544,7 @@
     ],
     "WI:72": [
       {
-        "address": "State Capitol Room 315 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "72",
         "district_key": "72",
@@ -104553,7 +104553,7 @@
         "name": "Scott Krug",
         "openstates_id": "ocd-person/77257644-eb9a-447d-bcd8-f3e3de7e49e4",
         "party": "Republican",
-        "phone": "608-237-9172",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104580,7 +104580,7 @@
     ],
     "WI:74": [
       {
-        "address": "State Capitol Room 125 West, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "74",
         "district_key": "74",
@@ -104589,7 +104589,7 @@
         "name": "Chanz Green",
         "openstates_id": "ocd-person/2a6503b4-d030-4569-b5b2-8fe62ff6132d",
         "party": "Republican",
-        "phone": "608-237-9174",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104598,7 +104598,7 @@
     ],
     "WI:75": [
       {
-        "address": "State Capitol Room 418 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "75",
         "district_key": "75",
@@ -104607,7 +104607,7 @@
         "name": "Duke Tucker",
         "openstates_id": "ocd-person/2a047fc5-2adb-4c4b-9c67-0eda3aa07233",
         "party": "Republican",
-        "phone": "608-237-9175",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104634,7 +104634,7 @@
     ],
     "WI:77": [
       {
-        "address": "State Capitol Room 10 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "77",
         "district_key": "77",
@@ -104643,7 +104643,7 @@
         "name": "Renuka Mayadev",
         "openstates_id": "ocd-person/8b54c039-be1b-4320-89f8-415ac1afa698",
         "party": "Democratic",
-        "phone": "608-237-9177",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104670,7 +104670,7 @@
     ],
     "WI:79": [
       {
-        "address": "State Capitol Room 113 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "79",
         "district_key": "79",
@@ -104679,7 +104679,7 @@
         "name": "Lisa Subeck",
         "openstates_id": "ocd-person/eed49381-7c5b-4890-bba3-d63b8681463d",
         "party": "Democratic",
-        "phone": "608-237-9179",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104706,7 +104706,7 @@
     ],
     "WI:80": [
       {
-        "address": "State Capitol Room 306 West, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "80",
         "district_key": "80",
@@ -104715,7 +104715,7 @@
         "name": "Mike Bare",
         "openstates_id": "ocd-person/1b0b0777-af08-40f2-a45b-3c2431b37722",
         "party": "Democratic",
-        "phone": "608-237-9180",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104742,7 +104742,7 @@
     ],
     "WI:82": [
       {
-        "address": "State Capitol Room 105 West, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "82",
         "district_key": "82",
@@ -104751,7 +104751,7 @@
         "name": "Scott Allen",
         "openstates_id": "ocd-person/06b28490-4fb0-43fe-9577-60bdb921164b",
         "party": "Republican",
-        "phone": "608-237-9182",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104760,7 +104760,7 @@
     ],
     "WI:83": [
       {
-        "address": "State Capitol Room 4 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "83",
         "district_key": "83",
@@ -104769,7 +104769,7 @@
         "name": "Dave Maxey",
         "openstates_id": "ocd-person/f20f569f-1f36-4856-9193-b4b938dfcdaf",
         "party": "Republican",
-        "phone": "608-237-9183",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104778,7 +104778,7 @@
     ],
     "WI:84": [
       {
-        "address": "State Capitol Room 306 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "84",
         "district_key": "84",
@@ -104787,7 +104787,7 @@
         "name": "Chuck Wichgers",
         "openstates_id": "ocd-person/ef921fbc-cb1a-4208-a4ab-b2ea99114f0a",
         "party": "Republican",
-        "phone": "608-237-9184",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104796,7 +104796,7 @@
     ],
     "WI:85": [
       {
-        "address": "State Capitol Room 307 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "85",
         "district_key": "85",
@@ -104805,7 +104805,7 @@
         "name": "Pat Snyder",
         "openstates_id": "ocd-person/38649f7a-eba4-4908-b264-f95fe908fc7a",
         "party": "Republican",
-        "phone": "608-237-9185",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104814,7 +104814,7 @@
     ],
     "WI:86": [
       {
-        "address": "State Capitol Room 212 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "86",
         "district_key": "86",
@@ -104823,7 +104823,7 @@
         "name": "John Spiros",
         "openstates_id": "ocd-person/38070b4e-d50c-4bc1-86ad-6739c5edc60a",
         "party": "Republican",
-        "phone": "608-237-9186",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104832,7 +104832,7 @@
     ],
     "WI:87": [
       {
-        "address": "State Capitol Room 420 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "87",
         "district_key": "87",
@@ -104841,7 +104841,7 @@
         "name": "Brent Jacobson",
         "openstates_id": "ocd-person/3089bcca-553d-4637-9b50-2d9698944d5a",
         "party": "Republican",
-        "phone": "608-237-9187",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104850,7 +104850,7 @@
     ],
     "WI:88": [
       {
-        "address": "State Capitol Room 304 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "88",
         "district_key": "88",
@@ -104859,7 +104859,7 @@
         "name": "Ben Franklin",
         "openstates_id": "ocd-person/04b709c6-b487-49c1-9bcf-dfbbc7082beb",
         "party": "Republican",
-        "phone": "608-237-9188",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104868,7 +104868,7 @@
     ],
     "WI:89": [
       {
-        "address": "State Capitol Room 17 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "89",
         "district_key": "89",
@@ -104877,7 +104877,7 @@
         "name": "Ryan Spaude",
         "openstates_id": "ocd-person/3d4582f2-ed69-468c-ad02-33cbd612199d",
         "party": "Democratic",
-        "phone": "608-237-9189",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104904,7 +104904,7 @@
     ],
     "WI:90": [
       {
-        "address": "State Capitol Room 18 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "90",
         "district_key": "90",
@@ -104913,7 +104913,7 @@
         "name": "Amaad Rivera-Wagner",
         "openstates_id": "ocd-person/998f8ecc-8772-44f4-a81d-622f567c0142",
         "party": "Democratic",
-        "phone": "608-237-9190",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104922,7 +104922,7 @@
     ],
     "WI:91": [
       {
-        "address": "State Capitol Room 322 West, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "91",
         "district_key": "91",
@@ -104931,7 +104931,7 @@
         "name": "Jodi Emerson",
         "openstates_id": "ocd-person/71d596fa-95f2-4411-9b7c-9e250380b701",
         "party": "Democratic",
-        "phone": "608-237-9191",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104940,7 +104940,7 @@
     ],
     "WI:92": [
       {
-        "address": "State Capitol Room 12 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "92",
         "district_key": "92",
@@ -104949,7 +104949,7 @@
         "name": "Clint Moses",
         "openstates_id": "ocd-person/21e310b1-c14b-42e6-b3fc-84c1613c3063",
         "party": "Republican",
-        "phone": "608-237-9192",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104976,7 +104976,7 @@
     ],
     "WI:94": [
       {
-        "address": "State Capitol Room 124 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "94",
         "district_key": "94",
@@ -104985,7 +104985,7 @@
         "name": "Steve Doyle",
         "openstates_id": "ocd-person/b3064a65-976e-4324-a66d-dfd44a0f0e3e",
         "party": "Democratic",
-        "phone": "608-237-9194",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104994,7 +104994,7 @@
     ],
     "WI:95": [
       {
-        "address": "State Capitol Room 118 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "95",
         "district_key": "95",
@@ -105003,7 +105003,7 @@
         "name": "Jill Billings",
         "openstates_id": "ocd-person/7da63875-0a3c-4b03-aaa8-fe48c718eb45",
         "party": "Democratic",
-        "phone": "608-237-9195",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -105030,7 +105030,7 @@
     ],
     "WI:97": [
       {
-        "address": "State Capitol Room 210 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "97",
         "district_key": "97",
@@ -105039,7 +105039,7 @@
         "name": "Cindi Duchow",
         "openstates_id": "ocd-person/171aec6e-ba95-4244-9854-84cddf028d90",
         "party": "Republican",
-        "phone": "608-237-9197",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -105048,7 +105048,7 @@
     ],
     "WI:98": [
       {
-        "address": "State Capitol Room 412 North, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "98",
         "district_key": "98",
@@ -105057,7 +105057,7 @@
         "name": "Jim Piwowarczyk",
         "openstates_id": "ocd-person/61dfe0c1-631f-401a-a4db-6641547db7ef",
         "party": "Republican",
-        "phone": "608-237-9198",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -105066,7 +105066,7 @@
     ],
     "WI:99": [
       {
-        "address": "State Capitol Room 317 North, P.O. Box 8952 , 2 E. Main St., Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "99",
         "district_key": "99",
@@ -105075,7 +105075,7 @@
         "name": "Barbara Dittrich",
         "openstates_id": "ocd-person/0580ebef-0cfa-40ae-a4ea-d960e0ea30ee",
         "party": "Republican",
-        "phone": "608-237-9199",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",

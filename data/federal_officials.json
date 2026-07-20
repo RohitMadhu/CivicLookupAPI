@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T11:53:02.576456+00:00",
+  "generated_at": "2026-07-20T11:37:01.458638+00:00",
   "house_by_district": {
     "AK:0": [
       {
@@ -493,15 +493,15 @@
     ],
     "CA:1": [
       {
-        "address": null,
+        "address": "408 Cannon House Office Building Washington DC 20515-0501",
         "bioguide_id": "G000607",
         "chamber": "house",
         "district": "California District 1",
         "district_number": 1,
         "name": "James Gallagher",
-        "office": null,
+        "office": "408 Cannon House Office Building",
         "party": "Republican",
-        "phone": null,
+        "phone": "202-225-3076",
         "social": {},
         "state": "CA",
         "state_name": "California",
@@ -11172,12 +11172,12 @@
     ],
     "OK": [
       {
-        "address": "G12 Dirksen Senate Office Building Washington DC 20510",
+        "address": "330 Hart Senate Office Building Washington DC 20510",
         "bioguide_id": "A000383",
         "chamber": "senate",
         "class": 2,
         "name": "Alan Armstrong",
-        "office": "G12 Dirksen Senate Office Building",
+        "office": "330 Hart Senate Office Building",
         "party": "Republican",
         "phone": "202-224-4721",
         "social": {},
@@ -11335,6 +11335,20 @@
       }
     ],
     "SC": [
+      {
+        "address": "B33 Russell Senate Office Building Washington DC 20510",
+        "bioguide_id": "G000608",
+        "chamber": "senate",
+        "class": 2,
+        "name": "Darline Graham",
+        "office": "B33 Russell Senate Office Building",
+        "party": "Republican",
+        "phone": "202-224-5972",
+        "social": {},
+        "state": "SC",
+        "state_name": "South Carolina",
+        "url": "https://www.dgraham.senate.gov"
+      },
       {
         "address": "104 Hart Senate Office Building Washington DC 20510",
         "bioguide_id": "S001184",
