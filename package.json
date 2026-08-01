@@ -1,0 +1,9 @@
+{
+  "name": "civic-lookup-api",
+  "version": "1.0.0",
+  "description": "Civic Lookup API with Vercel Web Analytics",
+  "private": true,
+  "dependencies": {
+    "@vercel/analytics": "^1.1.1"
+  }
+}

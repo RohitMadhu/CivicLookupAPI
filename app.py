@@ -2,7 +2,7 @@ import logging
 import time
 import uuid
 
-from flask import Flask, g, jsonify, request
+from flask import Flask, g, jsonify, render_template, request
 
 try:
     from flask_limiter import Limiter
@@ -103,6 +103,12 @@ def after_request(response):
     )
     response.headers["X-Request-ID"] = g.request_id
     return response
+
+
+# Landing Page with Vercel Analytics
+@app.route("/")
+def index():
+    return render_template("index.html")
 
 
 # Health Check
