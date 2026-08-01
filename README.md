@@ -54,6 +54,8 @@ OPENSTATES_PEOPLE_DIR=/path/to/openstates-people python3 scripts/generate_data.p
 python3 app.py
 ```
 
+5. Open the root URL in a browser (for example `http://127.0.0.1:5000/`) for a short docs page with copy-pasteable `curl` examples. Full reference remains in this README.
+
 ## Google-Compatible API
 
 The `/api` routes are a compatibility layer. They intentionally keep Google Civic-style response shapes and index references.

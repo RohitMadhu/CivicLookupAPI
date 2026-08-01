@@ -2,7 +2,9 @@ import logging
 import time
 import uuid
 
-from flask import Flask, g, jsonify, request
+from pathlib import Path
+
+from flask import Flask, g, jsonify, render_template, request
 
 try:
     from flask_limiter import Limiter
@@ -41,8 +43,15 @@ from civiclookup.config import get_config
 
 config = get_config()
 
-app = Flask(__name__)
+_TEMPLATE_DIR = Path(__file__).resolve().parent / "civiclookup" / "templates"
+app = Flask(__name__, template_folder=str(_TEMPLATE_DIR))
 app.register_blueprint(api_bp)
+
+
+@app.route("/")
+def docs():
+    """Lightweight docs page for browsers hitting the API root."""
+    return render_template("index.html", base_url=request.url_root)
 
 # Rate Limiting
 limiter = None
