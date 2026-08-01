@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CivicLookup API</title>
+  <meta name="description" content="Look up U.S. federal and state officials by ZIP code or street address. A Google Civic-compatible API with a native v1 mode.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=IBM+Plex+Mono:wght@400;500&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --ink: #13212b;
+      --muted: #4a5d6a;
+      --paper: #f3f6f4;
+      --panel: rgba(255, 255, 255, 0.72);
+      --line: rgba(19, 33, 43, 0.12);
+      --accent: #0f7a6a;
+      --accent-deep: #0a5348;
+      --code-bg: #1a2a33;
+      --code-fg: #e8f0ec;
+      --glow: rgba(15, 122, 106, 0.18);
+      --radius: 14px;
+      --max: 52rem;
+    }
+
+    * { box-sizing: border-box; }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      color: var(--ink);
+      font-family: "Source Sans 3", sans-serif;
+      font-size: 1.05rem;
+      line-height: 1.55;
+      background:
+        radial-gradient(1200px 600px at 12% -10%, rgba(15, 122, 106, 0.16), transparent 55%),
+        radial-gradient(900px 500px at 100% 8%, rgba(42, 92, 140, 0.12), transparent 50%),
+        linear-gradient(180deg, #eef3f1 0%, var(--paper) 42%, #e8eee9 100%);
+      min-height: 100vh;
+    }
+
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      opacity: 0.35;
+      background-image:
+        linear-gradient(rgba(19, 33, 43, 0.035) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(19, 33, 43, 0.035) 1px, transparent 1px);
+      background-size: 48px 48px;
+      mask-image: radial-gradient(ellipse at 50% 20%, black 20%, transparent 75%);
+    }
+
+    a {
+      color: var(--accent-deep);
+      text-decoration-thickness: 1.5px;
+      text-underline-offset: 0.18em;
+    }
+
+    a:hover { color: var(--accent); }
+
+    .wrap {
+      width: min(100% - 2rem, var(--max));
+      margin-inline: auto;
+      position: relative;
+    }
+
+    .hero {
+      padding: clamp(3.5rem, 10vw, 6.5rem) 0 clamp(2.5rem, 6vw, 4rem);
+    }
+
+    .brand {
+      font-family: "Fraunces", Georgia, serif;
+      font-size: clamp(2.6rem, 8vw, 4.4rem);
+      font-weight: 700;
+      letter-spacing: -0.03em;
+      line-height: 0.95;
+      margin: 0 0 1rem;
+      opacity: 0;
+      animation: rise 0.7s ease-out 0.05s forwards;
+    }
+
+    .brand span {
+      color: var(--accent);
+    }
+
+    .lede {
+      margin: 0 0 1.75rem;
+      max-width: 34rem;
+      color: var(--muted);
+      font-size: clamp(1.08rem, 2.4vw, 1.25rem);
+      opacity: 0;
+      animation: rise 0.7s ease-out 0.18s forwards;
+    }
+
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem 1rem;
+      opacity: 0;
+      animation: rise 0.7s ease-out 0.3s forwards;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 2.75rem;
+      padding: 0.65rem 1.15rem;
+      border-radius: 999px;
+      border: 1.5px solid transparent;
+      font-weight: 600;
+      text-decoration: none;
+      transition: transform 0.18s ease, background 0.18s ease, border-color 0.18s ease;
+    }
+
+    .btn:hover { transform: translateY(-1px); }
+
+    .btn-primary {
+      background: var(--ink);
+      color: #f7faf8;
+    }
+
+    .btn-primary:hover {
+      background: #0b171e;
+      color: #fff;
+    }
+
+    .btn-ghost {
+      background: transparent;
+      border-color: rgba(19, 33, 43, 0.22);
+      color: var(--ink);
+    }
+
+    .btn-ghost:hover {
+      border-color: var(--accent);
+      color: var(--accent-deep);
+    }
+
+    section {
+      padding: 0 0 3.25rem;
+    }
+
+    .section-title {
+      font-family: "Fraunces", Georgia, serif;
+      font-size: clamp(1.55rem, 3.5vw, 2rem);
+      font-weight: 500;
+      letter-spacing: -0.02em;
+      margin: 0 0 0.45rem;
+    }
+
+    .section-copy {
+      margin: 0 0 1.35rem;
+      color: var(--muted);
+      max-width: 38rem;
+    }
+
+    .example {
+      margin: 0 0 1.15rem;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: var(--panel);
+      backdrop-filter: blur(8px);
+      overflow: hidden;
+      opacity: 0;
+      animation: rise 0.65s ease-out forwards;
+    }
+
+    .example:nth-child(3) { animation-delay: 0.08s; }
+    .example:nth-child(4) { animation-delay: 0.16s; }
+    .example:nth-child(5) { animation-delay: 0.24s; }
+    .example:nth-child(6) { animation-delay: 0.32s; }
+
+    .example-head {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.65rem;
+      padding: 0.85rem 1rem;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .example-head h3 {
+      margin: 0;
+      font-size: 1rem;
+      font-weight: 600;
+    }
+
+    .method {
+      font-family: "IBM Plex Mono", ui-monospace, monospace;
+      font-size: 0.78rem;
+      font-weight: 500;
+      letter-spacing: 0.04em;
+      color: var(--accent-deep);
+      background: rgba(15, 122, 106, 0.1);
+      border-radius: 999px;
+      padding: 0.2rem 0.55rem;
+    }
+
+    .copy-btn {
+      appearance: none;
+      border: 1px solid var(--line);
+      background: #fff;
+      color: var(--muted);
+      border-radius: 999px;
+      font: inherit;
+      font-size: 0.85rem;
+      font-weight: 600;
+      padding: 0.35rem 0.75rem;
+      cursor: pointer;
+      transition: color 0.15s ease, border-color 0.15s ease, background 0.15s ease;
+    }
+
+    .copy-btn:hover,
+    .copy-btn[data-copied="true"] {
+      color: var(--accent-deep);
+      border-color: rgba(15, 122, 106, 0.35);
+      background: rgba(15, 122, 106, 0.08);
+    }
+
+    pre {
+      margin: 0;
+      padding: 1rem 1.05rem 1.15rem;
+      overflow-x: auto;
+      background: var(--code-bg);
+      color: var(--code-fg);
+      font-family: "IBM Plex Mono", ui-monospace, monospace;
+      font-size: 0.86rem;
+      line-height: 1.55;
+    }
+
+    code {
+      font-family: "IBM Plex Mono", ui-monospace, monospace;
+      font-size: 0.9em;
+    }
+
+    .paths {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: grid;
+      gap: 0.65rem;
+    }
+
+    .paths li {
+      display: grid;
+      gap: 0.15rem;
+      padding: 0.85rem 0;
+      border-top: 1px solid var(--line);
+    }
+
+    .paths li:last-child {
+      border-bottom: 1px solid var(--line);
+    }
+
+    .paths code {
+      color: var(--accent-deep);
+      font-weight: 500;
+    }
+
+    .paths span {
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    footer {
+      padding: 0 0 3rem;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    footer p { margin: 0 0 0.4rem; }
+
+    @keyframes rise {
+      from {
+        opacity: 0;
+        transform: translateY(14px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after {
+        animation: none !important;
+        transition: none !important;
+      }
+
+      .brand, .lede, .actions, .example {
+        opacity: 1;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header class="hero">
+      <div class="wrap">
+        <h1 class="brand">Civic<span>Lookup</span></h1>
+        <p class="lede">
+          Look up U.S. federal and state officials by ZIP or address.
+          Try a request below, or jump straight into the endpoints.
+        </p>
+        <div class="actions">
+          <a class="btn btn-primary" href="#examples">Try examples</a>
+          <a class="btn btn-ghost" href="https://github.com/RohitMadhu/CivicLookupAPI">GitHub</a>
+        </div>
+      </div>
+    </header>
+
+    <section id="examples" aria-labelledby="examples-title">
+      <div class="wrap">
+        <h2 class="section-title" id="examples-title">Quick examples</h2>
+        <p class="section-copy">
+          Prefer the native <code>/v1</code> routes for new apps.
+          Use <code>/api</code> when you need Google Civic-compatible response shapes.
+        </p>
+
+        <article class="example">
+          <div class="example-head">
+            <h3>ZIP lookup <span class="method">GET</span></h3>
+            <button type="button" class="copy-btn" data-copy="curl -s '{{ base_url }}v1/lookup/zip/60601' | jq">Copy</button>
+          </div>
+          <pre><code>curl -s '{{ base_url }}v1/lookup/zip/60601' | jq</code></pre>
+        </article>
+
+        <article class="example">
+          <div class="example-head">
+            <h3>Address lookup <span class="method">GET</span></h3>
+            <button type="button" class="copy-btn" data-copy="curl -s '{{ base_url }}v1/lookup/address?address=1600+Pennsylvania+Ave+NW,+Washington,+DC+20500' | jq">Copy</button>
+          </div>
+          <pre><code>curl -s '{{ base_url }}v1/lookup/address?address=1600+Pennsylvania+Ave+NW,+Washington,+DC+20500' | jq</code></pre>
+        </article>
+
+        <article class="example">
+          <div class="example-head">
+            <h3>Include financial disclosures <span class="method">GET</span></h3>
+            <button type="button" class="copy-btn" data-copy="curl -s '{{ base_url }}v1/lookup/zip/66952?include=financial_disclosures' | jq">Copy</button>
+          </div>
+          <pre><code>curl -s '{{ base_url }}v1/lookup/zip/66952?include=financial_disclosures' | jq</code></pre>
+        </article>
+
+        <article class="example">
+          <div class="example-head">
+            <h3>Google-compatible reps <span class="method">GET</span></h3>
+            <button type="button" class="copy-btn" data-copy="curl -s '{{ base_url }}api/rep/60601' | jq">Copy</button>
+          </div>
+          <pre><code>curl -s '{{ base_url }}api/rep/60601' | jq</code></pre>
+        </article>
+      </div>
+    </section>
+
+    <section id="endpoints" aria-labelledby="endpoints-title">
+      <div class="wrap">
+        <h2 class="section-title" id="endpoints-title">Useful endpoints</h2>
+        <p class="section-copy">
+          Open any path in your browser or with curl. Full response shapes live in the README.
+        </p>
+        <ul class="paths">
+          <li>
+            <a href="{{ base_url }}v1/lookup/zip/60601"><code>/v1/lookup/zip/&lt;zip&gt;</code></a>
+            <span>Native ZIP lookup with nested offices and officials</span>
+          </li>
+          <li>
+            <a href="{{ base_url }}v1/lookup/address?address=1600+Pennsylvania+Ave+NW,+Washington,+DC+20500"><code>/v1/lookup/address</code></a>
+            <span>Exact district matching via the U.S. Census Geocoder</span>
+          </li>
+          <li>
+            <a href="{{ base_url }}api/rep/60601"><code>/api/rep/&lt;zip&gt;</code></a>
+            <span>Google Civic-style representativeInfoResponse</span>
+          </li>
+          <li>
+            <a href="{{ base_url }}v1/sources/status"><code>/v1/sources/status</code></a>
+            <span>Bundled data freshness and provenance</span>
+          </li>
+          <li>
+            <a href="{{ base_url }}health"><code>/health</code></a>
+            <span>Service health check</span>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+    <footer>
+      <div class="wrap">
+        <p>Open data from congress-legislators, Open States, and related sources.</p>
+        <p>
+          <a href="https://github.com/RohitMadhu/CivicLookupAPI#readme">Full documentation on GitHub</a>
+        </p>
+      </div>
+    </footer>
+  </main>
+
+  <script>
+    (function () {
+      var buttons = document.querySelectorAll(".copy-btn");
+      buttons.forEach(function (button) {
+        button.addEventListener("click", function () {
+          var text = button.getAttribute("data-copy") || "";
+          var done = function () {
+            button.setAttribute("data-copied", "true");
+            button.textContent = "Copied";
+            window.setTimeout(function () {
+              button.removeAttribute("data-copied");
+              button.textContent = "Copy";
+            }, 1400);
+          };
+          if (navigator.clipboard && navigator.clipboard.writeText) {
+            navigator.clipboard.writeText(text).then(done).catch(done);
+          } else {
+            done();
+          }
+        });
+      });
+    })();
+  </script>
+</body>
+</html>
