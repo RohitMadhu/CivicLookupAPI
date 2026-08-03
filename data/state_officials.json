@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T12:12:34.612326+00:00",
+  "generated_at": "2026-08-03T12:13:59.845777+00:00",
   "sources": {
     "openstates_people": "https://github.com/openstates/people"
   },
@@ -12266,7 +12266,7 @@
         "district": "22",
         "district_key": "22",
         "email": "michael.f.smith@delaware.gov",
-        "image": "https://www.ilikemikesmith.com/wp-content/uploads/2022/07/Screen-Shot-2022-07-19-at-7.22.01-AM.png",
+        "image": "https://housegop.delaware.gov/wp-content/blogs.dir/207/files/sites/207/2022/08/RepSmith-headshot-jan-25-resized.jpg",
         "name": "Mike Smith",
         "openstates_id": "ocd-person/c9f1393e-01c8-4597-a6e5-6d43330264dc",
         "party": "Republican",
@@ -12410,7 +12410,7 @@
         "district": "3",
         "district_key": "3",
         "email": "josue.ortega@delaware.gov",
-        "image": "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2024/11/image-1-1.png",
+        "image": "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2024/11/474480597_4306272319612855_6829813080207680412_n-710x710.jpg",
         "name": "Josue Ortega",
         "openstates_id": "ocd-person/d020ca16-1926-4279-adc8-c0a6cddeac6e",
         "party": "Democratic",
@@ -98526,7 +98526,7 @@
     ],
     "VA:76": [
       {
-        "address": "Room 921, General Assembly Building 201 N. 9th St., Richmond, VA 23219",
+        "address": "Room 1105, General Assembly Building 201 N. 9th St., Richmond, VA 23219",
         "chamber": "lower",
         "district": "76",
         "district_key": "76",
