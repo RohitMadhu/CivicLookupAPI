@@ -30929,7 +30929,7 @@
     },
     "oge_adriana_kugler": {
       "filer": {
-        "agency": "Department of The Treasury",
+        "agency": "Federal Reserve System Board of Governors",
         "branch": "executive",
         "chamber": null,
         "est_volume": 663005,
@@ -30937,7 +30937,7 @@
         "id": "oge_adriana_kugler",
         "late_filings": 3,
         "level": "Level II",
-        "office": "U.S. Executive Director, International Bank for Reconstruction & Development (World Bank Group)",
+        "office": "Governor",
         "party": null,
         "photo_url": null,
         "purchases": 4,
@@ -31309,7 +31309,7 @@
         "id": "oge_christopher_landau",
         "late_filings": 0,
         "level": "Level II",
-        "office": "Ambassador to Mexico",
+        "office": "Deputy Secretary",
         "party": null,
         "photo_url": null,
         "purchases": 0,
@@ -33306,7 +33306,7 @@
     },
     "oge_douglas_burgum": {
       "filer": {
-        "agency": "Candidates - F.E.C.",
+        "agency": "Department of The Interior",
         "branch": "executive",
         "chamber": null,
         "est_volume": 16529073.5,
@@ -33314,7 +33314,7 @@
         "id": "oge_douglas_burgum",
         "late_filings": 131,
         "level": "Level I",
-        "office": "Presidential Candidate",
+        "office": "Secretary",
         "party": null,
         "photo_url": null,
         "purchases": 73,
@@ -33324,7 +33324,7 @@
       },
       "recent_trades": [
         {
-          "agency": "Candidates - F.E.C.",
+          "agency": "Department of The Interior",
           "amount_range_high": 50000,
           "amount_range_label": "$15,001 - $50,000",
           "amount_range_low": 15001,
@@ -33344,7 +33344,7 @@
           "is_late": 1,
           "level": "Level I",
           "notification_received_over_30d": 0,
-          "office": "Presidential Candidate",
+          "office": "Secretary",
           "owner": null,
           "party": null,
           "ret_1y": null,
@@ -33358,7 +33358,7 @@
           "transaction_type": "Purchase"
         },
         {
-          "agency": "Candidates - F.E.C.",
+          "agency": "Department of The Interior",
           "amount_range_high": 15000,
           "amount_range_label": "$1,001 - $15,000",
           "amount_range_low": 1001,
@@ -33378,7 +33378,7 @@
           "is_late": 1,
           "level": "Level I",
           "notification_received_over_30d": 0,
-          "office": "Presidential Candidate",
+          "office": "Secretary",
           "owner": null,
           "party": null,
           "ret_1y": null,
@@ -33392,7 +33392,7 @@
           "transaction_type": "Purchase"
         },
         {
-          "agency": "Candidates - F.E.C.",
+          "agency": "Department of The Interior",
           "amount_range_high": 50000,
           "amount_range_label": "$15,001 - $50,000",
           "amount_range_low": 15001,
@@ -33412,7 +33412,7 @@
           "is_late": 1,
           "level": "Level I",
           "notification_received_over_30d": 0,
-          "office": "Presidential Candidate",
+          "office": "Secretary",
           "owner": null,
           "party": null,
           "ret_1y": null,
@@ -33426,7 +33426,7 @@
           "transaction_type": "Purchase"
         },
         {
-          "agency": "Candidates - F.E.C.",
+          "agency": "Department of The Interior",
           "amount_range_high": 50000,
           "amount_range_label": "$15,001 - $50,000",
           "amount_range_low": 15001,
@@ -33446,7 +33446,7 @@
           "is_late": 1,
           "level": "Level I",
           "notification_received_over_30d": 0,
-          "office": "Presidential Candidate",
+          "office": "Secretary",
           "owner": null,
           "party": null,
           "ret_1y": null,
@@ -33460,7 +33460,7 @@
           "transaction_type": "Purchase"
         },
         {
-          "agency": "Candidates - F.E.C.",
+          "agency": "Department of The Interior",
           "amount_range_high": 15000,
           "amount_range_label": "$1,001 - $15,000",
           "amount_range_low": 1001,
@@ -33480,7 +33480,7 @@
           "is_late": 1,
           "level": "Level I",
           "notification_received_over_30d": 0,
-          "office": "Presidential Candidate",
+          "office": "Secretary",
           "owner": null,
           "party": null,
           "ret_1y": null,
@@ -33494,7 +33494,7 @@
           "transaction_type": "Purchase"
         },
         {
-          "agency": "Candidates - F.E.C.",
+          "agency": "Department of The Interior",
           "amount_range_high": 15000,
           "amount_range_label": "$1,001 - $15,000",
           "amount_range_low": 1001,
@@ -33514,7 +33514,7 @@
           "is_late": 1,
           "level": "Level I",
           "notification_received_over_30d": 0,
-          "office": "Presidential Candidate",
+          "office": "Secretary",
           "owner": null,
           "party": null,
           "ret_1y": null,
@@ -33528,7 +33528,7 @@
           "transaction_type": "Purchase"
         },
         {
-          "agency": "Candidates - F.E.C.",
+          "agency": "Department of The Interior",
           "amount_range_high": 15000,
           "amount_range_label": "$1,001 - $15,000",
           "amount_range_low": 1001,
@@ -33548,7 +33548,7 @@
           "is_late": 1,
           "level": "Level I",
           "notification_received_over_30d": 0,
-          "office": "Presidential Candidate",
+          "office": "Secretary",
           "owner": null,
           "party": null,
           "ret_1y": null,
@@ -33562,7 +33562,7 @@
           "transaction_type": "Purchase"
         },
         {
-          "agency": "Candidates - F.E.C.",
+          "agency": "Department of The Interior",
           "amount_range_high": 50000,
           "amount_range_label": "$15,001 - $50,000",
           "amount_range_low": 15001,
@@ -33582,7 +33582,7 @@
           "is_late": 1,
           "level": "Level I",
           "notification_received_over_30d": 0,
-          "office": "Presidential Candidate",
+          "office": "Secretary",
           "owner": null,
           "party": null,
           "ret_1y": null,
@@ -33596,7 +33596,7 @@
           "transaction_type": "Purchase"
         },
         {
-          "agency": "Candidates - F.E.C.",
+          "agency": "Department of The Interior",
           "amount_range_high": 15000,
           "amount_range_label": "$1,001 - $15,000",
           "amount_range_low": 1001,
@@ -33616,7 +33616,7 @@
           "is_late": 1,
           "level": "Level I",
           "notification_received_over_30d": 0,
-          "office": "Presidential Candidate",
+          "office": "Secretary",
           "owner": null,
           "party": null,
           "ret_1y": null,
@@ -33630,7 +33630,7 @@
           "transaction_type": "Exchange"
         },
         {
-          "agency": "Candidates - F.E.C.",
+          "agency": "Department of The Interior",
           "amount_range_high": 100000,
           "amount_range_label": "$50,001 - $100,000",
           "amount_range_low": 50001,
@@ -33650,7 +33650,7 @@
           "is_late": 1,
           "level": "Level I",
           "notification_received_over_30d": 0,
-          "office": "Presidential Candidate",
+          "office": "Secretary",
           "owner": null,
           "party": null,
           "ret_1y": null,
@@ -33664,7 +33664,7 @@
           "transaction_type": "Exchange"
         },
         {
-          "agency": "Candidates - F.E.C.",
+          "agency": "Department of The Interior",
           "amount_range_high": 15000,
           "amount_range_label": "$1,001 - $15,000",
           "amount_range_low": 1001,
@@ -33684,7 +33684,7 @@
           "is_late": 1,
           "level": "Level I",
           "notification_received_over_30d": 0,
-          "office": "Presidential Candidate",
+          "office": "Secretary",
           "owner": null,
           "party": null,
           "ret_1y": null,
@@ -33698,7 +33698,7 @@
           "transaction_type": "Sale (Full)"
         },
         {
-          "agency": "Candidates - F.E.C.",
+          "agency": "Department of The Interior",
           "amount_range_high": 100000,
           "amount_range_label": "$50,001 - $100,000",
           "amount_range_low": 50001,
@@ -33718,7 +33718,7 @@
           "is_late": 1,
           "level": "Level I",
           "notification_received_over_30d": 0,
-          "office": "Presidential Candidate",
+          "office": "Secretary",
           "owner": null,
           "party": null,
           "ret_1y": null,
@@ -33732,7 +33732,7 @@
           "transaction_type": "Sale (Full)"
         },
         {
-          "agency": "Candidates - F.E.C.",
+          "agency": "Department of The Interior",
           "amount_range_high": 15000,
           "amount_range_label": "$1,001 - $15,000",
           "amount_range_low": 1001,
@@ -33752,7 +33752,7 @@
           "is_late": 1,
           "level": "Level I",
           "notification_received_over_30d": 0,
-          "office": "Presidential Candidate",
+          "office": "Secretary",
           "owner": null,
           "party": null,
           "ret_1y": null,
@@ -33766,7 +33766,7 @@
           "transaction_type": "Purchase"
         },
         {
-          "agency": "Candidates - F.E.C.",
+          "agency": "Department of The Interior",
           "amount_range_high": 15000,
           "amount_range_label": "$1,001 - $15,000",
           "amount_range_low": 1001,
@@ -33786,7 +33786,7 @@
           "is_late": 1,
           "level": "Level I",
           "notification_received_over_30d": 0,
-          "office": "Presidential Candidate",
+          "office": "Secretary",
           "owner": null,
           "party": null,
           "ret_1y": null,
@@ -33800,7 +33800,7 @@
           "transaction_type": "Sale (Full)"
         },
         {
-          "agency": "Candidates - F.E.C.",
+          "agency": "Department of The Interior",
           "amount_range_high": 250000,
           "amount_range_label": "$100,001 - $250,000",
           "amount_range_low": 100001,
@@ -33820,7 +33820,7 @@
           "is_late": 1,
           "level": "Level I",
           "notification_received_over_30d": 0,
-          "office": "Presidential Candidate",
+          "office": "Secretary",
           "owner": null,
           "party": null,
           "ret_1y": null,
@@ -33834,7 +33834,7 @@
           "transaction_type": "Sale (Full)"
         },
         {
-          "agency": "Candidates - F.E.C.",
+          "agency": "Department of The Interior",
           "amount_range_high": 500000,
           "amount_range_label": "$250,001 - $500,000",
           "amount_range_low": 250001,
@@ -33854,7 +33854,7 @@
           "is_late": 1,
           "level": "Level I",
           "notification_received_over_30d": 0,
-          "office": "Presidential Candidate",
+          "office": "Secretary",
           "owner": null,
           "party": null,
           "ret_1y": null,
@@ -33868,7 +33868,7 @@
           "transaction_type": "Sale (Full)"
         },
         {
-          "agency": "Candidates - F.E.C.",
+          "agency": "Department of The Interior",
           "amount_range_high": 250000,
           "amount_range_label": "$100,001 - $250,000",
           "amount_range_low": 100001,
@@ -33888,7 +33888,7 @@
           "is_late": 1,
           "level": "Level I",
           "notification_received_over_30d": 0,
-          "office": "Presidential Candidate",
+          "office": "Secretary",
           "owner": null,
           "party": null,
           "ret_1y": null,
@@ -33902,7 +33902,7 @@
           "transaction_type": "Sale (Full)"
         },
         {
-          "agency": "Candidates - F.E.C.",
+          "agency": "Department of The Interior",
           "amount_range_high": 5000000,
           "amount_range_label": "$1,000,001 - $5,000,000",
           "amount_range_low": 1000001,
@@ -33922,7 +33922,7 @@
           "is_late": 1,
           "level": "Level I",
           "notification_received_over_30d": 0,
-          "office": "Presidential Candidate",
+          "office": "Secretary",
           "owner": null,
           "party": null,
           "ret_1y": null,
@@ -33936,7 +33936,7 @@
           "transaction_type": "Sale (Full)"
         },
         {
-          "agency": "Candidates - F.E.C.",
+          "agency": "Department of The Interior",
           "amount_range_high": 50000,
           "amount_range_label": "$15,001 - $50,000",
           "amount_range_low": 15001,
@@ -33956,7 +33956,7 @@
           "is_late": 1,
           "level": "Level I",
           "notification_received_over_30d": 1,
-          "office": "Presidential Candidate",
+          "office": "Secretary",
           "owner": null,
           "party": null,
           "ret_1y": null,
@@ -33970,7 +33970,7 @@
           "transaction_type": "Purchase"
         },
         {
-          "agency": "Candidates - F.E.C.",
+          "agency": "Department of The Interior",
           "amount_range_high": 50000,
           "amount_range_label": "$15,001 - $50,000",
           "amount_range_low": 15001,
@@ -33990,7 +33990,7 @@
           "is_late": 1,
           "level": "Level I",
           "notification_received_over_30d": 1,
-          "office": "Presidential Candidate",
+          "office": "Secretary",
           "owner": null,
           "party": null,
           "ret_1y": null,
@@ -34018,7 +34018,7 @@
     },
     "oge_elaine_chao": {
       "filer": {
-        "agency": "Department Of Transportation",
+        "agency": "Department of Transportation",
         "branch": "executive",
         "chamber": null,
         "est_volume": 24001.5,
@@ -36266,7 +36266,7 @@
         "id": "oge_katharine_macgregor",
         "late_filings": 16,
         "level": "Level II",
-        "office": "Deputy Secretary",
+        "office": "Deputy Secretary 2",
         "party": null,
         "photo_url": null,
         "purchases": 10,
@@ -36296,7 +36296,7 @@
         "full_name": "Keith Sonderling",
         "id": "oge_keith_sonderling",
         "late_filings": 0,
-        "level": "Level II",
+        "level": "Level I",
         "office": "Commissioner",
         "party": null,
         "photo_url": null,
@@ -36382,7 +36382,7 @@
     },
     "oge_linda_mcmahon": {
       "filer": {
-        "agency": "Small Business Administration",
+        "agency": "Department of Education",
         "branch": "executive",
         "chamber": null,
         "est_volume": 269449077.5,
@@ -36390,7 +36390,7 @@
         "id": "oge_linda_mcmahon",
         "late_filings": 0,
         "level": "Level I",
-        "office": "Administrator",
+        "office": "Secretary",
         "party": null,
         "photo_url": null,
         "purchases": 12,
@@ -36506,7 +36506,7 @@
     },
     "oge_mark_menezes": {
       "filer": {
-        "agency": "Department Of Energy",
+        "agency": "Department of Energy",
         "branch": "executive",
         "chamber": null,
         "est_volume": 304019,
@@ -36514,7 +36514,7 @@
         "id": "oge_mark_menezes",
         "late_filings": 0,
         "level": "Level II",
-        "office": "Under Secretary",
+        "office": "Deputy Secretary",
         "party": null,
         "photo_url": null,
         "purchases": 33,
@@ -38361,7 +38361,7 @@
     },
     "oge_michael_faulkender": {
       "filer": {
-        "agency": "Department Of The Treasury",
+        "agency": "Department of The Treasury",
         "branch": "executive",
         "chamber": null,
         "est_volume": 8000.5,
@@ -38369,7 +38369,7 @@
         "id": "oge_michael_faulkender",
         "late_filings": 0,
         "level": "Level II",
-        "office": "Assistant Secretary For Economic Policy",
+        "office": "Deputy Secretary",
         "party": null,
         "photo_url": null,
         "purchases": 0,
@@ -38400,7 +38400,7 @@
         "id": "oge_michael_kratsios",
         "late_filings": 1,
         "level": "Level II",
-        "office": "Associate Director for Technology",
+        "office": "Director",
         "party": null,
         "photo_url": null,
         "purchases": 37,
@@ -38430,7 +38430,7 @@
           "is_late": 1,
           "level": "Level II",
           "notification_received_over_30d": 0,
-          "office": "Associate Director for Technology",
+          "office": "Director",
           "owner": null,
           "party": null,
           "ret_1y": null,
@@ -38646,7 +38646,7 @@
     },
     "oge_paul_lawrence": {
       "filer": {
-        "agency": "Department Of Veterans Affairs",
+        "agency": "Department of Veterans Affairs",
         "branch": "executive",
         "chamber": null,
         "est_volume": 97501.5,
@@ -38654,7 +38654,7 @@
         "id": "oge_paul_lawrence",
         "late_filings": 0,
         "level": "Level II",
-        "office": "Under Secretary for Benefits",
+        "office": "Deputy Secretary",
         "party": null,
         "photo_url": null,
         "purchases": 0,
@@ -38801,7 +38801,7 @@
     },
     "oge_robert_kennedy": {
       "filer": {
-        "agency": "Candidates - F.E.C.",
+        "agency": "Department of Health and Human Services",
         "branch": "executive",
         "chamber": null,
         "est_volume": 96504.5,
@@ -38809,7 +38809,7 @@
         "id": "oge_robert_kennedy",
         "late_filings": 0,
         "level": "Level I",
-        "office": "Presidential Candidate",
+        "office": "Secretary",
         "party": null,
         "photo_url": null,
         "purchases": 2,
@@ -39497,7 +39497,7 @@
     },
     "oge_stephen_miran": {
       "filer": {
-        "agency": "Council of Economic Advisers",
+        "agency": "Federal Reserve System Board of Governors",
         "branch": "executive",
         "chamber": null,
         "est_volume": 7983538.5,
@@ -39505,7 +39505,7 @@
         "id": "oge_stephen_miran",
         "late_filings": 7,
         "level": "Level II",
-        "office": "Member & Chairman",
+        "office": "Governor",
         "party": null,
         "photo_url": null,
         "purchases": 7,
@@ -39528,7 +39528,7 @@
     },
     "oge_stephen_vaden": {
       "filer": {
-        "agency": "Department Of Agriculture",
+        "agency": "Department of Agriculture",
         "branch": "executive",
         "chamber": null,
         "est_volume": 48003,
@@ -39536,7 +39536,7 @@
         "id": "oge_stephen_vaden",
         "late_filings": 6,
         "level": "Level II",
-        "office": "General Counsel",
+        "office": "Deputy Secretary",
         "party": null,
         "photo_url": null,
         "purchases": 0,
@@ -39597,8 +39597,8 @@
         "full_name": "Todd Blanche",
         "id": "oge_todd_blanche",
         "late_filings": 0,
-        "level": "Level II",
-        "office": "Deputy Attorney General",
+        "level": "Level I",
+        "office": "Attorney General",
         "party": null,
         "photo_url": null,
         "purchases": 0,
@@ -39652,7 +39652,7 @@
     },
     "oge_troy_edgar": {
       "filer": {
-        "agency": "Department of Homeland Security",
+        "agency": "Department of State",
         "branch": "executive",
         "chamber": null,
         "est_volume": 744531.5,
@@ -39660,7 +39660,7 @@
         "id": "oge_troy_edgar",
         "late_filings": 0,
         "level": "Level II",
-        "office": "Chief Financial Officer",
+        "office": "Ambassador to El Salvador (Republic of)",
         "party": null,
         "photo_url": null,
         "purchases": 0,
@@ -49785,7 +49785,7 @@
       }
     }
   },
-  "generated_at": "2026-08-03T03:53:27.217531+00:00",
+  "generated_at": "2026-08-03T10:04:38.844566+00:00",
   "indexes": {
     "id:house_abigail_spanberger": [
       "house_abigail_spanberger"
@@ -53121,12 +53121,12 @@
       "tradesWithLag": 62793
     },
     "estVolumeUsd": 7391458741,
-    "generatedAt": "2026-08-01T08:46:19.019Z",
+    "generatedAt": "2026-08-03T09:04:15.827Z",
     "lateFilings": 17920,
     "totalFilers": 440,
-    "totalFilings": 55192,
+    "totalFilings": 55194,
     "totalParsedFilings": 7167,
     "totalTrades": 65528
   },
-  "upstream_generated_at": "2026-08-01T08:46:19.019Z"
+  "upstream_generated_at": "2026-08-03T09:04:15.827Z"
 }
