@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T12:13:59.845777+00:00",
+  "generated_at": "2026-08-10T10:09:34.658260+00:00",
   "sources": {
     "openstates_people": "https://github.com/openstates/people"
   },
@@ -246,7 +246,9 @@
         "openstates_id": "ocd-person/cc0182c9-3cfe-46b1-8fd2-03e90385c6d5",
         "party": "Nonpartisan",
         "phone": "402-471-2733",
-        "social": {},
+        "social": {
+          "facebook": "bobhallstromforlegislature"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=1"
@@ -264,7 +266,9 @@
         "openstates_id": "ocd-person/bc906a77-5932-4042-9ede-a13b24924236",
         "party": "Nonpartisan",
         "phone": "402-471-2718",
-        "social": {},
+        "social": {
+          "facebook": "WendyDeBoerNE"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=10"
@@ -282,7 +286,11 @@
         "openstates_id": "ocd-person/27784792-d54f-4a64-8408-a4a1ce0c26b1",
         "party": "Nonpartisan",
         "phone": "402-471-2612",
-        "social": {},
+        "social": {
+          "facebook": "SenMcKinneyLD11",
+          "instagram": "terrellmckinneyld11",
+          "twitter": "SenMcKinneyLD11"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=11"
@@ -300,7 +308,9 @@
         "openstates_id": "ocd-person/3c015cf9-e3de-42cf-a364-64607ecc70ce",
         "party": "Nonpartisan",
         "phone": "402-471-2623",
-        "social": {},
+        "social": {
+          "twitter": "voteriepe"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=12"
@@ -318,7 +328,9 @@
         "openstates_id": "ocd-person/03ee8938-314f-4db4-ac76-9507d85fc03c",
         "party": "Nonpartisan",
         "phone": "402-471-2727",
-        "social": {},
+        "social": {
+          "instagram": "ashleiforne"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=13"
@@ -336,7 +348,9 @@
         "openstates_id": "ocd-person/f5d27385-af4c-4c08-8654-3e27ef120d94",
         "party": "Nonpartisan",
         "phone": "402-471-2730",
-        "social": {},
+        "social": {
+          "facebook": "JohnArchLD14"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=14"
@@ -372,7 +386,10 @@
         "openstates_id": "ocd-person/bfc9dd37-6a7b-4ea2-acf5-c8e161a27764",
         "party": "Nonpartisan",
         "phone": "402-471-2728",
-        "social": {},
+        "social": {
+          "facebook": "BenHansenforNebraska",
+          "twitter": "BenWHansen"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=16"
@@ -390,7 +407,9 @@
         "openstates_id": "ocd-person/dae0883f-3a53-4873-99df-b0e10ea64066",
         "party": "Nonpartisan",
         "phone": "402-471-2716",
-        "social": {},
+        "social": {
+          "facebook": "MeyerForLegislature"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=17"
@@ -408,7 +427,9 @@
         "openstates_id": "ocd-person/fdac2d3a-3497-4e34-8247-af670c901dd8",
         "party": "Nonpartisan",
         "phone": "402-471-2618",
-        "social": {},
+        "social": {
+          "facebook": "ChristyforNE"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=18"
@@ -444,7 +465,9 @@
         "openstates_id": "ocd-person/809c0698-2669-426a-819a-275a0773ff84",
         "party": "Nonpartisan",
         "phone": "402-471-2613",
-        "social": {},
+        "social": {
+          "facebook": "Senator.Clements"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=2"
@@ -462,7 +485,11 @@
         "openstates_id": "ocd-person/30b4a401-6f6b-4367-80c2-b9d60d7c527f",
         "party": "Nonpartisan",
         "phone": "402-471-2622",
-        "social": {},
+        "social": {
+          "facebook": "SenatorFredrickson",
+          "instagram": "johnforne",
+          "twitter": "JohnforNE"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=20"
@@ -498,7 +525,9 @@
         "openstates_id": "ocd-person/471fb0d6-b798-4c0c-bac1-021db8b68801",
         "party": "Nonpartisan",
         "phone": "402-471-2715",
-        "social": {},
+        "social": {
+          "facebook": "senatormoser"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=22"
@@ -516,7 +545,9 @@
         "openstates_id": "ocd-person/356c7606-4eaa-4494-83a5-68dbaf3e77f6",
         "party": "Nonpartisan",
         "phone": "402-471-2719",
-        "social": {},
+        "social": {
+          "facebook": "StormForLegislature"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=23"
@@ -552,7 +583,10 @@
         "openstates_id": "ocd-person/ecf3913e-8e18-4aec-8991-12549df820cd",
         "party": "Nonpartisan",
         "phone": "402-471-2731",
-        "social": {},
+        "social": {
+          "facebook": "SenatorBosn",
+          "twitter": "SenCarolynBosn"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=25"
@@ -570,7 +604,11 @@
         "openstates_id": "ocd-person/14507b1b-007f-4f87-adbb-a5e4669efba8",
         "party": "Nonpartisan",
         "phone": "402-471-2610",
-        "social": {},
+        "social": {
+          "facebook": "George4Ne",
+          "instagram": "george4ne",
+          "twitter": "George4NE"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=26"
@@ -588,7 +626,9 @@
         "openstates_id": "ocd-person/dda3cdbe-5e52-439e-ac68-02588b6d7cab",
         "party": "Nonpartisan",
         "phone": "402-471-2632",
-        "social": {},
+        "social": {
+          "facebook": "prokopforleg"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://jasonprokop.com"
@@ -606,7 +646,10 @@
         "openstates_id": "ocd-person/0f176ff3-ed75-4605-9e8b-5bb5a3d3c4cf",
         "party": "Nonpartisan",
         "phone": "402-471-2633",
-        "social": {},
+        "social": {
+          "facebook": "JaneRaybouldNE",
+          "twitter": "JaneRaybould"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=28"
@@ -624,7 +667,10 @@
         "openstates_id": "ocd-person/5e6ca662-d4e3-405b-a060-d0150546eede",
         "party": "Nonpartisan",
         "phone": "402-471-2734",
-        "social": {},
+        "social": {
+          "facebook": "votebostar",
+          "twitter": "BostarEliot"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=29"
@@ -642,7 +688,9 @@
         "openstates_id": "ocd-person/1e43a5b4-e63c-434a-977c-592174c2c635",
         "party": "Nonpartisan",
         "phone": "402-471-2627",
-        "social": {},
+        "social": {
+          "facebook": "rountreeforleg"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=3"
@@ -678,7 +726,9 @@
         "openstates_id": "ocd-person/9d6fd408-5497-4038-9716-c1f487e348d2",
         "party": "Nonpartisan",
         "phone": "402-471-2327",
-        "social": {},
+        "social": {
+          "facebook": "electkathleenkauth"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=31"
@@ -696,7 +746,9 @@
         "openstates_id": "ocd-person/37ed5b35-3aea-40a2-95ed-ecc5120fbe82",
         "party": "Nonpartisan",
         "phone": "402-471-2711",
-        "social": {},
+        "social": {
+          "facebook": "tombrandt32"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=32"
@@ -732,7 +784,9 @@
         "openstates_id": "ocd-person/2ad42fad-ae37-44a6-8933-0a942f7a85f7",
         "party": "Nonpartisan",
         "phone": "402-471-2630",
-        "social": {},
+        "social": {
+          "facebook": "LorenLippincottNE"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=34"
@@ -750,7 +804,9 @@
         "openstates_id": "ocd-person/d3b8ad26-4cf1-4abf-ae4e-0f7a65f92fe6",
         "party": "Nonpartisan",
         "phone": "402-471-2617",
-        "social": {},
+        "social": {
+          "facebook": "votedanquick"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=35"
@@ -786,7 +842,9 @@
         "openstates_id": "ocd-person/4bfe5183-1afc-42fa-92c1-7ffe5cbb1080",
         "party": "Nonpartisan",
         "phone": "402-471-2726",
-        "social": {},
+        "social": {
+          "facebook": "StanClouseNE"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=37"
@@ -804,7 +862,9 @@
         "openstates_id": "ocd-person/25c29fce-5de4-46cd-97f0-887033d446ce",
         "party": "Nonpartisan",
         "phone": "402-471-2732",
-        "social": {},
+        "social": {
+          "facebook": "senatormurman"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=38"
@@ -822,7 +882,9 @@
         "openstates_id": "ocd-person/7093e661-0dbc-4c75-91e0-09a3e171caf1",
         "party": "Nonpartisan",
         "phone": "402-471-2885",
-        "social": {},
+        "social": {
+          "facebook": "SorrentinoforNebraska"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=39"
@@ -894,7 +956,9 @@
         "openstates_id": "ocd-person/70b3f826-87f3-43c6-9762-27a178156a55",
         "party": "Nonpartisan",
         "phone": "402-471-2729",
-        "social": {},
+        "social": {
+          "facebook": "SenJacobson"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=42"
@@ -912,7 +976,11 @@
         "openstates_id": "ocd-person/70751bb8-56af-4fd1-b2dc-21943dc7bb2d",
         "party": "Nonpartisan",
         "phone": "402-471-2628",
-        "social": {},
+        "social": {
+          "facebook": "TanyaStorerForLegislature",
+          "instagram": "tanyaforlegislature",
+          "twitter": "ForLegislature"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=43"
@@ -930,7 +998,10 @@
         "openstates_id": "ocd-person/374b6dc4-5b90-4028-814c-84895a293c84",
         "party": "Nonpartisan",
         "phone": "402-471-2805",
-        "social": {},
+        "social": {
+          "facebook": "teresaibachforlegislature",
+          "instagram": "senteresaibach"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=44"
@@ -948,7 +1019,9 @@
         "openstates_id": "ocd-person/de8d4e0a-36dd-4a84-96ee-e4b7bc4cf69d",
         "party": "Nonpartisan",
         "phone": "402-471-2615",
-        "social": {},
+        "social": {
+          "facebook": "SenatorRitaSanders"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=45"
@@ -966,7 +1039,10 @@
         "openstates_id": "ocd-person/bf280e36-3547-4d6a-b5aa-d6c32bb5547a",
         "party": "Nonpartisan",
         "phone": "402-471-2720",
-        "social": {},
+        "social": {
+          "facebook": "ConradforLegislature",
+          "twitter": "SenConrad"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=46"
@@ -1002,7 +1078,9 @@
         "openstates_id": "ocd-person/a98b3cf6-9bf8-40a3-94f3-1c196e233ebd",
         "party": "Nonpartisan",
         "phone": "402-471-2802",
-        "social": {},
+        "social": {
+          "facebook": "brianhardin2022"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=48"
@@ -1020,7 +1098,9 @@
         "openstates_id": "ocd-person/db002bad-ee6a-4e22-b5c5-840c665ecad4",
         "party": "Nonpartisan",
         "phone": "402-471-2725",
-        "social": {},
+        "social": {
+          "facebook": "Bob4NE"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=49"
@@ -1056,7 +1136,11 @@
         "openstates_id": "ocd-person/fd6e1947-c274-4ff5-b2ee-5e5a79d6a729",
         "party": "Nonpartisan",
         "phone": "402-471-2714",
-        "social": {},
+        "social": {
+          "facebook": "senatormachaela",
+          "instagram": "senatormachaela",
+          "twitter": "senatormachaela"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=6"
@@ -1074,7 +1158,10 @@
         "openstates_id": "ocd-person/54fe68ba-6857-483f-b2ae-ba3233a548c4",
         "party": "Nonpartisan",
         "phone": "402-471-2721",
-        "social": {},
+        "social": {
+          "facebook": "DunixiGuerecaNE",
+          "instagram": "dunixiforleg"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=7"
@@ -1092,7 +1179,11 @@
         "openstates_id": "ocd-person/1b988941-ec1a-4f87-b17a-51fb0309dea0",
         "party": "Nonpartisan",
         "phone": "402-471-2722",
-        "social": {},
+        "social": {
+          "facebook": "MeganHuntNE",
+          "instagram": "nebraskamegan",
+          "twitter": "NebraskaMegan"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=8"
@@ -1110,7 +1201,11 @@
         "openstates_id": "ocd-person/0436186a-3b62-46f1-8f36-55e09fca3e77",
         "party": "Nonpartisan",
         "phone": "402-471-2723",
-        "social": {},
+        "social": {
+          "facebook": "JohnCavanaughNE",
+          "instagram": "cavanaugh4nebraska",
+          "twitter": "Cavanaugh4NE"
+        },
         "state": "NE",
         "state_name": "Nebraska",
         "url": "https://nebraskalegislature.gov/senators/landing-pages/index.php?District=9"
@@ -1130,7 +1225,10 @@
         "openstates_id": "ocd-person/b2eaa848-d651-4521-9abb-21b68da5d5c6",
         "party": "Republican",
         "phone": "907-465-3824",
-        "social": {},
+        "social": {
+          "facebook": "votebynum",
+          "instagram": "votebynum"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://www.akleg.gov/basis/Member/Detail/34?code=byn"
@@ -1148,7 +1246,10 @@
         "openstates_id": "ocd-person/7474d172-6c90-47f9-aae1-9f66c9518be2",
         "party": "Republican",
         "phone": "907-465-3892",
-        "social": {},
+        "social": {
+          "facebook": "RepChuckKopp",
+          "instagram": "rep.chuck.kopp"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://www.akleg.gov/basis/Member/Detail/30?code=kop"
@@ -1166,7 +1267,9 @@
         "openstates_id": "ocd-person/a66f1539-56d3-458c-8ac0-3aff6907a69d",
         "party": "Republican",
         "phone": "907-465-3879",
-        "social": {},
+        "social": {
+          "twitter": "RepCoulombe"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://akhousemajority.com/rep-coulombe/"
@@ -1184,7 +1287,10 @@
         "openstates_id": "ocd-person/8ed150a0-45be-4844-abe5-d921c9f5a435",
         "party": "Independent",
         "phone": "907-465-4931",
-        "social": {},
+        "social": {
+          "facebook": "repcalvinschrage",
+          "instagram": "calvinschrage"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://akhouse.org/rep-schrage/"
@@ -1202,7 +1308,11 @@
         "openstates_id": "ocd-person/e1989648-fdd3-4e88-a0f0-9e27e75c0f03",
         "party": "Democratic",
         "phone": "907-465-4939",
-        "social": {},
+        "social": {
+          "facebook": "RepAndyJosephson",
+          "instagram": "rep_andy_josephson",
+          "twitter": "RepAndyJ"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://akhouse.org/rep_josephson/"
@@ -1220,7 +1330,11 @@
         "openstates_id": "ocd-person/2a1a6b8f-1f9c-4a1b-9059-7b2f8cc93ed9",
         "party": "Independent",
         "phone": "907-465-3875",
-        "social": {},
+        "social": {
+          "facebook": "repalysegalvin",
+          "instagram": "representative_alyse_galvin",
+          "twitter": "AlyseGalvin"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://akhouse.org/rep-galvin/"
@@ -1238,7 +1352,11 @@
         "openstates_id": "ocd-person/aea19844-4572-4086-9462-e50ad3ff4b76",
         "party": "Republican",
         "phone": "907-465-4993",
-        "social": {},
+        "social": {
+          "facebook": "VoteMia",
+          "instagram": "votemia_ak",
+          "twitter": "MiaCostelloAK"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://akleg.gov/legislator.php?id=cos"
@@ -1256,7 +1374,11 @@
         "openstates_id": "ocd-person/c9bf1b47-3ed8-49e8-9535-2a7094c52d1a",
         "party": "Democratic",
         "phone": "907-465-4968",
-        "social": {},
+        "social": {
+          "facebook": "CarolynforAlaska",
+          "instagram": "carolynforalaska",
+          "twitter": "CHall_AK"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://www.akleg.gov/basis/Member/Detail/34?code=hll"
@@ -1274,7 +1396,11 @@
         "openstates_id": "ocd-person/c1d170a4-d099-43cb-b7e5-5a9db63ae716",
         "party": "Democratic",
         "phone": "907-465-2647",
-        "social": {},
+        "social": {
+          "facebook": "repzackfields",
+          "instagram": "rep.zack.fields",
+          "twitter": "repzackfields"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://akhouse.org/rep-fields/"
@@ -1292,7 +1418,9 @@
         "openstates_id": "ocd-person/e1a32811-98f9-484f-8d4b-12df7eab4183",
         "party": "Republican",
         "phone": "907-465-4998",
-        "social": {},
+        "social": {
+          "facebook": "NelsonforAlaska"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://www.akleg.gov/basis/Member/Detail/32?code=ned"
@@ -1310,7 +1438,9 @@
         "openstates_id": "ocd-person/a1adb2e5-3c63-4032-81e8-9e787976ca63",
         "party": "Democratic",
         "phone": "907-465-3424",
-        "social": {},
+        "social": {
+          "instagram": "repmina"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://akhouse.org/rep-mina/"
@@ -1328,7 +1458,10 @@
         "openstates_id": "ocd-person/5637be3f-7a59-48cc-8f8a-ad7a8bac8ee9",
         "party": "Independent",
         "phone": "907-465-3732",
-        "social": {},
+        "social": {
+          "facebook": "rep.himschoot",
+          "instagram": "rep.himschoot"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://akhouse.org/rep-himschoot/"
@@ -1346,7 +1479,10 @@
         "openstates_id": "ocd-person/822df52b-f962-478d-8bf5-3bbe3c9dd811",
         "party": "Democratic",
         "phone": "907-465-4940",
-        "social": {},
+        "social": {
+          "facebook": "repandrewgray",
+          "twitter": "rep_gray"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://akhouse.org/rep-gray/"
@@ -1364,7 +1500,10 @@
         "openstates_id": "ocd-person/fbe52f5e-1dd2-4d44-9205-b2ebbbe39eee",
         "party": "Democratic",
         "phone": "907-465-3438",
-        "social": {},
+        "social": {
+          "facebook": "Rep.Mears",
+          "twitter": "DonnaMears"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://akhouse.org/rep-mears/"
@@ -1382,7 +1521,10 @@
         "openstates_id": "ocd-person/132c5970-0ed3-4a8c-baa9-2917196daedb",
         "party": "Democratic",
         "phone": "907-465-2095",
-        "social": {},
+        "social": {
+          "facebook": "TedForAlaska",
+          "twitter": "TedForAlaska"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://www.akleg.gov/basis/Member/Detail/34?code=eis"
@@ -1400,7 +1542,9 @@
         "openstates_id": "ocd-person/9d56634b-f2d0-43fe-b20e-ed2465b0ad9c",
         "party": "Republican",
         "phone": "907-465-2995",
-        "social": {},
+        "social": {
+          "instagram": "allardforak"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://akhousemajority.com/rep-allard/"
@@ -1418,7 +1562,9 @@
         "openstates_id": "ocd-person/7dcdf7b8-530a-4b81-85b6-745af9224eb1",
         "party": "Republican",
         "phone": "907-465-3783",
-        "social": {},
+        "social": {
+          "facebook": "dansaddleralaska"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://akhousemajority.com/rep-saddler/"
@@ -1436,7 +1582,11 @@
         "openstates_id": "ocd-person/d7d4a21d-942e-46f7-92b6-237f1741b025",
         "party": "Republican",
         "phone": "907-465-4958",
-        "social": {},
+        "social": {
+          "facebook": "RepDeLena",
+          "instagram": "delenaalaska",
+          "twitter": "RepDeLena"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://akhousemajority.com/rep-d-johnson/"
@@ -1472,7 +1622,10 @@
         "openstates_id": "ocd-person/a5fc1d39-03f4-427f-9266-8baf789b6ac6",
         "party": "Republican",
         "phone": "907-465-2186",
-        "social": {},
+        "social": {
+          "facebook": "jubileeforstatehouse",
+          "instagram": "jubileeunderwood"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://www.akleg.gov/basis/Member/Detail/34?code=und"
@@ -1526,7 +1679,9 @@
         "openstates_id": "ocd-person/7db414a5-dd7e-48a9-aba2-9c0204f93a5c",
         "party": "Democratic",
         "phone": "907-465-3744",
-        "social": {},
+        "social": {
+          "facebook": "RepAndiStory"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://akhouse.org/rep-story/"
@@ -1544,7 +1699,10 @@
         "openstates_id": "ocd-person/0160c6d2-4090-4143-8e23-f8501501bdd0",
         "party": "Republican",
         "phone": "907-465-2679",
-        "social": {},
+        "social": {
+          "facebook": "RepKevinJMcCabe",
+          "instagram": "representativekevinmccabe"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://akhousemajority.com/rep-mccabe/"
@@ -1562,7 +1720,11 @@
         "openstates_id": "ocd-person/5ef3ef20-0fd1-41a3-be56-7844d169bba8",
         "party": "Democratic",
         "phone": "907-465-2138",
-        "social": {},
+        "social": {
+          "facebook": "Repmaxinedibert",
+          "instagram": "rep_maxine_dibert",
+          "twitter": "maxine_dibert"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://akhouse.org/rep-dibert/"
@@ -1580,7 +1742,9 @@
         "openstates_id": "ocd-person/ede005ce-9d29-4b8e-8b24-b2136d05edf6",
         "party": "Republican",
         "phone": "907-465-3004",
-        "social": {},
+        "social": {
+          "facebook": "willstappforalaska"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://akhousemajority.com/rep-stapp/"
@@ -1598,7 +1762,9 @@
         "openstates_id": "ocd-person/3f4670ef-c5b7-4a5b-bd91-9f8605a0affa",
         "party": "Republican",
         "phone": "907-465-4797",
-        "social": {},
+        "social": {
+          "facebook": "rep.mikeprax"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://akhousemajority.com/rep-prax/"
@@ -1616,7 +1782,9 @@
         "openstates_id": "ocd-person/498eadb3-9999-4055-9358-84ccfe64f788",
         "party": "Republican",
         "phone": "907-465-4457",
-        "social": {},
+        "social": {
+          "facebook": "RepTomaszewski"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://www.akleg.gov/basis/Member/Detail/33?code=tmz"
@@ -1634,7 +1802,11 @@
         "openstates_id": "ocd-person/1ac31dd3-6e42-43b1-91b0-4da4a1399543",
         "party": "Democratic",
         "phone": "907-465-4976",
-        "social": {},
+        "social": {
+          "facebook": "RepCarrick",
+          "instagram": "repcarrick",
+          "twitter": "RepCarrick"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://akhouse.org/rep-carrick/"
@@ -1652,7 +1824,9 @@
         "openstates_id": "ocd-person/a160c8f2-f8a9-4429-9bc2-e14831545503",
         "party": "Republican",
         "phone": "907-465-2327",
-        "social": {},
+        "social": {
+          "instagram": "schwankeforstatehouse"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://www.akleg.gov/basis/Member/Detail/34?code=scw"
@@ -1670,7 +1844,10 @@
         "openstates_id": "ocd-person/b097e069-345d-42da-b821-0c2c9747ccfc",
         "party": "Independent",
         "phone": "907-465-4451",
-        "social": {},
+        "social": {
+          "facebook": "RepEdgmon",
+          "twitter": "BryceEdgmon"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://akhousemajority.com/rep-edgmon/"
@@ -1688,7 +1865,9 @@
         "openstates_id": "ocd-person/1454451c-f821-4b6d-903e-07bef45ab0de",
         "party": "Democratic",
         "phone": "907-465-4942",
-        "social": {},
+        "social": {
+          "instagram": "repnelliejimmie"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://www.akleg.gov/basis/Member/Detail/34?code=jim"
@@ -1706,7 +1885,9 @@
         "openstates_id": "ocd-person/14f39e67-1604-4eb4-8000-99c699f196a0",
         "party": "Democratic",
         "phone": "907-465-3789",
-        "social": {},
+        "social": {
+          "facebook": "Repnealfoster"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://akhousemajority.com/rep-foster/"
@@ -1724,7 +1905,10 @@
         "openstates_id": "ocd-person/6cec7228-ed13-47f6-b896-59f927789f6d",
         "party": "Democratic",
         "phone": "907-465-4766",
-        "social": {},
+        "social": {
+          "facebook": "RepSaraHannan",
+          "twitter": "RepSaraHannan"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://akhouse.org/rep-hannan/"
@@ -1742,7 +1926,10 @@
         "openstates_id": "ocd-person/c3b004d2-d62a-45de-a212-382396a20b59",
         "party": "Democratic",
         "phone": "907-465-3473",
-        "social": {},
+        "social": {
+          "facebook": "Robynburkehd40",
+          "twitter": "RobynBurkeHD40"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://www.akleg.gov/basis/Member/Detail/34?code=bur"
@@ -1760,7 +1947,10 @@
         "openstates_id": "ocd-person/2d74c456-7818-42bc-a284-63026fbbfc56",
         "party": "Republican",
         "phone": "907-465-2487",
-        "social": {},
+        "social": {
+          "facebook": "replouisestutes",
+          "twitter": "RepLouiseStutes"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://akhouse.org/rep_stutes"
@@ -1778,7 +1968,10 @@
         "openstates_id": "ocd-person/e8756722-e9e9-4246-95e3-13019cb3bd50",
         "party": "Republican",
         "phone": "907-465-2689",
-        "social": {},
+        "social": {
+          "facebook": "repsarahvance",
+          "instagram": "rep.sarah.vance"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://akhousemajority.com/rep-vance/"
@@ -1796,7 +1989,9 @@
         "openstates_id": "ocd-person/722ec3e9-7e0d-4dda-bf19-11d873df7031",
         "party": "Republican",
         "phone": "907-465-2693",
-        "social": {},
+        "social": {
+          "facebook": "repruffridge"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://akhousemajority.com/rep-ruffridge/"
@@ -1832,7 +2027,10 @@
         "openstates_id": "ocd-person/a669e6fd-ba4c-42db-b2e8-079600a60f58",
         "party": "Nonpartisan",
         "phone": "907-465-4945",
-        "social": {},
+        "social": {
+          "facebook": "RepKyHolland",
+          "twitter": "KyHollandAK"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://www.akleg.gov/basis/Member/Detail/34?code=hla"
@@ -8131,7 +8329,11 @@
         "openstates_id": "ocd-person/d2b25169-0772-4e97-aa9e-49f82f0f5d08",
         "party": "Democratic",
         "phone": "303-866-2966",
-        "social": {},
+        "social": {
+          "facebook": "JavierMabreyforCO",
+          "instagram": "javiermabrey",
+          "twitter": "javier_mabrey"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/javier-mabrey"
@@ -8149,7 +8351,10 @@
         "openstates_id": "ocd-person/0c2271df-5808-42ff-9550-700f454b8b3a",
         "party": "Democratic",
         "phone": "303-866-2915",
-        "social": {},
+        "social": {
+          "facebook": "junie4boulder",
+          "twitter": "Junie4Colorado"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/junie-joseph"
@@ -8167,7 +8372,11 @@
         "openstates_id": "ocd-person/7631027c-2467-4112-8f03-abad6c6ed8f2",
         "party": "Democratic",
         "phone": "303-866-2780",
-        "social": {},
+        "social": {
+          "facebook": "McCormickForCO",
+          "instagram": "karenforco",
+          "twitter": "McCormickForCO"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/karen-mccormick"
@@ -8185,7 +8394,11 @@
         "openstates_id": "ocd-person/f376a75e-e0b0-4bf7-95b1-0931ade3bdb8",
         "party": "Democratic",
         "phone": "303-866-2920",
-        "social": {},
+        "social": {
+          "facebook": "representativekylebrown",
+          "instagram": "repkylebrown",
+          "twitter": "KyleBrownHD12"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/kyle-brown"
@@ -8203,7 +8416,11 @@
         "openstates_id": "ocd-person/53facaaf-5673-4c76-b15a-6b5061965ae1",
         "party": "Democratic",
         "phone": "303-866-2952",
-        "social": {},
+        "social": {
+          "facebook": "McCluskieforCO",
+          "instagram": "mccluskieforco",
+          "twitter": "McCluskieforCO"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/julie-mccluskie"
@@ -8221,7 +8438,10 @@
         "openstates_id": "ocd-person/af9e96aa-fb8b-49bb-96d8-e6c2c1ceb2b5",
         "party": "Republican",
         "phone": "303-866-2965",
-        "social": {},
+        "social": {
+          "instagram": "avaflanell_",
+          "twitter": "AvaFlanell_"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/ava-flanell"
@@ -8239,7 +8459,10 @@
         "openstates_id": "ocd-person/66254480-6178-4312-8a18-268ec84153cc",
         "party": "Republican",
         "phone": "303-866-5525",
-        "social": {},
+        "social": {
+          "facebook": "scottbottomsco",
+          "twitter": "repscottbottoms"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/scott-bottoms"
@@ -8257,7 +8480,9 @@
         "openstates_id": "ocd-person/04df7ed2-3683-4e00-ae08-9660cd6d878b",
         "party": "Republican",
         "phone": "303-866-2937",
-        "social": {},
+        "social": {
+          "twitter": "Keltie4Congress"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/rebecca-keltie"
@@ -8275,7 +8500,11 @@
         "openstates_id": "ocd-person/d5be5146-f7a9-46eb-86f9-b0d1cebc4e9c",
         "party": "Democratic",
         "phone": "303-866-3069",
-        "social": {},
+        "social": {
+          "facebook": "ReginaEnglishCO",
+          "instagram": "reginaenglish_co",
+          "twitter": "ReginaEnglishCO"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/regina-english"
@@ -8293,7 +8522,9 @@
         "openstates_id": "ocd-person/34dbb5f1-239b-4924-911e-27ff91bde5cd",
         "party": "Democratic",
         "phone": "303-866-2932",
-        "social": {},
+        "social": {
+          "instagram": "amyfor18"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/amy-paschal"
@@ -8311,7 +8542,10 @@
         "openstates_id": "ocd-person/df050043-0b4f-4b51-8df0-ffd6cd6cd5b2",
         "party": "Republican",
         "phone": "303-866-2924",
-        "social": {},
+        "social": {
+          "facebook": "representativedanwoog",
+          "twitter": "danielpwoog"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/dan-woog"
@@ -8329,7 +8563,11 @@
         "openstates_id": "ocd-person/09af4a19-c07e-49b2-b320-104f3784705b",
         "party": "Democratic",
         "phone": "303-866-2967",
-        "social": {},
+        "social": {
+          "facebook": "woodrowforco",
+          "instagram": "representative_steven_woodrow",
+          "twitter": "WoodrowForCO"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/steven-woodrow"
@@ -8347,7 +8585,11 @@
         "openstates_id": "ocd-person/544a4247-320e-456a-b5dd-f0373bdad788",
         "party": "Republican",
         "phone": "303-866-2191",
-        "social": {},
+        "social": {
+          "facebook": "jarviscaldwellforhd20",
+          "instagram": "jarvis.caldwell.colorado",
+          "twitter": "GOP_Jarvis"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/jarvis-caldwell"
@@ -8365,7 +8607,10 @@
         "openstates_id": "ocd-person/9e1ed481-cc42-4186-a8fe-891abba60162",
         "party": "Republican",
         "phone": "303-866-2946",
-        "social": {},
+        "social": {
+          "facebook": "MaryBradfield4HD21",
+          "twitter": "BradfieldFor"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/mary-bradfield"
@@ -8401,7 +8646,11 @@
         "openstates_id": "ocd-person/d8b6809c-61d9-4ea3-b21b-c846051468c2",
         "party": "Democratic",
         "phone": "303-866-5522",
-        "social": {},
+        "social": {
+          "facebook": "Monica.Duran.Colorado.House",
+          "instagram": "monicaduranhd23",
+          "twitter": "MonicaDuran23"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/monica-duran"
@@ -8419,7 +8668,10 @@
         "openstates_id": "ocd-person/e1a861fa-2163-4ef5-a891-fc9d36c2504b",
         "party": "Democratic",
         "phone": "303-866-2950",
-        "social": {},
+        "social": {
+          "facebook": "LisaFeretCO",
+          "instagram": "lisaferetcolorado"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/lisa-feret"
@@ -8437,7 +8689,10 @@
         "openstates_id": "ocd-person/489b3afa-1e08-40f4-918a-f01c186b6f73",
         "party": "Democratic",
         "phone": "303-866-2582",
-        "social": {},
+        "social": {
+          "facebook": "Story4CO",
+          "twitter": "Story4CO"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/tammy-story"
@@ -8455,7 +8710,11 @@
         "openstates_id": "ocd-person/c1a18202-08ad-487f-99bb-b1a606c15a22",
         "party": "Democratic",
         "phone": "303-866-2923",
-        "social": {},
+        "social": {
+          "facebook": "MeghanLukensforColorado",
+          "instagram": "meghanlukensforcolorado",
+          "twitter": "MeghanLukens"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/meghan-lukens"
@@ -8473,7 +8732,11 @@
         "openstates_id": "ocd-person/fa9b604d-5981-4de1-97bc-9400e03909c9",
         "party": "Democratic",
         "phone": "303-866-2962",
-        "social": {},
+        "social": {
+          "facebook": "BriannaForColorado",
+          "instagram": "briannaforcolorado",
+          "twitter": "BriannaForCO"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/brianna-titone"
@@ -8491,7 +8754,9 @@
         "openstates_id": "ocd-person/b44045eb-e2fb-4723-9e91-d68fb55c0bf7",
         "party": "Democratic",
         "phone": "303-866-2939",
-        "social": {},
+        "social": {
+          "instagram": "rep_sheila_lieder"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/sheila-lieder"
@@ -8509,7 +8774,9 @@
         "openstates_id": "ocd-person/8de5b6ec-a488-4f1f-b96d-d78b90cb7fe7",
         "party": "Democratic",
         "phone": "303-866-2843",
-        "social": {},
+        "social": {
+          "instagram": "goldsteinforhd29"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/lori-goldstein"
@@ -8527,7 +8794,11 @@
         "openstates_id": "ocd-person/8e6bc6cb-fe7e-4640-a938-eb32536e95c5",
         "party": "Democratic",
         "phone": "303-866-2921",
-        "social": {},
+        "social": {
+          "facebook": "RepFroelich",
+          "instagram": "repmegfroe",
+          "twitter": "RepMegFroe"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/meg-froelich"
@@ -8545,7 +8816,11 @@
         "openstates_id": "ocd-person/ef2507af-95ba-4a2f-84d5-84771785bfc2",
         "party": "Democratic",
         "phone": "303-866-2951",
-        "social": {},
+        "social": {
+          "facebook": "RebekahforCO",
+          "instagram": "rebekahforCO",
+          "twitter": "RebekahforCO"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/rebekah-stewart"
@@ -8563,7 +8838,9 @@
         "openstates_id": "ocd-person/48d0af72-b21b-44a5-afc2-325b80f1c551",
         "party": "Democratic",
         "phone": "303-866-2918",
-        "social": {},
+        "social": {
+          "facebook": "jacquephillipsforstaterep"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/jacque-phillips"
@@ -8581,7 +8858,10 @@
         "openstates_id": "ocd-person/ce4bd827-c1bc-4736-a580-f4f0215e727d",
         "party": "Democratic",
         "phone": "303-866-2945",
-        "social": {},
+        "social": {
+          "facebook": "mannyforcolorado",
+          "twitter": "MannyRutinel"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/manny-rutinel"
@@ -8599,7 +8879,10 @@
         "openstates_id": "ocd-person/f84befdc-bf1b-4b0b-92df-27155caf403f",
         "party": "Democratic",
         "phone": "303-866-4667",
-        "social": {},
+        "social": {
+          "facebook": "NguyenforColorado",
+          "instagram": "nguyenforcolorado"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/kenny-nguyen"
@@ -8617,7 +8900,11 @@
         "openstates_id": "ocd-person/655c629d-72f6-45d1-bd8f-a241e200d089",
         "party": "Democratic",
         "phone": "303-866-2931",
-        "social": {},
+        "social": {
+          "facebook": "jennyforcolorado",
+          "instagram": "jennyforcolorado",
+          "twitter": "JennyforCO"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/jenny-willford"
@@ -8635,7 +8922,11 @@
         "openstates_id": "ocd-person/d7569723-ddde-4706-a857-422804198fa8",
         "party": "Democratic",
         "phone": "303-866-2964",
-        "social": {},
+        "social": {
+          "facebook": "RepLorenaGarcia",
+          "instagram": "replorenagarciahd35",
+          "twitter": "RepLorenaGarcia"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/lorena-garc%C3%ADa"
@@ -8653,7 +8944,10 @@
         "openstates_id": "ocd-person/9c2accab-1bbf-495c-8036-137e48ba684d",
         "party": "Democratic",
         "phone": "303-866-2942",
-        "social": {},
+        "social": {
+          "facebook": "carter_for_colorado",
+          "instagram": "carter_for_colorado"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/michael-carter"
@@ -8671,7 +8965,9 @@
         "openstates_id": "ocd-person/faaae748-7c57-47df-bdf7-1811e0a61458",
         "party": "Democratic",
         "phone": "303-866-5510",
-        "social": {},
+        "social": {
+          "facebook": "chadforcolorado"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/chad-clifford"
@@ -8689,7 +8985,11 @@
         "openstates_id": "ocd-person/e0edd86c-a50d-4e78-96ac-f3e8217de4a8",
         "party": "Democratic",
         "phone": "303-866-2953",
-        "social": {},
+        "social": {
+          "facebook": "gretchenforcolorado",
+          "instagram": "gretchenforcolorado",
+          "twitter": "gretchenforCO"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/gretchen-rydin"
@@ -8707,7 +9007,11 @@
         "openstates_id": "ocd-person/5a396024-8dcf-438c-beca-a730e972d9d8",
         "party": "Republican",
         "phone": "303-866-2935",
-        "social": {},
+        "social": {
+          "facebook": "brandibradleyfor39",
+          "instagram": "rep.brandi.bradley",
+          "twitter": "brandi_b12"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://www.coloradohouserepublicans.com/brandi-bradley/"
@@ -8743,7 +9047,11 @@
         "openstates_id": "ocd-person/64f01ef4-238f-4e48-9657-e221e0d030c0",
         "party": "Democratic",
         "phone": "303-866-2944",
-        "social": {},
+        "social": {
+          "facebook": "RicksforColorado",
+          "instagram": "ricks_cohd40",
+          "twitter": "naquettaricks"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/naquetta-ricks"
@@ -8761,7 +9069,10 @@
         "openstates_id": "ocd-person/09ef4f5a-7c9d-463a-8ab6-52c861f97a74",
         "party": "Democratic",
         "phone": "303-866-2919",
-        "social": {},
+        "social": {
+          "facebook": "JamieForColorado",
+          "instagram": "jamieforcolorado"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/jamie-jackson"
@@ -8779,7 +9090,11 @@
         "openstates_id": "ocd-person/2582d3dd-20c0-4d15-83a0-3b6dab1e98d2",
         "party": "Democratic",
         "phone": "303-866-3911",
-        "social": {},
+        "social": {
+          "facebook": "RepLindsay",
+          "instagram": "rep_lindsay",
+          "twitter": "MandyForCO"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/mandy-lindsay"
@@ -8797,7 +9112,10 @@
         "openstates_id": "ocd-person/ade56d2d-41d7-436d-b76b-85051f036c7a",
         "party": "Democratic",
         "phone": "303-866-2936",
-        "social": {},
+        "social": {
+          "facebook": "Bob4Colorado",
+          "twitter": "Bob4Colorado"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/bob-marshall"
@@ -8815,7 +9133,11 @@
         "openstates_id": "ocd-person/561892b1-c618-43cb-9767-9237514f0a92",
         "party": "Republican",
         "phone": "303-866-2933",
-        "social": {},
+        "social": {
+          "facebook": "AnthonyHartsookCO",
+          "instagram": "rephartsook",
+          "twitter": "RepHartsook"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/anthony-hartsook"
@@ -8833,7 +9155,10 @@
         "openstates_id": "ocd-person/fe11081d-5ca9-4f88-a143-04aed94e45f9",
         "party": "Republican",
         "phone": "303-866-2948",
-        "social": {},
+        "social": {
+          "facebook": "MaxforHD45",
+          "instagram": "_max.brooks_"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/max-brooks"
@@ -8851,7 +9176,9 @@
         "openstates_id": "ocd-person/851b5f31-0694-4674-a3b8-468b6eb1f0a8",
         "party": "Democratic",
         "phone": "303-866-2968",
-        "social": {},
+        "social": {
+          "facebook": "tishamauroforhousedistrict46"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/tisha-mauro"
@@ -8869,7 +9196,10 @@
         "openstates_id": "ocd-person/f3cd2006-7729-41b0-a009-0c5cf64e95e0",
         "party": "Republican",
         "phone": "303-866-2747",
-        "social": {},
+        "social": {
+          "instagram": "reptywinter",
+          "twitter": "RepTyWinter"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/ty-winter"
@@ -8887,7 +9217,9 @@
         "openstates_id": "ocd-person/5f8d1bd0-329b-4a87-8d2f-cb62b8f2e921",
         "party": "Republican",
         "phone": "303-866-2943",
-        "social": {},
+        "social": {
+          "twitter": "RepCarlosBarron"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/carlos-barron"
@@ -8905,7 +9237,9 @@
         "openstates_id": "ocd-person/475639af-fb56-4fde-9a78-213593db91d0",
         "party": "Democratic",
         "phone": "303-866-2578",
-        "social": {},
+        "social": {
+          "twitter": "LesleyForCU"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/lesley-smith"
@@ -8923,7 +9257,10 @@
         "openstates_id": "ocd-person/45c957a4-0017-4c0c-8650-393d656fc5a0",
         "party": "Democratic",
         "phone": "303-866-2925",
-        "social": {},
+        "social": {
+          "facebook": "ValdezforCO",
+          "twitter": "ValdezforCO"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/alex-valdez"
@@ -8941,7 +9278,11 @@
         "openstates_id": "ocd-person/e7b1210b-3400-4ad4-a461-a55023e54042",
         "party": "Republican",
         "phone": "303-866-2929",
-        "social": {},
+        "social": {
+          "facebook": "Gonzalezfor50",
+          "instagram": "ryangonzalezco",
+          "twitter": "RyanGonzalezCO"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/ryan-gonzalez"
@@ -8959,7 +9300,11 @@
         "openstates_id": "ocd-person/9b1256a4-11c6-4c9e-81e6-2e0a3c5871be",
         "party": "Republican",
         "phone": "303-866-2947",
-        "social": {},
+        "social": {
+          "facebook": "WeinbergForColorado",
+          "instagram": "repweinberg",
+          "twitter": "RepWeinberg"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/ron-weinberg"
@@ -8977,7 +9322,10 @@
         "openstates_id": "ocd-person/e8a7d2a2-1907-450d-8c61-8c328839e922",
         "party": "Democratic",
         "phone": "303-866-4569",
-        "social": {},
+        "social": {
+          "instagram": "yaraforco",
+          "twitter": "yzokaie"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/yara-zokaie"
@@ -8995,7 +9343,10 @@
         "openstates_id": "ocd-person/278f042b-4fe3-4325-ad59-bc240e4fda0c",
         "party": "Democratic",
         "phone": "303-866-2917",
-        "social": {},
+        "social": {
+          "facebook": "andyforcolorado",
+          "twitter": "rep_boesenecker"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/andrew-boesenecker"
@@ -9013,7 +9364,11 @@
         "openstates_id": "ocd-person/9e529237-916b-407c-a60e-abd8e0708329",
         "party": "Republican",
         "phone": "303-866-2583",
-        "social": {},
+        "social": {
+          "facebook": "Rep.Matt.Soper",
+          "instagram": "matt.soper.colorado",
+          "twitter": "SoperMatthew"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/matt-soper"
@@ -9031,7 +9386,10 @@
         "openstates_id": "ocd-person/5dae0c7f-430e-42a2-906d-9e177782f91b",
         "party": "Republican",
         "phone": "303-866-3068",
-        "social": {},
+        "social": {
+          "facebook": "repricktaggart",
+          "instagram": "repricktaggart"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/rick-taggart"
@@ -9067,7 +9425,9 @@
         "openstates_id": "ocd-person/bd50bf12-cf63-4a3d-a887-93008333e694",
         "party": "Democratic",
         "phone": "303-866-2949",
-        "social": {},
+        "social": {
+          "facebook": "ElizabethforHD57"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/elizabeth-velasco"
@@ -9085,7 +9445,9 @@
         "openstates_id": "ocd-person/a2745e24-bcf2-40f8-aa77-fad08d873ab1",
         "party": "Republican",
         "phone": "303-866-2955",
-        "social": {},
+        "social": {
+          "twitter": "LSuckla"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/larry-don-suckla"
@@ -9103,7 +9465,9 @@
         "openstates_id": "ocd-person/fa06bf42-5305-4b04-95d0-a63f94ae8913",
         "party": "Democratic",
         "phone": "303-866-2914",
-        "social": {},
+        "social": {
+          "facebook": "katieforcolorado"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/katie-stewart"
@@ -9121,7 +9485,10 @@
         "openstates_id": "ocd-person/56e058a4-2a75-4864-8d5e-18c1c98f6960",
         "party": "Democratic",
         "phone": "303-866-2911",
-        "social": {},
+        "social": {
+          "instagram": "camachoforcolorado",
+          "twitter": "SeanCamachoCO"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/sean-camacho"
@@ -9157,7 +9524,10 @@
         "openstates_id": "ocd-person/c02b7bf5-a583-43c0-b6d6-2e757c7d42b7",
         "party": "Democratic",
         "phone": "303-866-3706",
-        "social": {},
+        "social": {
+          "facebook": "eliza4colorado",
+          "twitter": "eliza4colorado"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/eliza-hamrick"
@@ -9175,7 +9545,11 @@
         "openstates_id": "ocd-person/27716b46-14de-4097-a29c-1a882ae3cd3a",
         "party": "Democratic",
         "phone": "303-866-2916",
-        "social": {},
+        "social": {
+          "facebook": "martinezinfo",
+          "instagram": "martinezforsoco",
+          "twitter": "MartinezforSoCo"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/matthew-martinez"
@@ -9229,7 +9603,10 @@
         "openstates_id": "ocd-person/d450c0d3-b829-4855-ad0d-1228c5284a4f",
         "party": "Republican",
         "phone": "303-866-2907",
-        "social": {},
+        "social": {
+          "instagram": "garciasanderforhouse",
+          "twitter": "LGSforHD65"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/lori-garcia-sander"
@@ -9247,7 +9624,11 @@
         "openstates_id": "ocd-person/4aba3e11-9554-405d-b926-5435eb77fa26",
         "party": "Democratic",
         "phone": "303-866-2909",
-        "social": {},
+        "social": {
+          "facebook": "BaconforColorado",
+          "instagram": "baconforco",
+          "twitter": "baconforco"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/jennifer-bacon"
@@ -9265,7 +9646,10 @@
         "openstates_id": "ocd-person/d5ec869e-db7a-480f-b270-428805b90cee",
         "party": "Democratic",
         "phone": "303-866-2959",
-        "social": {},
+        "social": {
+          "instagram": "gilchristlindsay",
+          "twitter": "LindsGilchrist"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/lindsay-gilchrist"
@@ -9283,7 +9667,10 @@
         "openstates_id": "ocd-person/c8c1a9c5-c7c2-4894-8829-fc83251bcaf2",
         "party": "Democratic",
         "phone": "303-866-2910",
-        "social": {},
+        "social": {
+          "facebook": "EmilyForColorado",
+          "twitter": "EmilyForCO"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/emily-sirota"
@@ -12019,7 +12406,10 @@
         "openstates_id": "ocd-person/fdf8cd7b-933f-469b-b1b7-119b39ba5e86",
         "party": "Democratic",
         "phone": "302-744-4351",
-        "social": {},
+        "social": {
+          "facebook": "RepNnamdiChukwuocha",
+          "instagram": "nnamdi1ststaterep"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housedems.delaware.gov/members/house-district-1/"
@@ -12037,7 +12427,10 @@
         "openstates_id": "ocd-person/ec594c77-7bbe-45c5-9ffd-0f6a3aad1e36",
         "party": "Democratic",
         "phone": "302-744-4351",
-        "social": {},
+        "social": {
+          "facebook": "RepRossLevin",
+          "instagram": "repmelanierosslevin"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housedems.delaware.gov/members/house-district-10/"
@@ -12055,7 +12448,9 @@
         "openstates_id": "ocd-person/ef94fe15-3a43-405c-8ec6-d446784dfb32",
         "party": "Republican",
         "phone": "302-744-4171",
-        "social": {},
+        "social": {
+          "facebook": "friends4jeff"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housegop.delaware.gov/members/house-district-11/"
@@ -12073,7 +12468,10 @@
         "openstates_id": "ocd-person/0dc99b9c-115c-4da0-81b1-22aa5b6750e0",
         "party": "Democratic",
         "phone": "302-744-4351",
-        "social": {},
+        "social": {
+          "facebook": "RepKristaGriffith",
+          "instagram": "repkristagriffith"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housedems.delaware.gov/members/house-district-12/"
@@ -12091,7 +12489,10 @@
         "openstates_id": "ocd-person/5c5f5bf8-d155-4911-8e06-eb6cc664859e",
         "party": "Democratic",
         "phone": "302-744-4351",
-        "social": {},
+        "social": {
+          "facebook": "RepDeShannaNeal",
+          "twitter": "DeShanna4DE13"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housedems.delaware.gov/members/house-district-13/"
@@ -12127,7 +12528,10 @@
         "openstates_id": "ocd-person/5b43a977-2fe9-49e8-b3de-6873eab0692c",
         "party": "Democratic",
         "phone": "302-744-4351",
-        "social": {},
+        "social": {
+          "facebook": "RepKamSmith",
+          "instagram": "repkamelasmith"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housedems.delaware.gov/members/house-district-15/"
@@ -12145,7 +12549,10 @@
         "openstates_id": "ocd-person/0cac3293-534b-4188-93e3-37ef6cd333ae",
         "party": "Democratic",
         "phone": "302-744-4351",
-        "social": {},
+        "social": {
+          "facebook": "repfranklincooke",
+          "instagram": "repfranklincooke"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housedems.delaware.gov/members/house-district-16/"
@@ -12163,7 +12570,11 @@
         "openstates_id": "ocd-person/2ceeb021-8aee-405f-afd6-f53f0c3d0bb7",
         "party": "Democratic",
         "phone": "302-744-4351",
-        "social": {},
+        "social": {
+          "facebook": "RepMelissaMinorBrown",
+          "instagram": "speakerminorbrown",
+          "twitter": "RepMinor"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housedems.delaware.gov/members/house-district-17/"
@@ -12181,7 +12592,11 @@
         "openstates_id": "ocd-person/0a452e37-d7e7-403d-97ff-740c1d257eda",
         "party": "Democratic",
         "phone": "302-744-4351",
-        "social": {},
+        "social": {
+          "facebook": "RepSophiePhillips",
+          "instagram": "repsophiekp",
+          "twitter": "sophiekp4de"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housedems.delaware.gov/members/house-district-18/"
@@ -12199,7 +12614,10 @@
         "openstates_id": "ocd-person/80dfa709-d199-4950-a067-2dafc40241b9",
         "party": "Democratic",
         "phone": "302-744-4351",
-        "social": {},
+        "social": {
+          "facebook": "KimWilliamsForStateRepresentative",
+          "twitter": "kimwilliamsde"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housedems.delaware.gov/members/house-district-19/"
@@ -12217,7 +12635,10 @@
         "openstates_id": "ocd-person/3ad8467d-5ec5-4626-aab5-11e42b62ad60",
         "party": "Democratic",
         "phone": "302-744-4351",
-        "social": {},
+        "social": {
+          "facebook": "RepBolden",
+          "instagram": "repbolden"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housedems.delaware.gov/members/house-district-2/"
@@ -12235,7 +12656,10 @@
         "openstates_id": "ocd-person/e9301c44-8042-4031-8ed0-4731c64a5a66",
         "party": "Democratic",
         "phone": "302-744-4351",
-        "social": {},
+        "social": {
+          "facebook": "RepAlonnaBerry",
+          "instagram": "repalonnaberry"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housedems.delaware.gov/members/house-district-20/"
@@ -12253,7 +12677,10 @@
         "openstates_id": "ocd-person/f94d59b8-6120-43d2-9788-b30fe945d8d2",
         "party": "Democratic",
         "phone": "302-744-4351",
-        "social": {},
+        "social": {
+          "facebook": "RepresentativeFrankBurns",
+          "instagram": "repfrankburns"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housedems.delaware.gov/members/house-district-21/"
@@ -12271,7 +12698,11 @@
         "openstates_id": "ocd-person/c9f1393e-01c8-4597-a6e5-6d43330264dc",
         "party": "Republican",
         "phone": "302-744-4171",
-        "social": {},
+        "social": {
+          "facebook": "staterepresentativemikesmith",
+          "instagram": "ilikemikesmith",
+          "twitter": "ILikeMikeSmith"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housegop.delaware.gov/members/house-district-22/"
@@ -12289,7 +12720,10 @@
         "openstates_id": "ocd-person/1f51da39-f7e2-4489-9307-f2121e9e8adf",
         "party": "Democratic",
         "phone": "302-744-4351",
-        "social": {},
+        "social": {
+          "facebook": "RepMaraGorman",
+          "instagram": "repmaragorman"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housedems.delaware.gov/members/house-district-23/"
@@ -12307,7 +12741,10 @@
         "openstates_id": "ocd-person/07cb3c97-de4e-4210-8c83-b7276c001024",
         "party": "Democratic",
         "phone": "302-744-4351",
-        "social": {},
+        "social": {
+          "facebook": "EdOsienski",
+          "instagram": "repedosienski"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housedems.delaware.gov/members/house-district-24/"
@@ -12325,7 +12762,10 @@
         "openstates_id": "ocd-person/d187436c-b3d3-4512-9172-b7a868942fe4",
         "party": "Democratic",
         "phone": "302-744-4351",
-        "social": {},
+        "social": {
+          "facebook": "RepCyndieRomer",
+          "instagram": "repcyndieromer"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housedems.delaware.gov/members/house-district-25/"
@@ -12343,7 +12783,11 @@
         "openstates_id": "ocd-person/6c816294-3378-48c1-b2fd-bb5cd57a9deb",
         "party": "Democratic",
         "phone": "302-744-4351",
-        "social": {},
+        "social": {
+          "facebook": "RepMadinah",
+          "instagram": "madinahfordelaware",
+          "twitter": "MadinahForDE"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housedems.delaware.gov/members/house-district-26/"
@@ -12361,7 +12805,11 @@
         "openstates_id": "ocd-person/bfab3b33-30ff-45fc-a45f-ae796d43de68",
         "party": "Democratic",
         "phone": "302-744-4351",
-        "social": {},
+        "social": {
+          "facebook": "RepEricMorrison",
+          "instagram": "de_state_rep_morrison",
+          "twitter": "EricMorrison_DE"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housedems.delaware.gov/members/house-district-27/"
@@ -12379,7 +12827,10 @@
         "openstates_id": "ocd-person/35bf376a-ffc2-4468-b6ab-0ef72cc8d05b",
         "party": "Democratic",
         "phone": "302-744-4351",
-        "social": {},
+        "social": {
+          "facebook": "RepWilliamCarson",
+          "instagram": "repwilliamcarson"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housedems.delaware.gov/members/house-district-28/"
@@ -12397,7 +12848,9 @@
         "openstates_id": "ocd-person/fccfb524-6aee-40a9-8469-081e961dd072",
         "party": "Democratic",
         "phone": "302-744-4351",
-        "social": {},
+        "social": {
+          "facebook": "RepBillBush"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housedems.delaware.gov/members/house-district-29/"
@@ -12415,7 +12868,10 @@
         "openstates_id": "ocd-person/d020ca16-1926-4279-adc8-c0a6cddeac6e",
         "party": "Democratic",
         "phone": "302-744-4284",
-        "social": {},
+        "social": {
+          "facebook": "RepOrtega",
+          "instagram": "electjosueortega"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housedems.delaware.gov/members/house-district-3/"
@@ -12433,7 +12889,9 @@
         "openstates_id": "ocd-person/1952d6d2-3cd8-4a2c-b663-f16052b948c3",
         "party": "Republican",
         "phone": "302-744-4171",
-        "social": {},
+        "social": {
+          "facebook": "staterepshannonmorris"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housegop.delaware.gov/members/house-district-30/"
@@ -12469,7 +12927,11 @@
         "openstates_id": "ocd-person/7ae371b6-0fd5-457a-af26-032432dd381b",
         "party": "Democratic",
         "phone": "302-744-4351",
-        "social": {},
+        "social": {
+          "facebook": "RepKerriEvelynHarris",
+          "instagram": "repkerrievelynharris",
+          "twitter": "KEEVHA_DE"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housedems.delaware.gov/members/house-district-32/"
@@ -12487,7 +12949,9 @@
         "openstates_id": "ocd-person/4f6f337c-16e7-4d39-a503-6b4b36650d2d",
         "party": "Republican",
         "phone": "302-744-4171",
-        "social": {},
+        "social": {
+          "facebook": "Postles33rd"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housegop.delaware.gov/members/house-district-33/"
@@ -12505,7 +12969,9 @@
         "openstates_id": "ocd-person/85f716aa-751a-4258-a68b-f6ed94b2daa0",
         "party": "Republican",
         "phone": "302-744-4171",
-        "social": {},
+        "social": {
+          "facebook": "YearickforDelaware"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housegop.delaware.gov/members/house-district-34/"
@@ -12541,7 +13007,10 @@
         "openstates_id": "ocd-person/11732933-9dce-46b4-8683-67e8449b315b",
         "party": "Republican",
         "phone": "302-744-4171",
-        "social": {},
+        "social": {
+          "facebook": "BryanShupeDelaware",
+          "instagram": "bryanshupedelaware"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housegop.delaware.gov/members/house-district-36/"
@@ -12559,7 +13028,9 @@
         "openstates_id": "ocd-person/312de86b-37d6-4ffe-a47c-63163e4177c0",
         "party": "Republican",
         "phone": "302-744-4171",
-        "social": {},
+        "social": {
+          "facebook": "StateRepresentativeValerieJonesGiltner"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housegop.delaware.gov/members/house-district-37/"
@@ -12577,7 +13048,9 @@
         "openstates_id": "ocd-person/5cd844e2-9346-40d9-a804-7531aa49ccd4",
         "party": "Republican",
         "phone": "302-744-4171",
-        "social": {},
+        "social": {
+          "facebook": "statereprongray"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housegop.delaware.gov/members/house-district-38/"
@@ -12595,7 +13068,9 @@
         "openstates_id": "ocd-person/947a912f-49e7-4697-896e-fbcd1bcf41d3",
         "party": "Republican",
         "phone": "302-744-4171",
-        "social": {},
+        "social": {
+          "facebook": "dannyshort39th"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housegop.delaware.gov/members/house-district-39/"
@@ -12631,7 +13106,11 @@
         "openstates_id": "ocd-person/101c752d-fbe4-471c-ae50-f2b1409a328f",
         "party": "Republican",
         "phone": "302-744-4171",
-        "social": {},
+        "social": {
+          "facebook": "RepresentativeTimDukes",
+          "instagram": "timothydukes",
+          "twitter": "timothydukes"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housegop.delaware.gov/members/house-district-40/"
@@ -12667,7 +13146,9 @@
         "openstates_id": "ocd-person/b24cb06f-0cb1-4682-8038-d31b8ebc76fb",
         "party": "Democratic",
         "phone": "302-744-4351",
-        "social": {},
+        "social": {
+          "facebook": "RepKendraJohnson"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housedems.delaware.gov/members/house-district-5/"
@@ -12685,7 +13166,11 @@
         "openstates_id": "ocd-person/7e631da1-ef0f-4c6f-ba17-e5ae2860dad6",
         "party": "Democratic",
         "phone": "302-744-4351",
-        "social": {},
+        "social": {
+          "facebook": "RepDebraHeffernan",
+          "instagram": "repdebheffernan",
+          "twitter": "DebraHeffernan"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housedems.delaware.gov/members/house-district-6/"
@@ -12703,7 +13188,10 @@
         "openstates_id": "ocd-person/1e6f6e97-5c95-4351-afe2-d8843f7897bc",
         "party": "Democratic",
         "phone": "302-744-4351",
-        "social": {},
+        "social": {
+          "facebook": "RepLarryLambert",
+          "twitter": "LarryForDel"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housedems.delaware.gov/members/house-district-7/"
@@ -12721,7 +13209,11 @@
         "openstates_id": "ocd-person/6a8995a4-deab-416f-89ce-987c8c6557aa",
         "party": "Democratic",
         "phone": "302-744-4351",
-        "social": {},
+        "social": {
+          "facebook": "RepRaeMoore",
+          "instagram": "mooreforde",
+          "twitter": "MooreforDE"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housedems.delaware.gov/members/house-district-8/"
@@ -12739,7 +13231,9 @@
         "openstates_id": "ocd-person/d1020a85-27a1-4458-9ae2-90b09367be2c",
         "party": "Republican",
         "phone": "302-744-4171",
-        "social": {},
+        "social": {
+          "facebook": "repkevinhensley"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://housegop.delaware.gov/members/house-district-9/"
@@ -64366,7 +64860,10 @@
         "openstates_id": "ocd-person/b266a1bc-d8f5-472c-ba8d-e98e0d904ee3",
         "party": "Democratic",
         "phone": "775-684-8509",
-        "social": {},
+        "social": {
+          "facebook": "Daniele4Nevada",
+          "twitter": "Daniele4NV"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=307"
@@ -64384,7 +64881,10 @@
         "openstates_id": "ocd-person/c1af6bc9-bae5-4174-a2f1-6b4d3c5fc496",
         "party": "Democratic",
         "phone": "775-684-8541",
-        "social": {},
+        "social": {
+          "instagram": "Venisekarris",
+          "twitter": "venisekarris"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/10"
@@ -64402,7 +64902,11 @@
         "openstates_id": "ocd-person/0828d1f5-5772-4e62-88d8-1650abb8b749",
         "party": "Democratic",
         "phone": "775-684-8553",
-        "social": {},
+        "social": {
+          "facebook": "CinthiaMooreNV",
+          "instagram": "cinthiamoorenv",
+          "twitter": "cinthiamoorenv"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/11"
@@ -64420,7 +64924,11 @@
         "openstates_id": "ocd-person/bd27bab3-8a47-439f-8ae5-8ce3ba534f90",
         "party": "Democratic",
         "phone": "775-684-8819",
-        "social": {},
+        "social": {
+          "facebook": "Max4ad12",
+          "instagram": "carter4nv",
+          "twitter": "Carter4nv"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/12"
@@ -64438,7 +64946,10 @@
         "openstates_id": "ocd-person/20c9828b-8026-440a-9328-0c2cbcbad016",
         "party": "Republican",
         "phone": "775-684-8853",
-        "social": {},
+        "social": {
+          "instagram": "brianhibbettsnv",
+          "twitter": "BrianHibbetts"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/13"
@@ -64456,7 +64967,11 @@
         "openstates_id": "ocd-person/39e0ca55-992e-4558-aec5-279adb467de7",
         "party": "Democratic",
         "phone": "775-684-8597",
-        "social": {},
+        "social": {
+          "facebook": "ericamoscafornvassembly",
+          "instagram": "ericamosca14",
+          "twitter": "EricaMosca14"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/14"
@@ -64474,7 +64989,11 @@
         "openstates_id": "ocd-person/b88fd854-c97b-4908-a554-583b93bca5c4",
         "party": "Democratic",
         "phone": "775-684-8835",
-        "social": {},
+        "social": {
+          "facebook": "WattsForNevada",
+          "instagram": "HowardWattsNV",
+          "twitter": "HowardWattsNV"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=363"
@@ -64492,7 +65011,11 @@
         "openstates_id": "ocd-person/67f22a3d-05c3-4256-8260-dac682607fc7",
         "party": "Democratic",
         "phone": "775-684-8595",
-        "social": {},
+        "social": {
+          "facebook": "CeceliaGNV",
+          "instagram": "ceceliagnv",
+          "twitter": "CeceliaGNV"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=378"
@@ -64510,7 +65033,11 @@
         "openstates_id": "ocd-person/9a681fc4-e005-4c1f-a16b-6fa2b02106e3",
         "party": "Democratic",
         "phone": "775-684-8569",
-        "social": {},
+        "social": {
+          "facebook": "LindaForNevada",
+          "instagram": "lindafornevada",
+          "twitter": "LindaForNevada"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/17"
@@ -64528,7 +65055,10 @@
         "openstates_id": "ocd-person/00175071-948a-4814-b66e-b07b2ec7785d",
         "party": "Democratic",
         "phone": "775-684-8801",
-        "social": {},
+        "social": {
+          "facebook": "VeniciaForNevada",
+          "instagram": "veniciag"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=380"
@@ -64546,7 +65076,9 @@
         "openstates_id": "ocd-person/4e25af9f-4cb3-4812-8a12-2f1012aa6cb7",
         "party": "Republican",
         "phone": "775-684-8857",
-        "social": {},
+        "social": {
+          "twitter": "doit4rex"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/19"
@@ -64564,7 +65096,11 @@
         "openstates_id": "ocd-person/61389b89-1169-49b3-a17b-c904f2111b4e",
         "party": "Republican",
         "phone": "775-684-8827",
-        "social": {},
+        "social": {
+          "facebook": "heidikasamanv",
+          "instagram": "heidikasamanv",
+          "twitter": "heidikasama4nv"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=379"
@@ -64582,7 +65118,9 @@
         "openstates_id": "ocd-person/7d16a086-5877-48e9-9e76-13c5159f89ce",
         "party": "Democratic",
         "phone": "775-684-8577",
-        "social": {},
+        "social": {
+          "twitter": "DavidOforNevada"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=377"
@@ -64600,7 +65138,11 @@
         "openstates_id": "ocd-person/a76836f8-24c9-4f90-8e13-29f417a7ad9f",
         "party": "Democratic",
         "phone": "775-684-8839",
-        "social": {},
+        "social": {
+          "facebook": "elainemarzolafornevada",
+          "instagram": "emarzola",
+          "twitter": "elainemarzola"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=376"
@@ -64618,7 +65160,11 @@
         "openstates_id": "ocd-person/5cafbfaf-3066-4080-9754-b53f337ba4ba",
         "party": "Republican",
         "phone": "775-684-8823",
-        "social": {},
+        "social": {
+          "facebook": "Hardy4NV",
+          "instagram": "hardy4nevada",
+          "twitter": "Hardy4NV"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=364"
@@ -64636,7 +65182,11 @@
         "openstates_id": "ocd-person/bf8b61a8-585a-4357-82f8-bd8de898262b",
         "party": "Republican",
         "phone": "775-684-8503",
-        "social": {},
+        "social": {
+          "facebook": "DanielleGallant4Nevada",
+          "instagram": "danielle4nevada",
+          "twitter": "Danielle4nv1"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/23"
@@ -64654,7 +65204,11 @@
         "openstates_id": "ocd-person/1555ff9d-7b4a-46d9-be19-6a4be444f574",
         "party": "Democratic",
         "phone": "775-684-8559",
-        "social": {},
+        "social": {
+          "facebook": "voteericaroth",
+          "instagram": "voteericaroth",
+          "twitter": "VoteEricaRoth"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/24"
@@ -64672,7 +65226,11 @@
         "openstates_id": "ocd-person/99f4f903-1c4f-49f0-835f-c0b9b1aa0317",
         "party": "Democratic",
         "phone": "775-684-8837",
-        "social": {},
+        "social": {
+          "facebook": "SelenaforNevada",
+          "instagram": "selenafornv",
+          "twitter": "La_Rue_Hatch"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/25"
@@ -64690,7 +65248,11 @@
         "openstates_id": "ocd-person/204b492e-4b29-4e8e-9c3e-d2d0f0a8ceea",
         "party": "Republican",
         "phone": "775-684-8848",
-        "social": {},
+        "social": {
+          "facebook": "Delong4NV",
+          "instagram": "delong4nv",
+          "twitter": "Delong4NV"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/26"
@@ -64708,7 +65270,10 @@
         "openstates_id": "ocd-person/bedabc75-c6b4-4949-9e0e-76b9432e740f",
         "party": "Democratic",
         "phone": "775-684-8845",
-        "social": {},
+        "social": {
+          "facebook": "voteheatherg",
+          "instagram": "voteheatherg"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/27"
@@ -64726,7 +65291,10 @@
         "openstates_id": "ocd-person/eae59702-f6de-431e-98f0-9c4bc5b6e059",
         "party": "Democratic",
         "phone": "775-684-8583",
-        "social": {},
+        "social": {
+          "facebook": "ReubenDSilvaNV",
+          "twitter": "ReubenDSilvaNV"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/28"
@@ -64744,7 +65312,10 @@
         "openstates_id": "ocd-person/282757f9-1693-4ac5-bd98-4315543cd61a",
         "party": "Democratic",
         "phone": "775-684-8855",
-        "social": {},
+        "social": {
+          "instagram": "joedalianv",
+          "twitter": "JosephDalia"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/29"
@@ -64762,7 +65333,11 @@
         "openstates_id": "ocd-person/59a3b5f2-a135-48e5-9baa-98585f8ff35e",
         "party": "Democratic",
         "phone": "775-684-8599",
-        "social": {},
+        "social": {
+          "facebook": "selenatorresnv",
+          "instagram": "selenatorresnv",
+          "twitter": "SelenaTorresNV"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=359"
@@ -64780,7 +65355,10 @@
         "openstates_id": "ocd-person/d4a1125a-69d2-4de1-a4b4-af2aae20de09",
         "party": "Democratic",
         "phone": "775-684-8841",
-        "social": {},
+        "social": {
+          "facebook": "votenatha",
+          "twitter": "voteNatha"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=375"
@@ -64798,7 +65376,10 @@
         "openstates_id": "ocd-person/70e15282-2812-4486-9d7e-06862aa45cc3",
         "party": "Republican",
         "phone": "775-684-8563",
-        "social": {},
+        "social": {
+          "facebook": "JillDickmanNV",
+          "twitter": "jilldickmannv"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=277"
@@ -64816,7 +65397,10 @@
         "openstates_id": "ocd-person/6fee4c5a-f125-46bc-b11a-d254e40428e4",
         "party": "Republican",
         "phone": "775-684-8851",
-        "social": {},
+        "social": {
+          "facebook": "alexishansennv",
+          "twitter": "alexishansenNV"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=366"
@@ -64834,7 +65418,11 @@
         "openstates_id": "ocd-person/11f44d71-88c1-4022-a2f5-f8ca9b8795f2",
         "party": "Republican",
         "phone": "775-684-8831",
-        "social": {},
+        "social": {
+          "facebook": "Gurr4Nevada",
+          "instagram": "gurr4nevada",
+          "twitter": "Gurr4Nevada"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/33"
@@ -64852,7 +65440,10 @@
         "openstates_id": "ocd-person/684e4e66-da40-4914-943a-40ef578fa231",
         "party": "Democratic",
         "phone": "775-684-8847",
-        "social": {},
+        "social": {
+          "instagram": "hanadinadeem34",
+          "twitter": "HanadiD34"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/34"
@@ -64870,7 +65461,10 @@
         "openstates_id": "ocd-person/0460d67c-f5e3-4ff8-82c3-27caabeff9a2",
         "party": "Republican",
         "phone": "775-684-8573",
-        "social": {},
+        "social": {
+          "facebook": "EdgeworthForNevada",
+          "twitter": "EdgeworthForNV"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/35"
@@ -64888,7 +65482,11 @@
         "openstates_id": "ocd-person/33330e1e-b22d-49d7-bce8-6964b289683a",
         "party": "Republican",
         "phone": "775-684-8805",
-        "social": {},
+        "social": {
+          "facebook": "Hafen4Nevada",
+          "instagram": "hafen4nevada",
+          "twitter": "GHafenII"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=371"
@@ -64906,7 +65504,11 @@
         "openstates_id": "ocd-person/1fa69460-c910-4cf1-acfb-1d44c342e658",
         "party": "Democratic",
         "phone": "775-684-8505",
-        "social": {},
+        "social": {
+          "facebook": "BackusforNevada",
+          "instagram": "backusfornevada",
+          "twitter": "SheaBackusEsq"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/37"
@@ -64924,7 +65526,10 @@
         "openstates_id": "ocd-person/1c4f97a9-c965-4d0d-b5b6-39b91aee4f49",
         "party": "Republican",
         "phone": "775-684-8507",
-        "social": {},
+        "social": {
+          "facebook": "gregkoenigAD38",
+          "twitter": "GregKoenigAD38"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/38"
@@ -64942,7 +65547,10 @@
         "openstates_id": "ocd-person/b89aa9d2-1550-4e73-8981-ffa49b7113ad",
         "party": "Republican",
         "phone": "775-684-8843",
-        "social": {},
+        "social": {
+          "facebook": "BlayneOsbornForNevada",
+          "twitter": "BlayneOsborn"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/36th2025Special/39"
@@ -64960,7 +65568,11 @@
         "openstates_id": "ocd-person/1707682b-c409-4d5e-9a2d-9505180de66c",
         "party": "Republican",
         "phone": "775-684-8829",
-        "social": {},
+        "social": {
+          "facebook": "LisaColeNV",
+          "instagram": "lisacolenevada",
+          "twitter": "LisaColeNV"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/4"
@@ -64978,7 +65590,10 @@
         "openstates_id": "ocd-person/a964be66-bd32-48ab-b6c4-9ede22177328",
         "party": "Republican",
         "phone": "775-684-8825",
-        "social": {},
+        "social": {
+          "facebook": "PKONeill4NV",
+          "twitter": "PKONeillNV"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=285"
@@ -64996,7 +65611,11 @@
         "openstates_id": "ocd-person/25e09131-39e3-4c58-96b0-6c1ac9e74b19",
         "party": "Democratic",
         "phone": "775-684-8821",
-        "social": {},
+        "social": {
+          "facebook": "sandrajaureguinv",
+          "instagram": "sandrajaureguinv",
+          "twitter": "sandra4nv"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=344"
@@ -65014,7 +65633,10 @@
         "openstates_id": "ocd-person/fc07db44-bc3c-412b-a15e-dd013220411a",
         "party": "Democratic",
         "phone": "775-684-8803",
-        "social": {},
+        "social": {
+          "facebook": "tracybrownmay",
+          "instagram": "tracybrownmayad42"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/42"
@@ -65032,7 +65654,11 @@
         "openstates_id": "ocd-person/287d0078-78f3-4717-8493-9f77d0eb57d6",
         "party": "Democratic",
         "phone": "775-684-8833",
-        "social": {},
+        "social": {
+          "facebook": "Miller4AD5",
+          "instagram": "brittmiller4ad5",
+          "twitter": "BrittMiller4AD5"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=304"
@@ -65050,7 +65676,9 @@
         "openstates_id": "ocd-person/b6a16a74-3cb4-43c1-83cd-1b6f211993a0",
         "party": "Democratic",
         "phone": "775-684-8545",
-        "social": {},
+        "social": {
+          "twitter": "electjovan"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/6"
@@ -65068,7 +65696,9 @@
         "openstates_id": "ocd-person/1af6f404-0dfc-424a-b6df-227f45782504",
         "party": "Democratic",
         "phone": "775-684-8587",
-        "social": {},
+        "social": {
+          "twitter": "Tanya_Flanagan"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/7"
@@ -65086,7 +65716,11 @@
         "openstates_id": "ocd-person/fb919fa4-e37e-4268-9f5d-e4c3e9490475",
         "party": "Democratic",
         "phone": "775-684-8537",
-        "social": {},
+        "social": {
+          "facebook": "duyfornv",
+          "instagram": "duyfornv",
+          "twitter": "Duyfornv"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/8"
@@ -65104,7 +65738,10 @@
         "openstates_id": "ocd-person/4caae060-1c91-4d9d-a8f9-83d74c7d0f58",
         "party": "Democratic",
         "phone": "775-684-8549",
-        "social": {},
+        "social": {
+          "facebook": "yeager4nevada",
+          "twitter": "SpeakerYeagerNV"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=310"
@@ -71549,7 +72186,9 @@
         "openstates_id": "ocd-person/aa0eac5e-9089-4c72-8edb-4493e1c4a0ad",
         "party": "Republican",
         "phone": "503-986-1401",
-        "social": {},
+        "social": {
+          "facebook": "RepBoice"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/boice"
@@ -71567,7 +72206,9 @@
         "openstates_id": "ocd-person/db52dfee-b099-4ec9-800c-075d09710ca6",
         "party": "Democratic",
         "phone": "503-986-1410",
-        "social": {},
+        "social": {
+          "facebook": "repgomberg"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/gomberg"
@@ -71585,7 +72226,9 @@
         "openstates_id": "ocd-person/e0ac3b1f-565d-4766-b83d-3f08d6c0116b",
         "party": "Republican",
         "phone": "503-986-1411",
-        "social": {},
+        "social": {
+          "facebook": "repjamicate"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/cate"
@@ -71603,7 +72246,11 @@
         "openstates_id": "ocd-person/69c394b0-4299-4776-82aa-f847907f5308",
         "party": "Republican",
         "phone": "503-986-1412",
-        "social": {},
+        "social": {
+          "facebook": "HarbickForOregon",
+          "instagram": "harbickfororegon",
+          "twitter": "DarinHarbickOre"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/harbick"
@@ -71621,7 +72268,10 @@
         "openstates_id": "ocd-person/dd5774a0-d6fe-44cc-86b3-b197225666eb",
         "party": "Democratic",
         "phone": "503-986-1413",
-        "social": {},
+        "social": {
+          "facebook": "nancynathansonoregon",
+          "twitter": "Rep_NN"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/nathanson"
@@ -71639,7 +72289,11 @@
         "openstates_id": "ocd-person/b523dd9a-d913-4a8e-95e2-c546016f2b1a",
         "party": "Democratic",
         "phone": "503-986-1414",
-        "social": {},
+        "social": {
+          "facebook": "RepJulieFahey",
+          "instagram": "repjuliefahey",
+          "twitter": "juliefahey"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/fahey"
@@ -71657,7 +72311,10 @@
         "openstates_id": "ocd-person/52af68c5-c141-4e35-912b-11d71b83af33",
         "party": "Republican",
         "phone": "503-986-1415",
-        "social": {},
+        "social": {
+          "facebook": "shellyboshartdavisfororegon",
+          "twitter": "BoshartDavisAg"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/boshartdavis"
@@ -71675,7 +72332,10 @@
         "openstates_id": "ocd-person/77cbf3a1-387e-424d-87fc-51a46d770921",
         "party": "Democratic",
         "phone": "503-986-1416",
-        "social": {},
+        "social": {
+          "facebook": "Sarah4ORHouse",
+          "instagram": "rep_sarahfingermcdonald"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/mcdonald"
@@ -71693,7 +72353,10 @@
         "openstates_id": "ocd-person/fa290a38-0cea-4dc8-a981-33ee4ff341f4",
         "party": "Republican",
         "phone": "503-986-1417",
-        "social": {},
+        "social": {
+          "facebook": "eddiehlfororegon",
+          "instagram": "rep_realeddiehl"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/diehl"
@@ -71711,7 +72374,9 @@
         "openstates_id": "ocd-person/dc371425-a173-439f-903c-6e2e3fd145cd",
         "party": "Republican",
         "phone": "503-986-1418",
-        "social": {},
+        "social": {
+          "facebook": "representativericklewis"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/lewis"
@@ -71729,7 +72394,10 @@
         "openstates_id": "ocd-person/4d850bbf-df69-4431-bad6-9444c63d4f0c",
         "party": "Democratic",
         "phone": "503-986-1419",
-        "social": {},
+        "social": {
+          "facebook": "RepAndersen",
+          "instagram": "repandersen"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/andersen"
@@ -71747,7 +72415,9 @@
         "openstates_id": "ocd-person/f5938046-4558-441b-9e63-6bff0e114bf4",
         "party": "Republican",
         "phone": "503-986-1402",
-        "social": {},
+        "social": {
+          "facebook": "StateRepVirgleOsborne"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/osborne"
@@ -71765,7 +72435,10 @@
         "openstates_id": "ocd-person/8334f7e1-d712-44b4-8570-d0d0a6d131d3",
         "party": "Democratic",
         "phone": "503-986-1420",
-        "social": {},
+        "social": {
+          "facebook": "paulevanshousedistrict20",
+          "twitter": "paulevansoregon"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/evans"
@@ -71783,7 +72456,9 @@
         "openstates_id": "ocd-person/af99b8a9-452f-44e0-8404-83dfe05dbfd7",
         "party": "Republican",
         "phone": "503-986-1421",
-        "social": {},
+        "social": {
+          "facebook": "MannixforOregon"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/mannix"
@@ -71801,7 +72476,10 @@
         "openstates_id": "ocd-person/d452f3a7-efea-4ae5-8765-cbd5533462f2",
         "party": "Democratic/Working Families",
         "phone": "503-986-1422",
-        "social": {},
+        "social": {
+          "facebook": "LeslyMunozOregon",
+          "instagram": "rep.leslymunoz"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/munoz"
@@ -71819,7 +72497,9 @@
         "openstates_id": "ocd-person/a22ec130-3ba7-4304-9e6f-3a950b8454cb",
         "party": "Republican",
         "phone": "503-986-1423",
-        "social": {},
+        "social": {
+          "facebook": "voteannascharf"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/scharf"
@@ -71837,7 +72517,9 @@
         "openstates_id": "ocd-person/20f31b04-63fd-45a8-8075-5e6e1beae485",
         "party": "Republican",
         "phone": "503-986-1424",
-        "social": {},
+        "social": {
+          "facebook": "RepElmer"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/elmer"
@@ -71855,7 +72537,11 @@
         "openstates_id": "ocd-person/a19e8e1f-4859-4d05-8dc7-6f0a352c0757",
         "party": "Democratic",
         "phone": "503-986-1425",
-        "social": {},
+        "social": {
+          "facebook": "RepresentativeBenBowman",
+          "instagram": "rep.benbowman",
+          "twitter": "BenBowman"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/bowman"
@@ -71891,7 +72577,10 @@
         "openstates_id": "ocd-person/3770e09c-3492-4388-8047-e3dc83f026f3",
         "party": "Democratic",
         "phone": "503-986-1427",
-        "social": {},
+        "social": {
+          "facebook": "kenhelmoregon",
+          "twitter": "RepKenHelm"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/helm"
@@ -71909,7 +72598,11 @@
         "openstates_id": "ocd-person/f08a3b2f-8e56-41e4-bf5f-84a43fd5aab5",
         "party": "Democratic",
         "phone": "503-986-1428",
-        "social": {},
+        "social": {
+          "facebook": "DaciaforOregon",
+          "instagram": "daciafororegon",
+          "twitter": "djgrayber"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/grayber"
@@ -71927,7 +72620,10 @@
         "openstates_id": "ocd-person/62f98553-cc00-497f-ac14-97e0fc0e62c2",
         "party": "Democratic",
         "phone": "503-986-1429",
-        "social": {},
+        "social": {
+          "facebook": "SusanMcLainforOregon",
+          "instagram": "repsusanmclain"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/mclain"
@@ -71945,7 +72641,9 @@
         "openstates_id": "ocd-person/497f7e2e-b1d8-4803-8fb8-22dc045bc0b0",
         "party": "Republican",
         "phone": "503-986-1403",
-        "social": {},
+        "social": {
+          "twitter": "RepYunker"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/yunker"
@@ -71963,7 +72661,9 @@
         "openstates_id": "ocd-person/5615af6a-5232-45e0-b85b-bcb41e08391e",
         "party": "Democratic",
         "phone": "503-986-1430",
-        "social": {},
+        "social": {
+          "facebook": "RepresentativeSosa"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/sosa"
@@ -71981,7 +72681,9 @@
         "openstates_id": "ocd-person/e8deb6b6-9cd0-498d-9422-81d731972da5",
         "party": "Republican",
         "phone": "503-986-1431",
-        "social": {},
+        "social": {
+          "facebook": "repdarceyedwards"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/edwards"
@@ -71999,7 +72701,10 @@
         "openstates_id": "ocd-person/1b0e1c41-4914-4f3d-8a49-fd11a019526a",
         "party": "Democratic",
         "phone": "503-986-1432",
-        "social": {},
+        "social": {
+          "facebook": "cyrusfororegon",
+          "instagram": "cyrusfororegon"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/javadi"
@@ -72017,7 +72722,10 @@
         "openstates_id": "ocd-person/4a77ea61-457a-4111-bd2e-f2ee054ab4dc",
         "party": "Democratic",
         "phone": "503-986-1433",
-        "social": {},
+        "social": {
+          "facebook": "Rep-Shannon-Jones-Isadore",
+          "instagram": "rep.shannonjonesisadore"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/isadore"
@@ -72035,7 +72743,9 @@
         "openstates_id": "ocd-person/2b313ed5-ef42-4c8f-ae67-5dbac7346118",
         "party": "Democratic",
         "phone": "503-986-1434",
-        "social": {},
+        "social": {
+          "instagram": "marifororegon"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/watanabe"
@@ -72053,7 +72763,11 @@
         "openstates_id": "ocd-person/bec9a2c9-a77c-4ac9-b649-2a7360a5c0ad",
         "party": "Democratic",
         "phone": "503-986-1435",
-        "social": {},
+        "social": {
+          "facebook": "RepresentativeFarrahChaichi",
+          "instagram": "chaichi4or",
+          "twitter": "FarrahChaichi"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/chaichi"
@@ -72071,7 +72785,11 @@
         "openstates_id": "ocd-person/a13db125-e6e2-4621-a1a7-7de714796b90",
         "party": "Democratic",
         "phone": "503-986-1436",
-        "social": {},
+        "social": {
+          "facebook": "staterephaipham",
+          "instagram": "rephaipham",
+          "twitter": "HaiforOregon"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/phamh"
@@ -72089,7 +72807,10 @@
         "openstates_id": "ocd-person/55ecfa8d-e89f-4a7b-af2d-6822f1025607",
         "party": "Democratic",
         "phone": "503-986-1437",
-        "social": {},
+        "social": {
+          "facebook": "repjules",
+          "instagram": "repjuleswalters"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/walters"
@@ -72107,7 +72828,10 @@
         "openstates_id": "ocd-person/4b30682c-7833-4375-815b-2412cb9c61c7",
         "party": "Democratic",
         "phone": "503-986-1438",
-        "social": {},
+        "social": {
+          "facebook": "OrRepDanielNguyen",
+          "instagram": "rep.danielnguyen"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/nguyend"
@@ -72125,7 +72849,9 @@
         "openstates_id": "ocd-person/571be1bf-e0ba-45a3-97be-d5df3bc98738",
         "party": "Democratic",
         "phone": "503-986-1439",
-        "social": {},
+        "social": {
+          "facebook": "VoteAprilDobson"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/dobson"
@@ -72143,7 +72869,10 @@
         "openstates_id": "ocd-person/8a65569e-4ed6-4952-86b8-d499bcbf1cae",
         "party": "Republican",
         "phone": "503-986-1404",
-        "social": {},
+        "social": {
+          "facebook": "AlekForOregon",
+          "twitter": "alekskarlatos"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/skarlatos"
@@ -72161,7 +72890,11 @@
         "openstates_id": "ocd-person/7a36fd6a-105a-44b3-b7e3-b3447979db49",
         "party": "Democratic",
         "phone": "503-986-1440",
-        "social": {},
+        "social": {
+          "facebook": "representative.annessa",
+          "instagram": "annessafororegon",
+          "twitter": "annessaforhd40"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/hartman"
@@ -72179,7 +72912,11 @@
         "openstates_id": "ocd-person/6adb2361-6526-450f-b2b1-e9f32311ca7d",
         "party": "Democratic",
         "phone": "503-986-1441",
-        "social": {},
+        "social": {
+          "facebook": "GambaForOregon",
+          "instagram": "mark_gamba",
+          "twitter": "mark_gamba"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/gamba"
@@ -72197,7 +72934,10 @@
         "openstates_id": "ocd-person/2aa7ebf4-d8a7-42c6-8e20-1edef58aa545",
         "party": "Democratic",
         "phone": "503-986-1442",
-        "social": {},
+        "social": {
+          "instagram": "nosserob",
+          "twitter": "RobNosse"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/nosse"
@@ -72215,7 +72955,11 @@
         "openstates_id": "ocd-person/c138ec96-0a6f-4dee-be06-be286b68cfbb",
         "party": "Democratic",
         "phone": "503-986-1443",
-        "social": {},
+        "social": {
+          "facebook": "RepTawnaSanchez",
+          "instagram": "reptawnasanchez",
+          "twitter": "RepTawnaSanchez"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/sanchez"
@@ -72233,7 +72977,11 @@
         "openstates_id": "ocd-person/e2a96554-b503-4aad-856c-84266386e957",
         "party": "Democratic",
         "phone": "503-986-1444",
-        "social": {},
+        "social": {
+          "facebook": "RepTravisNelson",
+          "instagram": "travisnelson.rn",
+          "twitter": "IamTravisNelson"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/nelson"
@@ -72251,7 +72999,11 @@
         "openstates_id": "ocd-person/52058824-2f35-4f6b-877f-d48301bd99a0",
         "party": "Democratic",
         "phone": "503-986-1445",
-        "social": {},
+        "social": {
+          "facebook": "RepThuyTran",
+          "instagram": "rep.thuytran",
+          "twitter": "RepThuyTran"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/tran"
@@ -72269,7 +73021,10 @@
         "openstates_id": "ocd-person/21e83410-a7f5-43f1-a4ef-7cdc1d41c6b6",
         "party": "Democratic",
         "phone": "503-986-1446",
-        "social": {},
+        "social": {
+          "facebook": "chotzen4oregon",
+          "instagram": "chotzen4oregon"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/chotzen"
@@ -72287,7 +73042,10 @@
         "openstates_id": "ocd-person/3efec526-6660-45fa-9a10-b02716b2a779",
         "party": "Democratic",
         "phone": "503-986-1447",
-        "social": {},
+        "social": {
+          "facebook": "RepValderrama",
+          "instagram": "repvalderrama"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/valderrama/Pages/map.aspx"
@@ -72305,7 +73063,11 @@
         "openstates_id": "ocd-person/c4974690-b877-4f28-a731-a29fdbd811c4",
         "party": "Democratic",
         "phone": "503-986-1448",
-        "social": {},
+        "social": {
+          "facebook": "wisefororegon",
+          "instagram": "wisefororegon",
+          "twitter": "lamarwise3"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/wise"
@@ -72323,7 +73085,11 @@
         "openstates_id": "ocd-person/83bbae41-6ba0-477e-a584-8ad7df1283d8",
         "party": "Democratic",
         "phone": "503-986-1449",
-        "social": {},
+        "social": {
+          "facebook": "HudsonDist49",
+          "instagram": "repzachhudson",
+          "twitter": "RepZachHudson"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/hudson"
@@ -72341,7 +73107,9 @@
         "openstates_id": "ocd-person/ec643441-bffe-4f43-80a4-ab834ae0f1bd",
         "party": "Democratic",
         "phone": "503-986-1405",
-        "social": {},
+        "social": {
+          "facebook": "representativepammarsh"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/marsh"
@@ -72359,7 +73127,11 @@
         "openstates_id": "ocd-person/fce6eed7-4438-4f31-b47a-ee054c28d4f7",
         "party": "Democratic",
         "phone": "503-986-1450",
-        "social": {},
+        "social": {
+          "facebook": "RickiRuizOR",
+          "instagram": "rickiruizor",
+          "twitter": "rickiruizor"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/ruiz"
@@ -72377,7 +73149,10 @@
         "openstates_id": "ocd-person/fe73a3b7-97cd-43cc-bf41-26a952a9ee8f",
         "party": "Republican",
         "phone": "503-986-1451",
-        "social": {},
+        "social": {
+          "facebook": "mattbunch51",
+          "instagram": "mattbunchfordistrict51"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/bunch"
@@ -72395,7 +73170,10 @@
         "openstates_id": "ocd-person/936e2bdf-97c6-4297-80e7-faef3bb2e3d7",
         "party": "Republican",
         "phone": "503-986-1452",
-        "social": {},
+        "social": {
+          "facebook": "JeffHelfrichfororegon",
+          "instagram": "jeffhelfrichfororegon"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/helfrich"
@@ -72413,7 +73191,11 @@
         "openstates_id": "ocd-person/2be8d7ed-5767-4a67-a5e9-b519691c14ef",
         "party": "Democratic",
         "phone": "503-986-1453",
-        "social": {},
+        "social": {
+          "facebook": "emerson4OR",
+          "instagram": "emerson4or",
+          "twitter": "Emerson4OR"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/Levye"
@@ -72431,7 +73213,10 @@
         "openstates_id": "ocd-person/47e270fe-abc4-4f5d-9bad-2b7979442f5d",
         "party": "Democratic",
         "phone": "503-986-1454",
-        "social": {},
+        "social": {
+          "facebook": "RepresentativeKropf",
+          "twitter": "JasonForBend"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/kropf"
@@ -72449,7 +73234,11 @@
         "openstates_id": "ocd-person/709441c1-d716-47bc-8ac6-353abb1e039e",
         "party": "Republican",
         "phone": "503-986-1455",
-        "social": {},
+        "social": {
+          "facebook": "wernerfororegon",
+          "instagram": "ewernerreschke",
+          "twitter": "EWReschke"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/reschke"
@@ -72485,7 +73274,9 @@
         "openstates_id": "ocd-person/72dc94e8-e5d5-4376-aab5-06f6b3a771c7",
         "party": "Republican",
         "phone": "503-986-1457",
-        "social": {},
+        "social": {
+          "instagram": "repgregsmith"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/smithg"
@@ -72503,7 +73294,9 @@
         "openstates_id": "ocd-person/4c9f2660-6dd3-49f5-a503-6fe5bc5c7787",
         "party": "Republican",
         "phone": "503-986-1458",
-        "social": {},
+        "social": {
+          "facebook": "BobbyLevyforOregon"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/levy"
@@ -72539,7 +73332,9 @@
         "openstates_id": "ocd-person/a2e34475-ba6f-41af-bf61-83c7160d6c10",
         "party": "Republican",
         "phone": "503-986-1406",
-        "social": {},
+        "social": {
+          "facebook": "RepKimWallan"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/wallan"
@@ -72557,7 +73352,9 @@
         "openstates_id": "ocd-person/f73d5af2-f2b6-47d0-a55a-84ac528343ff",
         "party": "Republican",
         "phone": "503-986-1460",
-        "social": {},
+        "social": {
+          "facebook": "MarkOwensforOregon"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/owens"
@@ -72575,7 +73372,9 @@
         "openstates_id": "ocd-person/13afc78a-1028-462e-8f98-6df3f7f028d5",
         "party": "Democratic",
         "phone": "503-986-1407",
-        "social": {},
+        "social": {
+          "facebook": "RepJohnLively"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/lively"
@@ -72593,7 +73392,11 @@
         "openstates_id": "ocd-person/d75fd48f-fff7-4ccb-a46e-93854b4de3eb",
         "party": "Democratic",
         "phone": "503-986-1408",
-        "social": {},
+        "social": {
+          "facebook": "RepLisaFragala",
+          "instagram": "replisafragala",
+          "twitter": "LisaFragala24"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/fragala"
@@ -72611,7 +73414,9 @@
         "openstates_id": "ocd-person/a95c31b3-9bfa-4ab1-93d1-278082ead92a",
         "party": "Republican",
         "phone": "503-986-1409",
-        "social": {},
+        "social": {
+          "facebook": "boomerfororegon"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/wright"
@@ -106894,7 +107699,9 @@
         "openstates_id": "ocd-person/b9414bc4-f900-474b-b99c-8f2716419683",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "ChipNeimanWY"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2023/H/2070"
@@ -106948,7 +107755,9 @@
         "openstates_id": "ocd-person/0df4327b-df46-4886-ab09-0c8a55639548",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "ClarenceStyvar1"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2023/H/2051"
@@ -106984,7 +107793,11 @@
         "openstates_id": "ocd-person/b2265fcb-f768-4617-ad03-15f5b65af79f",
         "party": "Democratic",
         "phone": "307-777-7881",
-        "social": {},
+        "social": {
+          "facebook": "reptreysherwood",
+          "instagram": "reptreysherwood",
+          "twitter": "LaradiseLady"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2023/H/2072"
@@ -107020,7 +107833,11 @@
         "openstates_id": "ocd-person/28649646-1108-4954-9381-4aa2d3b6f31b",
         "party": "Democratic",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "mikeyinhd16",
+          "instagram": "mikeyinforwy",
+          "twitter": "itsmikeyin"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2023/H/2054"
@@ -107110,7 +107927,10 @@
         "openstates_id": "ocd-person/4c9350f0-084c-4ba2-be0d-9ee0b5f6c629",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "MDSchmid",
+          "twitter": "mikeschmid"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://wyoleg.gov/Legislators/2025/H/2121"
@@ -107128,7 +107948,9 @@
         "openstates_id": "ocd-person/f3fe63a7-b938-41c4-b2f5-b4069949a163",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "Erickson4Wyoming"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://wyoleg.gov/Legislators/2025/R/2122"
@@ -107146,7 +107968,9 @@
         "openstates_id": "ocd-person/3198aa67-829e-4827-8b26-8955cbf36f4a",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "instagram": "abforhd22"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2023/H/2099"
@@ -107164,7 +107988,10 @@
         "openstates_id": "ocd-person/7d3ea3c1-de6a-433f-83e2-c53dde09be61",
         "party": "Democratic",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "replizstorer",
+          "instagram": "replizstorer"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2023/H/2100"
@@ -107236,7 +108063,10 @@
         "openstates_id": "ocd-person/c954b74f-1933-4be4-801d-cc93f7f37ac0",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "RepresentativeMarthaLawley",
+          "instagram": "representativemarthalawley"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2023/H/2102"
@@ -107290,7 +108120,9 @@
         "openstates_id": "ocd-person/9995703e-90eb-4d20-a2f6-bfd9542102bd",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "voteforabby"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://en.wikipedia.org/wiki/Abby_Angelos"
@@ -107326,7 +108158,9 @@
         "openstates_id": "ocd-person/931a9e71-33a6-4e65-be91-703ad612447e",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "JohnBearforGillette"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2023/H/2075"
@@ -107344,7 +108178,9 @@
         "openstates_id": "ocd-person/15ae95ba-274d-4b7b-a2c7-a5cfb5e2b089",
         "party": "Republican",
         "phone": "307-777-7881",
-        "social": {},
+        "social": {
+          "facebook": "reelectkenclouston"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2023/H/2104"
@@ -107434,7 +108270,9 @@
         "openstates_id": "ocd-person/1f6a3489-e152-487f-852a-23fc40a22185",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "twitter": "SteveHarshman"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2023/H/717"
@@ -107452,7 +108290,9 @@
         "openstates_id": "ocd-person/89408a3a-ae27-4a8d-aa93-0050a48cf93d",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "lienforwy"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://wyoleg.gov/Legislators/2025/H/2126"
@@ -107542,7 +108382,10 @@
         "openstates_id": "ocd-person/219dcec3-8f83-401b-91df-1a79ac725889",
         "party": "Republican",
         "phone": "307-777-7881",
-        "social": {},
+        "social": {
+          "facebook": "GeringerWyo",
+          "twitter": "GeringerForWyo"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://wyoleg.gov/Legislators/2025/H/2142"
@@ -107560,7 +108403,9 @@
         "openstates_id": "ocd-person/4665c34f-70f5-4bc0-af49-0239e0e907a1",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "annlucas4wyoming"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2025/H/2128"
@@ -107578,7 +108423,9 @@
         "openstates_id": "ocd-person/be3b0a04-4e00-42e4-9202-5c8f68aacedd",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "twitter": "RepLeeFiler"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://legisweb.state.wy.us/LegislatorSummary/LegDetail.aspx?LegID=1990"
@@ -107596,7 +108443,11 @@
         "openstates_id": "ocd-person/588c810c-0a65-475b-9593-46fa556cb962",
         "party": "Democratic",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "RepProvenza",
+          "instagram": "repprovenza",
+          "twitter": "Provenza4Wyomin"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2023/H/2080"
@@ -107632,7 +108483,9 @@
         "openstates_id": "ocd-person/8ddb8078-482c-4df5-983d-ece9e5825cc2",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "BobDavisforWY"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2023/H/2110"
@@ -107668,7 +108521,9 @@
         "openstates_id": "ocd-person/bc53e98d-bd3c-4a67-9822-68e609f45251",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "Robert-Wharff-for-Wyoming"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://wyoleg.gov/Legislators/2021/R/2082"
@@ -107686,7 +108541,9 @@
         "openstates_id": "ocd-person/201b5fe9-4060-4dfa-ae2c-c59a3a3120ff",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "ScottSmithWyo"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2023/H/2093"
@@ -107704,7 +108561,9 @@
         "openstates_id": "ocd-person/2fc47a70-0bf7-4d7c-bda2-5cdbf75a99ea",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "twitter": "RepRachelRW"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2023/H/2083"
@@ -107740,7 +108599,9 @@
         "openstates_id": "ocd-person/8b636fd9-d6e2-4369-9764-c56803244076",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "tarverforwyoming"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2023/H/2112"
@@ -107776,7 +108637,9 @@
         "openstates_id": "ocd-person/6466bd0e-d531-4ac0-8667-3e7f34a32f9a",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "Lloydfor54"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2023/H/1988"
@@ -107974,7 +108837,9 @@
         "openstates_id": "ocd-person/51b4d190-c5b4-4860-acb9-a6569f26e064",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "staterepresentativestevejohnson"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://wyoleg.gov/Legislators/2025/H/2118"
@@ -107992,7 +108857,9 @@
         "openstates_id": "ocd-person/7052600a-c1b3-484d-80a3-232fc9815d7c",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "lbrownHD09"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2023/H/2034"
@@ -108012,7 +108879,9 @@
         "openstates_id": "ocd-person/bfdc2ee2-7760-4119-9d68-4962f1e1a285",
         "party": "Republican",
         "phone": "907-465-3873",
-        "social": {},
+        "social": {
+          "twitter": "SenStedman"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://alaskasenate.org/stedman/"
@@ -108030,7 +108899,11 @@
         "openstates_id": "ocd-person/1ae3974e-660d-4526-b351-fff9b689b51a",
         "party": "Democratic",
         "phone": "907-465-4947",
-        "social": {},
+        "social": {
+          "facebook": "senatorkiehl",
+          "instagram": "jessekiehl",
+          "twitter": "JesseKiehl"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://alaskasenate.org/kiehl/"
@@ -108066,7 +108939,11 @@
         "openstates_id": "ocd-person/e14b5980-9a38-4420-8903-70738802edf6",
         "party": "Republican",
         "phone": "907-465-2828",
-        "social": {},
+        "social": {
+          "facebook": "Senator.Jesse.Bjorkman",
+          "instagram": "senbjorkman",
+          "twitter": "JJBinAK"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://alaskasenate.org/bjorkman/"
@@ -108084,7 +108961,9 @@
         "openstates_id": "ocd-person/4ac9a4bf-e2d9-4257-a360-9e91dc234deb",
         "party": "Republican",
         "phone": "907-465-4843",
-        "social": {},
+        "social": {
+          "facebook": "SenatorCathyGiessel"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://alaskasenate.org/giessel/"
@@ -108102,7 +108981,10 @@
         "openstates_id": "ocd-person/f6cd7b64-a3f3-44ec-89a1-68c17fa6d4c9",
         "party": "Republican",
         "phone": "907-465-4949",
-        "social": {},
+        "social": {
+          "facebook": "senatorkaufman",
+          "instagram": "senatorkaufman"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://alaskasenate.org/kaufman/"
@@ -108120,7 +109002,10 @@
         "openstates_id": "ocd-person/2ba2d14f-a08a-4f05-a9d4-5ca63d09561e",
         "party": "Democratic",
         "phone": "907-465-4930",
-        "social": {},
+        "social": {
+          "facebook": "SenatorElviGrayJackson",
+          "instagram": "senator_elvi"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://alaskasenate.org/gray-jackson/"
@@ -108138,7 +109023,11 @@
         "openstates_id": "ocd-person/0b2d5ec3-c1b2-4b09-8444-144c92125cc4",
         "party": "Democratic",
         "phone": "907-465-4919",
-        "social": {},
+        "social": {
+          "facebook": "SenMattClaman",
+          "instagram": "senmattclaman",
+          "twitter": "mattclaman"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://alaskasenate.org/matt-claman/"
@@ -108156,7 +109045,10 @@
         "openstates_id": "ocd-person/c66c309d-1612-4eab-863c-59e34b643e2c",
         "party": "Democratic",
         "phone": "907-465-3704",
-        "social": {},
+        "social": {
+          "facebook": "senatorloki",
+          "instagram": "lgtobin"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://alaskasenate.org/tobin/"
@@ -108174,7 +109066,11 @@
         "openstates_id": "ocd-person/4511370e-1ac8-4135-a622-d5b533faeb43",
         "party": "Democratic",
         "phone": "907-465-6944",
-        "social": {},
+        "social": {
+          "facebook": "sendunbar",
+          "instagram": "sendunbar",
+          "twitter": "ForrestDunbarAK"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://alaskasenate.org/dunbar/"
@@ -108192,7 +109088,10 @@
         "openstates_id": "ocd-person/57554431-caac-4074-a8d8-40a4e6289ec1",
         "party": "Democratic",
         "phone": "907-465-2435",
-        "social": {},
+        "social": {
+          "facebook": "bill.wielechowski",
+          "twitter": "SenWielechowski"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://alaskasenate.org/wielechowski/"
@@ -108210,7 +109109,9 @@
         "openstates_id": "ocd-person/ddad148b-d8ed-4eff-826d-3861709eb500",
         "party": "Republican",
         "phone": "907-465-3777",
-        "social": {},
+        "social": {
+          "facebook": "SenKellyMerrick"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://alaskasenate.org/merrick/"
@@ -108228,7 +109129,9 @@
         "openstates_id": "ocd-person/f1816065-31d1-4757-b8b9-714e15daeccf",
         "party": "Republican",
         "phone": "907-465-2199",
-        "social": {},
+        "social": {
+          "facebook": "Tilton4Alaska"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://akhousemajority.com/rep-tilton/"
@@ -108246,7 +109149,9 @@
         "openstates_id": "ocd-person/82334f7b-8119-4494-bf3e-a7ddb09536bd",
         "party": "Republican",
         "phone": "907-465-3878",
-        "social": {},
+        "social": {
+          "facebook": "robyundtforalaska"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://www.akleg.gov/basis/Member/Detail/34?code=yun"
@@ -108264,7 +109169,9 @@
         "openstates_id": "ocd-person/627922d3-e631-4c32-841f-148f061b0c75",
         "party": "Republican",
         "phone": "907-465-4859",
-        "social": {},
+        "social": {
+          "facebook": "Rep.George.Rauscher"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://akhousemajority.com/rep-rauscher/"
@@ -108282,7 +109189,11 @@
         "openstates_id": "ocd-person/53f7b86b-ce31-4199-86ef-f566ae9aa02c",
         "party": "Democratic",
         "phone": "907-465-3466",
-        "social": {},
+        "social": {
+          "facebook": "scottforalaska",
+          "instagram": "alaskascotty",
+          "twitter": "alaskascott"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://aksenatedems.com/sen-kawasaki/"
@@ -108300,7 +109211,9 @@
         "openstates_id": "ocd-person/697cb834-6aa1-44f1-9c6e-9cf57ad30774",
         "party": "Republican",
         "phone": "907-465-3719",
-        "social": {},
+        "social": {
+          "facebook": "SenRobertMyers"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://www.akleg.gov/basis/Member/Detail/32?code=mye"
@@ -108318,7 +109231,9 @@
         "openstates_id": "ocd-person/c50de9c3-90a3-4c6d-9003-50e12c6c5246",
         "party": "Republican",
         "phone": "907-465-4527",
-        "social": {},
+        "social": {
+          "facebook": "RepMikeCronk"
+        },
         "state": "AK",
         "state_name": "Alaska",
         "url": "https://akhousemajority.com/rep-cronk/"
@@ -110987,7 +111902,9 @@
         "openstates_id": "ocd-person/2d0d060c-6d5f-45da-a069-fe2be14547eb",
         "party": "Republican",
         "phone": "303-866-6360",
-        "social": {},
+        "social": {
+          "twitter": "commish_pelton"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/byron-pelton"
@@ -111005,7 +111922,9 @@
         "openstates_id": "ocd-person/c9fd6b10-91a3-44ec-ac6a-48f73eee3ed1",
         "party": "Republican",
         "phone": "303-866-2737",
-        "social": {},
+        "social": {
+          "instagram": "larryliston10"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/larry-liston"
@@ -111023,7 +111942,10 @@
         "openstates_id": "ocd-person/473bd095-778d-4418-8e61-96a2b8005c8e",
         "party": "Democratic",
         "phone": "303-866-6364",
-        "social": {},
+        "social": {
+          "facebook": "SenTonyExum",
+          "twitter": "TonyExum"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/tony-exum"
@@ -111041,7 +111963,10 @@
         "openstates_id": "ocd-person/5dbb7ac2-a4c8-42b8-bfb1-1b012737fa74",
         "party": "Democratic",
         "phone": "303-866-4880",
-        "social": {},
+        "social": {
+          "instagram": "repmarcsnyder",
+          "twitter": "MarcSnyderHD18"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/marc-snyder"
@@ -111059,7 +111984,9 @@
         "openstates_id": "ocd-person/fb530f21-a08e-473c-b215-9a4de6a86ee9",
         "party": "Republican",
         "phone": "303-866-4855",
-        "social": {},
+        "social": {
+          "facebook": "ScottBrightforSenate"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/scott-bright"
@@ -111077,7 +112004,11 @@
         "openstates_id": "ocd-person/0ddf3b75-c450-419e-8235-553157770e49",
         "party": "Democratic",
         "phone": "303-866-4841",
-        "social": {},
+        "social": {
+          "facebook": "SenatorCathyKipp",
+          "instagram": "senatorcathykipp",
+          "twitter": "cathy_kipp"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/cathy-kipp"
@@ -111095,7 +112026,11 @@
         "openstates_id": "ocd-person/2718c918-a38c-49c2-a120-5503164f959f",
         "party": "Democratic",
         "phone": "303-866-4853",
-        "social": {},
+        "social": {
+          "facebook": "janiceforcolorado",
+          "instagram": "janiceforcolorado",
+          "twitter": "Janice_Marchman"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/janice-marchman"
@@ -111113,7 +112048,11 @@
         "openstates_id": "ocd-person/f72691ec-a5a0-413b-a344-e452009551a2",
         "party": "Democratic",
         "phone": "303-866-4883",
-        "social": {},
+        "social": {
+          "facebook": "KolkerforColorado",
+          "instagram": "senatorchriskolker",
+          "twitter": "senatorkolker"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/chris-kolker"
@@ -111149,7 +112088,10 @@
         "openstates_id": "ocd-person/829879ea-a9a3-42b6-8f5f-d209b1cc961d",
         "party": "Democratic",
         "phone": "303-866-4872",
-        "social": {},
+        "social": {
+          "facebook": "JudyAmabileCO",
+          "instagram": "judyforcolorado"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/judy-amabile"
@@ -111167,7 +112109,11 @@
         "openstates_id": "ocd-person/2de0a3a1-a1e3-477f-88b9-3212fa52fb9c",
         "party": "Democratic",
         "phone": "303-866-4840",
-        "social": {},
+        "social": {
+          "facebook": "lindseyforcolorado",
+          "instagram": "lindseyforcolorado",
+          "twitter": "LindseyForCO"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/lindsey-daugherty"
@@ -111185,7 +112131,10 @@
         "openstates_id": "ocd-person/fce5c955-f43d-4f80-bad5-8369223bc0ea",
         "party": "Republican",
         "phone": "303-866-4869",
-        "social": {},
+        "social": {
+          "facebook": "FrizellForSD2",
+          "twitter": "lisa_frizell"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/lisa-frizell"
@@ -111203,7 +112152,11 @@
         "openstates_id": "ocd-person/5226ebdd-0710-49da-b446-61fac19765ce",
         "party": "Democratic",
         "phone": "303-866-4859",
-        "social": {},
+        "social": {
+          "facebook": "CutterForColorado",
+          "instagram": "cutter4colorado",
+          "twitter": "Cutter4Colorado"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/lisa-cutter"
@@ -111221,7 +112174,11 @@
         "openstates_id": "ocd-person/a033ad21-bdb7-4af2-be2e-e21c3e4cfa24",
         "party": "Democratic",
         "phone": "303-866-4857",
-        "social": {},
+        "social": {
+          "facebook": "benavidezhd32",
+          "instagram": "benavidezhd32",
+          "twitter": "benavidezhd32"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/adrienne-benavidez"
@@ -111239,7 +112196,11 @@
         "openstates_id": "ocd-person/c06af980-c553-4f79-a39d-295b7226f029",
         "party": "Democratic",
         "phone": "303-866-4856",
-        "social": {},
+        "social": {
+          "facebook": "jessiedanielsonforcolorado",
+          "instagram": "jessiedanielson_",
+          "twitter": "JessieDanielson"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/jessie-danielson"
@@ -111257,7 +112218,10 @@
         "openstates_id": "ocd-person/6d1fcaf0-ed3d-4772-876f-09dc5e931556",
         "party": "Republican",
         "phone": "303-866-4876",
-        "social": {},
+        "social": {
+          "instagram": "senkirkmeyer",
+          "twitter": "SenKirkmeyer"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/barbara-kirkmeyer"
@@ -111275,7 +112239,10 @@
         "openstates_id": "ocd-person/ebf0c3de-2f58-436f-af67-12863f9cb552",
         "party": "Democratic",
         "phone": "303-866-4451",
-        "social": {},
+        "social": {
+          "facebook": "VoteKyleMullica",
+          "twitter": "Kyle_Mullica"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/kyle-mullica"
@@ -111293,7 +112260,10 @@
         "openstates_id": "ocd-person/dbe86f29-2ecb-449e-aaf6-3fc91baf2e0e",
         "party": "Democratic",
         "phone": "303-866-4863",
-        "social": {},
+        "social": {
+          "facebook": "williamforcolorado",
+          "twitter": "WSLindstedt"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/william-lindstedt"
@@ -111311,7 +112281,11 @@
         "openstates_id": "ocd-person/c2cade07-9c95-4439-938c-77ac4ed44fab",
         "party": "Democratic",
         "phone": "303-866-4846",
-        "social": {},
+        "social": {
+          "facebook": "bridgesforcolorado",
+          "instagram": "jeffbridges",
+          "twitter": "JeffBridges"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/jeff-bridges"
@@ -111329,7 +112303,11 @@
         "openstates_id": "ocd-person/dc9056b8-fb9c-4a66-99b8-210acce64bff",
         "party": "Democratic",
         "phone": "303-866-4873",
-        "social": {},
+        "social": {
+          "facebook": "SullivanForColorado",
+          "instagram": "senatortomsullivan",
+          "twitter": "Sully_720"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/tom-sullivan"
@@ -111347,7 +112325,11 @@
         "openstates_id": "ocd-person/b680cb39-442c-4dd2-81bd-88696cfe9df2",
         "party": "Democratic",
         "phone": "303-866-4879",
-        "social": {},
+        "social": {
+          "facebook": "mike4rep",
+          "instagram": "mjweissman",
+          "twitter": "mjweissman"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/mike-weissman"
@@ -111365,7 +112347,11 @@
         "openstates_id": "ocd-person/506f18ea-3611-408b-aa0e-73adf9681efe",
         "party": "Democratic",
         "phone": "303-866-3432",
-        "social": {},
+        "social": {
+          "facebook": "ImanforColorado",
+          "instagram": "imanforcolorado",
+          "twitter": "ImanforColorado"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/iman-jodeh"
@@ -111383,7 +112369,11 @@
         "openstates_id": "ocd-person/4d753f6e-b7e3-420d-a684-e9a27f7ab27b",
         "party": "Democratic",
         "phone": "303-866-4878",
-        "social": {},
+        "social": {
+          "facebook": "NickForColorado",
+          "instagram": "senatorhinrichsen",
+          "twitter": "NickForCO"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/nick-hinrichsen"
@@ -111419,7 +112409,9 @@
         "openstates_id": "ocd-person/4a72c7ee-c3e5-4c61-8e79-3301cb70a599",
         "party": "Democratic",
         "phone": "303-866-4861",
-        "social": {},
+        "social": {
+          "instagram": "mattforcolorado"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/matt-ball"
@@ -111437,7 +112429,10 @@
         "openstates_id": "ocd-person/ab377224-ab70-4c20-a535-baa429520e7c",
         "party": "Democratic",
         "phone": "303-866-4852",
-        "social": {},
+        "social": {
+          "facebook": "RobertRodriguezforColorado",
+          "twitter": "SenRobRodriguez"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/robert-rodriguez"
@@ -111455,7 +112450,11 @@
         "openstates_id": "ocd-person/e4e1f1a9-7134-4d90-9fed-2aa7a0e3a307",
         "party": "Democratic",
         "phone": "303-866-4864",
-        "social": {},
+        "social": {
+          "facebook": "colemanforcolorado",
+          "instagram": "colemanforcolorado",
+          "twitter": "ColemanforCO"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/james-coleman"
@@ -111473,7 +112472,11 @@
         "openstates_id": "ocd-person/8dae5ba5-6741-4aca-8c1e-24f014fda187",
         "party": "Democratic",
         "phone": "303-866-4862",
-        "social": {},
+        "social": {
+          "facebook": "senadorajulie",
+          "instagram": "senadorajulie",
+          "twitter": "SenadoraJulie"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/julie-gonzales"
@@ -111491,7 +112494,10 @@
         "openstates_id": "ocd-person/45cd06eb-9967-4468-9e4e-677549e7638d",
         "party": "Republican",
         "phone": "303-866-4884",
-        "social": {},
+        "social": {
+          "facebook": "SenatorRodPelton",
+          "twitter": "SenRodPelton"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/rod-pelton"
@@ -111509,7 +112515,9 @@
         "openstates_id": "ocd-person/b4002b84-79a0-481a-94a8-00136c2dabb6",
         "party": "Republican",
         "phone": "303-866-4877",
-        "social": {},
+        "social": {
+          "instagram": "mark.baisley"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/mark-baisley"
@@ -111527,7 +112535,10 @@
         "openstates_id": "ocd-person/c0cfa7d3-2c5e-4b68-8692-2e1b6f1b3372",
         "party": "Republican",
         "phone": "303-866-5292",
-        "social": {},
+        "social": {
+          "facebook": "CatlinForColorado",
+          "instagram": "catlinforcolorado"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/marc-catlin"
@@ -111545,7 +112556,10 @@
         "openstates_id": "ocd-person/715df6f2-cef6-4b88-b745-0207c8ffb4ff",
         "party": "Republican",
         "phone": "303-866-4875",
-        "social": {},
+        "social": {
+          "facebook": "simpsonforsenate6",
+          "twitter": "SSenate35"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/cleave-simpson"
@@ -111563,7 +112577,9 @@
         "openstates_id": "ocd-person/2372415a-2aea-4423-8a3a-bed2d40493a6",
         "party": "Republican",
         "phone": "303-866-3077",
-        "social": {},
+        "social": {
+          "facebook": "JaniceRichforCO"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/janice-rich"
@@ -111581,7 +112597,11 @@
         "openstates_id": "ocd-person/4be512fb-5ebc-422c-a858-d250cb5568ad",
         "party": "Democratic",
         "phone": "303-866-4871",
-        "social": {},
+        "social": {
+          "facebook": "DylanforColorado",
+          "instagram": "dylanroberts_co",
+          "twitter": "Dylan_RobertsCO"
+        },
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/dylan-roberts"
@@ -112265,7 +113285,10 @@
         "openstates_id": "ocd-person/2341b6b1-2501-4aae-908a-b83346da21eb",
         "party": "Democratic",
         "phone": "302-744-4147",
-        "social": {},
+        "social": {
+          "facebook": "SenDanCruce",
+          "instagram": "cruceforsenate"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://senatedems.delaware.gov/members/senate-district-1/"
@@ -112283,7 +113306,10 @@
         "openstates_id": "ocd-person/24e001be-be7a-4110-8488-2e385315ff5b",
         "party": "Democratic",
         "phone": "302-744-4138",
-        "social": {},
+        "social": {
+          "facebook": "SenatorStephanieHansen",
+          "twitter": "HansenForSenate"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://legis.delaware.gov/AssemblyMember/150/Hansen"
@@ -112301,7 +113327,10 @@
         "openstates_id": "ocd-person/f35b571a-d734-4086-b358-ff21382d802f",
         "party": "Democratic",
         "phone": "302-744-4165",
-        "social": {},
+        "social": {
+          "facebook": "BryanTownsendDE",
+          "twitter": "BryanTownsendDE"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://legis.delaware.gov/AssemblyMember/150/Townsend"
@@ -112319,7 +113348,10 @@
         "openstates_id": "ocd-person/5e54d79a-5ba8-4966-93aa-2e05788a3ddc",
         "party": "Democratic",
         "phone": "302-744-4164",
-        "social": {},
+        "social": {
+          "facebook": "SenatorNicolePoore",
+          "instagram": "sennicolepoore"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://legis.delaware.gov/AssemblyMember/150/Poore"
@@ -112337,7 +113369,11 @@
         "openstates_id": "ocd-person/eee736fd-ee29-403a-9bbc-713961c734b7",
         "party": "Democratic",
         "phone": "302-744-4167",
-        "social": {},
+        "social": {
+          "facebook": "SenMariePinkney",
+          "instagram": "marie4senate",
+          "twitter": "Marie4Senate"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://legis.delaware.gov/AssemblyMember/151/Pinkney"
@@ -112355,7 +113391,9 @@
         "openstates_id": "ocd-person/b5a52e58-da64-49a2-85b2-84f55427fa83",
         "party": "Democratic",
         "phone": "302-744-4286",
-        "social": {},
+        "social": {
+          "facebook": "SenKyraHoffner"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://legis.delaware.gov/AssemblyMember/152/Hoffner"
@@ -112373,7 +113411,10 @@
         "openstates_id": "ocd-person/44e38555-6698-43cb-aa8b-f47de87ba4e3",
         "party": "Republican",
         "phone": "302-744-4237",
-        "social": {},
+        "social": {
+          "facebook": "davelawsonforsenate",
+          "twitter": "Lawson4Senate"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://legis.delaware.gov/AssemblyMember/150/Lawson"
@@ -112391,7 +113432,10 @@
         "openstates_id": "ocd-person/fb743246-9c86-45f5-95eb-34bc1e11bef1",
         "party": "Republican",
         "phone": "302-744-4169",
-        "social": {},
+        "social": {
+          "facebook": "SenEricBuckson",
+          "instagram": "buckson.eric"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://legis.delaware.gov/AssemblyMember/152/Buckson"
@@ -112409,7 +113453,9 @@
         "openstates_id": "ocd-person/89be0266-5ecf-40ac-9f5c-3dba2ce79a0d",
         "party": "Democratic",
         "phone": "302-744-4162",
-        "social": {},
+        "social": {
+          "facebook": "SenTreyParadee"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://legis.delaware.gov/AssemblyMember/150/Paradee"
@@ -112427,7 +113473,9 @@
         "openstates_id": "ocd-person/0b53dd28-648e-4fe1-a05a-36a21ec12e63",
         "party": "Republican",
         "phone": "302-744-4048",
-        "social": {},
+        "social": {
+          "facebook": "DaveWilsonforStateSenate"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://legis.delaware.gov/AssemblyMember/150/Wilson"
@@ -112445,7 +113493,11 @@
         "openstates_id": "ocd-person/8b5f6201-6c2f-4847-8d69-737ae776c44b",
         "party": "Republican",
         "phone": "302-744-4117",
-        "social": {},
+        "social": {
+          "facebook": "BrianGPettyjohn",
+          "instagram": "senatorpettyjohn",
+          "twitter": "brianpettyjohn"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://legis.delaware.gov/AssemblyMember/150/Pettyjohn"
@@ -112463,7 +113515,11 @@
         "openstates_id": "ocd-person/8c5ff346-9896-489e-be96-db9d46d846da",
         "party": "Democratic",
         "phone": "302-744-4286",
-        "social": {},
+        "social": {
+          "facebook": "SenatorDariusBrown",
+          "instagram": "votefordarius",
+          "twitter": "votefordarius"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://legis.delaware.gov/AssemblyMember/150/Brown"
@@ -112481,7 +113537,9 @@
         "openstates_id": "ocd-person/7d5fb783-232d-4cc2-b7c7-fdbf4d06eb69",
         "party": "Republican",
         "phone": "302-744-4144",
-        "social": {},
+        "social": {
+          "facebook": "Senatorgeraldhocker"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://legis.delaware.gov/AssemblyMember/150/Hocker"
@@ -112499,7 +113557,9 @@
         "openstates_id": "ocd-person/5a29dfb1-14b5-4535-b8ee-da8f432d0727",
         "party": "Republican",
         "phone": "302-744-4298",
-        "social": {},
+        "social": {
+          "instagram": "brichardson19973"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://legis.delaware.gov/AssemblyMember/151/Richardson"
@@ -112517,7 +113577,10 @@
         "openstates_id": "ocd-person/ca88dc3b-bbc6-4eb8-af32-9821268ebda5",
         "party": "Democratic",
         "phone": "302-744-4168",
-        "social": {},
+        "social": {
+          "facebook": "SenatorLockman",
+          "twitter": "tizzylockmande"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://legis.delaware.gov/AssemblyMember/150/Lockman"
@@ -112535,7 +113598,10 @@
         "openstates_id": "ocd-person/e0bd9610-eafd-4e25-931a-6674762e4c03",
         "party": "Democratic",
         "phone": "302-744-4135",
-        "social": {},
+        "social": {
+          "facebook": "SenLauraSturgeon",
+          "instagram": "laurasturgeonsd4"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://legis.delaware.gov/AssemblyMember/150/Sturgeon"
@@ -112553,7 +113619,9 @@
         "openstates_id": "ocd-person/e841e17b-6ea1-4401-b3d3-9b99237b6366",
         "party": "Democratic",
         "phone": "302-744-4137",
-        "social": {},
+        "social": {
+          "facebook": "SenRaySeigfried"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://senatedems.delaware.gov/members/senate-district-5/"
@@ -112571,7 +113639,10 @@
         "openstates_id": "ocd-person/d96a4018-ca3f-40a6-a12c-cc38d757e9f0",
         "party": "Democratic",
         "phone": "302-744-4286",
-        "social": {},
+        "social": {
+          "facebook": "SenRussellHuxtable",
+          "twitter": "RussSenate"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://legis.delaware.gov/AssemblyMember/152/Huxtable"
@@ -112589,7 +113660,9 @@
         "openstates_id": "ocd-person/a42132e6-9070-44a4-81be-70797c4ea2bb",
         "party": "Democratic",
         "phone": "302-744-4133",
-        "social": {},
+        "social": {
+          "facebook": "SenSpiros"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://legis.delaware.gov/AssemblyMember/151/Mantzavinos"
@@ -112607,7 +113680,9 @@
         "openstates_id": "ocd-person/25071aeb-2a5c-4e8b-b166-4a313b3ac22d",
         "party": "Democratic",
         "phone": "302-744-4139",
-        "social": {},
+        "social": {
+          "facebook": "SenDaveSokola"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://legis.delaware.gov/AssemblyMember/150/Sokola"
@@ -112625,7 +113700,10 @@
         "openstates_id": "ocd-person/7188a518-8d78-42e8-b618-ee38a10d20a4",
         "party": "Democratic",
         "phone": "302-744-4163",
-        "social": {},
+        "social": {
+          "facebook": "SenJackWalsh",
+          "twitter": "SenWalshOffice"
+        },
         "state": "DE",
         "state_name": "Delaware",
         "url": "https://legis.delaware.gov/AssemblyMember/150/Walsh"
@@ -130717,7 +131795,11 @@
         "openstates_id": "ocd-person/bcad4dc1-c812-409b-9cc9-e1d8c91fdafa",
         "party": "Democratic",
         "phone": "775-684-1427",
-        "social": {},
+        "social": {
+          "facebook": "FabianDonate",
+          "instagram": "fabiandonate",
+          "twitter": "fabiandonate"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/10"
@@ -130735,7 +131817,11 @@
         "openstates_id": "ocd-person/f3c4b2a7-2a24-4ba2-9894-421daed2d117",
         "party": "Republican",
         "phone": "775-684-6502",
-        "social": {},
+        "social": {
+          "facebook": "lorirogich11",
+          "instagram": "lorirogich4nv",
+          "twitter": "lorirogich4nv"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/11"
@@ -130753,7 +131839,10 @@
         "openstates_id": "ocd-person/a12a3103-37b0-4ac4-81f0-100aaad494e3",
         "party": "Democratic",
         "phone": "775-684-1462",
-        "social": {},
+        "social": {
+          "facebook": "JuliePazina4NV",
+          "twitter": "pazina_julie"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/12"
@@ -130771,7 +131860,10 @@
         "openstates_id": "ocd-person/a0553b6f-7142-4321-9e3a-c089447d3a78",
         "party": "Democratic",
         "phone": "775-684-1433",
-        "social": {},
+        "social": {
+          "facebook": "SkipDaly4StateSenate",
+          "twitter": "SkipDaly"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/13"
@@ -130861,7 +131953,11 @@
         "openstates_id": "ocd-person/deb46b96-7bab-40be-a145-8d397b436d87",
         "party": "Republican",
         "phone": "775-684-1442",
-        "social": {},
+        "social": {
+          "facebook": "JohnSteinbeckNV",
+          "instagram": "steinbeckfornv",
+          "twitter": "JohnSteinbeckNV"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/18"
@@ -130897,7 +131993,9 @@
         "openstates_id": "ocd-person/e5b06346-f5ee-4e1d-baed-342cc4a8ff36",
         "party": "Democratic",
         "phone": "775-684-1431",
-        "social": {},
+        "social": {
+          "twitter": "EdgarFloresNV"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=273"
@@ -130915,7 +132013,11 @@
         "openstates_id": "ocd-person/00ad1837-b472-4ce8-872d-e1eac1c1c6db",
         "party": "Republican",
         "phone": "775-684-1481",
-        "social": {},
+        "social": {
+          "facebook": "stonefornv",
+          "instagram": "senatorjeffstone",
+          "twitter": "JeffStoneNV"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/20"
@@ -130987,7 +132089,11 @@
         "openstates_id": "ocd-person/189d270a-96e5-45af-a2b8-bbcc2ad225c1",
         "party": "Republican",
         "phone": "775-684-1457",
-        "social": {},
+        "social": {
+          "facebook": "cannbuck",
+          "instagram": "carrieannbuck",
+          "twitter": "CarrieBuck4NV"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=387"
@@ -131005,7 +132111,10 @@
         "openstates_id": "ocd-person/d2ca0a59-3bf1-4e1c-b4d7-9da33a4c5152",
         "party": "Democratic",
         "phone": "775-684-1475",
-        "social": {},
+        "social": {
+          "facebook": "nicole4nevada",
+          "twitter": "nicole4nevada"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=347"
@@ -131023,7 +132132,10 @@
         "openstates_id": "ocd-person/05dee0b4-bfea-4473-b253-739895818b0d",
         "party": "Democratic",
         "phone": "775-684-6504",
-        "social": {},
+        "social": {
+          "facebook": "RobertaLangeforSenate7",
+          "twitter": "rlange9"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=383"
@@ -131059,7 +132171,11 @@
         "openstates_id": "ocd-person/860029b3-070b-4c23-a826-51948c5d995c",
         "party": "Democratic",
         "phone": "775-684-1421",
-        "social": {},
+        "social": {
+          "facebook": "MelanieScheibleNV",
+          "instagram": "melaniescheible",
+          "twitter": "MelanieScheible"
+        },
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=358"
@@ -133768,7 +134884,10 @@
         "openstates_id": "ocd-person/26a734f0-51f9-4959-a213-bc345c1050ec",
         "party": "Republican",
         "phone": "503-986-1701",
-        "social": {},
+        "social": {
+          "facebook": "SenatorDavidBrockSmith",
+          "instagram": "davidbrocksmith01"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/smithd"
@@ -133786,7 +134905,11 @@
         "openstates_id": "ocd-person/6c867cbf-9d0b-4dd8-9537-55e834a42dc4",
         "party": "Democratic",
         "phone": "503-986-1710",
-        "social": {},
+        "social": {
+          "facebook": "Senator.DebPatterson",
+          "instagram": "sendebpatterson",
+          "twitter": "DebPattersonOR"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/patterson"
@@ -133804,7 +134927,10 @@
         "openstates_id": "ocd-person/5947e2cd-aa8b-4df1-869f-961357705a3c",
         "party": "Republican",
         "phone": "503-986-1711",
-        "social": {},
+        "social": {
+          "facebook": "kimthatcheroregon",
+          "twitter": "KimThatcherGOP"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/thatcher"
@@ -133840,7 +134966,10 @@
         "openstates_id": "ocd-person/2bf5a8ca-cadb-4544-89e2-749f13673599",
         "party": "Democratic",
         "phone": "503-986-1713",
-        "social": {},
+        "social": {
+          "facebook": "SenNeronMisslinSD13",
+          "instagram": "courtney_for_oregon"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/neron"
@@ -133858,7 +134987,11 @@
         "openstates_id": "ocd-person/cc87cb36-e12e-42e1-ac5e-c2d50e1d2018",
         "party": "Democratic",
         "phone": "503-986-1714",
-        "social": {},
+        "social": {
+          "facebook": "SenatorKateLieber",
+          "instagram": "katefororegon",
+          "twitter": "KateForOregon"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/lieber"
@@ -133876,7 +135009,11 @@
         "openstates_id": "ocd-person/9d3f5669-f452-4926-91ec-a74a4c4a48e5",
         "party": "Democratic",
         "phone": "503-986-1715",
-        "social": {},
+        "social": {
+          "facebook": "JaneenSollman2016",
+          "instagram": "sen.janeensollman",
+          "twitter": "SollmanJaneen"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/sollman"
@@ -133894,7 +135031,9 @@
         "openstates_id": "ocd-person/835d23bd-afb1-4e82-93c4-4b1b1822aeb4",
         "party": "Republican",
         "phone": "503-986-1716",
-        "social": {},
+        "social": {
+          "facebook": "weberfororegon"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/weber"
@@ -133912,7 +135051,11 @@
         "openstates_id": "ocd-person/53afaba4-8ddc-4784-87c3-aaede576ac44",
         "party": "Democratic",
         "phone": "503-986-1717",
-        "social": {},
+        "social": {
+          "facebook": "SenatorLisaReynolds",
+          "instagram": "senatorlisareynolds",
+          "twitter": "LisaForOregon"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/reynolds"
@@ -133930,7 +135073,11 @@
         "openstates_id": "ocd-person/72027f00-3e3c-47c7-ab62-cc89ebb1ed72",
         "party": "Democratic",
         "phone": "503-986-1718",
-        "social": {},
+        "social": {
+          "facebook": "RepWlnsveyCampos",
+          "instagram": "camposfororegon",
+          "twitter": "wlnsvey"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/campos"
@@ -133948,7 +135095,11 @@
         "openstates_id": "ocd-person/e40f7f2c-4c6a-4064-9fde-e6b380dde2aa",
         "party": "Democratic",
         "phone": "503-986-1600",
-        "social": {},
+        "social": {
+          "facebook": "RobWagnerForOregon",
+          "instagram": "robfororegon",
+          "twitter": "RobForOregon"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/wagner"
@@ -133984,7 +135135,11 @@
         "openstates_id": "ocd-person/d6379fd3-d283-4c6e-864b-7dca170b593d",
         "party": "Democratic",
         "phone": "503-986-1720",
-        "social": {},
+        "social": {
+          "facebook": "FriendsofMarkMeek",
+          "instagram": "senatormarkmeek",
+          "twitter": "MarkMeekOR"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/meek"
@@ -134002,7 +135157,10 @@
         "openstates_id": "ocd-person/97c2b8fd-9e87-43b7-b202-6541af36bab7",
         "party": "Democratic",
         "phone": "503-986-1721",
-        "social": {},
+        "social": {
+          "facebook": "KathleenTaylorforOregon",
+          "twitter": "Kathleen4Oregon"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/taylor"
@@ -134020,7 +135178,10 @@
         "openstates_id": "ocd-person/2256d4a8-f19b-4e1d-ba35-771cc0349b0b",
         "party": "Democratic",
         "phone": "503-986-1722",
-        "social": {},
+        "social": {
+          "facebook": "SenLewFrederick",
+          "twitter": "LewFrederick"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/frederick"
@@ -134038,7 +135199,11 @@
         "openstates_id": "ocd-person/3b7edee5-fb20-48d2-98db-541721e24e65",
         "party": "Democratic",
         "phone": "503-986-1723",
-        "social": {},
+        "social": {
+          "facebook": "KhanhPhamForOR",
+          "instagram": "sen.khanhpham",
+          "twitter": "KhanhPhamForOR"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/pham"
@@ -134056,7 +135221,11 @@
         "openstates_id": "ocd-person/7532bf1f-c85e-4683-a401-ca87af088e5e",
         "party": "Democratic",
         "phone": "503-986-1724",
-        "social": {},
+        "social": {
+          "facebook": "SenatorKayseJama",
+          "instagram": "senatorjama",
+          "twitter": "SenatorJama"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/jama"
@@ -134074,7 +135243,11 @@
         "openstates_id": "ocd-person/d5d3b10e-9a5c-464a-93ad-bd824af1cbc0",
         "party": "Democratic",
         "phone": "503-986-1725",
-        "social": {},
+        "social": {
+          "facebook": "GorsekForOregon",
+          "instagram": "cgorsek",
+          "twitter": "cgorsek"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/gorsek"
@@ -134092,7 +135265,11 @@
         "openstates_id": "ocd-person/9c7dcacb-50b9-4338-924b-cf6d333dc43a",
         "party": "Republican",
         "phone": "503-986-1726",
-        "social": {},
+        "social": {
+          "facebook": "ChristineforOregon",
+          "instagram": "christine4oregon",
+          "twitter": "ChristineDrazan"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/drazan"
@@ -134110,7 +135287,11 @@
         "openstates_id": "ocd-person/305e1426-2193-4e49-accf-6b26d224e92b",
         "party": "Democratic",
         "phone": "503-986-1727",
-        "social": {},
+        "social": {
+          "facebook": "BroadmanforOregon",
+          "instagram": "broadmanfororegon",
+          "twitter": "TheBroadman"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/broadman"
@@ -134146,7 +135327,10 @@
         "openstates_id": "ocd-person/66c4922d-6b7e-4636-85a4-565e812df7a2",
         "party": "Republican",
         "phone": "503-986-1729",
-        "social": {},
+        "social": {
+          "facebook": "senatortoddnash",
+          "instagram": "toddpnash"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/nash"
@@ -134164,7 +135348,11 @@
         "openstates_id": "ocd-person/0240017c-38e7-45da-8841-c40b007965dc",
         "party": "Democratic",
         "phone": "503-986-1703",
-        "social": {},
+        "social": {
+          "facebook": "SenatorGolden",
+          "instagram": "sen_jeffgolden",
+          "twitter": "SenatorGolden"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/golden"
@@ -134182,7 +135370,9 @@
         "openstates_id": "ocd-person/f0091fb4-4207-4663-be23-7c9e77994048",
         "party": "Republican",
         "phone": "503-986-1730",
-        "social": {},
+        "social": {
+          "twitter": "mikemclaneor"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/mclane"
@@ -134200,7 +135390,10 @@
         "openstates_id": "ocd-person/a36ed400-bbdd-4053-9ae4-576ba52e95ca",
         "party": "Democratic",
         "phone": "503-986-1704",
-        "social": {},
+        "social": {
+          "facebook": "senprozanski",
+          "twitter": "SenProzanski"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/prozanski"
@@ -134218,7 +135411,9 @@
         "openstates_id": "ocd-person/5e28a30c-5ca9-4221-a331-9321267fbae6",
         "party": "Republican",
         "phone": "503-986-1705",
-        "social": {},
+        "social": {
+          "facebook": "DickAndersonforOregon"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/anderson"
@@ -134236,7 +135431,10 @@
         "openstates_id": "ocd-person/95da50da-34df-41f5-8900-ff8bec038272",
         "party": "Republican",
         "phone": "503-986-1706",
-        "social": {},
+        "social": {
+          "facebook": "CedricHaydenOR",
+          "twitter": "CedricHaydenOR"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/hayden"
@@ -134254,7 +135452,10 @@
         "openstates_id": "ocd-person/f1be7436-8ea5-48b2-8997-53dd566633b9",
         "party": "Democratic",
         "phone": "503-986-1707",
-        "social": {},
+        "social": {
+          "facebook": "SenJamesManning",
+          "twitter": "manningstl"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/Manning"
@@ -134272,7 +135473,10 @@
         "openstates_id": "ocd-person/10b42647-1509-4e86-9155-4622c2d17315",
         "party": "Democratic",
         "phone": "503-986-1708",
-        "social": {},
+        "social": {
+          "facebook": "SGelser",
+          "twitter": "SenSaraGelser"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/gelser"
@@ -134290,7 +135494,10 @@
         "openstates_id": "ocd-person/aba97bd3-cdf6-4860-9b2c-cbd62e825e79",
         "party": "Republican",
         "phone": "503-986-1709",
-        "social": {},
+        "social": {
+          "facebook": "SenatorGirod",
+          "twitter": "FredGirod"
+        },
         "state": "OR",
         "state_name": "Oregon",
         "url": "https://www.oregonlegislature.gov/girod"
@@ -145002,7 +146209,10 @@
         "openstates_id": "ocd-person/e72a31cf-cefd-42c1-9620-967af32a2f48",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "VoteOgdenDriskill",
+          "twitter": "DriskillOgden"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2023/S/1972"
@@ -145056,7 +146266,9 @@
         "openstates_id": "ocd-person/a8a05d47-8306-4f20-a848-02c92db1fffe",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "votekolb"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2023/S/2066"
@@ -145074,7 +146286,10 @@
         "openstates_id": "ocd-person/343a76eb-5672-433a-9d39-f34b6f683cab",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "Jones4Wyoming",
+          "twitter": "stacybjones1"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2023/S/2088"
@@ -145128,7 +146343,9 @@
         "openstates_id": "ocd-person/5395223c-9b56-410d-b18f-978d9e2a07a9",
         "party": "Republican",
         "phone": "307-777-7881",
-        "social": {},
+        "social": {
+          "facebook": "danforwyoming"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2023/S/1048"
@@ -145146,7 +146363,9 @@
         "openstates_id": "ocd-person/587874e4-f0c9-4679-aa08-a2442b7d33b1",
         "party": "Democratic",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "Mike4Wyolegislature"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2023/S/2027"
@@ -145200,7 +146419,10 @@
         "openstates_id": "ocd-person/cfed8eb6-ad00-4414-9ceb-bd5d46c5974f",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "BrianBonerWYO",
+          "twitter": "BrianBonerWYO"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2023/S/2021"
@@ -145218,7 +146440,10 @@
         "openstates_id": "ocd-person/13022d64-c748-4603-b60e-bd176383b8f1",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "WYSenatorCooper",
+          "instagram": "cooperforwystatesenate"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2023/S/2068"
@@ -145236,7 +146461,10 @@
         "openstates_id": "ocd-person/016465da-4d49-4ffc-8bb0-cf9528bc6d0e",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "Sen.Biteman",
+          "twitter": "bobiteman"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2018/H/2044"
@@ -145290,7 +146518,9 @@
         "openstates_id": "ocd-person/c1525bf9-8a43-4807-b72a-e42f94267b09",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "WYStateSenatorTroyMcKeown"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2023/S/2069"
@@ -145380,7 +146610,10 @@
         "openstates_id": "ocd-person/6d1c2665-46ea-444d-b88b-b22e2623e660",
         "party": "Republican",
         "phone": "307-777-7881",
-        "social": {},
+        "social": {
+          "facebook": "BobIdeWY",
+          "twitter": "BobIdeWY"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2023/S/2089"
@@ -145398,7 +146631,9 @@
         "openstates_id": "ocd-person/9fe08ab5-b31c-4f7b-bb23-c7aff3cd3e4d",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "SteinmetzSD3"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2023/S/2011"
@@ -145434,7 +146669,9 @@
         "openstates_id": "ocd-person/7f287d7d-8f05-4116-8bcf-33174ecf1e9c",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "eviebrennanforwyosenate"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2023/S/2090"
@@ -145452,7 +146689,9 @@
         "openstates_id": "ocd-person/f20c9c17-f2bd-4c88-9f6f-208af6a61f26",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "wyosenatornethercott"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2023/S/2029"
@@ -145506,7 +146745,10 @@
         "openstates_id": "ocd-person/f46abbfe-3a0a-4657-a4ac-fbc418adfcc7",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "pappasforwy",
+          "twitter": "PappasStephan"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2023/S/2008"
@@ -145524,7 +146766,10 @@
         "openstates_id": "ocd-person/63e25ff3-1832-45c8-a9af-669bb74a3aa4",
         "party": "Republican",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "repjaredolsen",
+          "twitter": "JaredSOlsen"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.olsenforwyoming.com/"
@@ -145542,7 +146787,11 @@
         "openstates_id": "ocd-person/510546dd-c3ca-4ce4-9342-f77e05712f2e",
         "party": "Democratic",
         "phone": null,
-        "social": {},
+        "social": {
+          "facebook": "rothfuss",
+          "instagram": "senatorrothfuss",
+          "twitter": "rothfuss"
+        },
         "state": "WY",
         "state_name": "Wyoming",
         "url": "https://www.wyoleg.gov/Legislators/2023/S/1971"
