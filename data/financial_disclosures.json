@@ -35321,7 +35321,7 @@
           "WMT",
           "XOM"
         ],
-        "recent_trade_count": 2567,
+        "recent_trade_count": 2565,
         "sales": 2693,
         "trade_count": 7744
       }
@@ -46820,7 +46820,7 @@
         "agency": null,
         "branch": "congress",
         "chamber": "senate",
-        "est_volume": 2462091.5,
+        "est_volume": 2470092,
         "full_name": "Gary C Peters",
         "id": "senate_garyc_peters",
         "late_filings": 4,
@@ -46828,12 +46828,46 @@
         "office": "U.S. Senator \u00b7 MI",
         "party": "D",
         "photo_url": "https://unitedstates.github.io/images/congress/225x275/P000595.jpg",
-        "purchases": 144,
+        "purchases": 145,
         "sales": 26,
         "state": "MI",
-        "trade_count": 183
+        "trade_count": 184
       },
       "recent_trades": [
+        {
+          "agency": null,
+          "amount_range_high": 15000,
+          "amount_range_label": "$1,001 - $15,000",
+          "amount_range_low": 1001,
+          "asset_name": "Realty Income Corporation Common Stock",
+          "asset_type": "Stock",
+          "branch": "congress",
+          "chamber": "senate",
+          "comment": null,
+          "days_to_file": 15,
+          "doc_url": "https://efdsearch.senate.gov/search/view/ptr/328a9b36-1205-4117-bdc4-cd7c3ccbcbbc/",
+          "excess_since": -8.166944749124001,
+          "filer_id": "senate_garyc_peters",
+          "filer_name": "Gary C Peters",
+          "filing_date": "2026-08-07",
+          "filing_type": "PTR",
+          "id": "senate_328a9b36-1205-4117-bdc4-cd7c3ccbcbbc_t0",
+          "is_late": 0,
+          "level": null,
+          "notification_received_over_30d": null,
+          "office": "U.S. Senator \u00b7 MI",
+          "owner": "Self",
+          "party": "D",
+          "ret_1y": null,
+          "ret_30d": null,
+          "ret_since": -3.414713933075405,
+          "row_index": null,
+          "source_id": "senate_efd",
+          "state": "MI",
+          "ticker": "O",
+          "transaction_date": "2026-07-23",
+          "transaction_type": "Purchase"
+        },
         {
           "agency": null,
           "amount_range_high": 15000,
@@ -46904,18 +46938,19 @@
         }
       ],
       "summary": {
-        "estimated_volume": 2462091.5,
+        "estimated_volume": 2470092,
         "late_filings": 4,
-        "latest_filing_date": "2026-07-02",
-        "latest_transaction_date": "2026-06-29",
-        "purchases": 144,
+        "latest_filing_date": "2026-08-07",
+        "latest_transaction_date": "2026-07-23",
+        "purchases": 145,
         "recent_tickers": [
           "KHC",
+          "O",
           "T"
         ],
-        "recent_trade_count": 2,
+        "recent_trade_count": 3,
         "sales": 26,
-        "trade_count": 183
+        "trade_count": 184
       }
     },
     "senate_jacklyns_rosen": {
@@ -51423,10 +51458,10 @@
         "agency": null,
         "branch": "congress",
         "chamber": "senate",
-        "est_volume": 14566651,
+        "est_volume": 14741651.5,
         "full_name": "Ron L Wyden",
         "id": "senate_ronl_wyden",
-        "late_filings": 51,
+        "late_filings": 52,
         "level": null,
         "office": "U.S. Senator \u00b7 OR",
         "party": "D",
@@ -51434,19 +51469,56 @@
         "purchases": 228,
         "sales": 74,
         "state": "OR",
-        "trade_count": 302
+        "trade_count": 303
       },
-      "recent_trades": [],
+      "recent_trades": [
+        {
+          "agency": null,
+          "amount_range_high": 250000,
+          "amount_range_label": "$100,001 - $250,000",
+          "amount_range_low": 100001,
+          "asset_name": "BERY - Berry Global Group, Inc. (Exchanged)\n                                            \n                                            Amcor plc Ordinary Shares (Received)",
+          "asset_type": "Stock",
+          "branch": "congress",
+          "chamber": "senate",
+          "comment": null,
+          "days_to_file": 465,
+          "doc_url": "https://efdsearch.senate.gov/search/view/ptr/5ecc9b5c-07c1-4ec1-bd4a-2db759eff299/",
+          "excess_since": -35.39822712499099,
+          "filer_id": "senate_ronl_wyden",
+          "filer_name": "Ron L Wyden",
+          "filing_date": "2026-08-08",
+          "filing_type": "PTR",
+          "id": "senate_5ecc9b5c-07c1-4ec1-bd4a-2db759eff299_t0",
+          "is_late": 1,
+          "level": null,
+          "notification_received_over_30d": null,
+          "office": "U.S. Senator \u00b7 OR",
+          "owner": "Spouse",
+          "party": "D",
+          "ret_1y": -17.30434583581012,
+          "ret_30d": -0.978262528129246,
+          "ret_since": 4.043479587720788,
+          "row_index": null,
+          "source_id": "senate_efd",
+          "state": "OR",
+          "ticker": "AMCR",
+          "transaction_date": "2025-04-30",
+          "transaction_type": "Exchange"
+        }
+      ],
       "summary": {
-        "estimated_volume": 14566651,
-        "late_filings": 51,
-        "latest_filing_date": null,
-        "latest_transaction_date": null,
+        "estimated_volume": 14741651.5,
+        "late_filings": 52,
+        "latest_filing_date": "2026-08-08",
+        "latest_transaction_date": "2025-04-30",
         "purchases": 228,
-        "recent_tickers": [],
-        "recent_trade_count": 0,
+        "recent_tickers": [
+          "AMCR"
+        ],
+        "recent_trade_count": 1,
         "sales": 74,
-        "trade_count": 302
+        "trade_count": 303
       }
     },
     "senate_sheldon_whitehouse": {
@@ -54155,7 +54227,7 @@
       }
     }
   },
-  "generated_at": "2026-08-10T02:33:39.996889+00:00",
+  "generated_at": "2026-08-10T08:03:18.619322+00:00",
   "indexes": {
     "id:house_abigail_spanberger": [
       "house_abigail_spanberger"
@@ -57439,7 +57511,7 @@
     "bySource": {
       "house_clerk": 44198,
       "oge_executive": 12609,
-      "senate_efd": 9062
+      "senate_efd": 9064
     },
     "dateRange": {
       "from": "2011-06-20",
@@ -57454,7 +57526,7 @@
           "late": false
         },
         {
-          "count": 18982,
+          "count": 18983,
           "key": "15-30",
           "label": "15-30d",
           "late": false
@@ -57478,25 +57550,25 @@
           "late": true
         },
         {
-          "count": 3417,
+          "count": 3418,
           "key": "365+",
           "label": "Over 1y (late)",
           "late": true
         }
       ],
-      "lateCount": 18171,
+      "lateCount": 18172,
       "maxDaysToFile": 4049,
       "medianDaysToFile": 31,
       "p90DaysToFile": 178,
-      "tradesWithLag": 63134
+      "tradesWithLag": 63136
     },
-    "estVolumeUsd": 7404499912,
-    "generatedAt": "2026-08-08T09:27:04.146Z",
-    "lateFilings": 18171,
+    "estVolumeUsd": 7404682913,
+    "generatedAt": "2026-08-10T06:51:34.351Z",
+    "lateFilings": 18172,
     "totalFilers": 440,
-    "totalFilings": 55296,
-    "totalParsedFilings": 7183,
-    "totalTrades": 65869
+    "totalFilings": 55298,
+    "totalParsedFilings": 7185,
+    "totalTrades": 65871
   },
-  "upstream_generated_at": "2026-08-08T09:27:04.146Z"
+  "upstream_generated_at": "2026-08-10T06:51:34.351Z"
 }
