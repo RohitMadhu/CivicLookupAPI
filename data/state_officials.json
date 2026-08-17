@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T10:09:34.658260+00:00",
+  "generated_at": "2026-08-17T09:32:07.992623+00:00",
   "sources": {
     "openstates_people": "https://github.com/openstates/people"
   },
@@ -42,6 +42,25 @@
         "state": "DC",
         "state_name": "District of Columbia",
         "url": "https://dccouncil.us/council/at-large-councilmember-christina-henderson/"
+      },
+      {
+        "address": "1350 Pennsylvania Ave. NW Suite 102, Washington, DC 20004",
+        "chamber": "legislature",
+        "district": "At-Large",
+        "district_key": "at-large",
+        "email": "esilverman@dccouncil.gov",
+        "image": "https://dccouncil.gov/wp-content/uploads/2017/03/silverman2-75x75-c-default.jpg",
+        "name": "Elissa Silverman",
+        "openstates_id": "ocd-person/438f747e-7345-47f9-ba1b-bb20c8844383",
+        "party": "Independent",
+        "phone": "202-724-7772",
+        "social": {
+          "facebook": "CMElissaSilverman",
+          "twitter": "tweetelissa"
+        },
+        "state": "DC",
+        "state_name": "District of Columbia",
+        "url": "http://live-dc-council.pantheonsite.io/council/elissa-silverman/"
       },
       {
         "address": "1350 Pennsylvania Ave. NW Suite 107, Washington, DC 20004",
@@ -161,7 +180,7 @@
     ],
     "DC:ward 5": [
       {
-        "address": "1350 Pennsylvania Ave. NW Suite 102, Washington, DC 20004",
+        "address": "1350 Pennsylvania Ave. NW Suite 506, Washington, DC 20004",
         "chamber": "legislature",
         "district": "Ward 5",
         "district_key": "ward 5",
@@ -260,7 +279,7 @@
         "chamber": "legislature",
         "district": "10",
         "district_key": "10",
-        "email": "wdeboer@leg.ne.gov",
+        "email": "wendy.deboer@leg.ne.gov",
         "image": "https://www.nebraskalegislature.gov/media/images/senators/dist10/highres/dist10.jpg",
         "name": "Wendy DeBoer",
         "openstates_id": "ocd-person/bc906a77-5932-4042-9ede-a13b24924236",
@@ -280,7 +299,7 @@
         "chamber": "legislature",
         "district": "11",
         "district_key": "11",
-        "email": "tmckinney@leg.ne.gov",
+        "email": "terrell.mckinney@leg.ne.gov",
         "image": "https://www.nebraskalegislature.gov/media/images/senators/dist11/highres/dist11.jpg",
         "name": "Terrell McKinney",
         "openstates_id": "ocd-person/27784792-d54f-4a64-8408-a4a1ce0c26b1",
@@ -302,7 +321,7 @@
         "chamber": "legislature",
         "district": "12",
         "district_key": "12",
-        "email": "mriepe@leg.ne.gov",
+        "email": "merv.riepe@leg.ne.gov",
         "image": "https://www.nebraskalegislature.gov/media/images/senators/dist12/highres/dist12.jpg",
         "name": "Merv Riepe",
         "openstates_id": "ocd-person/3c015cf9-e3de-42cf-a364-64607ecc70ce",
@@ -362,7 +381,7 @@
         "chamber": "legislature",
         "district": "15",
         "district_key": "15",
-        "email": "dwordekemper@leg.ne.gov",
+        "email": "dave.wordekemper@leg.ne.gov",
         "image": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/164427.jpg",
         "name": "Woody Wordekemper",
         "openstates_id": "ocd-person/86a9643e-4777-48d4-a79a-5ed192fb7f70",
@@ -401,7 +420,7 @@
         "chamber": "legislature",
         "district": "17",
         "district_key": "17",
-        "email": "gmeyer@leg.ne.gov",
+        "email": "glen.meyer@leg.ne.gov",
         "image": null,
         "name": "Glen Meyer",
         "openstates_id": "ocd-person/dae0883f-3a53-4873-99df-b0e10ea64066",
@@ -459,7 +478,7 @@
         "chamber": "legislature",
         "district": "2",
         "district_key": "2",
-        "email": "rclements@leg.ne.gov",
+        "email": "robert.clements@leg.ne.gov",
         "image": "https://www.nebraskalegislature.gov/media/images/senators/dist02/highres/dist02.jpg",
         "name": "Rob Clements",
         "openstates_id": "ocd-person/809c0698-2669-426a-819a-275a0773ff84",
@@ -501,7 +520,7 @@
         "chamber": "legislature",
         "district": "21",
         "district_key": "21",
-        "email": "bballard@leg.ne.gov",
+        "email": "beau.ballard@leg.ne.gov",
         "image": "https://www.nebraskalegislature.gov/media/images/senators/dist21/highres/dist21.jpg",
         "name": "Beau Ballard",
         "openstates_id": "ocd-person/3da787e9-f6ed-4069-bd74-58ec7c015efb",
@@ -598,7 +617,7 @@
         "chamber": "legislature",
         "district": "26",
         "district_key": "26",
-        "email": "gdungan@leg.ne.gov",
+        "email": "george.dungan@leg.ne.gov",
         "image": "https://www.nebraskalegislature.gov/media/images/senators/dist26/highres/dist26.jpg",
         "name": "George Dungan",
         "openstates_id": "ocd-person/14507b1b-007f-4f87-adbb-a5e4669efba8",
@@ -640,7 +659,7 @@
         "chamber": "legislature",
         "district": "28",
         "district_key": "28",
-        "email": "jraybould@leg.ne.gov",
+        "email": "jane.raybould@leg.ne.gov",
         "image": "https://www.nebraskalegislature.gov/media/images/senators/dist28/highres/dist28.jpg",
         "name": "Jane Raybould",
         "openstates_id": "ocd-person/0f176ff3-ed75-4605-9e8b-5bb5a3d3c4cf",
@@ -661,7 +680,7 @@
         "chamber": "legislature",
         "district": "29",
         "district_key": "29",
-        "email": "ebostar@leg.ne.gov",
+        "email": "eliot.bostar@leg.ne.gov",
         "image": "https://www.nebraskalegislature.gov/media/images/senators/dist29/highres/dist29.jpg",
         "name": "Eliot Bostar",
         "openstates_id": "ocd-person/5e6ca662-d4e3-405b-a060-d0150546eede",
@@ -682,7 +701,7 @@
         "chamber": "legislature",
         "district": "3",
         "district_key": "3",
-        "email": "vrountree@leg.ne.gov",
+        "email": "victor.rountree@leg.ne.gov",
         "image": null,
         "name": "Victor Rountree",
         "openstates_id": "ocd-person/1e43a5b4-e63c-434a-977c-592174c2c635",
@@ -702,7 +721,7 @@
         "chamber": "legislature",
         "district": "30",
         "district_key": "30",
-        "email": "mdorn@leg.ne.gov",
+        "email": "myron.dorn@leg.ne.gov",
         "image": "https://www.nebraskalegislature.gov/media/images/senators/dist30/highres/dist30.jpg",
         "name": "Myron Dorn",
         "openstates_id": "ocd-person/4a8d555a-4bba-4f76-a3e1-88eee6030413",
@@ -740,7 +759,7 @@
         "chamber": "legislature",
         "district": "32",
         "district_key": "32",
-        "email": "tbrandt@leg.ne.gov",
+        "email": "tom.brandt@leg.ne.gov",
         "image": "https://www.nebraskalegislature.gov/media/images/senators/dist32/highres/dist32.jpg",
         "name": "Tom Brandt",
         "openstates_id": "ocd-person/37ed5b35-3aea-40a2-95ed-ecc5120fbe82",
@@ -760,7 +779,7 @@
         "chamber": "legislature",
         "district": "33",
         "district_key": "33",
-        "email": "dlonowski@leg.ne.gov",
+        "email": "dan.lonowski@leg.ne.gov",
         "image": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/167026.jpg",
         "name": "Dan Lonowski",
         "openstates_id": "ocd-person/40eb4961-5467-4d1b-af44-59a2e4de6fae",
@@ -778,7 +797,7 @@
         "chamber": "legislature",
         "district": "34",
         "district_key": "34",
-        "email": "llippincott@leg.ne.gov",
+        "email": "loren.lippincott@leg.ne.gov",
         "image": "https://www.nebraskalegislature.gov/media/images/senators/dist34/highres/dist34.jpg",
         "name": "Loren Lippincott",
         "openstates_id": "ocd-person/2ad42fad-ae37-44a6-8933-0a942f7a85f7",
@@ -818,7 +837,7 @@
         "chamber": "legislature",
         "district": "36",
         "district_key": "36",
-        "email": "rholdcroft@leg.ne.gov",
+        "email": "rick.holdcroft@leg.ne.gov",
         "image": "https://www.nebraskalegislature.gov/media/images/senators/dist36/highres/dist36.jpg",
         "name": "Rick Holdcroft",
         "openstates_id": "ocd-person/62ccba1d-4200-41c7-a051-21fa421a206a",
@@ -836,7 +855,7 @@
         "chamber": "legislature",
         "district": "37",
         "district_key": "37",
-        "email": "sclouse@leg.ne.gov",
+        "email": "stan.clouse@leg.ne.gov",
         "image": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/167022.jpg",
         "name": "Stan Clouse",
         "openstates_id": "ocd-person/4bfe5183-1afc-42fa-92c1-7ffe5cbb1080",
@@ -856,7 +875,7 @@
         "chamber": "legislature",
         "district": "38",
         "district_key": "38",
-        "email": "dmurman@leg.ne.gov",
+        "email": "dave.murman@leg.ne.gov",
         "image": "https://www.nebraskalegislature.gov/media/images/senators/dist38/highres/dist38.jpg",
         "name": "Dave Murman",
         "openstates_id": "ocd-person/25c29fce-5de4-46cd-97f0-887033d446ce",
@@ -876,7 +895,7 @@
         "chamber": "legislature",
         "district": "39",
         "district_key": "39",
-        "email": "tsorrentino@leg.ne.gov",
+        "email": "tony.sorrentino@leg.ne.gov",
         "image": null,
         "name": "Tony Sorrentino",
         "openstates_id": "ocd-person/7093e661-0dbc-4c75-91e0-09a3e171caf1",
@@ -896,7 +915,7 @@
         "chamber": "legislature",
         "district": "4",
         "district_key": "4",
-        "email": "bvongillern@leg.ne.gov",
+        "email": "brad.vongillern@leg.ne.gov",
         "image": "https://www.nebraskalegislature.gov/media/images/senators/dist04/highres/dist04.jpg",
         "name": "Brad von Gillern",
         "openstates_id": "ocd-person/63d2956a-a0be-40db-a0e3-6c32743951ab",
@@ -914,7 +933,7 @@
         "chamber": "legislature",
         "district": "40",
         "district_key": "40",
-        "email": "bdekay@leg.ne.gov",
+        "email": "barry.dekay@leg.ne.gov",
         "image": "https://www.nebraskalegislature.gov/media/images/senators/dist40/highres/dist40.jpg",
         "name": "Barry DeKay",
         "openstates_id": "ocd-person/01d5ca17-53a1-463a-b2f6-74fe24833c0f",
@@ -950,7 +969,7 @@
         "chamber": "legislature",
         "district": "42",
         "district_key": "42",
-        "email": "mjacobson@leg.ne.gov",
+        "email": "mike.jacobson@leg.ne.gov",
         "image": "https://www.nebraskalegislature.gov/media/images/senators/dist42/highres/dist42.jpg",
         "name": "Mike Jacobson",
         "openstates_id": "ocd-person/70b3f826-87f3-43c6-9762-27a178156a55",
@@ -970,7 +989,7 @@
         "chamber": "legislature",
         "district": "43",
         "district_key": "43",
-        "email": "tstorer@leg.ne.gov",
+        "email": "tanya.storer@leg.ne.gov",
         "image": null,
         "name": "Tanya Storer",
         "openstates_id": "ocd-person/70751bb8-56af-4fd1-b2dc-21943dc7bb2d",
@@ -1013,7 +1032,7 @@
         "chamber": "legislature",
         "district": "45",
         "district_key": "45",
-        "email": "rsanders@leg.ne.gov",
+        "email": "rita.sanders@leg.ne.gov",
         "image": "https://www.nebraskalegislature.gov/media/images/senators/dist45/highres/dist45.jpg",
         "name": "Rita Sanders",
         "openstates_id": "ocd-person/de8d4e0a-36dd-4a84-96ee-e4b7bc4cf69d",
@@ -1054,7 +1073,7 @@
         "chamber": "legislature",
         "district": "47",
         "district_key": "47",
-        "email": "pstrommen@leg.ne.gov",
+        "email": "paul.strommen@leg.ne.gov",
         "image": null,
         "name": "Paul Strommen",
         "openstates_id": "ocd-person/0ae0ba8c-757e-459f-aecc-4a0501a25cbb",
@@ -1092,7 +1111,7 @@
         "chamber": "legislature",
         "district": "49",
         "district_key": "49",
-        "email": "bandersen@leg.ne.gov",
+        "email": "bob.andersen@leg.ne.gov",
         "image": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/167021.jpg",
         "name": "Bob Andersen",
         "openstates_id": "ocd-person/db002bad-ee6a-4e22-b5c5-840c665ecad4",
@@ -1130,7 +1149,7 @@
         "chamber": "legislature",
         "district": "6",
         "district_key": "6",
-        "email": "mcavanaugh@leg.ne.gov",
+        "email": "machaela.cavanaugh@leg.ne.gov",
         "image": "https://www.nebraskalegislature.gov/media/images/senators/dist06/highres/dist06.jpg",
         "name": "Machaela Cavanaugh",
         "openstates_id": "ocd-person/fd6e1947-c274-4ff5-b2ee-5e5a79d6a729",
@@ -1195,7 +1214,7 @@
         "chamber": "legislature",
         "district": "9",
         "district_key": "9",
-        "email": "jcavanaugh@leg.ne.gov",
+        "email": "john.cavanaugh@leg.ne.gov",
         "image": "https://www.nebraskalegislature.gov/media/images/senators/dist09/highres/dist09.jpg",
         "name": "John Cavanaugh",
         "openstates_id": "ocd-person/0436186a-3b62-46f1-8f36-55e09fca3e77",
@@ -2051,7 +2070,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100481&OID_PERSON=7700"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Pettus"
       }
     ],
     "AL:10": [
@@ -2069,7 +2088,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": null
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=lands"
       }
     ],
     "AL:100": [
@@ -2087,7 +2106,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://alison.legislature.state.al.us/house-leaders-members"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Shirey"
       }
     ],
     "AL:101": [
@@ -2105,7 +2124,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100583&OID_PERSON=1109"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=pringle"
       }
     ],
     "AL:102": [
@@ -2123,7 +2142,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100584&OID_PERSON=8516"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=stringer"
       }
     ],
     "AL:103": [
@@ -2141,7 +2160,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100585&OID_PERSON=7712"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Drummond"
       }
     ],
     "AL:104": [
@@ -2159,7 +2178,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100586&OID_PERSON=7547"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Wilcox"
       }
     ],
     "AL:105": [
@@ -2195,7 +2214,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": null
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Allbright"
       }
     ],
     "AL:12": [
@@ -2213,7 +2232,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": null
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=myrex"
       }
     ],
     "AL:13": [
@@ -2231,7 +2250,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": null
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=barnes"
       }
     ],
     "AL:14": [
@@ -2249,7 +2268,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100494&OID_PERSON=7704"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Wadsworth"
       }
     ],
     "AL:15": [
@@ -2267,7 +2286,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://alison.legislature.state.al.us/house-leaders-members"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Hulsey"
       }
     ],
     "AL:16": [
@@ -2285,7 +2304,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": null
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=brinyark"
       }
     ],
     "AL:17": [
@@ -2303,7 +2322,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100497&OID_PERSON=8494"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Estes"
       }
     ],
     "AL:18": [
@@ -2321,7 +2340,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100498&OID_PERSON=8495"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Kiel"
       }
     ],
     "AL:19": [
@@ -2330,7 +2349,7 @@
         "chamber": "lower",
         "district": "19",
         "district_key": "19",
-        "email": "laura.hall@alhouse.org",
+        "email": "annihall19@gmail.com",
         "image": "https://www.legislature.state.al.us/pdf/house/members/Hall_19.png",
         "name": "Laura Hall",
         "openstates_id": "ocd-person/9314859d-000f-447c-9aa7-4993b13e8010",
@@ -2339,7 +2358,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100499&OID_PERSON=1068"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Hall"
       }
     ],
     "AL:2": [
@@ -2393,7 +2412,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100501&OID_PERSON=8445"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Reynolds"
       }
     ],
     "AL:22": [
@@ -2411,7 +2430,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100502&OID_PERSON=7705"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Whorton"
       }
     ],
     "AL:23": [
@@ -2429,7 +2448,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://alison.legislature.state.al.us/house-leaders-members"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Kirkland"
       }
     ],
     "AL:24": [
@@ -2447,7 +2466,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100504&OID_PERSON=7698"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Ledbetter"
       }
     ],
     "AL:25": [
@@ -2465,7 +2484,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://alison.legislature.state.al.us/house-leaders-members"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=rigsby"
       }
     ],
     "AL:26": [
@@ -2501,7 +2520,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": null
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Ross"
       }
     ],
     "AL:28": [
@@ -2519,7 +2538,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://alison.legislature.state.al.us/house-leaders-members"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Butler"
       }
     ],
     "AL:29": [
@@ -2537,7 +2556,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://alison.legislature.state.al.us/house-leaders-members"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Gidley"
       }
     ],
     "AL:3": [
@@ -2555,7 +2574,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://alison.legislature.state.al.us/house-leaders-members"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Underwood"
       }
     ],
     "AL:30": [
@@ -2573,7 +2592,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100511&OID_PERSON=8499"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Lipscomb"
       }
     ],
     "AL:31": [
@@ -2591,7 +2610,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://alison.legislature.state.al.us/house-leaders-members"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Stubbs"
       }
     ],
     "AL:32": [
@@ -2609,7 +2628,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100513&OID_PERSON=1022"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Boyd"
       }
     ],
     "AL:33": [
@@ -2627,7 +2646,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=District%2033&OID_SPONSOR=9100514&OID_PERSON=91090&SESSNAME="
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Robbins"
       }
     ],
     "AL:34": [
@@ -2654,7 +2673,7 @@
         "chamber": "lower",
         "district": "35",
         "district_key": "35",
-        "email": "steve.hurst@alhouse.gov",
+        "email": "repstevehurst98@gmail.com",
         "image": "https://www.legislature.state.al.us/pdf/house/members/Hurst_35.png",
         "name": "Steve Hurst",
         "openstates_id": "ocd-person/4f0a4d5d-b27a-4f33-b394-f27d306f8a42",
@@ -2663,7 +2682,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100516&OID_PERSON=3294"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Hurst"
       }
     ],
     "AL:36": [
@@ -2699,7 +2718,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100518&OID_PERSON=3191"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Fincher"
       }
     ],
     "AL:38": [
@@ -2717,7 +2736,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": null
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=nelson"
       }
     ],
     "AL:39": [
@@ -2735,7 +2754,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100520&OID_PERSON=8501"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Shaver"
       }
     ],
     "AL:4": [
@@ -2753,7 +2772,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100484&OID_PERSON=8461"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Parker%20Moore"
       }
     ],
     "AL:40": [
@@ -2771,7 +2790,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://alison.legislature.state.al.us/house-leaders-members"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Robertson"
       }
     ],
     "AL:41": [
@@ -2789,7 +2808,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100522&OID_PERSON=8129"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Ellis"
       }
     ],
     "AL:42": [
@@ -2825,7 +2844,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100524&OID_PERSON=7699"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=mooney"
       }
     ],
     "AL:44": [
@@ -2843,7 +2862,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100525&OID_PERSON=7713"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=garrett"
       }
     ],
     "AL:45": [
@@ -2861,7 +2880,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://alison.legislature.state.al.us/house-leaders-members"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=DuBose"
       }
     ],
     "AL:46": [
@@ -2879,7 +2898,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100527&OID_PERSON=7693"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=faulkner"
       }
     ],
     "AL:47": [
@@ -2915,7 +2934,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100529&OID_PERSON=1028"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Carns"
       }
     ],
     "AL:49": [
@@ -2969,7 +2988,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100531&OID_PERSON=7696"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Jim%20Hill"
       }
     ],
     "AL:51": [
@@ -3023,7 +3042,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100534&OID_PERSON=7711"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=daniels"
       }
     ],
     "AL:54": [
@@ -3077,7 +3096,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://alison.legislature.state.al.us/house-leaders-members"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Tillman"
       }
     ],
     "AL:57": [
@@ -3095,7 +3114,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://alison.legislature.state.al.us/house-leaders-members"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Patrick%20Sellers"
       }
     ],
     "AL:58": [
@@ -3131,7 +3150,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100540&OID_PERSON=4462"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=M.%20Moore"
       }
     ],
     "AL:6": [
@@ -3167,7 +3186,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100541&OID_PERSON=6665"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=givan"
       }
     ],
     "AL:61": [
@@ -3185,7 +3204,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://alison.legislature.state.al.us/house-leaders-members"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Bolton"
       }
     ],
     "AL:62": [
@@ -3203,7 +3222,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://alison.legislature.state.al.us/house-leaders-members"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Lamb"
       }
     ],
     "AL:63": [
@@ -3221,7 +3240,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": null
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=crow"
       }
     ],
     "AL:64": [
@@ -3257,7 +3276,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100547&OID_PERSON=8505"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=easterbrook"
       }
     ],
     "AL:66": [
@@ -3275,7 +3294,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100548&OID_PERSON=8303"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Baker"
       }
     ],
     "AL:67": [
@@ -3293,7 +3312,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100549&OID_PERSON=8261"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=chestnut"
       }
     ],
     "AL:68": [
@@ -3311,7 +3330,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100550&OID_PERSON=1088"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Jackson"
       }
     ],
     "AL:69": [
@@ -3329,7 +3348,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100551&OID_PERSON=7697"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Lawrence"
       }
     ],
     "AL:7": [
@@ -3347,7 +3366,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://alison.legislature.state.al.us/house-leaders-members"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Yarbrough"
       }
     ],
     "AL:70": [
@@ -3365,7 +3384,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100552&OID_PERSON=5543"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=england"
       }
     ],
     "AL:71": [
@@ -3383,7 +3402,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100553&OID_PERSON=5544"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=mccampbell"
       }
     ],
     "AL:72": [
@@ -3401,7 +3420,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://alison.legislature.state.al.us/house-leaders-members"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Curtis%20Travis"
       }
     ],
     "AL:73": [
@@ -3419,7 +3438,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=9100555&OID_PERSON=97694"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=paschal"
       }
     ],
     "AL:74": [
@@ -3437,7 +3456,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://alison.legislature.state.al.us/house-leaders-members"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Ensler"
       }
     ],
     "AL:75": [
@@ -3473,7 +3492,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://alison.legislature.state.al.us/house-leaders-members"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=mcclammy"
       }
     ],
     "AL:77": [
@@ -3491,7 +3510,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100559&OID_PERSON=8506"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=morris"
       }
     ],
     "AL:78": [
@@ -3509,7 +3528,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?NAME=Hassell&OID_SPONSOR=9100560&OID_PERSON=998507&SESSNAME=Regular%20Session%202022"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=hassell"
       }
     ],
     "AL:79": [
@@ -3527,7 +3546,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100561&OID_PERSON=8119"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=lovvorn"
       }
     ],
     "AL:8": [
@@ -3545,7 +3564,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100488&OID_PERSON=6661"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=collins"
       }
     ],
     "AL:80": [
@@ -3617,7 +3636,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100565&OID_PERSON=8509"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Gray"
       }
     ],
     "AL:84": [
@@ -3635,7 +3654,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100566&OID_PERSON=6664"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Forte"
       }
     ],
     "AL:85": [
@@ -3653,7 +3672,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://alison.legislature.state.al.us/house-leaders-members"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Rehm"
       }
     ],
     "AL:86": [
@@ -3671,7 +3690,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100568&OID_PERSON=6672"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Lee"
       }
     ],
     "AL:87": [
@@ -3680,7 +3699,7 @@
         "chamber": "lower",
         "district": "87",
         "district_key": "87",
-        "email": "jeff.sorrells@alhouse.gov",
+        "email": "jeffs@fnbhartford.com",
         "image": "https://www.legislature.state.al.us/pdf/house/members/Sorrells_87.png",
         "name": "Jeff Sorrells",
         "openstates_id": "ocd-person/18af5645-53f2-4571-b24d-3173abf2b567",
@@ -3689,7 +3708,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100569&OID_PERSON=8510"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Sorrells"
       }
     ],
     "AL:88": [
@@ -3707,7 +3726,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://alison.legislature.state.al.us/house-leaders-members"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Starnes"
       }
     ],
     "AL:89": [
@@ -3725,7 +3744,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://alison.legislature.state.al.us/house-leaders-members"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Paramore"
       }
     ],
     "AL:9": [
@@ -3743,7 +3762,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100489&OID_PERSON=8492"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Stadthagen"
       }
     ],
     "AL:90": [
@@ -3761,7 +3780,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100572&OID_PERSON=7702"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Sells"
       }
     ],
     "AL:91": [
@@ -3815,7 +3834,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100575&OID_PERSON=1035"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Clouse"
       }
     ],
     "AL:94": [
@@ -3833,7 +3852,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://alison.legislature.state.al.us/house-leaders-members"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Fidler"
       }
     ],
     "AL:95": [
@@ -3851,7 +3870,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://alison.legislature.state.al.us/house-leaders-members"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Holk-Jones"
       }
     ],
     "AL:96": [
@@ -3860,7 +3879,7 @@
         "chamber": "lower",
         "district": "96",
         "district_key": "96",
-        "email": "matt.simpson@alhouse.gov",
+        "email": "mattsimpsonal96@gmail.com",
         "image": "https://www.legislature.state.al.us/pdf/house/members/Simpson_96.png",
         "name": "Matt Simpson",
         "openstates_id": "ocd-person/52046189-0464-4140-9cdf-b6c66312d49d",
@@ -3869,7 +3888,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100578&OID_PERSON=8514"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Simpson"
       }
     ],
     "AL:97": [
@@ -3887,7 +3906,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100579&OID_PERSON=7425"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Clarke"
       }
     ],
     "AL:98": [
@@ -3905,7 +3924,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100580&OID_PERSON=6657"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Bracy"
       }
     ],
     "AL:99": [
@@ -3923,7 +3942,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100581&OID_PERSON=8515"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Sam%20Jones"
       }
     ],
     "AR:1": [
@@ -6710,7 +6729,7 @@
         "district_key": "5",
         "email": "amarquez@azleg.gov",
         "image": "https://cmsv2-assets.apptegy.net/uploads/23522/file/3233138/f4ffcd47-cd48-4c93-a121-db3084965d55.jpeg",
-        "name": "Aaron Marquez",
+        "name": "Aaron M\u00e1rquez",
         "openstates_id": "ocd-person/c6a181c7-b58e-4c2a-aa2d-9ca31fc6548f",
         "party": "Democratic",
         "phone": "602-926-3179",
@@ -6779,7 +6798,7 @@
         "district": "7",
         "district_key": "7",
         "email": "sallen@azleg.gov",
-        "image": "http://www.azleg.gov/alisImages/MemberPhotos/50leg/Senate/ALLEN.gif",
+        "image": "https://azleg.gov/alisImages/MemberPhotos/57leg/House/ALLEN.jpg",
         "name": "Sylvia Allen",
         "openstates_id": "ocd-person/fa74a7b7-6413-4abb-813d-056b84252549",
         "party": "Republican",
@@ -7271,24 +7290,6 @@
         "state": "CA",
         "state_name": "California",
         "url": "https://a29.asmdc.org/"
-      }
-    ],
-    "CA:3": [
-      {
-        "address": "Room 4740, 1021 O St. P.O. Box 942849, Sacramento, CA 94249",
-        "chamber": "lower",
-        "district": "3",
-        "district_key": "3",
-        "email": "assemblymember.gallagher@assembly.ca.gov",
-        "image": "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_03.jpg",
-        "name": "James Gallagher",
-        "openstates_id": "ocd-person/5d93a1cb-7a01-43ab-a26c-a2abecdee135",
-        "party": "Republican",
-        "phone": "916-319-2003",
-        "social": {},
-        "state": "CA",
-        "state_name": "California",
-        "url": "https://ad03.asmrc.org/"
       }
     ],
     "CA:30": [
@@ -9597,7 +9598,7 @@
         "chamber": "lower",
         "district": "65",
         "district_key": "65",
-        "email": "lori garciasander.house@coleg.gov",
+        "email": "lori.garciasander.house@coleg.gov",
         "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/LoriSander2024.jpg",
         "name": "Lori Garcia Sander",
         "openstates_id": "ocd-person/d450c0d3-b829-4855-ad0d-1228c5284a4f",
@@ -15531,7 +15532,7 @@
         "chamber": "lower",
         "district": "107",
         "district_key": "107",
-        "email": "samuel.park@house.ga.gov",
+        "email": "sam.park@house.ga.gov",
         "image": "https://www.legis.ga.gov/api/images/default-source/portraits/park-sam-4901.jpg",
         "name": "Sam Park",
         "openstates_id": "ocd-person/2ba0916f-40b1-4255-9496-94b12ccabd1e",
@@ -15770,7 +15771,7 @@
         "name": "Holt Persinger",
         "openstates_id": "ocd-person/b39e2164-d570-45f2-b271-5e2fbe99c8d6",
         "party": "Republican",
-        "phone": "404-656-6731",
+        "phone": "404-656-0213",
         "social": {},
         "state": "GA",
         "state_name": "Georgia",
@@ -16427,7 +16428,7 @@
     ],
     "GA:152": [
       {
-        "address": "Room 601-H, Coverdell Legislative Office Building 18 Capitol Square SW, Atlanta, GA 30334",
+        "address": "State Capitol Room 245-E, 206 Washington St. SW, Atlanta, GA 30334",
         "chamber": "lower",
         "district": "152",
         "district_key": "152",
@@ -16436,7 +16437,7 @@
         "name": "Bill Yearta",
         "openstates_id": "ocd-person/23dfc274-73d1-45df-b381-67e597cf0b84",
         "party": "Republican",
-        "phone": "404-656-0254",
+        "phone": "404-463-2248",
         "social": {},
         "state": "GA",
         "state_name": "Georgia",
@@ -16827,7 +16828,7 @@
         "chamber": "lower",
         "district": "172",
         "district_key": "172",
-        "email": "charles.cannon@house.ga.gov",
+        "email": "chas.cannon@house.ga.gov",
         "image": "https://www.legis.ga.gov/api/images/default-source/portraits/cannon-charles--chas--5058.jpg",
         "name": "Chas Cannon",
         "openstates_id": "ocd-person/cba2f06c-773c-49d3-949c-b1a2db377c21",
@@ -16909,6 +16910,24 @@
         "state": "GA",
         "state_name": "Georgia",
         "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4967&Session=27"
+      }
+    ],
+    "GA:177": [
+      {
+        "address": "Room 512-E, Coverdell Legislative Office Building, Atlanta, GA 30334",
+        "chamber": "lower",
+        "district": "177",
+        "district_key": "177",
+        "email": "alvin.payton@house.ga.gov",
+        "image": null,
+        "name": "Alvin Payton",
+        "openstates_id": "ocd-person/8aa7ee05-bf64-4c51-8821-ad905d25741b",
+        "party": "Democratic",
+        "phone": "404-656-7859",
+        "social": {},
+        "state": "GA",
+        "state_name": "Georgia",
+        "url": "https://www.legis.ga.gov/members/house/5096?session=1034"
       }
     ],
     "GA:178": [
@@ -17309,7 +17328,7 @@
     ],
     "GA:35": [
       {
-        "address": "18 Capitol Square SW, Room 507-F, Coverdell Legislative Office Building, Atlanta, GA 30334",
+        "address": "Room 507-F, Coverdell Legislative Office Building 18 Capitol Square SW, Atlanta, GA 30334",
         "chamber": "lower",
         "district": "35",
         "district_key": "35",
@@ -17871,7 +17890,7 @@
         "chamber": "lower",
         "district": "63",
         "district_key": "63",
-        "email": "kim.schoefield@house.ga.gov",
+        "email": "kim.schofield@house.ga.gov",
         "image": "https://www.legis.ga.gov/api/images/default-source/portraits/schofield-kim-4916.jpg",
         "name": "Kim Schofield",
         "openstates_id": "ocd-person/eff357d0-3187-4a7b-93fe-2d54d010b093",
@@ -18029,7 +18048,7 @@
     ],
     "GA:71": [
       {
-        "address": "18 Capitol Square SW, Room 501-D, Coverdell Legislative Office Building, Atlanta, GA 30334",
+        "address": "Room 501-D, Coverdell Legislative Office Building 18 Capitol Square SW, Atlanta, GA 30334",
         "chamber": "lower",
         "district": "71",
         "district_key": "71",
@@ -18137,7 +18156,7 @@
     ],
     "GA:77": [
       {
-        "address": "Room 409-C, Coverdell Legislative Office Building 18 Capitol Square SW, Atlanta, GA 30334",
+        "address": "Room 409-G, Coverdell Legislative Office Building 18 Capitol Square SW, Atlanta, GA 30334",
         "chamber": "lower",
         "district": "77",
         "district_key": "77",
@@ -23005,16 +23024,16 @@
         "chamber": "lower",
         "district": "118",
         "district_key": "118",
-        "email": "jacobs@ilhousegop.org",
-        "image": "https://cdn.ilga.gov/assets/img/members/{0E151A06-57C8-4261-9577-278F5DD4B717}.jpg",
-        "name": "Paul Jacobs",
-        "openstates_id": "ocd-person/2febe0de-8b57-43c9-b8cd-a5363af4eae3",
+        "email": "doody@ilhousegop.org",
+        "image": null,
+        "name": "Scott Doody",
+        "openstates_id": "ocd-person/4f34a22a-48e9-4439-8cab-cf5360cd8433",
         "party": "Republican",
         "phone": "217-782-0387",
         "social": {},
         "state": "IL",
         "state_name": "Illinois",
-        "url": "https://ilga.gov/house/Rep.asp?GA=102&MemberID=3003"
+        "url": "https://www.ilga.gov/House/Members/Details/3464"
       }
     ],
     "IL:12": [
@@ -23865,7 +23884,7 @@
     ],
     "IL:55": [
       {
-        "address": "24 S. River Road Suite 400, Des Plaines, IL 60016",
+        "address": "2 W. Talcott Road #32, Park Ridge, IL 60068",
         "chamber": "lower",
         "district": "55",
         "district_key": "55",
@@ -23874,7 +23893,7 @@
         "name": "Justin Cochran",
         "openstates_id": "ocd-person/afff2974-37d0-428c-be7a-0240395544f6",
         "party": "Democratic",
-        "phone": "847-635-6821",
+        "phone": "224-500-3605",
         "social": {},
         "state": "IL",
         "state_name": "Illinois",
@@ -24693,20 +24712,20 @@
     ],
     "IL:97": [
       {
-        "address": "Room 247-E, Stratton Office Building, Springfield, IL 62706",
+        "address": null,
         "chamber": "lower",
         "district": "97",
         "district_key": "97",
-        "email": "info@repharrybenton.com",
-        "image": "https://cdn.ilga.gov/assets/img/members/{591DB385-5E0D-41CC-8B13-2FDA10A73D7F}.jpg",
-        "name": "Harry Benton",
-        "openstates_id": "ocd-person/1574a50f-6d50-4d7d-87ee-db0254e5093e",
+        "email": null,
+        "image": "https://www.chicagotribune.com/wp-content/uploads/2026/07/ctc-l-Dixon-Heitman_264932049_246515.jpg?w=1392",
+        "name": "Jess Heitman",
+        "openstates_id": "ocd-person/5ea8a157-c31c-407b-8378-6d80aa7280f9",
         "party": "Democratic",
-        "phone": "217-782-1331",
+        "phone": null,
         "social": {},
         "state": "IL",
         "state_name": "Illinois",
-        "url": "https://www.ilga.gov/House/Members/Details/3432"
+        "url": "https://www.ilga.gov/House/Members/Details/3465"
       }
     ],
     "IL:98": [
@@ -37231,16 +37250,16 @@
         "chamber": "lower",
         "district": "42A",
         "district_key": "42a",
-        "email": "nino.mangione@house.maryland.gov",
-        "image": "http://mgaleg.maryland.gov/2019RS/images/mangione01.jpg",
-        "name": "Nino Mangione",
-        "openstates_id": "ocd-person/7817a7bd-51a6-456a-a2df-4b9e3523d181",
+        "email": "alexander.harlan@house.maryland.gov",
+        "image": "https://mgaleg.maryland.gov/2026RS/images/harlan01.jpg",
+        "name": "Alex Harlan",
+        "openstates_id": "ocd-person/39fb5148-7e60-4df3-b538-3bee07dd8a68",
         "party": "Republican",
         "phone": "410-841-3258",
         "social": {},
         "state": "MD",
         "state_name": "Maryland",
-        "url": "https://mgaleg.maryland.gov/mgawebsite/Members/Details/mangione01"
+        "url": "https://mgaleg.maryland.gov/mgawebsite/Members/Details/harlan01"
       }
     ],
     "MD:42b": [
@@ -38974,7 +38993,7 @@
         "social": {},
         "state": "ME",
         "state_name": "Maine",
-        "url": "http://www.maine.gov/housedems/rana"
+        "url": "https://www.maine.gov/housedems/rana"
       }
     ],
     "ME:22": [
@@ -39101,6 +39120,24 @@
         "state": "ME",
         "state_name": "Maine",
         "url": "https://mainehousegop.org/members/gifford-irene/"
+      }
+    ],
+    "ME:29": [
+      {
+        "address": "2 State House Station, Augusta, ME 04333",
+        "chamber": "lower",
+        "district": "29",
+        "district_key": "29",
+        "email": "nancy.theriault@legislature.maine.gov",
+        "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Nancy_Theriault_20260419_055420.jpg",
+        "name": "Nancy Theriault",
+        "openstates_id": "ocd-person/58e6cfa5-f375-4619-b8b3-2ce7d176cb55",
+        "party": "Republican",
+        "phone": null,
+        "social": {},
+        "state": "ME",
+        "state_name": "Maine",
+        "url": "https://legislature.maine.gov/house/MemberProfiles/Details/3142"
       }
     ],
     "ME:3": [
@@ -49363,24 +49400,6 @@
         "url": "https://billstatus.ls.state.ms.us/members/house/remak.xml"
       }
     ],
-    "MS:70": [
-      {
-        "address": "State Capitol 400 High St., Jackson, MS 39201",
-        "chamber": "lower",
-        "district": "70",
-        "district_key": "70",
-        "email": "bbrown@house.ms.gov",
-        "image": "http://billstatus.ls.state.ms.us/members/house/brown_(70th).jpg",
-        "name": "Bo Brown",
-        "openstates_id": "ocd-person/b8541474-47fd-4dd2-8576-53b7fe911039",
-        "party": "Democratic",
-        "phone": "601-359-3770",
-        "social": {},
-        "state": "MS",
-        "state_name": "Mississippi",
-        "url": "https://billstatus.ls.state.ms.us/members/house/brown.xml"
-      }
-    ],
     "MS:71": [
       {
         "address": "State Capitol 400 High St., Jackson, MS 39201",
@@ -49487,24 +49506,6 @@
         "state": "MS",
         "state_name": "Mississippi",
         "url": "https://billstatus.ls.state.ms.us/members/house/holloway.xml"
-      }
-    ],
-    "MS:77": [
-      {
-        "address": "State Capitol 400 High St., Jackson, MS 39201",
-        "chamber": "lower",
-        "district": "77",
-        "district_key": "77",
-        "email": "pwallace@house.ms.gov",
-        "image": "http://billstatus.ls.state.ms.us/members/house/wallace.jpg",
-        "name": "Price Wallace",
-        "openstates_id": "ocd-person/35bf01bd-be16-4ce6-b07c-bfff3d25e7e3",
-        "party": "Republican",
-        "phone": "601-359-3770",
-        "social": {},
-        "state": "MS",
-        "state_name": "Mississippi",
-        "url": "https://billstatus.ls.state.ms.us/members/house/wallace.xml"
       }
     ],
     "MS:78": [
@@ -53975,7 +53976,7 @@
         "chamber": "lower",
         "district": "11",
         "district_key": "11",
-        "email": null,
+        "email": "agoldwyn@ndlegis.gov",
         "image": "https://www.ndsu.edu/sites/default/files/styles/content_profile_full_medium/public/fileadmin/english.ndsu.edu/IMG_7188.JPG.webp?itok=Fwkfn24a&cb=44eb361c",
         "name": "Adam Goldwyn",
         "openstates_id": "ocd-person/3735ca02-1a6a-4f2f-b13b-1a5118d78ae2",
@@ -53984,7 +53985,7 @@
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
-        "url": null
+        "url": "https://ndlegis.gov/biography/adam-goldwyn"
       },
       {
         "address": "State Capitol 600 E. Boulevard Ave., Bismarck, ND 58505",
@@ -54316,7 +54317,7 @@
         "district": "20",
         "district_key": "20",
         "email": "drustebakke@ndlegis.gov",
-        "image": "https://img.legistorm.com/people/034/208034.jpg?rand=18313",
+        "image": null,
         "name": "Dave Rustebakke",
         "openstates_id": "ocd-person/62c94736-93a5-43a9-af8d-5a37b65159c6",
         "party": "Republican",
@@ -58373,22 +58374,6 @@
         "chamber": "lower",
         "district": "Hillsborough 39",
         "district_key": "hillsborough 39",
-        "email": "jonathan.morton@gc.nh.gov",
-        "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jonathan_Morton_20240826_041814.jpg",
-        "name": "Jon Morton",
-        "openstates_id": "ocd-person/4df69dca-ac45-46e2-a42d-26d77ddcdde4",
-        "party": "Republican",
-        "phone": "603-271-3661",
-        "social": {},
-        "state": "NH",
-        "state_name": "New Hampshire",
-        "url": "https://gc.nh.gov/house/members/member.aspx?pid=11371"
-      },
-      {
-        "address": "State House 107 N. Main St., Concord, NH 03301",
-        "chamber": "lower",
-        "district": "Hillsborough 39",
-        "district_key": "hillsborough 39",
         "email": "mark.warden@gc.nh.gov",
         "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Mark_Warden_candidate_photo__Medium__fixed.JPG",
         "name": "Mark Warden",
@@ -58607,22 +58592,6 @@
         "chamber": "lower",
         "district": "Hillsborough 43",
         "district_key": "hillsborough 43",
-        "email": "gary.daniels@gc.nh.gov",
-        "image": "http://www.livefreeordiealliance.org/Portals/0/images_candidates/GDanielsHH40.jpg",
-        "name": "Gary Daniels",
-        "openstates_id": "ocd-person/281c916b-4280-41ff-9ee1-ba183d838536",
-        "party": "Republican",
-        "phone": "603-271-3661",
-        "social": {},
-        "state": "NH",
-        "state_name": "New Hampshire",
-        "url": "https://gc.nh.gov/house/members/member.aspx?pid=423"
-      },
-      {
-        "address": "State House 107 N. Main St., Concord, NH 03301",
-        "chamber": "lower",
-        "district": "Hillsborough 43",
-        "district_key": "hillsborough 43",
         "email": "paul.dargie@gc.nh.gov",
         "image": "https://www.citizenscount.org/sites/default/files/styles/profile_140x176/public/candidate-images/PaulDargie.jpg?itok=ss_z_Alb",
         "name": "Paul Dargie",
@@ -58801,22 +58770,6 @@
         "state": "NH",
         "state_name": "New Hampshire",
         "url": "https://gc.nh.gov/house/members/member.aspx?pid=11191"
-      },
-      {
-        "address": "State House 107 N. Main St., Concord, NH 03301",
-        "chamber": "lower",
-        "district": "Hillsborough 6",
-        "district_key": "hillsborough 6",
-        "email": "suzanne.vail@gc.nh.gov",
-        "image": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/76050.jpg",
-        "name": "Sue Vail",
-        "openstates_id": "ocd-person/ce985799-268d-4190-b078-955fc63a8c3c",
-        "party": "Democratic",
-        "phone": "603-271-3661",
-        "social": {},
-        "state": "NH",
-        "state_name": "New Hampshire",
-        "url": "https://gc.nh.gov/house/members/member.aspx?pid=789"
       }
     ],
     "NH:hillsborough 7": [
@@ -59887,22 +59840,6 @@
         "chamber": "lower",
         "district": "Rockingham 11",
         "district_key": "rockingham 11",
-        "email": "linda.haskins@gc.nh.gov",
-        "image": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/123187.jpg",
-        "name": "Linda Haskins",
-        "openstates_id": "ocd-person/ad3c3841-fa56-4055-bd86-8a3c504d36a9",
-        "party": "Democratic",
-        "phone": "603-271-3661",
-        "social": {},
-        "state": "NH",
-        "state_name": "New Hampshire",
-        "url": "https://gc.nh.gov/house/members/member.aspx?pid=10855"
-      },
-      {
-        "address": "State House 107 N. Main St., Concord, NH 03301",
-        "chamber": "lower",
-        "district": "Rockingham 11",
-        "district_key": "rockingham 11",
         "email": "mark.paige@gc.nh.gov",
         "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Mark-Paige.PNG",
         "name": "Mark Paige",
@@ -60581,22 +60518,6 @@
         "state": "NH",
         "state_name": "New Hampshire",
         "url": "https://gc.nh.gov/house/members/member.aspx?member=377137"
-      },
-      {
-        "address": "State House 107 N. Main St., Concord, NH 03301",
-        "chamber": "lower",
-        "district": "Rockingham 24",
-        "district_key": "rockingham 24",
-        "email": "jaci.grote@gc.nh.gov",
-        "image": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/73222.jpg",
-        "name": "Jaci Grote",
-        "openstates_id": "ocd-person/26f01212-5287-4735-aa1f-77e4f0d2acb6",
-        "party": "Democratic",
-        "phone": "603-271-3661",
-        "social": {},
-        "state": "NH",
-        "state_name": "New Hampshire",
-        "url": "https://gc.nh.gov/house/members/member.aspx?member=408923"
       }
     ],
     "NH:rockingham 25": [
@@ -64182,26 +64103,6 @@
         "state": "NM",
         "state_name": "New Mexico",
         "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSAJO"
-      }
-    ],
-    "NM:41": [
-      {
-        "address": "State Capitol Room 203BN, New Mexico  490 Old Santa Fe Trail, Santa Fe, NM 87501",
-        "chamber": "lower",
-        "district": "41",
-        "district_key": "41",
-        "email": "susan.herrera@nmlegis.gov",
-        "image": "https://www.nmlegis.gov/Images/Legislators/House/HHERS.jpg",
-        "name": "Susan Herrera",
-        "openstates_id": "ocd-person/d5d0e9d9-bd6f-4f28-9a3f-13a56cadcc0f",
-        "party": "Democratic",
-        "phone": "505-986-4438",
-        "social": {
-          "facebook": "NMDistrict41"
-        },
-        "state": "NM",
-        "state_name": "New Mexico",
-        "url": "https://www.linkedin.com/in/susan-herrera-62757815/"
       }
     ],
     "NM:42": [
@@ -70862,7 +70763,7 @@
     ],
     "OK:31": [
       {
-        "address": "Room 246, 2300 N. Lincoln Blvd., Oklahoma City, OK 73105",
+        "address": "Room 456, 2300 N. Lincoln Blvd., Oklahoma City, OK 73105",
         "chamber": "lower",
         "district": "31",
         "district_key": "31",
@@ -70988,7 +70889,7 @@
     ],
     "OK:38": [
       {
-        "address": "Room 456, 2300 N. Lincoln Blvd., Oklahoma City, OK 73105",
+        "address": "Room 305, 2300 N. Lincoln Blvd., Oklahoma City, OK 73105",
         "chamber": "lower",
         "district": "38",
         "district_key": "38",
@@ -72064,6 +71965,24 @@
         "state": "OK",
         "state_name": "Oklahoma",
         "url": "https://www.okhouse.gov/Members/District.aspx?District=91"
+      }
+    ],
+    "OK:92": [
+      {
+        "address": "Room 501, 2300 N. Lincoln Blvd., Oklahoma City, OK 73105",
+        "chamber": "lower",
+        "district": "92",
+        "district_key": "92",
+        "email": "sam.wargingrimaldo@okhouse.gov",
+        "image": null,
+        "name": "Sam Wargin Grimaldo",
+        "openstates_id": "ocd-person/2e541dab-e87d-431a-91f5-e524aa301d5f",
+        "party": "Democratic",
+        "phone": "405-557-7404",
+        "social": {},
+        "state": "OK",
+        "state_name": "Oklahoma",
+        "url": "https://www.okhouse.gov/representatives/sam-wargingrimaldo"
       }
     ],
     "OK:93": [
@@ -74886,7 +74805,7 @@
     ],
     "PA:164": [
       {
-        "address": "Room 25A, East Wing P.O. Box 202164, Harrisburg, PA 17120",
+        "address": "Room 111, Irvis Office Building P.O. Box 202164, Harrisburg, PA 17120",
         "chamber": "lower",
         "district": "164",
         "district_key": "164",
@@ -79014,7 +78933,7 @@
     ],
     "RI:36": [
       {
-        "address": "Room B-07A, 82 Smith St., Providence, RI 02903",
+        "address": "Room 07A, 82 Smith St., Providence, RI 02903",
         "chamber": "lower",
         "district": "36",
         "district_key": "36",
@@ -79023,7 +78942,7 @@
         "name": "Tina Spears",
         "openstates_id": "ocd-person/2c3d82e7-8bdc-4da9-bbab-e42bb5e223fb",
         "party": "Democratic",
-        "phone": "401-480-8237",
+        "phone": "401-222-1162",
         "social": {},
         "state": "RI",
         "state_name": "Rhode Island",
@@ -79158,7 +79077,7 @@
     ],
     "RI:43": [
       {
-        "address": "Room 331A, 82 Smith St., Providence, RI 02903",
+        "address": "Room B7, 82 Smith St., Providence, RI 02903",
         "chamber": "lower",
         "district": "43",
         "district_key": "43",
@@ -79167,7 +79086,7 @@
         "name": "Deb Fellela",
         "openstates_id": "ocd-person/3efcf2f9-f7f8-4441-9ec7-4f6d8c17940f",
         "party": "Democratic",
-        "phone": "401-470-3924",
+        "phone": "401-222-1723",
         "social": {},
         "state": "RI",
         "state_name": "Rhode Island",
@@ -79464,7 +79383,7 @@
     ],
     "RI:59": [
       {
-        "address": "Room B-07, 82 Smith St., Providence, RI 02903",
+        "address": "Room 07, 82 Smith St., Providence, RI 02903",
         "chamber": "lower",
         "district": "59",
         "district_key": "59",
@@ -79473,7 +79392,7 @@
         "name": "Jennifer Stewart",
         "openstates_id": "ocd-person/c11b7057-fe39-42b6-8a38-91d9e7349118",
         "party": "Democratic",
-        "phone": "401-305-0088",
+        "phone": "401-222-1721",
         "social": {},
         "state": "RI",
         "state_name": "Rhode Island",
@@ -79563,7 +79482,7 @@
         "name": "Katie Kazarian",
         "openstates_id": "ocd-person/bd30e693-11a2-412f-b81a-bebc78d91145",
         "party": "Democratic",
-        "phone": "401-433-9636",
+        "phone": "401-222-2466",
         "social": {},
         "state": "RI",
         "state_name": "Rhode Island",
@@ -79626,16 +79545,16 @@
     ],
     "RI:67": [
       {
-        "address": "Room 5, 82 Smith St., Providence, RI 02903",
+        "address": "Room B-5, 82 Smith St., Providence, RI 02903",
         "chamber": "lower",
         "district": "67",
         "district_key": "67",
         "email": "rep-knight@rilegislature.gov",
-        "image": "https://www.jasonknightlaw.com/wp-content/uploads/2025/01/about-img.webp",
+        "image": "https://www.rilegislature.gov/LegislationPictures/jason_knight.jpg",
         "name": "Jason Knight",
         "openstates_id": "ocd-person/cef11d28-cbbb-4ffd-b8f2-23c71e73f1b3",
         "party": "Democratic",
-        "phone": "401-903-9804",
+        "phone": "401-222-4435",
         "social": {},
         "state": "RI",
         "state_name": "Rhode Island",
@@ -79797,7 +79716,7 @@
         "name": "Lauren Carson",
         "openstates_id": "ocd-person/320f08df-f7d3-4ebe-a696-9c2b8d98f75b",
         "party": "Democratic",
-        "phone": "401-523-1143",
+        "phone": "401-222-1162",
         "social": {},
         "state": "RI",
         "state_name": "Rhode Island",
@@ -79824,7 +79743,7 @@
     ],
     "RI:9": [
       {
-        "address": "Room B-07A, 82 Smith St., Providence, RI 02903",
+        "address": "Room 07A, 82 Smith St., Providence, RI 02903",
         "chamber": "lower",
         "district": "9",
         "district_key": "9",
@@ -79833,7 +79752,7 @@
         "name": "Enrique Sanchez",
         "openstates_id": "ocd-person/e70e3449-7587-4a64-a940-922d543f5a2d",
         "party": "Democratic",
-        "phone": "401-753-8114",
+        "phone": "401-222-1162",
         "social": {},
         "state": "RI",
         "state_name": "Rhode Island",
@@ -87622,24 +87541,6 @@
         "url": "https://house.texas.gov/members/92"
       }
     ],
-    "TX:93": [
-      {
-        "address": "Room E1.410, P.O. Box 12910, Austin, TX 78711",
-        "chamber": "lower",
-        "district": "93",
-        "district_key": "93",
-        "email": "nate.schatzline@house.texas.gov",
-        "image": "https://house.texas.gov/images/members/4355.jpg?v=1",
-        "name": "Nate Schatzline",
-        "openstates_id": "ocd-person/c6308fcd-b1e1-4ce3-9a29-c05e420e8012",
-        "party": "Republican",
-        "phone": "512-463-0562",
-        "social": {},
-        "state": "TX",
-        "state_name": "Texas",
-        "url": "https://house.texas.gov/members/4355"
-      }
-    ],
     "TX:94": [
       {
         "address": "Room E1.420, P.O. Box 12910, Austin, TX 78711",
@@ -88198,6 +88099,24 @@
         "state": "US",
         "state_name": "US",
         "url": "https://gosar.house.gov/"
+      }
+    ],
+    "US:ca-1": [
+      {
+        "address": "408 Cannon House Office Building, Washington, DC 20515",
+        "chamber": "lower",
+        "district": "CA-1",
+        "district_key": "ca-1",
+        "email": "https://gallagher.house.gov/address_authentication?form=/contact/email-me",
+        "image": "https://img.legistorm.com/people/064/211064.jpg?rand=103089",
+        "name": "James Gallagher",
+        "openstates_id": "ocd-person/2819c958-3cbe-4349-a2e9-6997054b8ea2",
+        "party": "Republican",
+        "phone": "202-225-3076",
+        "social": {},
+        "state": "US",
+        "state_name": "US",
+        "url": "https://gallagher.house.gov/"
       }
     ],
     "US:ca-10": [
@@ -93851,7 +93770,7 @@
     ],
     "US:oh-11": [
       {
-        "address": "2313 Rayburn House Office Building, Washington, DC 20515",
+        "address": "2455 Rayburn House Office Building, Washington, DC 20515",
         "chamber": "lower",
         "district": "OH-11",
         "district_key": "oh-11",
@@ -106159,20 +106078,20 @@
     ],
     "WV:22": [
       {
-        "address": "State Capitol Room 150R, Complex, Building 1 1900 Kanawha Blvd. East, Charleston, WV 25305",
+        "address": null,
         "chamber": "lower",
         "district": "22",
         "district_key": "22",
-        "email": "daniel.linville@wvhouse.gov",
-        "image": "http://www.wvlegislature.gov/images/members/2023/house/linville_daniel.jpg",
-        "name": "Daniel Linville",
-        "openstates_id": "ocd-person/32c4e5cf-81f5-4564-bb9b-568d13156dec",
+        "email": null,
+        "image": "https://aaronholleywv.com/headshot.jpg",
+        "name": "Aaron Holley",
+        "openstates_id": "ocd-person/feedb0b5-72da-4529-ab31-630805452e1a",
         "party": "Republican",
-        "phone": "304-340-3277",
+        "phone": null,
         "social": {},
         "state": "WV",
         "state_name": "West Virginia",
-        "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Linville"
+        "url": null
       }
     ],
     "WV:23": [
@@ -106505,16 +106424,16 @@
         "chamber": "lower",
         "district": "4",
         "district_key": "4",
-        "email": "bill.flanigan@wvhouse.gov",
-        "image": "https://www.wvlegislature.gov/images/members/2025/house/flanigan_bill.jpg",
-        "name": "Bill Flanigan",
-        "openstates_id": "ocd-person/84ae4ee5-01d1-402d-8267-787a78dd58e5",
+        "email": "shane.stack@wvhouse.gov",
+        "image": "https://www.wvlegislature.gov/images/members/2025/house/stack_shane.jpg",
+        "name": "Shane Stack",
+        "openstates_id": "ocd-person/290eeecf-40a3-4418-a80d-15a61b809607",
         "party": "Republican",
-        "phone": "304-340-3127",
+        "phone": "304-340-3378",
         "social": {},
         "state": "WV",
         "state_name": "West Virginia",
-        "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Flanigan"
+        "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Stack"
       }
     ],
     "WV:40": [
@@ -106663,7 +106582,7 @@
     ],
     "WV:48": [
       {
-        "address": "Room 230E, Building 1, State Capitol Complex, Charleston, WV 25305",
+        "address": "State Capitol Room 230E, Complex Building 1, Charleston, WV 25305",
         "chamber": "lower",
         "district": "48",
         "district_key": "48",
@@ -106713,24 +106632,6 @@
         "state": "WV",
         "state_name": "West Virginia",
         "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Fluharty"
-      }
-    ],
-    "WV:50": [
-      {
-        "address": "State Capitol Room 229E, Complex, Building 1 1900 Kanawha Blvd. East, Charleston, WV 25305",
-        "chamber": "lower",
-        "district": "50",
-        "district_key": "50",
-        "email": "elliott.pritt@wvhouse.gov",
-        "image": "https://www.wvlegislature.gov/images/members/2025/house/pritt_david.jpg",
-        "name": "Elliott Pritt",
-        "openstates_id": "ocd-person/d7f119af-3e41-40a1-9541-bfa1a1e7a9b4",
-        "party": "Republican",
-        "phone": "304-340-3337",
-        "social": {},
-        "state": "WV",
-        "state_name": "West Virginia",
-        "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Pritt"
       }
     ],
     "WV:51": [
@@ -107293,7 +107194,7 @@
     ],
     "WV:8": [
       {
-        "address": "Room 206E, Building 1, State Capitol Complex, Charleston, WV 25305",
+        "address": "State Capitol Room 206E, Complex Building 1, Charleston, WV 25305",
         "chamber": "lower",
         "district": "8",
         "district_key": "8",
@@ -109830,7 +109731,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://alison.legislature.state.al.us/house-leaders-members"
+        "url": "https://alsenaterepublicans.org/representatives/005-matt-woods/"
       }
     ],
     "AL:6": [
@@ -109903,28 +109804,6 @@
         "state": "AL",
         "state_name": "Alabama",
         "url": "https://alsenaterepublicans.org/representatives/009-district9-senator/"
-      }
-    ],
-    "AR:1": [
-      {
-        "address": "State Capitol Building 500 Woodlane St., Suite 320, Little Rock, AR 72201",
-        "chamber": "upper",
-        "district": "1",
-        "district_key": "1",
-        "email": "ben.gilmore@senate.ar.gov",
-        "image": "https://www.arkleg.state.ar.us/Content/photos/2023/Senate/583_sm.jpg",
-        "name": "Ben Gilmore",
-        "openstates_id": "ocd-person/821d4077-0022-48a9-86b1-eb4d3bdef2e7",
-        "party": "Republican",
-        "phone": "501-682-2902",
-        "social": {
-          "facebook": "Ben4StateSenate",
-          "instagram": "lbengilmore",
-          "twitter": "lbengilmore"
-        },
-        "state": "AR",
-        "state_name": "Arkansas",
-        "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Gilmore"
       }
     ],
     "AR:10": [
@@ -112571,7 +112450,7 @@
         "chamber": "upper",
         "district": "7",
         "district_key": "7",
-        "email": "janicerichsd7@gmail.com",
+        "email": "janice.rich.senate@coleg.gov",
         "image": "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBLzVTQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--afd770f3635f91909fdcc0bde3b95c1599089da7/Rich,%20Janice.jpg",
         "name": "Janice Rich",
         "openstates_id": "ocd-person/2372415a-2aea-4423-8a3a-bed2d40493a6",
@@ -114057,7 +113936,7 @@
         "chamber": "upper",
         "district": "27",
         "district_key": "27",
-        "email": "albritton.ben@flsenate.gov",
+        "email": "albritton.ben.web@flsenate.gov",
         "image": "https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s27_5342.jpg",
         "name": "Ben Albritton",
         "openstates_id": "ocd-person/5c81dfe7-1cec-45e8-8044-6d9cd324f2e8",
@@ -114629,7 +114508,7 @@
     ],
     "GA:20": [
       {
-        "address": "State Capitol Room 421-A, 206 Washington St. SW, Atlanta, GA 30334",
+        "address": "State Capitol Room 321, 206 Washington St. SW, Atlanta, GA 30334",
         "chamber": "upper",
         "district": "20",
         "district_key": "20",
@@ -114755,7 +114634,7 @@
     ],
     "GA:27": [
       {
-        "address": "State Capitol Room 421-B, 206 Washington St. SW, Atlanta, GA 30334",
+        "address": "Room 324-A, Coverdell Legislative Office Building 18 Capitol Square SW, Atlanta, GA 30334",
         "chamber": "upper",
         "district": "27",
         "district_key": "27",
@@ -114863,7 +114742,7 @@
     ],
     "GA:32": [
       {
-        "address": "Room 324-A, Coverdell Legislative Office Building 18 Capitol Square SW, Atlanta, GA 30334",
+        "address": "State Capitol Room 421-B, 206 Washington St. SW, Atlanta, GA 30334",
         "chamber": "upper",
         "district": "32",
         "district_key": "32",
@@ -114872,7 +114751,7 @@
         "name": "Kay Kirkpatrick",
         "openstates_id": "ocd-person/fc31ab02-026c-4173-86db-570c0b297c64",
         "party": "Republican",
-        "phone": "404-656-0508",
+        "phone": "404-463-2518",
         "social": {},
         "state": "GA",
         "state_name": "Georgia",
@@ -115365,6 +115244,24 @@
         "url": "https://www.legis.ga.gov/members/senate/4907"
       }
     ],
+    "GA:7": [
+      {
+        "address": "Room 320-B, Coverdell Legislative Office Building 18 Capitol Square SW, Atlanta, GA 30334",
+        "chamber": "upper",
+        "district": "7",
+        "district_key": "7",
+        "email": "adrienne.whitecarden@senate.ga.gov",
+        "image": null,
+        "name": "Adrienne White",
+        "openstates_id": "ocd-person/3cfc8d4f-68d4-44b2-81f4-a162465e1aed",
+        "party": "Democratic",
+        "phone": null,
+        "social": {},
+        "state": "GA",
+        "state_name": "Georgia",
+        "url": "https://www.legis.ga.gov/members/senate/5097"
+      }
+    ],
     "GA:8": [
       {
         "address": "Room 301-A, Coverdell Legislative Office Building 18 Capitol Square SW, Atlanta, GA 30334",
@@ -115454,7 +115351,7 @@
         "social": {},
         "state": "HI",
         "state_name": "Hawaii",
-        "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=168&year=2023"
+        "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=168"
       }
     ],
     "HI:12": [
@@ -115569,24 +115466,6 @@
         "state": "HI",
         "state_name": "Hawaii",
         "url": "https://capitol.hawaii.gov/memberpage.aspx?member=delacruz&year=2019"
-      }
-    ],
-    "HI:18": [
-      {
-        "address": "State Capitol Room 214, 415 S. Beretania St., Honolulu, HI 96813",
-        "chamber": "upper",
-        "district": "18",
-        "district_key": "18",
-        "email": "senkidani@capitol.hawaii.gov",
-        "image": "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/kidani.jpg",
-        "name": "Michelle Kidani",
-        "openstates_id": "ocd-person/511d674b-1e98-4a1f-8af2-24f986a165d9",
-        "party": "Democratic",
-        "phone": "808-586-7100",
-        "social": {},
-        "state": "HI",
-        "state_name": "Hawaii",
-        "url": "https://capitol.hawaii.gov/memberpage.aspx?member=kidani&year=2019"
       }
     ],
     "HI:19": [
@@ -115911,24 +115790,6 @@
         "state": "IA",
         "state_name": "Iowa",
         "url": "https://www.iowasenaterepublicans.com/senators/dan-dawson/"
-      }
-    ],
-    "IA:11": [
-      {
-        "address": "1007 E. Grand Ave., Des Moines, IA 50319",
-        "chamber": "upper",
-        "district": "11",
-        "district_key": "11",
-        "email": "julian.garrett@legis.iowa.gov",
-        "image": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=9404",
-        "name": "Julian Garrett",
-        "openstates_id": "ocd-person/67f25420-8ea1-49d1-aa86-488136b5f9f5",
-        "party": "Republican",
-        "phone": "515-281-3371",
-        "social": {},
-        "state": "IA",
-        "state_name": "Iowa",
-        "url": "https://www.iowasenaterepublicans.com/senators/julian-garrett/"
       }
     ],
     "IA:12": [
@@ -118331,7 +118192,7 @@
         "chamber": "upper",
         "district": "56",
         "district_key": "56",
-        "email": "harris@ilsenategop.org",
+        "email": "harriss@ilsenategop.org",
         "image": "https://cdn.ilga.gov/assets/img/members/{7762DCAD-269B-472B-BDD4-5F5A28D47817}.jpg",
         "name": "Erica Harriss",
         "openstates_id": "ocd-person/4dadb374-d534-4ba0-8323-6e41a19933f5",
@@ -118377,6 +118238,24 @@
         "state": "IL",
         "state_name": "Illinois",
         "url": "https://ilga.gov/house/Rep.asp?GA=101&MemberID=2656"
+      }
+    ],
+    "IL:59": [
+      {
+        "address": "Stratton Office Building A - Section, Office L, Springfield, IL 62706",
+        "chamber": "upper",
+        "district": "59",
+        "district_key": "59",
+        "email": "jacobs@ilsenategop.org",
+        "image": "https://cdn.ilga.gov/assets/img/members/{0E151A06-57C8-4261-9577-278F5DD4B717}.jpg",
+        "name": "Paul Jacobs",
+        "openstates_id": "ocd-person/2febe0de-8b57-43c9-b8cd-a5363af4eae3",
+        "party": "Republican",
+        "phone": "217-782-5509",
+        "social": {},
+        "state": "IL",
+        "state_name": "Illinois",
+        "url": "https://ilga.gov/house/Rep.asp?GA=102&MemberID=3003"
       }
     ],
     "IL:6": [
@@ -120903,24 +120782,6 @@
         "url": "https://senate.la.gov/smembers?ID=13"
       }
     ],
-    "LA:14": [
-      {
-        "address": "P.O. Box 94183 900 N. 3rd St., Baton Rouge, LA 70804",
-        "chamber": "upper",
-        "district": "14",
-        "district_key": "14",
-        "email": "sen14@legis.la.gov",
-        "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep67.jpg",
-        "name": "Larry Selders",
-        "openstates_id": "ocd-person/52035a94-6995-4ea4-b463-1109d683048b",
-        "party": "Democratic",
-        "phone": "225-342-2024",
-        "social": {},
-        "state": "LA",
-        "state_name": "Louisiana",
-        "url": "https://house.louisiana.gov/H_Reps/members?ID=67"
-      }
-    ],
     "LA:15": [
       {
         "address": "P.O. Box 94183 900 N. 3rd St., Baton Rouge, LA 70804",
@@ -122579,7 +122440,7 @@
     ],
     "MD:27": [
       {
-        "address": "Room 302, James Senate Office Building 11 Bladen St., Annapolis, MD 21401",
+        "address": "Annapolis, MD 21401",
         "chamber": "upper",
         "district": "27",
         "district_key": "27",
@@ -125617,24 +125478,6 @@
         "state": "MO",
         "state_name": "Missouri",
         "url": "https://www.house.mo.gov/MemberDetails.aspx?district=92"
-      }
-    ],
-    "MO:10": [
-      {
-        "address": null,
-        "chamber": "upper",
-        "district": "10",
-        "district_key": "10",
-        "email": "travis.fitzwater@senate.mo.gov",
-        "image": "https://house.mo.gov/MemberPhoto.aspx?id=1804",
-        "name": "Travis Fitzwater",
-        "openstates_id": "ocd-person/0889a1d5-7416-4391-b235-6c7772dc5ce2",
-        "party": "Republican",
-        "phone": null,
-        "social": {},
-        "state": "MO",
-        "state_name": "Missouri",
-        "url": "https://www.senate.mo.gov/Senators/Member/10"
       }
     ],
     "MO:11": [
@@ -129914,7 +129757,7 @@
         "name": "Tara Reardon",
         "openstates_id": "ocd-person/db4dc6cd-8c68-487f-a1e3-dd80995ba786",
         "party": "Democratic",
-        "phone": "603-271-3091",
+        "phone": "603-271-7875",
         "social": {},
         "state": "NH",
         "state_name": "New Hampshire",
@@ -134296,24 +134139,6 @@
         "url": "https://oksenate.gov/Senators/biographies/paxton_bio.aspx"
       }
     ],
-    "OK:24": [
-      {
-        "address": "Room 419, 2300 N. Lincoln Blvd., Oklahoma City, OK 73105",
-        "chamber": "upper",
-        "district": "24",
-        "district_key": "24",
-        "email": "darrell.weaver@oksenate.gov",
-        "image": "https://oksenate.gov/sites/default/files/Weaver%2C%20Darrell_flags.jpg",
-        "name": "Darrell Weaver",
-        "openstates_id": "ocd-person/bea1fd3e-9a8e-4cd6-bdb8-abedd9f8a888",
-        "party": "Republican",
-        "phone": "405-521-5569",
-        "social": {},
-        "state": "OK",
-        "state_name": "Oklahoma",
-        "url": "https://oksenate.gov/Senators/biographies/weaver_bio.aspx"
-      }
-    ],
     "OK:25": [
       {
         "address": "Room 446, 2300 N. Lincoln Blvd., Oklahoma City, OK 73105",
@@ -137117,7 +136942,7 @@
     ],
     "RI:14": [
       {
-        "address": "Room 316, 82 Smith St., Providence, RI 02903",
+        "address": "82 Smith St., Providence, RI 02903",
         "chamber": "upper",
         "district": "14",
         "district_key": "14",
@@ -137351,7 +137176,7 @@
     ],
     "RI:26": [
       {
-        "address": "Room 312, 82 Smith St., Providence, RI 02903",
+        "address": "82 Smith St., Providence, RI 02903",
         "chamber": "upper",
         "district": "26",
         "district_key": "26",
@@ -137639,12 +137464,12 @@
     ],
     "RI:6": [
       {
-        "address": "Room 219, 82 Smith St., Providence, RI 02903",
+        "address": "82 Smith St., Providence, RI 02903",
         "chamber": "upper",
         "district": "6",
         "district_key": "6",
         "email": "sen-mack@rilegislature.gov",
-        "image": "https://media3.s-nbcnews.com/j/newscms/2020_47/3429284/201118-MAIN-tiara-mack-benjamin-branchaud-ew-1140a_41fc9dcc361b3077b5b335fab1dc4a55.fit-760w.jpg",
+        "image": "https://www.rilegislature.gov/senators/Pictures/Mack%202023%20NEW.jpg",
         "name": "Tiara Mack",
         "openstates_id": "ocd-person/b3d5296c-05df-46f5-9a93-4caf96121a84",
         "party": "Democratic",
@@ -139835,7 +139660,7 @@
     ],
     "TX:13": [
       {
-        "address": "Room 3E.12, P.O. Box 12068 Capitol Station, Austin, TX 78711",
+        "address": "P.O. Box 12068 Capitol Station, Austin, TX 78711",
         "chamber": "upper",
         "district": "13",
         "district_key": "13",
@@ -140013,24 +139838,6 @@
         "url": "https://senate.texas.gov/member.php?d=21"
       }
     ],
-    "TX:22": [
-      {
-        "address": "Room 1E.3, P.O. Box 12068 Capitol Station, Austin, TX 78711",
-        "chamber": "upper",
-        "district": "22",
-        "district_key": "22",
-        "email": "brian.birdwell@senate.texas.gov",
-        "image": "https://senate.texas.gov/members/d22/img/headshot.jpg",
-        "name": "Brian Birdwell",
-        "openstates_id": "ocd-person/44a23037-5ccd-4781-9e93-c4b950f74355",
-        "party": "Republican",
-        "phone": "512-463-0122",
-        "social": {},
-        "state": "TX",
-        "state_name": "Texas",
-        "url": "https://senate.texas.gov/member.php?d=22"
-      }
-    ],
     "TX:23": [
       {
         "address": "Room 1E.5, P.O. Box 12068 Capitol Station, Austin, TX 78711",
@@ -140177,7 +139984,7 @@
     ],
     "TX:30": [
       {
-        "address": "Room GE.7, P.O. Box 12068 Capitol Station, Austin, TX 78711",
+        "address": "P.O. Box 12068 Capitol Station, Austin, TX 78711",
         "chamber": "upper",
         "district": "30",
         "district_key": "30",
@@ -140213,20 +140020,20 @@
     ],
     "TX:4": [
       {
-        "address": null,
+        "address": "P.O. Box 12068 Capitol Station, Austin, TX 78711",
         "chamber": "upper",
         "district": "4",
         "district_key": "4",
-        "email": null,
-        "image": "https://www.bihmfirm.com/images/att_brett.jpg",
+        "email": "brett.ligon@senate.texas.gov",
+        "image": "https://senate.texas.gov/members/d04/img/Ligon_Brett_Headshot_web.jpg",
         "name": "Brett Ligon",
         "openstates_id": "ocd-person/6fde08be-f7c0-464a-83a7-430c60617beb",
         "party": "Republican",
-        "phone": null,
+        "phone": "512-463-0104",
         "social": {},
         "state": "TX",
         "state_name": "Texas",
-        "url": null
+        "url": "https://senate.texas.gov/member.php?d=4"
       }
     ],
     "TX:5": [
@@ -140481,7 +140288,7 @@
     ],
     "US:california": [
       {
-        "address": "B40-C Dirksen Senate Office Building, Washington, DC 20510",
+        "address": "112 Hart Senate Office Building, Washington, DC 20510",
         "chamber": "upper",
         "district": "California",
         "district_key": "california",
@@ -141151,7 +140958,7 @@
         "chamber": "upper",
         "district": "Massachusetts",
         "district_key": "massachusetts",
-        "email": "https://www.warren.senate.gov/contact/shareyouropinion",
+        "email": "https://www.warren.senate.gov/contact/share-your-opinion/",
         "image": "https://unitedstates.github.io/images/congress/450x550/W000817.jpg",
         "name": "Elizabeth Warren",
         "openstates_id": "ocd-person/3de20aaf-f982-5aa3-8280-c5154be829aa",
@@ -141690,7 +141497,7 @@
         "chamber": "upper",
         "district": "Ohio",
         "district_key": "ohio",
-        "email": "https://www.moreno.senate.gov/share-your-opinion/",
+        "email": "https://www.moreno.senate.gov/contact/share-your-opinion/",
         "image": null,
         "name": "Bernie Moreno",
         "openstates_id": "ocd-person/a9a4d048-36e2-4f72-a764-5c361593a0d3",
@@ -141875,24 +141682,20 @@
     ],
     "US:south carolina": [
       {
-        "address": "211 Russell Senate Office Building, Washington, DC 20510",
+        "address": "B33 Russell Senate Office Building, Washington, DC 20510",
         "chamber": "upper",
         "district": "South Carolina",
         "district_key": "south carolina",
-        "email": "https://www.lgraham.senate.gov/public/index.cfm/e-mail-senator-graham",
-        "image": "https://unitedstates.github.io/images/congress/450x550/G000359.jpg",
-        "name": "Lindsey Graham",
-        "openstates_id": "ocd-person/111e4df8-6815-5549-9833-57120f302f81",
+        "email": null,
+        "image": "https://img.legistorm.com/people/971/212971.jpg?rand=284886",
+        "name": "Darline Graham",
+        "openstates_id": "ocd-person/4c0ef839-19db-4ca7-844c-c863ff4963d2",
         "party": "Republican",
         "phone": "202-224-5972",
-        "social": {
-          "facebook": "USSenatorLindseyGraham",
-          "twitter": "GrahamBlog",
-          "youtube": "UClLGZMA5Ei2Z8fR1PLEx6yQ"
-        },
+        "social": {},
         "state": "US",
         "state_name": "US",
-        "url": "https://www.lgraham.senate.gov/public/"
+        "url": null
       },
       {
         "address": "104 Hart Senate Office Building, Washington, DC 20510",
@@ -141921,7 +141724,7 @@
         "chamber": "upper",
         "district": "South Dakota",
         "district_key": "south dakota",
-        "email": "https://www.thune.senate.gov/public/index.cfm/contact",
+        "email": "https://www.thune.senate.gov/contact/email-senator-thune/",
         "image": "https://unitedstates.github.io/images/congress/450x550/T000250.jpg",
         "name": "John Thune",
         "openstates_id": "ocd-person/342214ae-2e66-50a4-9a10-acc467bd5d98",
@@ -142248,7 +142051,7 @@
         "chamber": "upper",
         "district": "Wisconsin",
         "district_key": "wisconsin",
-        "email": "https://www.ronjohnson.senate.gov/email-the-senator",
+        "email": "https://www.ronjohnson.senate.gov/contact/email-the-senator/",
         "image": "https://unitedstates.github.io/images/congress/450x550/J000293.jpg",
         "name": "Ron Johnson",
         "openstates_id": "ocd-person/67d8f8b5-1fad-5132-9da8-3210783163a8",
@@ -142905,7 +142708,7 @@
     ],
     "VA:12": [
       {
-        "address": "Room 604, General Assembly Building P.O. Box 396, Richmond, VA 23218",
+        "address": "Room 611, General Assembly Building P.O. Box 396, Richmond, VA 23218",
         "chamber": "upper",
         "district": "12",
         "district_key": "12",
@@ -142962,7 +142765,7 @@
     ],
     "VA:15": [
       {
-        "address": "Room 616, General Assembly Building P.O. Box 396, Richmond, VA 23218",
+        "address": "Room 604, General Assembly Building P.O. Box 396, Richmond, VA 23218",
         "chamber": "upper",
         "district": "15",
         "district_key": "15",
@@ -143478,7 +143281,7 @@
     ],
     "VA:39": [
       {
-        "address": "Room 611, P.O. Box 396 General Assembly Building, 201 N. 9th St., Richmond, VA 23218",
+        "address": "Room 616, P.O. Box 396 General Assembly Building, 201 N. 9th St., Richmond, VA 23218",
         "chamber": "upper",
         "district": "39",
         "district_key": "39",
@@ -146113,7 +145916,7 @@
         "url": "https://www.legis.state.wv.us/Senate1/lawmaker.cfm?member=Senator+Phillips"
       },
       {
-        "address": "Room 204W, Building 1, State Capitol Complex, Charleston, WV 25305",
+        "address": "State Capitol Room 204W, Complex Building 1, Charleston, WV 25305",
         "chamber": "upper",
         "district": "7",
         "district_key": "7",
