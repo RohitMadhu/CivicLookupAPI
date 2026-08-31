@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T09:37:23.316948+00:00",
+  "generated_at": "2026-08-31T16:33:00.640089+00:00",
   "sources": {
     "openstates_people": "https://github.com/openstates/people"
   },
@@ -60,7 +60,7 @@
         },
         "state": "DC",
         "state_name": "District of Columbia",
-        "url": "http://live-dc-council.pantheonsite.io/council/elissa-silverman/"
+        "url": "https://dccouncil.us/council/elissa-silverman/"
       },
       {
         "address": "1350 Pennsylvania Ave. NW Suite 107, Washington, DC 20004",
@@ -361,7 +361,7 @@
         "chamber": "legislature",
         "district": "14",
         "district_key": "14",
-        "email": "jarch@leg.ne.gov",
+        "email": "john.arch@leg.ne.gov",
         "image": "https://www.nebraskalegislature.gov/media/images/senators/dist14/highres/dist14.jpg",
         "name": "John Arch",
         "openstates_id": "ocd-person/f5d27385-af4c-4c08-8654-3e27ef120d94",
@@ -399,7 +399,7 @@
         "chamber": "legislature",
         "district": "16",
         "district_key": "16",
-        "email": "bhansen@leg.ne.gov",
+        "email": "ben.hansen@leg.ne.gov",
         "image": "https://www.nebraskalegislature.gov/media/images/senators/dist16/highres/dist16.jpg",
         "name": "Ben Hansen",
         "openstates_id": "ocd-person/bfc9dd37-6a7b-4ea2-acf5-c8e161a27764",
@@ -460,7 +460,7 @@
         "chamber": "legislature",
         "district": "19",
         "district_key": "19",
-        "email": "rdover@leg.ne.gov",
+        "email": "robert.dover@leg.ne.gov",
         "image": "https://www.nebraskalegislature.gov/media/images/senators/dist19/highres/dist19.jpg",
         "name": "Robert Dover",
         "openstates_id": "ocd-person/a9cc86ff-602c-453f-9d6c-fd1567c7fbd7",
@@ -498,7 +498,7 @@
         "chamber": "legislature",
         "district": "20",
         "district_key": "20",
-        "email": "jfredrickson@leg.ne.gov",
+        "email": "john.fredrickson@leg.ne.gov",
         "image": "https://www.nebraskalegislature.gov/media/images/senators/dist20/highres/dist20.jpg",
         "name": "John Fredrickson",
         "openstates_id": "ocd-person/30b4a401-6f6b-4367-80c2-b9d60d7c527f",
@@ -739,7 +739,7 @@
         "chamber": "legislature",
         "district": "31",
         "district_key": "31",
-        "email": "kkauth@leg.ne.gov",
+        "email": "kathleen.kauth@leg.ne.gov",
         "image": "https://www.nebraskalegislature.gov/media/images/senators/dist31/highres/dist31.jpg",
         "name": "Kathleen Kauth",
         "openstates_id": "ocd-person/9d6fd408-5497-4038-9716-c1f487e348d2",
@@ -817,7 +817,7 @@
         "chamber": "legislature",
         "district": "35",
         "district_key": "35",
-        "email": "dquick@leg.ne.gov",
+        "email": "dan.quick@leg.ne.gov",
         "image": "http://www.nebraskalegislature.gov/media/images/blogs/dist35.jpg",
         "name": "Dan Quick",
         "openstates_id": "ocd-person/d3b8ad26-4cf1-4abf-ae4e-0f7a65f92fe6",
@@ -1011,7 +1011,7 @@
         "chamber": "legislature",
         "district": "44",
         "district_key": "44",
-        "email": "tibach@leg.ne.gov",
+        "email": "teresa.ibach@leg.ne.gov",
         "image": "https://www.nebraskalegislature.gov/media/images/senators/dist44/highres/dist44.jpg",
         "name": "Teresa Ibach",
         "openstates_id": "ocd-person/374b6dc4-5b90-4028-814c-84895a293c84",
@@ -1052,7 +1052,7 @@
         "chamber": "legislature",
         "district": "46",
         "district_key": "46",
-        "email": "dconrad@leg.ne.gov",
+        "email": "danielle.conrad@leg.ne.gov",
         "image": "https://www.nebraskalegislature.gov/media/images/senators/dist46/highres/dist46.jpg",
         "name": "Danielle Conrad",
         "openstates_id": "ocd-person/bf280e36-3547-4d6a-b5aa-d6c32bb5547a",
@@ -1192,7 +1192,7 @@
         "chamber": "legislature",
         "district": "8",
         "district_key": "8",
-        "email": "mhunt@leg.ne.gov",
+        "email": "megan.hunt@leg.ne.gov",
         "image": "https://www.nebraskalegislature.gov/media/images/senators/dist08/highres/dist08.jpg",
         "name": "Megan Hunt",
         "openstates_id": "ocd-person/1b988941-ec1a-4f87-b17a-51fb0309dea0",
@@ -3798,7 +3798,7 @@
         "social": {},
         "state": "AL",
         "state_name": "Alabama",
-        "url": "https://www.legislature.state.al.us/aliswww/ISD/ALRepresentative.aspx?OID_SPONSOR=100573&OID_PERSON=8513"
+        "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Rhett"
       }
     ],
     "AL:92": [
@@ -4691,6 +4691,24 @@
         "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Beck"
       }
     ],
+    "AR:44": [
+      {
+        "address": "State Capitol Arkansas  500 Woodlane St., Suite 350, Little Rock, AR 72201",
+        "chamber": "lower",
+        "district": "44",
+        "district_key": "44",
+        "email": "bill.teeter@arkansashouse.org",
+        "image": "https://static.wixstatic.com/media/1e7b93_82c600f3f8754e95b4320e4c18b3696b~mv2.jpg/v1/crop/x_134,y_594,w_1019,h_1171/fill/w_339,h_392,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_6621_JPG.jpg",
+        "name": "Bill Teeter",
+        "openstates_id": "ocd-person/a9eb9004-ed2b-41b1-a51a-81e59790718f",
+        "party": "Republican",
+        "phone": "501-682-6211",
+        "social": {},
+        "state": "AR",
+        "state_name": "Arkansas",
+        "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Teeter"
+      }
+    ],
     "AR:45": [
       {
         "address": "State Capitol Arkansas  500 Woodlane St., Suite 350, Little Rock, AR 72201",
@@ -5418,27 +5436,6 @@
         "state": "AR",
         "state_name": "Arkansas",
         "url": "https://arkleg.state.ar.us/Legislators/Detail?member=T.+Shephard"
-      }
-    ],
-    "AR:8": [
-      {
-        "address": "State Capitol Arkansas  500 Woodlane St., Suite 350, Little Rock, AR 72201",
-        "chamber": "lower",
-        "district": "8",
-        "district_key": "8",
-        "email": "austin.mccollum@arkansashouse.org",
-        "image": "https://www.arkleg.state.ar.us/Content/photos/2023/House/531_sm.jpg",
-        "name": "Austin McCollum",
-        "openstates_id": "ocd-person/30ea7268-a48a-424e-aadf-007b61874985",
-        "party": "Republican",
-        "phone": "501-682-6211",
-        "social": {
-          "facebook": "McCollumForArkansas",
-          "instagram": "austinmcc13"
-        },
-        "state": "AR",
-        "state_name": "Arkansas",
-        "url": "https://arkleg.state.ar.us/Legislators/Detail?member=McCollum"
       }
     ],
     "AR:80": [
@@ -10729,7 +10726,7 @@
         "district_key": "151",
         "email": "hector.arzeno@cga.ct.gov",
         "image": null,
-        "name": "Hector Arzeno",
+        "name": "H\u00e9ctor Arzeno",
         "openstates_id": "ocd-person/f0ce3c59-536e-4e79-9fe6-20eb59d66c06",
         "party": "Democratic",
         "phone": "860-240-8585",
@@ -11258,7 +11255,7 @@
         "social": {},
         "state": "CT",
         "state_name": "Connecticut",
-        "url": "https://www.housedems.ct.gov/Bumgardner"
+        "url": "https://repbumgardner.com"
       }
     ],
     "CT:42": [
@@ -12063,7 +12060,7 @@
         "image": "http://www2.housedems.ct.gov/Quinn/images/Quinn_HS.jpg",
         "name": "Michael Quinn",
         "openstates_id": "ocd-person/155c99fd-9d59-47e7-9134-12872a72426f",
-        "party": "Democratic/Working Families",
+        "party": "Democratic",
         "phone": "800-842-8267",
         "social": {},
         "state": "CT",
@@ -14498,24 +14495,6 @@
         "state": "FL",
         "state_name": "Florida",
         "url": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4758"
-      }
-    ],
-    "FL:55": [
-      {
-        "address": "Room 315, House Office Building 402 S. Monroe St., Tallahassee, FL 32399",
-        "chamber": "lower",
-        "district": "55",
-        "district_key": "55",
-        "email": "kevin.steele@flhouse.gov",
-        "image": "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4881.jpg",
-        "name": "Kevin Steele",
-        "openstates_id": "ocd-person/7cf27467-9070-4d4a-9a45-24bfe980dfb8",
-        "party": "Republican",
-        "phone": "850-717-5055",
-        "social": {},
-        "state": "FL",
-        "state_name": "Florida",
-        "url": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4881"
       }
     ],
     "FL:56": [
@@ -24712,13 +24691,13 @@
     ],
     "IL:97": [
       {
-        "address": null,
+        "address": "Springfield, IL 62706",
         "chamber": "lower",
         "district": "97",
         "district_key": "97",
-        "email": null,
+        "email": "repjessicadixonheitman@gmail.com",
         "image": "https://www.chicagotribune.com/wp-content/uploads/2026/07/ctc-l-Dixon-Heitman_264932049_246515.jpg?w=1392",
-        "name": "Jess Heitman",
+        "name": "Jessica Dixon Heitman",
         "openstates_id": "ocd-person/5ea8a157-c31c-407b-8378-6d80aa7280f9",
         "party": "Democratic",
         "phone": null,
@@ -32424,7 +32403,7 @@
     ],
     "LA:92": [
       {
-        "address": "P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804",
+        "address": null,
         "chamber": "lower",
         "district": "92",
         "district_key": "92",
@@ -32433,7 +32412,7 @@
         "name": "Joe Stagni",
         "openstates_id": "ocd-person/958015ce-4a91-4830-a11f-e73997823d4b",
         "party": "Republican",
-        "phone": "225-342-6945",
+        "phone": null,
         "social": {},
         "state": "LA",
         "state_name": "Louisiana",
@@ -33320,24 +33299,6 @@
         "state": "MA",
         "state_name": "Massachusetts",
         "url": "https://malegislature.gov/Legislators/Profile/FEP1"
-      }
-    ],
-    "MA:16th middlesex": [
-      {
-        "address": "Room 43, State House 24 Beacon St., Boston, MA 02133",
-        "chamber": "lower",
-        "district": "16th Middlesex",
-        "district_key": "16th middlesex",
-        "email": "rodney.elliott@mahouse.gov",
-        "image": "https://malegislature.gov/Legislators/Profile/170/RME1.jpg",
-        "name": "Rodney Elliott",
-        "openstates_id": "ocd-person/49816a0c-b8e5-4586-859b-8a8f1ae9b6ab",
-        "party": "Democratic",
-        "phone": "617-722-2030",
-        "social": {},
-        "state": "MA",
-        "state_name": "Massachusetts",
-        "url": "https://malegislature.gov/Legislators/Profile/RME1"
       }
     ],
     "MA:16th suffolk": [
@@ -46072,7 +46033,7 @@
     ],
     "MO:159": [
       {
-        "address": "Room 309, 201 W. Capitol Ave., Jefferson City, MO 65101",
+        "address": null,
         "chamber": "lower",
         "district": "159",
         "district_key": "159",
@@ -46081,7 +46042,7 @@
         "name": "Dirk Deaton",
         "openstates_id": "ocd-person/914b9a95-6dd2-4d1d-8dc4-eed597b02e53",
         "party": "Republican",
-        "phone": "573-751-9801",
+        "phone": null,
         "social": {},
         "state": "MO",
         "state_name": "Missouri",
@@ -49609,7 +49570,7 @@
         "name": "Gregory Elliott",
         "openstates_id": "ocd-person/9b5e1a7c-98cd-448e-9f75-d59a5591f1a4",
         "party": "Democratic",
-        "phone": "601-359-3770",
+        "phone": "601-562-4714",
         "social": {},
         "state": "MS",
         "state_name": "Mississippi",
@@ -53929,7 +53890,7 @@
         "name": "Patrick Hatlestad",
         "openstates_id": "ocd-person/8fd64fab-cbe4-4ad3-bd63-447cc527e567",
         "party": "Republican",
-        "phone": null,
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
@@ -54015,7 +53976,7 @@
         "name": "Bernie Satrom",
         "openstates_id": "ocd-person/3f885f7e-14b0-4ee7-b1fd-71ddbd72c539",
         "party": "Republican",
-        "phone": null,
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
@@ -54083,7 +54044,7 @@
         "name": "Jon Nelson",
         "openstates_id": "ocd-person/b3f127cc-2ec4-434b-8258-b5b29a7690ca",
         "party": "Republican",
-        "phone": null,
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
@@ -54117,7 +54078,7 @@
         "name": "Donna Henderson",
         "openstates_id": "ocd-person/56cc14e2-12cc-4d70-b37a-0aa0397bc841",
         "party": "Republican",
-        "phone": null,
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
@@ -54133,7 +54094,7 @@
         "name": "Kathy Frelich",
         "openstates_id": "ocd-person/2674934f-59c0-4caa-8ff4-be3deecc31b3",
         "party": "Republican",
-        "phone": null,
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
@@ -54287,7 +54248,7 @@
         "name": "Bert Anderson",
         "openstates_id": "ocd-person/7ba931d2-cba2-4913-92fa-f5b0c3a8baf0",
         "party": "Republican",
-        "phone": null,
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
@@ -54303,7 +54264,7 @@
         "name": "Donald Longmuir",
         "openstates_id": "ocd-person/da7774ec-8498-4094-b7d7-87d301911015",
         "party": "Republican",
-        "phone": null,
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
@@ -54339,7 +54300,7 @@
         "name": "LaurieBeth Hager",
         "openstates_id": "ocd-person/f233c739-2bfe-4a96-ba9b-f3c4cbff539c",
         "party": "Democratic",
-        "phone": null,
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
@@ -54355,7 +54316,7 @@
         "name": "Mary Schneider",
         "openstates_id": "ocd-person/891c379b-f866-4029-9f52-a416b5005272",
         "party": "Democratic",
-        "phone": null,
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
@@ -54407,7 +54368,7 @@
         "name": "Dennis Nehring",
         "openstates_id": "ocd-person/4e998af9-35f0-457c-8f37-b2fdaa914dbd",
         "party": "Republican",
-        "phone": null,
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
@@ -54457,7 +54418,7 @@
         "name": "Dwight Kiefert",
         "openstates_id": "ocd-person/7c89a861-f0cf-402f-97e1-70953440ee36",
         "party": "Republican",
-        "phone": null,
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
@@ -54525,7 +54486,7 @@
         "name": "Roger Maki",
         "openstates_id": "ocd-person/3bf442fa-fe42-48c3-b10a-6e94bc20e23d",
         "party": "Republican",
-        "phone": null,
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
@@ -54593,7 +54554,7 @@
         "name": "Mike Brandenburg",
         "openstates_id": "ocd-person/52538b14-697a-4632-854b-badf925cbfe6",
         "party": "Republican",
-        "phone": null,
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
@@ -54747,7 +54708,7 @@
         "name": "Lisa Meier",
         "openstates_id": "ocd-person/39e75205-fa1e-45d4-a04a-2ccee0a83a07",
         "party": "Republican",
-        "phone": null,
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
@@ -54763,7 +54724,7 @@
         "name": "Pat Heinert",
         "openstates_id": "ocd-person/1f5bad71-f1e2-4729-896b-293137ed6a84",
         "party": "Republican",
-        "phone": null,
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
@@ -54781,7 +54742,7 @@
         "name": "Anna Novak",
         "openstates_id": "ocd-person/c40382fd-ce08-46af-8649-afd1f5e04091",
         "party": "Republican",
-        "phone": null,
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
@@ -54797,7 +54758,7 @@
         "name": "Bill Tveit",
         "openstates_id": "ocd-person/50e4864c-095a-43a6-9486-3b071e02ca09",
         "party": "Republican",
-        "phone": null,
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
@@ -54985,7 +54946,7 @@
         "name": "Keith Kempenich",
         "openstates_id": "ocd-person/3075343c-75ba-4957-a1a2-411eb1708c6b",
         "party": "Republican",
-        "phone": null,
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
@@ -55121,7 +55082,7 @@
         "name": "Eric Murphy",
         "openstates_id": "ocd-person/1caabacc-b2df-41c9-a0ff-5719a1d9dea5",
         "party": "Republican",
-        "phone": null,
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
@@ -55257,7 +55218,7 @@
         "name": "Larry Klemin",
         "openstates_id": "ocd-person/3de00ea0-0ad8-4875-8f7f-445b7e67a6d6",
         "party": "Republican",
-        "phone": null,
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
@@ -55309,7 +55270,7 @@
         "name": "Clayton Fegley",
         "openstates_id": "ocd-person/0e57f5ef-a6aa-4019-bce7-da50c23b3a7a",
         "party": "Republican",
-        "phone": null,
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
@@ -55343,7 +55304,7 @@
         "name": "Scott Louser",
         "openstates_id": "ocd-person/3a13b8c4-9366-4af8-b137-d3f959572a2a",
         "party": "Republican",
-        "phone": null,
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
@@ -55377,7 +55338,7 @@
         "name": "Dick Anderson",
         "openstates_id": "ocd-person/65381298-5fe3-49d8-9739-8678016f8383",
         "party": "Republican",
-        "phone": null,
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
@@ -55395,7 +55356,7 @@
         "name": "Jason Dockter",
         "openstates_id": "ocd-person/0b48f460-f41c-4f21-8620-c64728604e4c",
         "party": "Republican",
-        "phone": null,
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
@@ -55445,7 +55406,7 @@
         "name": "SuAnn Olson",
         "openstates_id": "ocd-person/e3f46d13-b49b-4fd9-a604-16ad12393a71",
         "party": "Republican",
-        "phone": null,
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
@@ -56960,7 +56921,7 @@
     ],
     "NH:grafton 9": [
       {
-        "address": "State House 107 N. Main St., Concord, NH 03301",
+        "address": null,
         "chamber": "lower",
         "district": "Grafton 9",
         "district_key": "grafton 9",
@@ -56969,7 +56930,7 @@
         "name": "Thomas Oppel",
         "openstates_id": "ocd-person/077af83c-d03f-45d9-8bcd-28574d9422c0",
         "party": "Democratic",
-        "phone": "603-271-3661",
+        "phone": null,
         "social": {},
         "state": "NH",
         "state_name": "New Hampshire",
@@ -58520,7 +58481,7 @@
         "url": "https://gc.nh.gov/house/members/member.aspx?pid=11219"
       },
       {
-        "address": "State House 107 N. Main St., Concord, NH 03301",
+        "address": null,
         "chamber": "lower",
         "district": "Hillsborough 41",
         "district_key": "hillsborough 41",
@@ -58529,7 +58490,7 @@
         "name": "Tim Hartnett",
         "openstates_id": "ocd-person/5b26425f-330d-458b-b8f6-b6a2b1997b41",
         "party": "Democratic",
-        "phone": "603-271-3661",
+        "phone": null,
         "social": {},
         "state": "NH",
         "state_name": "New Hampshire",
@@ -58587,6 +58548,22 @@
       }
     ],
     "NH:hillsborough 43": [
+      {
+        "address": null,
+        "chamber": "lower",
+        "district": "Hillsborough 43",
+        "district_key": "hillsborough 43",
+        "email": "gary.daniels@gc.nh.gov",
+        "image": "http://www.livefreeordiealliance.org/Portals/0/images_candidates/GDanielsHH40.jpg",
+        "name": "Gary Daniels",
+        "openstates_id": "ocd-person/281c916b-4280-41ff-9ee1-ba183d838536",
+        "party": "Republican",
+        "phone": null,
+        "social": {},
+        "state": "NH",
+        "state_name": "New Hampshire",
+        "url": "https://gc.nh.gov/house/members/member.aspx?pid=423"
+      },
       {
         "address": "State House 107 N. Main St., Concord, NH 03301",
         "chamber": "lower",
@@ -59085,7 +59062,7 @@
         "name": "Cy Aures",
         "openstates_id": "ocd-person/e4ac4259-d405-4839-af31-6c409719065c",
         "party": "Republican",
-        "phone": "603-715-4580",
+        "phone": "603-271-3661",
         "social": {},
         "state": "NH",
         "state_name": "New Hampshire",
@@ -59993,7 +59970,7 @@
         "name": "Katherine Prudhomme-O'Brien",
         "openstates_id": "ocd-person/a0a8c9d8-1f27-4d28-a249-8a5856ea5c05",
         "party": "Republican",
-        "phone": "603-425-6605",
+        "phone": "603-339-4598",
         "social": {},
         "state": "NH",
         "state_name": "New Hampshire",
@@ -60468,7 +60445,7 @@
     ],
     "NH:rockingham 22": [
       {
-        "address": "State House 107 N. Main St., Concord, NH 03301",
+        "address": null,
         "chamber": "lower",
         "district": "Rockingham 22",
         "district_key": "rockingham 22",
@@ -60477,7 +60454,7 @@
         "name": "Kate Murray",
         "openstates_id": "ocd-person/79bb2147-ea4b-4706-8b38-ee2309613ea0",
         "party": "Democratic",
-        "phone": "603-271-3661",
+        "phone": null,
         "social": {},
         "state": "NH",
         "state_name": "New Hampshire",
@@ -64003,27 +63980,6 @@
         "state": "NM",
         "state_name": "New Mexico",
         "url": "https://www.linkedin.com/in/nathan-small-20685816/"
-      }
-    ],
-    "NM:37": [
-      {
-        "address": "State Capitol Room 314C, New Mexico  490 Old Santa Fe Trail, Santa Fe, NM 87501",
-        "chamber": "lower",
-        "district": "37",
-        "district_key": "37",
-        "email": "joanne.ferrary@nmlegis.gov",
-        "image": "https://www.nmlegis.gov/Images/Legislators/House/HFERJ.jpg",
-        "name": "Joanne Ferrary",
-        "openstates_id": "ocd-person/05309266-c7a0-455b-94f2-ebf1d436daff",
-        "party": "Democratic",
-        "phone": "505-986-4844",
-        "social": {
-          "facebook": "Ferrary4NM",
-          "twitter": "rjferrary53"
-        },
-        "state": "NM",
-        "state_name": "New Mexico",
-        "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HFERJ"
       }
     ],
     "NM:38": [
@@ -73810,6 +73766,24 @@
         "url": "https://www.palegis.us/house/members/bio/1967/rep-ryncavage"
       }
     ],
+    "PA:12": [
+      {
+        "address": null,
+        "chamber": "lower",
+        "district": "12",
+        "district_key": "12",
+        "email": null,
+        "image": "https://www.pahouse.com/imageHandler/top/125/175/755deff6-049c-f111-afcc-b489d332d98e",
+        "name": "Brandon Dukes",
+        "openstates_id": "ocd-person/f619eb4d-d296-46b9-af60-12f33d90e6e0",
+        "party": "Democratic",
+        "phone": null,
+        "social": {},
+        "state": "PA",
+        "state_name": "Pennsylvania",
+        "url": "https://www.pahouse.com/dukes/"
+      }
+    ],
     "PA:120": [
       {
         "address": "Room 423, Irvis Office Building P.O. Box 202120, Harrisburg, PA 17120",
@@ -75527,7 +75501,7 @@
         "chamber": "lower",
         "district": "196",
         "district_key": "196",
-        "email": null,
+        "email": "gmargetas@pahousegop.com",
         "image": "https://votemargetas.com/wp-content/uploads/2025/09/George-Margetas-Portrait-Bio-5.jpg",
         "name": "George Margetas",
         "openstates_id": "ocd-person/3beadda2-daa5-4006-a2eb-32f9d9abdc71",
@@ -88108,7 +88082,7 @@
         "district": "CA-1",
         "district_key": "ca-1",
         "email": "https://gallagher.house.gov/address_authentication?form=/contact/email-me",
-        "image": "https://img.legistorm.com/people/064/211064.jpg?rand=103089",
+        "image": null,
         "name": "James Gallagher",
         "openstates_id": "ocd-person/2819c958-3cbe-4349-a2e9-6997054b8ea2",
         "party": "Republican",
@@ -98040,7 +98014,7 @@
         "district": "17",
         "district_key": "17",
         "email": "delgmcguire@house.virginia.gov",
-        "image": "https://virginiamercury.com/wp-content/uploads/2026/01/611290992_122105542683186780_8562161094291278751_n.jpg",
+        "image": "https://house.vga.virginia.gov/delegate_photos/H0405.jpg",
         "name": "Garrett McGuire",
         "openstates_id": "ocd-person/418a32b0-5822-4673-9293-e8363038805b",
         "party": "Democratic",
@@ -106078,20 +106052,20 @@
     ],
     "WV:22": [
       {
-        "address": null,
+        "address": "State Capitol Room 150R, Complex Building 1, Charleston, WV 25305",
         "chamber": "lower",
         "district": "22",
         "district_key": "22",
-        "email": null,
-        "image": "https://aaronholleywv.com/headshot.jpg",
+        "email": "aaron.holley@wvhouse.gov",
+        "image": "https://www.wvlegislature.gov/images/members/2025/house/holley_aaron.jpg",
         "name": "Aaron Holley",
         "openstates_id": "ocd-person/feedb0b5-72da-4529-ab31-630805452e1a",
         "party": "Republican",
-        "phone": null,
+        "phone": "304-340-3277",
         "social": {},
         "state": "WV",
         "state_name": "West Virginia",
-        "url": null
+        "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Holley"
       }
     ],
     "WV:23": [
@@ -106623,7 +106597,7 @@
         "district": "5",
         "district_key": "5",
         "email": "shawn.fluharty@wvhouse.gov",
-        "image": "http://www.wvlegislature.gov/images/members/2023/house/fluharty_shawn.jpg",
+        "image": "https://house.wvlegislature.gov/images/delegates/H-517-Shawn-Fluharty.jpg",
         "name": "Shawn Fluharty",
         "openstates_id": "ocd-person/bd0e9ba2-fe37-4251-96f2-44715a186750",
         "party": "Democratic",
@@ -110590,7 +110564,9 @@
         "openstates_id": "ocd-person/66e496a4-a407-4af1-add3-ef6899b89807",
         "party": "Republican",
         "phone": "602-926-4136",
-        "social": {},
+        "social": {
+          "twitter": "votewarren"
+        },
         "state": "AZ",
         "state_name": "Arizona",
         "url": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1966"
@@ -115468,6 +115444,24 @@
         "url": "https://capitol.hawaii.gov/memberpage.aspx?member=delacruz&year=2019"
       }
     ],
+    "HI:18": [
+      {
+        "address": "State Capitol Room 225, 415 S. Beretania St., Honolulu, HI 96813",
+        "chamber": "upper",
+        "district": "18",
+        "district_key": "18",
+        "email": "senbass@capitol.hawaii.gov",
+        "image": null,
+        "name": "Danielle Bass",
+        "openstates_id": "ocd-person/f0a277d4-dbc5-4dfe-952b-bdee42260d39",
+        "party": "Democratic",
+        "phone": "808-586-7100",
+        "social": {},
+        "state": "HI",
+        "state_name": "Hawaii",
+        "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=313"
+      }
+    ],
     "HI:19": [
       {
         "address": "State Capitol Room 204, 415 S. Beretania St., Honolulu, HI 96813",
@@ -117684,7 +117678,7 @@
     ],
     "IL:30": [
       {
-        "address": "Stratton Office Building Section F, Office E, Springfield, IL 62706",
+        "address": "Room E, Stratton Office Building Section F, Springfield, IL 62706",
         "chamber": "upper",
         "district": "30",
         "district_key": "30",
@@ -118138,7 +118132,7 @@
         "chamber": "upper",
         "district": "53",
         "district_key": "53",
-        "email": "chris@chrisbalkema.com",
+        "email": "balkema@ilsenategop.org",
         "image": "https://cdn.ilga.gov/assets/img/members/{29C38AB6-DBAB-4E53-A4B1-9DA8D64AD699}.jpg",
         "name": "Chris Balkema",
         "openstates_id": "ocd-person/fe9dc27f-4e47-4cb0-a008-df80642f6be0",
@@ -124840,7 +124834,7 @@
         "district_key": "39",
         "email": "sen.mary.kunesh@senate.mn",
         "image": "https://www.senate.mn/graphics/41KuneshPodeinMary.jpg",
-        "name": "Mary Kunesh-Podein",
+        "name": "Mary Kunesh",
         "openstates_id": "ocd-person/2795e0ed-3a02-4afc-8836-f5c3c067139c",
         "party": "Democratic-Farmer-Labor",
         "phone": "651-296-4334",
@@ -128830,7 +128824,7 @@
     ],
     "ND:11": [
       {
-        "address": "ND",
+        "address": "State Capitol 600 E. Boulevard Ave., Bismarck, ND 58505",
         "chamber": "upper",
         "district": "11",
         "district_key": "11",
@@ -128839,7 +128833,7 @@
         "name": "Tim Mathern",
         "openstates_id": "ocd-person/f715b93a-dcf7-4a67-b466-10c2cfad8a60",
         "party": "Democratic",
-        "phone": "701-235-9817",
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
@@ -129010,7 +129004,7 @@
     ],
     "ND:20": [
       {
-        "address": "ND",
+        "address": "State Capitol 600 E. Boulevard Ave., Bismarck, ND 58505",
         "chamber": "upper",
         "district": "20",
         "district_key": "20",
@@ -129019,7 +129013,7 @@
         "name": "Randy Lemm",
         "openstates_id": "ocd-person/c8e63920-e054-4bb3-aff3-e9caeb012d2c",
         "party": "Republican",
-        "phone": "701-636-5465",
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
@@ -129370,7 +129364,7 @@
     ],
     "ND:39": [
       {
-        "address": "ND",
+        "address": "State Capitol 600 E. Boulevard Ave., Bismarck, ND 58505",
         "chamber": "upper",
         "district": "39",
         "district_key": "39",
@@ -129379,7 +129373,7 @@
         "name": "Greg Kessel",
         "openstates_id": "ocd-person/6c9671e4-274f-41cd-b1ba-d6b2dd55ba5e",
         "party": "Republican",
-        "phone": "701-575-8017",
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
@@ -129424,7 +129418,7 @@
     ],
     "ND:41": [
       {
-        "address": "ND",
+        "address": "State Capitol 600 E. Boulevard Ave., Bismarck, ND 58505",
         "chamber": "upper",
         "district": "41",
         "district_key": "41",
@@ -129433,7 +129427,7 @@
         "name": "Kyle Davison",
         "openstates_id": "ocd-person/4412269d-782d-4ea2-a649-e62a30cd1739",
         "party": "Republican",
-        "phone": "701-261-8703",
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
@@ -129478,20 +129472,20 @@
     ],
     "ND:44": [
       {
-        "address": "State Capitol 600 E. Boulevard Ave., Bismarck, ND 58505",
+        "address": null,
         "chamber": "upper",
         "district": "44",
         "district_key": "44",
-        "email": "jboschee@ndlegis.gov",
-        "image": "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo/public/person/photo/jboschee2023.jpg?itok=dn-POEYf",
-        "name": "Josh Boschee",
-        "openstates_id": "ocd-person/50d67a3d-7267-4f21-93af-6827c45077f0",
+        "email": null,
+        "image": "https://demnpl.com/wp-content/uploads/2024/02/JamieS-4websitesquare-1.jpg",
+        "name": "Jamie Selzler",
+        "openstates_id": "ocd-person/b6b20b68-a6e2-4d3a-abf1-84a019c197d9",
         "party": "Democratic",
         "phone": null,
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
-        "url": "https://ndlegis.gov/biography/josh-boschee"
+        "url": null
       }
     ],
     "ND:45": [
@@ -129532,7 +129526,7 @@
     ],
     "ND:47": [
       {
-        "address": "ND",
+        "address": "State Capitol 600 E. Boulevard Ave., Bismarck, ND 58505",
         "chamber": "upper",
         "district": "47",
         "district_key": "47",
@@ -129541,7 +129535,7 @@
         "name": "Mike Dwyer",
         "openstates_id": "ocd-person/704150b0-5d7f-43ea-afd5-b6f059463575",
         "party": "Republican",
-        "phone": "701-223-4232",
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
@@ -129622,7 +129616,7 @@
     ],
     "ND:9": [
       {
-        "address": "ND",
+        "address": "State Capitol 600 E. Boulevard Ave., Bismarck, ND 58505",
         "chamber": "upper",
         "district": "9",
         "district_key": "9",
@@ -129631,7 +129625,7 @@
         "name": "Richard Marcellais",
         "openstates_id": "ocd-person/d87ed27e-35a2-4272-aa04-edf0a2893004",
         "party": "Democratic",
-        "phone": "701-477-8985",
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
@@ -133267,9 +133261,9 @@
         "district": "10",
         "district_key": "10",
         "email": "sd10@ohiosenate.gov",
-        "image": "http://www.ohiohouse.gov/Assets/Headshots/Small/79.jpg",
+        "image": "https://img.legistorm.com/people/980/46980.jpg?rand=272124",
         "name": "Kyle Koehler",
-        "openstates_id": "ocd-person/9578948b-5af3-46fd-9567-8438c67fa148",
+        "openstates_id": "ocd-person/f2e79c7c-7e3a-496d-8f87-d43b62eb54a5",
         "party": "Republican",
         "phone": "614-466-3780",
         "social": {},
@@ -133315,24 +133309,6 @@
         "state": "OH",
         "state_name": "Ohio",
         "url": "https://ohiohouse.gov/susan-manchester"
-      }
-    ],
-    "OH:13": [
-      {
-        "address": "Room 39, Statehouse, 1 Capitol Square Ground Floor, Columbus, OH 43215",
-        "chamber": "upper",
-        "district": "13",
-        "district_key": "13",
-        "email": "sd13@ohiosenate.gov",
-        "image": "https://www.legislature.ohio.gov/assets/people/nathan-h-manning/headshots/thumbnails/medium/nathan-h-manning-may-2023-headshot_medium.jpg",
-        "name": "Nathan Manning",
-        "openstates_id": "ocd-person/d3508136-3927-461f-a2f0-a85665845ab1",
-        "party": "Republican",
-        "phone": "614-644-7613",
-        "social": {},
-        "state": "OH",
-        "state_name": "Ohio",
-        "url": "https://www.ohiosenate.gov/members/nathan-h-manning"
       }
     ],
     "OH:14": [
@@ -140097,7 +140073,7 @@
         "district": "8",
         "district_key": "8",
         "email": "angela.paxton@senate.texas.gov",
-        "image": "https://senate.texas.gov/members/d08/img/Paxton_2019.jpg",
+        "image": "https://senate.texas.gov/members/d08/img/Paxton_2026.jpg",
         "name": "Angela Paxton",
         "openstates_id": "ocd-person/895887ba-73cd-4321-827d-bb06d4eedfdf",
         "party": "Republican",
@@ -141531,7 +141507,7 @@
         "chamber": "upper",
         "district": "Oklahoma",
         "district_key": "oklahoma",
-        "email": null,
+        "email": "https://www.armstrong.senate.gov/contact/",
         "image": null,
         "name": "Alan Armstrong",
         "openstates_id": "ocd-person/976301a9-cf83-476c-98f0-69577e5b9160",
@@ -141687,7 +141663,7 @@
         "district": "South Carolina",
         "district_key": "south carolina",
         "email": null,
-        "image": "https://img.legistorm.com/people/971/212971.jpg?rand=284886",
+        "image": null,
         "name": "Darline Graham",
         "openstates_id": "ocd-person/4c0ef839-19db-4ca7-844c-c863ff4963d2",
         "party": "Republican",
@@ -141695,7 +141671,7 @@
         "social": {},
         "state": "US",
         "state_name": "US",
-        "url": null
+        "url": "https://www.dgraham.senate.gov/"
       },
       {
         "address": "104 Hart Senate Office Building, Washington, DC 20510",
@@ -146762,6 +146738,22 @@
     ],
     "CA": [
       {
+        "address": "Governor Gavin Newsom; 1303 10th Street, Suite 1173; Sacramento, CA 95814",
+        "email": null,
+        "image": "https://governors.library.ca.gov/images/governors/photos/gnewsom.jpg",
+        "name": "Gavin Newsom",
+        "openstates_id": "ocd-person/19e0dbe3-0e2d-4dec-b5dd-c34618cdc2c3",
+        "party": "Democratic",
+        "phone": "916-445-2841",
+        "role_type": "governor",
+        "social": {
+          "twitter": "CAgovernor"
+        },
+        "state": "CA",
+        "state_name": "California",
+        "url": "https://www.gov.ca.gov/"
+      },
+      {
         "address": "1021 O Street, Suite 8730; Sacramento, CA 95814",
         "email": null,
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Ambassador_Eleni_Kounalakis.jpeg",
@@ -146888,7 +146880,39 @@
         "url": "https://portal.ct.gov/sots"
       }
     ],
+    "DC": [
+      {
+        "address": "1350 Pennsylvania Avenue NW; Washington, DC 20004",
+        "email": "eom@dc.gov",
+        "image": "https://mayor.dc.gov/sites/default/files/styles/medium/public/dc/sites/mayormb/biography_content/images/mmb-medium-tight.jpg",
+        "name": "Muriel Bowser",
+        "openstates_id": "ocd-person/dce9c4a8-218a-411d-bb93-09f7e8347d8c",
+        "party": "Democratic",
+        "phone": "202-727-2643",
+        "role_type": "governor",
+        "social": {
+          "twitter": "MayorBowser"
+        },
+        "state": "DC",
+        "state_name": "District of Columbia",
+        "url": "https://mayor.dc.gov/"
+      }
+    ],
     "DE": [
+      {
+        "address": "Tatnall Building; 150 Martin Luther King Jr Blvd South; Dover, DE  19901",
+        "email": null,
+        "image": null,
+        "name": "Matt Meyer",
+        "openstates_id": "ocd-person/8c05321d-6737-437f-928b-adaf129103f5",
+        "party": "Democratic",
+        "phone": "302-744-4101",
+        "role_type": "governor",
+        "social": {},
+        "state": "DE",
+        "state_name": "Delaware",
+        "url": "https://governor.delaware.gov/"
+      },
       {
         "address": "150 Martin Luther King Jr Blvd South, 3rd Floor; Dover, DE 19901",
         "email": "kyle.gay@delaware.gov",
@@ -147161,6 +147185,20 @@
       }
     ],
     "IN": [
+      {
+        "address": "200 W. Washington St., Rm. 206, Indianapolis, IN  46204",
+        "email": null,
+        "image": "http://iga.in.gov/legislative/2017/portraits/legislator_mike_braun_1",
+        "name": "Mike Braun",
+        "openstates_id": "ocd-person/bdc262d7-ce67-4fd1-a96d-f92059ac0dfd",
+        "party": "Republican",
+        "phone": "317-232-4567",
+        "role_type": "governor",
+        "social": {},
+        "state": "IN",
+        "state_name": "Indiana",
+        "url": "https://www.in.gov/gov/"
+      },
       {
         "address": null,
         "email": null,
@@ -147514,6 +147552,20 @@
     ],
     "MO": [
       {
+        "address": "P.O. Box 720; Jefferson City, MO 65102",
+        "email": null,
+        "image": "http://www.senate.mo.gov/18web/wp-content/uploads/2015/11/Kehoe-200x300.jpg",
+        "name": "Mike Kehoe",
+        "openstates_id": "ocd-person/b1263b48-7df4-443c-8a71-41abc892bd7e",
+        "party": "Republican",
+        "phone": "573-751-3222",
+        "role_type": "governor",
+        "social": {},
+        "state": "MO",
+        "state_name": "Missouri",
+        "url": "https://governor.mo.gov/"
+      },
+      {
         "address": "State Capitol Building, Room 224; Jefferson City, MO 65101",
         "email": "ltgovinfo@ltgov.mo.gov",
         "image": "https://ltgov.mo.gov/wp-content/uploads/2025/06/cropped-Lt-Gov-photo-scaled-1.jpg",
@@ -147562,6 +147614,22 @@
     ],
     "MT": [
       {
+        "address": null,
+        "email": null,
+        "image": "https://governor.mt.gov/_images/portrait_gianforte.jpg",
+        "name": "Greg Gianforte",
+        "openstates_id": "ocd-person/c40b88ef-ba7b-415f-a6d4-581bfecf0ea7",
+        "party": "Republican",
+        "phone": null,
+        "role_type": "governor",
+        "social": {
+          "twitter": "GregForMontana"
+        },
+        "state": "MT",
+        "state_name": "Montana",
+        "url": "https://governor.mt.gov/"
+      },
+      {
         "address": "P.O. Box 200801; Helena, MT 59620-0801",
         "email": null,
         "image": "https://governor.mt.gov/_images/portrait_juras.jpg",
@@ -147578,6 +147646,20 @@
     ],
     "NC": [
       {
+        "address": "20301 Mail Service Center; Raleigh, NC 27699-0301;",
+        "email": null,
+        "image": "http://www.ncga.state.nc.us/Senate/pictures/hiRes/267.jpg",
+        "name": "Josh Stein",
+        "openstates_id": "ocd-person/0a494878-c7fd-4a6a-8b82-3eb681e3fe6e",
+        "party": "Democratic",
+        "phone": "919-814-2000",
+        "role_type": "governor",
+        "social": {},
+        "state": "NC",
+        "state_name": "North Carolina",
+        "url": "https://governor.nc.gov/"
+      },
+      {
         "address": "310 N. Blount Street; Raleigh, NC 27601",
         "email": "rachel.hunt@ncleg.gov",
         "image": "https://files.nc.gov/lt-governor/images/2025-02/LG_Headshot_final.jpg",
@@ -147593,6 +147675,20 @@
       }
     ],
     "ND": [
+      {
+        "address": "600 East Boulevard Avenue; Bismarck ND, 58505-0001",
+        "email": null,
+        "image": null,
+        "name": "Kelly Armstrong",
+        "openstates_id": "ocd-person/482e4b71-bc8b-4c9e-80a5-bc2c51e90aa0",
+        "party": "Republican",
+        "phone": "701-328-2200",
+        "role_type": "governor",
+        "social": {},
+        "state": "ND",
+        "state_name": "North Dakota",
+        "url": "https://www.governor.nd.gov/"
+      },
       {
         "address": "600 East Boulevard Avenue; Bismarck, ND 58505-0100",
         "email": "mstrinden@ndlegis.gov",
@@ -147670,7 +147766,37 @@
         "url": "https://sos.nebraska.gov/index"
       }
     ],
+    "NH": [
+      {
+        "address": "Office of the Governor; State House; 107 North Main Street; Concord, NH 03301",
+        "email": null,
+        "image": null,
+        "name": "Kelly Ayotte",
+        "openstates_id": "ocd-person/3eabef50-7d86-44cf-87db-8c549d2d21bd",
+        "party": "Republican",
+        "phone": "603-271-2121",
+        "role_type": "governor",
+        "social": {},
+        "state": "NH",
+        "state_name": "New Hampshire",
+        "url": "https://www.governor.nh.gov/"
+      }
+    ],
     "NJ": [
+      {
+        "address": "Office of Governor; P.O. Box 001; Trenton, NJ 08625",
+        "email": null,
+        "image": null,
+        "name": "Mikie Sherrill",
+        "openstates_id": "ocd-person/d0bf3dce-c5b7-4f9f-a4e2-9637582299ac",
+        "party": "Democratic",
+        "phone": "609-292-6000",
+        "role_type": "governor",
+        "social": {},
+        "state": "NJ",
+        "state_name": "New Jersey",
+        "url": "https://nj.gov/governor/"
+      },
       {
         "address": "P.O. Box 001; Trenton, NJ 08625",
         "email": null,
@@ -147956,6 +148082,20 @@
     ],
     "PR": [
       {
+        "address": null,
+        "email": null,
+        "image": null,
+        "name": "Jenniffer Gonz\u00e1lez-Col\u00f3n",
+        "openstates_id": "ocd-person/2ec9fa1f-8254-4602-a5cd-14f849c2d5e9",
+        "party": "Partido Nuevo Progresista",
+        "phone": null,
+        "role_type": "governor",
+        "social": {},
+        "state": "PR",
+        "state_name": "Puerto Rico",
+        "url": "https://www.fortaleza.pr.gov/"
+      },
+      {
         "address": "P.O. Box 195552; ; San Juan, PR 00919-5552",
         "email": "frosado@cee.pr.gov",
         "image": "https://ww2.ceepur.org/sites/ComisionEE/es-pr/Webmaster/pic/FranciscoJRosado-Presidente-web.jpg",
@@ -148183,6 +148323,22 @@
     ],
     "UT": [
       {
+        "address": "PO Box 142325 ; ; Salt Lake City, UT 84114-",
+        "email": "spencercox@utah.gov",
+        "image": "http://site.utah.gov/governor-cox/wp-content/uploads/sites/52/2022/02/DSC08566-2-683x1024.jpg",
+        "name": "Spencer Cox",
+        "openstates_id": "ocd-person/52dd3ff2-e7a2-458e-b8f1-797fdab69e4a",
+        "party": "Republican",
+        "phone": "801-538-1041",
+        "role_type": "governor",
+        "social": {
+          "twitter": "SpencerJCox"
+        },
+        "state": "UT",
+        "state_name": "Utah",
+        "url": "https://governor.utah.gov/"
+      },
+      {
         "address": "Utah State Capitol, 350 N. State Street, Suite 200; Salt Lake City, UT 84114-2220",
         "email": "dhenderson@le.utah.gov",
         "image": "https://ltgovernor.utah.gov/wp-content/uploads/Official-portrait-2-scaled-1-728x1024.jpg",
@@ -148198,6 +148354,20 @@
       }
     ],
     "VA": [
+      {
+        "address": null,
+        "email": null,
+        "image": null,
+        "name": "Abigail Spanberger",
+        "openstates_id": "ocd-person/30e93a95-5457-4263-96f9-2ea38017a253",
+        "party": "Democratic",
+        "phone": "804-786-2211",
+        "role_type": "governor",
+        "social": {},
+        "state": "VA",
+        "state_name": "Virginia",
+        "url": "https://www.governor.virginia.gov/"
+      },
       {
         "address": "P.O. Box 1195; Richmond, VA 23218",
         "email": "Ltgov43@ltgov.virginia.gov",
@@ -148217,6 +148387,22 @@
       }
     ],
     "VT": [
+      {
+        "address": "109 State Street; Pavilion Office Building; Montpelier, VT 05609",
+        "email": null,
+        "image": "https://www.vermont.gov/themes/custom/vt2018/images/governor.jpg",
+        "name": "Phil Scott",
+        "openstates_id": "ocd-person/f3e613ff-3cd6-4b2c-b268-f6460d029f05",
+        "party": "Republican",
+        "phone": "802-828-3333",
+        "role_type": "governor",
+        "social": {
+          "twitter": "GovPhilScott"
+        },
+        "state": "VT",
+        "state_name": "Vermont",
+        "url": "https://governor.vermont.gov/"
+      },
       {
         "address": "115 State Street; Montpelier, VT 05633",
         "email": "jrodgers@leg.state.vt.us",
