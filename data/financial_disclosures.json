@@ -32379,7 +32379,7 @@
           "comment": null,
           "days_to_file": 10,
           "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034895.pdf",
-          "excess_since": -3.054658164003064,
+          "excess_since": -2.655608872948162,
           "filer_id": "house_virginia_foxx",
           "filer_name": "Virginia Foxx",
           "filing_date": "2026-07-10",
@@ -32413,7 +32413,7 @@
           "comment": null,
           "days_to_file": 22,
           "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034895.pdf",
-          "excess_since": -2.706413232868842,
+          "excess_since": -2.3073478945019104,
           "filer_id": "house_virginia_foxx",
           "filer_name": "Virginia Foxx",
           "filing_date": "2026-07-10",
@@ -53477,7 +53477,7 @@
       }
     }
   },
-  "generated_at": "2026-09-06T15:28:06.253865+00:00",
+  "generated_at": "2026-09-06T20:23:22.746002+00:00",
   "indexes": {
     "id:house_abigail_spanberger": [
       "house_abigail_spanberger"
@@ -56852,12 +56852,12 @@
       "tradesWithLag": 64896
     },
     "estVolumeUsd": 7667643293,
-    "generatedAt": "2026-09-05T08:09:38.026Z",
+    "generatedAt": "2026-09-06T17:36:18.736Z",
     "lateFilings": 19379,
     "totalFilers": 446,
-    "totalFilings": 55666,
+    "totalFilings": 55673,
     "totalParsedFilings": 7201,
     "totalTrades": 67631
   },
-  "upstream_generated_at": "2026-09-05T08:09:38.026Z"
+  "upstream_generated_at": "2026-09-06T17:36:18.736Z"
 }
