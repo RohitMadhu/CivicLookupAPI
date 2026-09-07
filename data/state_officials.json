@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T16:33:00.640089+00:00",
+  "generated_at": "2026-09-07T14:37:19.607456+00:00",
   "sources": {
     "openstates_people": "https://github.com/openstates/people"
   },
@@ -5888,7 +5888,7 @@
         "district": "10",
         "district_key": "10",
         "email": "jolson@azleg.gov",
-        "image": "http://www.azleg.gov/alisImages/MemberPhotos/51leg/House/OLSON.gif",
+        "image": "https://azleg.gov/alisImages/MemberPhotos/57leg/House/OLSON.jpg",
         "name": "Justin Olson",
         "openstates_id": "ocd-person/448cb969-a498-4826-ad1e-c443fe9b8057",
         "party": "Republican",
@@ -5904,7 +5904,7 @@
         "district": "10",
         "district_key": "10",
         "email": "rheap@azleg.gov",
-        "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Ralph_Heap.jpg",
+        "image": "https://azleg.gov/alisImages/MemberPhotos/57leg/House/HEAP.jpg",
         "name": "Ralph Heap",
         "openstates_id": "ocd-person/176a6d0b-88bb-45fa-bf37-b4610972b2ae",
         "party": "Republican",
@@ -5956,7 +5956,7 @@
         "district": "12",
         "district_key": "12",
         "email": "pcontreras@azleg.gov",
-        "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Patty_Contreras.jpeg",
+        "image": "https://azleg.gov/alisImages/MemberPhotos/57leg/House/CONTRERAS_P.jpg",
         "name": "Patty Contreras",
         "openstates_id": "ocd-person/61dc96d8-140a-4042-b832-ac51bf0796f3",
         "party": "Democratic",
@@ -6009,7 +6009,7 @@
         "district": "13",
         "district_key": "13",
         "email": "jwilloughby@azleg.gov",
-        "image": "https://azleg.gov/alisImages/MemberPhotos/56leg/House/WILLOUGHBY.jpg",
+        "image": "https://azleg.gov/alisImages/MemberPhotos/57leg/House/WILLOUGHBY.jpg",
         "name": "Julie Willoughby",
         "openstates_id": "ocd-person/d19ab410-5bc3-4160-b279-765e25d959ab",
         "party": "Republican",
@@ -6197,7 +6197,7 @@
         "district": "19",
         "district_key": "19",
         "email": "ggriffin@azleg.gov",
-        "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/GRIFFIN.jpg",
+        "image": "https://azleg.gov/alisImages/MemberPhotos/57leg/House/GRIFFIN.jpg",
         "name": "Gail Griffin",
         "openstates_id": "ocd-person/1e39adcf-868d-4722-a07b-09fcd36ad9ed",
         "party": "Republican",
@@ -6494,7 +6494,7 @@
         "district": "26",
         "district_key": "26",
         "email": "qcrews@azleg.gov",
-        "image": "https://static.wixstatic.com/media/adaad5_bffecd22c43440d18ef9083b2464b1fd~mv2.jpg/v1/fill/w_925,h_1156,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/adaad5_bffecd22c43440d18ef9083b2464b1fd~mv2.jpg",
+        "image": "https://azleg.gov/alisImages/MemberPhotos/57leg/House/CREWS.jpg",
         "name": "Quant\u00e1 Crews",
         "openstates_id": "ocd-person/0fb2e73b-b140-4669-a9bd-b75facb342dd",
         "party": "Democratic",
@@ -6691,7 +6691,7 @@
         "district": "4",
         "district_key": "4",
         "email": "mgress@azleg.gov",
-        "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/MattGress.png",
+        "image": "https://azleg.gov/alisImages/MemberPhotos/57leg/House/GRESS.jpg",
         "name": "Matt Gress",
         "openstates_id": "ocd-person/bfb503ce-dcb1-444b-9484-8a90e73c6a6f",
         "party": "Republican",
@@ -6707,7 +6707,7 @@
         "district": "4",
         "district_key": "4",
         "email": "pcarter@azleg.gov",
-        "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/PamelaCarter2024.jpg",
+        "image": "https://azleg.gov/alisImages/MemberPhotos/57leg/House/CARTER_P.jpg",
         "name": "Pamela Carter",
         "openstates_id": "ocd-person/d78cb0f9-fd3c-472e-aeb8-716abd42f26e",
         "party": "Republican",
@@ -6848,7 +6848,7 @@
         "district": "8",
         "district_key": "8",
         "email": "jconnolly@azleg.gov",
-        "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JaneenConnolly2024.jpg",
+        "image": "https://azleg.gov/alisImages/MemberPhotos/57leg/House/CONNOLLY.jpg",
         "name": "Janeen Connolly",
         "openstates_id": "ocd-person/acfd8972-7a82-41f3-9fd7-0993cfa7365c",
         "party": "Democratic",
@@ -6866,7 +6866,7 @@
         "district": "9",
         "district_key": "9",
         "email": "laustin@azleg.gov",
-        "image": "https://thestoryexchange.org/app/uploads/2022/08/Lorena-Austin.jpg",
+        "image": "https://azleg.gov/alisImages/MemberPhotos/57leg/House/AUSTIN.jpg",
         "name": "Lorena Austin",
         "openstates_id": "ocd-person/90a36fec-df56-4f22-bf16-790866d5b227",
         "party": "Democratic",
@@ -6882,7 +6882,7 @@
         "district": "9",
         "district_key": "9",
         "email": "sblattman@azleg.gov",
-        "image": "https://cdn.runforsomething.net/candidates/2020/w9466-blattman.jpg",
+        "image": "https://azleg.gov/alisImages/MemberPhotos/57leg/House/BLATTMAN.jpg",
         "name": "Seth Blattman",
         "openstates_id": "ocd-person/4b29d125-27ee-46c7-a6ac-ed870c1f10a7",
         "party": "Democratic",
@@ -8546,7 +8546,7 @@
         },
         "state": "CO",
         "state_name": "Colorado",
-        "url": "https://leg.colorado.gov/legislators/dan-woog"
+        "url": "https://www.coloradohouserepublicans.com/dan-woog"
       }
     ],
     "CO:2": [
@@ -9138,7 +9138,7 @@
         },
         "state": "CO",
         "state_name": "Colorado",
-        "url": "https://leg.colorado.gov/legislators/anthony-hartsook"
+        "url": "https://www.coloradohouserepublicans.com/anthony-hartsook"
       }
     ],
     "CO:45": [
@@ -9305,7 +9305,7 @@
         },
         "state": "CO",
         "state_name": "Colorado",
-        "url": "https://leg.colorado.gov/legislators/ron-weinberg"
+        "url": "https://www.coloradohouserepublicans.com/ron-weinberg"
       }
     ],
     "CO:52": [
@@ -13559,24 +13559,6 @@
         "state": "FL",
         "state_name": "Florida",
         "url": "https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4929"
-      }
-    ],
-    "FL:116": [
-      {
-        "address": "Room 420, The Capitol 402 S. Monroe St., Tallahassee, FL 32399",
-        "chamber": "lower",
-        "district": "116",
-        "district_key": "116",
-        "email": "daniel.perez@flhouse.gov",
-        "image": "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4690.jpg",
-        "name": "Daniel Perez",
-        "openstates_id": "ocd-person/ed30b061-bbdc-44f3-8a40-e574646d6cf8",
-        "party": "Republican",
-        "phone": null,
-        "social": {},
-        "state": "FL",
-        "state_name": "Florida",
-        "url": "https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4690"
       }
     ],
     "FL:117": [
@@ -32401,24 +32383,6 @@
         "url": "https://house.louisiana.gov/H_Reps/members?ID=91"
       }
     ],
-    "LA:92": [
-      {
-        "address": null,
-        "chamber": "lower",
-        "district": "92",
-        "district_key": "92",
-        "email": "stagnij@legis.la.gov",
-        "image": "https://house.louisiana.gov/H_Reps/RepPics20/rep92.jpg",
-        "name": "Joe Stagni",
-        "openstates_id": "ocd-person/958015ce-4a91-4830-a11f-e73997823d4b",
-        "party": "Republican",
-        "phone": null,
-        "social": {},
-        "state": "LA",
-        "state_name": "Louisiana",
-        "url": "https://house.louisiana.gov/H_Reps/members?ID=92"
-      }
-    ],
     "LA:93": [
       {
         "address": "P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804",
@@ -41917,7 +41881,7 @@
         "district_key": "7",
         "email": "tonyamyersphillips@house.mi.gov",
         "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Tonya_Myers_Phillips_20241022_115414.png",
-        "name": "Tonya Phillips",
+        "name": "Tonya Myers Phillips",
         "openstates_id": "ocd-person/787d9bda-d4dd-47fe-aaf0-348c505211e4",
         "party": "Democratic",
         "phone": "517-373-2276",
@@ -54287,6 +54251,22 @@
         "state": "ND",
         "state_name": "North Dakota",
         "url": "https://ndlegis.gov/biography/dave-rustebakke"
+      },
+      {
+        "address": "State Capitol 600 E. Boulevard Ave., Bismarck, ND 58505",
+        "chamber": "lower",
+        "district": "20",
+        "district_key": "20",
+        "email": "mbeltz@ndlegis.gov",
+        "image": "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo/public/person/photo/mbeltz2023.jpg?itok=VV6jACpR",
+        "name": "Mike Beltz",
+        "openstates_id": "ocd-person/2e1bbdc9-a4e1-4ab2-953f-2e51910b7b58",
+        "party": "Republican",
+        "phone": null,
+        "social": {},
+        "state": "ND",
+        "state_name": "North Dakota",
+        "url": "https://ndlegis.gov/biography/mike-beltz"
       }
     ],
     "ND:21": [
@@ -55525,22 +55505,6 @@
         "chamber": "lower",
         "district": "Belknap 5",
         "district_key": "belknap 5",
-        "email": "charlie.stclair@gc.nh.gov",
-        "image": "https://images.dailykos.com/images/448207/story_image/Charlie_St._Clair.jpg?1505263188",
-        "name": "Charlie St. Clair",
-        "openstates_id": "ocd-person/643751f4-6db0-4021-bf76-b8f2483d640d",
-        "party": "Democratic",
-        "phone": "603-271-3661",
-        "social": {},
-        "state": "NH",
-        "state_name": "New Hampshire",
-        "url": "https://gc.nh.gov/house/members/member.aspx?pid=8956"
-      },
-      {
-        "address": "State House 107 N. Main St., Concord, NH 03301",
-        "chamber": "lower",
-        "district": "Belknap 5",
-        "district_key": "belknap 5",
         "email": "mike.bordes@gc.nh.gov",
         "image": "https://www.citizenscount.org/sites/default/files/styles/profile_140x176/public/2020-07/mike-bordes.png?itok=kgP2odgc",
         "name": "Mike Bordes",
@@ -56210,7 +56174,7 @@
         "district": "Cheshire 3",
         "district_key": "cheshire 3",
         "email": "philip.jones@gc.nh.gov",
-        "image": "https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/content/tncms/assets/v3/editorial/c/45/c457ee2b-e565-5b59-b3ae-0c2e9b900599/6352dd6e9dda8.image.jpg",
+        "image": "https://cheshiredemocrats.org/wp-content/uploads/2022/08/philjonespic-300x200.jpg",
         "name": "Philip Jones",
         "openstates_id": "ocd-person/09cfaba9-f3ee-41d6-8cf7-0c93613109cd",
         "party": "Democratic",
@@ -56917,24 +56881,6 @@
         "state": "NH",
         "state_name": "New Hampshire",
         "url": "https://gc.nh.gov/house/members/member.aspx?pid=9059"
-      }
-    ],
-    "NH:grafton 9": [
-      {
-        "address": null,
-        "chamber": "lower",
-        "district": "Grafton 9",
-        "district_key": "grafton 9",
-        "email": "thomas.oppel@gc.nh.gov",
-        "image": "https://www.nhnonprofits.org/sites/default/files/profile-photos/consultants/ThomasPOppel%20Close%20Up.jpeg",
-        "name": "Thomas Oppel",
-        "openstates_id": "ocd-person/077af83c-d03f-45d9-8bcd-28574d9422c0",
-        "party": "Democratic",
-        "phone": null,
-        "social": {},
-        "state": "NH",
-        "state_name": "New Hampshire",
-        "url": "https://gc.nh.gov/house/members/member.aspx?pid=11182"
       }
     ],
     "NH:hillsborough 1": [
@@ -58479,22 +58425,6 @@
         "state": "NH",
         "state_name": "New Hampshire",
         "url": "https://gc.nh.gov/house/members/member.aspx?pid=11219"
-      },
-      {
-        "address": null,
-        "chamber": "lower",
-        "district": "Hillsborough 41",
-        "district_key": "hillsborough 41",
-        "email": "tim.hartnett@gc.nh.gov",
-        "image": "https://www.citizenscount.org/sites/default/files/2024-09/tim-hartnett.jpg",
-        "name": "Tim Hartnett",
-        "openstates_id": "ocd-person/5b26425f-330d-458b-b8f6-b6a2b1997b41",
-        "party": "Democratic",
-        "phone": null,
-        "social": {},
-        "state": "NH",
-        "state_name": "New Hampshire",
-        "url": "https://gc.nh.gov/house/members/member.aspx?pid=11220"
       }
     ],
     "NH:hillsborough 42": [
@@ -58549,7 +58479,7 @@
     ],
     "NH:hillsborough 43": [
       {
-        "address": null,
+        "address": "State House 107 N. Main St., Concord, NH 03301",
         "chamber": "lower",
         "district": "Hillsborough 43",
         "district_key": "hillsborough 43",
@@ -58558,7 +58488,7 @@
         "name": "Gary Daniels",
         "openstates_id": "ocd-person/281c916b-4280-41ff-9ee1-ba183d838536",
         "party": "Republican",
-        "phone": null,
+        "phone": "603-271-3661",
         "social": {},
         "state": "NH",
         "state_name": "New Hampshire",
@@ -60443,24 +60373,6 @@
         "url": "https://gc.nh.gov/house/members/member.aspx?pid=11135"
       }
     ],
-    "NH:rockingham 22": [
-      {
-        "address": null,
-        "chamber": "lower",
-        "district": "Rockingham 22",
-        "district_key": "rockingham 22",
-        "email": "kate.murray@gc.nh.gov",
-        "image": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/59307.jpg",
-        "name": "Kate Murray",
-        "openstates_id": "ocd-person/79bb2147-ea4b-4706-8b38-ee2309613ea0",
-        "party": "Democratic",
-        "phone": null,
-        "social": {},
-        "state": "NH",
-        "state_name": "New Hampshire",
-        "url": "https://gc.nh.gov/house/members/member.aspx?member=408619"
-      }
-    ],
     "NH:rockingham 23": [
       {
         "address": "State House 107 N. Main St., Concord, NH 03301",
@@ -60788,7 +60700,7 @@
         "district": "Rockingham 30",
         "district_key": "rockingham 30",
         "email": "matt.sabourin@gc.nh.gov",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Matt_Sabourin_dit_Choiniere_by_Gage_Skidmore.jpg/220px-Matt_Sabourin_dit_Choiniere_by_Gage_Skidmore.jpg",
+        "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/MattSabourin2024.JPG",
         "name": "Matt Sabourin dit Choini\u00e8re",
         "openstates_id": "ocd-person/5709592a-7c88-41e3-8295-7c05146327e2",
         "party": "Republican",
@@ -110597,7 +110509,7 @@
         "district": "16",
         "district_key": "16",
         "email": "tshope@azleg.gov",
-        "image": "https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/SHOPE.png",
+        "image": "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/SHOPE.jpg",
         "name": "T.J. Shope",
         "openstates_id": "ocd-person/bde26535-68ee-4eef-bbc8-bfa8a4380015",
         "party": "Republican",
@@ -110618,7 +110530,7 @@
         "district": "17",
         "district_key": "17",
         "email": "vleach@azleg.gov",
-        "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/Senate/LEACH.jpg",
+        "image": "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/LEACH.jpg",
         "name": "Vince Leach",
         "openstates_id": "ocd-person/00f9103d-191e-40ca-8f5c-e5bf806896a6",
         "party": "Republican",
@@ -110662,7 +110574,10 @@
         "openstates_id": "ocd-person/51520de4-0e87-475b-91d2-99aa18addf72",
         "party": "Republican",
         "phone": "602-926-5154",
-        "social": {},
+        "social": {
+          "facebook": "DavidGowanAZ",
+          "twitter": "DavidGowanAZ"
+        },
         "state": "AZ",
         "state_name": "Arizona",
         "url": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1968"
@@ -110675,12 +110590,16 @@
         "district": "2",
         "district_key": "2",
         "email": "sbolick@azleg.gov",
-        "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/BOLICK.jpg",
+        "image": "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/BOLICK.jpg",
         "name": "Shawnna Bolick",
         "openstates_id": "ocd-person/355be281-2f88-4108-b894-62c54b67fba3",
         "party": "Republican",
         "phone": "602-926-3314",
-        "social": {},
+        "social": {
+          "facebook": "repshawnnabolick",
+          "instagram": "bolickforarizona",
+          "twitter": "Bolick4AZ"
+        },
         "state": "AZ",
         "state_name": "Arizona",
         "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2273"
@@ -110714,12 +110633,15 @@
         "district": "21",
         "district_key": "21",
         "email": "rgabaldon@azleg.gov",
-        "image": "https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/GABALD%C3%93N.gif",
+        "image": "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/GABALD%C3%93N.jpg",
         "name": "Rosanna Gabald\u00f3n",
         "openstates_id": "ocd-person/6de57177-1b9e-4864-bb87-97c528842030",
         "party": "Democratic",
         "phone": "602-926-3424",
-        "social": {},
+        "social": {
+          "facebook": "Elect-Gabaldon-for-Senate-325797754125959",
+          "twitter": "RosannaGabaldon"
+        },
         "state": "AZ",
         "state_name": "Arizona",
         "url": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1956"
@@ -110786,7 +110708,7 @@
         "district": "25",
         "district_key": "25",
         "email": "tdunn@azleg.gov",
-        "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/DUNN.jpg",
+        "image": "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/DUNN.jpg",
         "name": "Tim Dunn",
         "openstates_id": "ocd-person/0b8c9973-1ae5-4af3-8a73-713c8365eccd",
         "party": "Republican",
@@ -110885,7 +110807,7 @@
         "district": "3",
         "district_key": "3",
         "email": "jkavanagh@azleg.gov",
-        "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/KAVANAGH.jpg",
+        "image": "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/KAVANAGH.jpg",
         "name": "John Kavanagh",
         "openstates_id": "ocd-person/b6144266-5383-491f-8c87-df8fd11805ea",
         "party": "Republican",
@@ -110947,7 +110869,10 @@
         "openstates_id": "ocd-person/030638cb-5fcd-4637-8c59-c129e28db988",
         "party": "Democratic",
         "phone": "602-926-5829",
-        "social": {},
+        "social": {
+          "facebook": "LelaAlstonAZ",
+          "twitter": "LelaAlstonAz"
+        },
         "state": "AZ",
         "state_name": "Arizona",
         "url": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1978"
@@ -110978,7 +110903,7 @@
         "district": "7",
         "district_key": "7",
         "email": "wrogers@azleg.gov",
-        "image": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/Senate/ROGERS.jpg",
+        "image": "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/ROGERS.jpg",
         "name": "Wendy Rogers",
         "openstates_id": "ocd-person/417c9599-7617-4b6d-ac0a-1d1b2a005f4e",
         "party": "Republican",
@@ -110996,7 +110921,7 @@
         "district": "8",
         "district_key": "8",
         "email": "lkuby@azleg.gov",
-        "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/LaurenKuby24.jpg",
+        "image": "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/KUBY.jpg",
         "name": "Lauren Kuby",
         "openstates_id": "ocd-person/159091af-9aa8-4cb8-8c9c-9e20ba83c0ed",
         "party": "Democratic",
@@ -111888,7 +111813,7 @@
         },
         "state": "CO",
         "state_name": "Colorado",
-        "url": "https://leg.colorado.gov/legislators/janice-marchman"
+        "url": "https://www.senatedems.co/janice-marchman"
       }
     ],
     "CO:16": [
@@ -112014,7 +111939,7 @@
         },
         "state": "CO",
         "state_name": "Colorado",
-        "url": "https://leg.colorado.gov/legislators/lisa-cutter"
+        "url": "https://www.senatedems.co/lisa-cutter"
       }
     ],
     "CO:21": [
@@ -112437,7 +112362,7 @@
         },
         "state": "CO",
         "state_name": "Colorado",
-        "url": "https://leg.colorado.gov/legislators/janice-rich"
+        "url": "https://www.coloradosenaterepublicans.com/rich/"
       }
     ],
     "CO:8": [
@@ -114138,24 +114063,6 @@
         "state": "FL",
         "state_name": "Florida",
         "url": "https://www.flsenate.gov/Senators/S38"
-      }
-    ],
-    "FL:39": [
-      {
-        "address": "Room 309, Senate Building 404 S. Monroe St., Tallahassee, FL 32399",
-        "chamber": "upper",
-        "district": "39",
-        "district_key": "39",
-        "email": "avila.bryan.web@flsenate.gov",
-        "image": "https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s39_5459.jpg",
-        "name": "Bryan \u00c1vila",
-        "openstates_id": "ocd-person/a4a5f92e-62cf-401b-9fc6-9d9a63498d5c",
-        "party": "Republican",
-        "phone": "850-487-5039",
-        "social": {},
-        "state": "FL",
-        "state_name": "Florida",
-        "url": "https://www.flsenate.gov/Senators/S39"
       }
     ],
     "FL:4": [
@@ -127886,24 +127793,6 @@
         "url": "https://archive.legmt.gov/legislator-information/roster/individual/7516"
       }
     ],
-    "NC:1": [
-      {
-        "address": "Room 629, Legislative Office Building 300 N. Salisbury St., Raleigh, NC 27603",
-        "chamber": "upper",
-        "district": "1",
-        "district_key": "1",
-        "email": "bobby.hanig@ncleg.gov",
-        "image": "https://www.ncleg.gov/Members/MemberImage/S/435/Low",
-        "name": "Bobby Hanig",
-        "openstates_id": "ocd-person/8911db0d-01aa-4e61-a0f5-727d07a5d232",
-        "party": "Republican",
-        "phone": "919-715-8293",
-        "social": {},
-        "state": "NC",
-        "state_name": "North Carolina",
-        "url": "https://www.ncleg.gov/Members/Biography/S/435"
-      }
-    ],
     "NC:10": [
       {
         "address": "Room 521, Legislative Office Building 300 N. Salisbury St., Raleigh, NC 27603",
@@ -129472,20 +129361,20 @@
     ],
     "ND:44": [
       {
-        "address": null,
+        "address": "State Capitol 600 E. Boulevard Ave., Bismarck, ND 58505",
         "chamber": "upper",
         "district": "44",
         "district_key": "44",
-        "email": null,
+        "email": "jselzler@ndlegis.gov",
         "image": "https://demnpl.com/wp-content/uploads/2024/02/JamieS-4websitesquare-1.jpg",
         "name": "Jamie Selzler",
         "openstates_id": "ocd-person/b6b20b68-a6e2-4d3a-abf1-84a019c197d9",
         "party": "Democratic",
-        "phone": null,
+        "phone": "701-328-3373",
         "social": {},
         "state": "ND",
         "state_name": "North Dakota",
-        "url": null
+        "url": "https://ndlegis.gov/biography/jamie-selzler"
       }
     ],
     "ND:45": [
@@ -129931,7 +129820,7 @@
         "name": "Debra Altschiller",
         "openstates_id": "ocd-person/925608b2-8d23-4186-85f6-4c50f334374d",
         "party": "Democratic",
-        "phone": "603-271-7875",
+        "phone": "603-271-3469",
         "social": {},
         "state": "NH",
         "state_name": "New Hampshire",
@@ -132078,26 +131967,6 @@
         "url": "https://www.nysenate.gov/senators-committees"
       }
     ],
-    "NY:12": [
-      {
-        "address": "Albany, NY 12247",
-        "chamber": "upper",
-        "district": "12",
-        "district_key": "12",
-        "email": "gianaris@nysenate.gov",
-        "image": "https://www.nysenate.gov/sites/default/files/styles/4_3_medium/public/hs_3.jpg",
-        "name": "Mike Gianaris",
-        "openstates_id": "ocd-person/b0c3d86b-33ca-4001-a9af-b963fabc06c3",
-        "party": "Democratic/Working Families",
-        "phone": "518-455-3486",
-        "social": {
-          "twitter": "SenGianaris"
-        },
-        "state": "NY",
-        "state_name": "New York",
-        "url": "https://www.nysenate.gov/senators-committees"
-      }
-    ],
     "NY:13": [
       {
         "address": "Room 307, Legislative Office Building, Albany, NY 12247",
@@ -132805,7 +132674,7 @@
         "district": "46",
         "district_key": "46",
         "email": "fahy@nysenate.gov",
-        "image": "https://assembly.state.ny.us/write/upload/member_files/109/headshot/109.jpg?hst=1660074584",
+        "image": "https://www.nysenate.gov/sites/default/files/2025/01/23/01-17-25-fahy-hs-021r_final-1.jpg",
         "name": "Pat Fahy",
         "openstates_id": "ocd-person/a3e0c7bc-45f6-4a6b-a092-1c124c149a6d",
         "party": "Democratic",
@@ -133261,7 +133130,7 @@
         "district": "10",
         "district_key": "10",
         "email": "sd10@ohiosenate.gov",
-        "image": "https://img.legistorm.com/people/980/46980.jpg?rand=272124",
+        "image": "http://www.ohiohouse.gov/Assets/Headshots/Small/79.jpg",
         "name": "Kyle Koehler",
         "openstates_id": "ocd-person/f2e79c7c-7e3a-496d-8f87-d43b62eb54a5",
         "party": "Republican",
@@ -140114,7 +139983,9 @@
         "openstates_id": "ocd-person/7bf077d8-e8b9-503e-b9c2-d18b55951e93",
         "party": "Republican",
         "phone": "202-224-5744",
-        "social": {},
+        "social": {
+          "twitter": "SenKatieBritt"
+        },
         "state": "US",
         "state_name": "US",
         "url": "https://www.britt.senate.gov/"
@@ -140274,7 +140145,9 @@
         "openstates_id": "ocd-person/c5a3238c-f36a-5b17-af62-ca6dcce0b91d",
         "party": "Democratic",
         "phone": "202-224-3841",
-        "social": {},
+        "social": {
+          "twitter": "SenAdamSchiff"
+        },
         "state": "US",
         "state_name": "US",
         "url": "https://www.schiff.senate.gov/"
@@ -140433,7 +140306,9 @@
         "openstates_id": "ocd-person/cb582ab6-6a5a-4578-9e44-620c9a6a1f4c",
         "party": "Republican",
         "phone": "850-599-9100",
-        "social": {},
+        "social": {
+          "twitter": "SenAshleyMoody"
+        },
         "state": "US",
         "state_name": "US",
         "url": "https://www.moody.senate.gov/"
@@ -140882,7 +140757,9 @@
         "openstates_id": "ocd-person/93f7b243-f3e6-4fec-b65a-42f7a19939e3",
         "party": "Democratic",
         "phone": "202-224-4524",
-        "social": {},
+        "social": {
+          "twitter": "Sen_Alsobrooks"
+        },
         "state": "US",
         "state_name": "US",
         "url": "https://www.alsobrooks.senate.gov/"
@@ -141083,7 +140960,9 @@
         "openstates_id": "ocd-person/999df51b-9318-55b9-b0f6-d738ffc1d62d",
         "party": "Republican",
         "phone": "202-224-5721",
-        "social": {},
+        "social": {
+          "twitter": "SenEricSchmitt"
+        },
         "state": "US",
         "state_name": "US",
         "url": "https://www.schmitt.senate.gov/"
@@ -141139,7 +141018,9 @@
         "openstates_id": "ocd-person/db5da3bd-3690-4c44-9c86-1c66752503c9",
         "party": "Republican",
         "phone": "202-224-2644",
-        "social": {},
+        "social": {
+          "twitter": "TimSheehyMT"
+        },
         "state": "US",
         "state_name": "US",
         "url": "https://www.sheehy.senate.gov/"
@@ -141177,7 +141058,9 @@
         "openstates_id": "ocd-person/e1b9405a-e695-5bc5-b3b0-6cdc1415f53c",
         "party": "Republican",
         "phone": "202-224-4224",
-        "social": {},
+        "social": {
+          "twitter": "SenatorRicketts"
+        },
         "state": "US",
         "state_name": "US",
         "url": "https://www.ricketts.senate.gov/"
@@ -141277,7 +141160,9 @@
         "openstates_id": "ocd-person/62227c11-1ad4-5395-b233-f1f526efc5b4",
         "party": "Democratic",
         "phone": "202-224-4744",
-        "social": {},
+        "social": {
+          "twitter": "senatorandykim"
+        },
         "state": "US",
         "state_name": "US",
         "url": "https://www.kim.senate.gov"
@@ -141479,7 +141364,9 @@
         "openstates_id": "ocd-person/a9a4d048-36e2-4f72-a764-5c361593a0d3",
         "party": "Republican",
         "phone": "202-224-2315",
-        "social": {},
+        "social": {
+          "twitter": "berniemoreno"
+        },
         "state": "US",
         "state_name": "US",
         "url": "https://www.moreno.senate.gov/"
@@ -141495,7 +141382,9 @@
         "openstates_id": "ocd-person/caec878c-2749-45e6-99a3-9bf077bf07e7",
         "party": "Republican",
         "phone": "202-224-3353",
-        "social": {},
+        "social": {
+          "twitter": "SenJonHusted"
+        },
         "state": "US",
         "state_name": "US",
         "url": "https://www.husted.senate.gov/"
@@ -141592,7 +141481,9 @@
         "openstates_id": "ocd-person/c7b45762-ba65-46cd-a8db-cddfe0521cba",
         "party": "Republican",
         "phone": "202-224-6324",
-        "social": {},
+        "social": {
+          "twitter": "SenMcCormickPA"
+        },
         "state": "US",
         "state_name": "US",
         "url": "https://www.mccormick.senate.gov/"
@@ -141608,7 +141499,9 @@
         "openstates_id": "ocd-person/6f500f52-75ce-5cf0-afc6-5be71f0921d2",
         "party": "Democratic",
         "phone": "202-224-4254",
-        "social": {},
+        "social": {
+          "twitter": "SenFettermanPA"
+        },
         "state": "US",
         "state_name": "US",
         "url": "https://www.fetterman.senate.gov/"
@@ -141935,6 +141828,7 @@
         "phone": "202-224-4024",
         "social": {
           "facebook": "SenatorKaine",
+          "twitter": "SenTimKaine",
           "youtube": "UC27LgTZlUnBQoNEQFZdn9LA"
         },
         "state": "US",
@@ -141995,7 +141889,9 @@
         "openstates_id": "ocd-person/2f9a1274-1a6a-4a78-b253-01ec02f20eee",
         "party": "Republican",
         "phone": "202-224-3954",
-        "social": {},
+        "social": {
+          "twitter": "JimJustice_WV"
+        },
         "state": "US",
         "state_name": "US",
         "url": "https://www.justice.senate.gov/"
@@ -146707,14 +146603,16 @@
     "AZ": [
       {
         "address": "Office of the Governor; 1700 W. Washington St., Phoenix, AZ 85007",
-        "email": null,
+        "email": "sosadmin@azsos.gov",
         "image": "https://azgovernor.gov/sites/default/files/styles/panopoly_image_original/public/governor-katie-hobbs_0_0_0.jpeg",
         "name": "Katie Hobbs",
         "openstates_id": "ocd-person/6e522a2a-e7b7-4713-a40f-c897e4341a87",
         "party": "Democratic",
         "phone": "602-542-4331",
         "role_type": "governor",
-        "social": {},
+        "social": {
+          "twitter": "SecretaryHobbs"
+        },
         "state": "AZ",
         "state_name": "Arizona",
         "url": "https://azgovernor.gov/"
@@ -148536,13 +148434,13 @@
     ],
     "WY": [
       {
-        "address": "La Fortaleza; P.O. Box 9020082; San Juan, PR 00902-0082",
+        "address": "State Capitol; 200 West 24th Street; Cheyenne, WY 82002",
         "email": null,
         "image": "https://governor.wyo.gov/assets/markgordon-B8-zFG2R.jpg",
         "name": "Mark Gordon",
         "openstates_id": "ocd-person/d832b435-0a83-49ba-abd8-6ce265eb52ef",
         "party": "Republican",
-        "phone": "787-721-2400",
+        "phone": "307-777-7434",
         "role_type": "governor",
         "social": {
           "twitter": "governorgordon"

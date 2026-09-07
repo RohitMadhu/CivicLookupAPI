@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T16:32:32.910363+00:00",
+  "generated_at": "2026-09-07T14:36:55.577548+00:00",
   "house_by_district": {
     "AK:0": [
       {
@@ -593,6 +593,23 @@
         "state": "CA",
         "state_name": "California",
         "url": "https://gray.house.gov"
+      }
+    ],
+    "CA:14": [
+      {
+        "address": "174 Cannon House Office Building Washington DC 20515-0514",
+        "bioguide_id": "W000832",
+        "chamber": "house",
+        "district": "California District 14",
+        "district_number": 14,
+        "name": "Aisha Wahab",
+        "office": "174 Cannon House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-5065",
+        "social": {},
+        "state": "CA",
+        "state_name": "California",
+        "url": null
       }
     ],
     "CA:15": [
@@ -2651,6 +2668,23 @@
         "state": "GA",
         "state_name": "Georgia",
         "url": "https://allen.house.gov"
+      }
+    ],
+    "GA:13": [
+      {
+        "address": "468 Cannon House Office Building Washington DC 20515-1013",
+        "bioguide_id": "B001328",
+        "chamber": "house",
+        "district": "Georgia District 13",
+        "district_number": 13,
+        "name": "Everton Blair Jr.",
+        "office": "468 Cannon House Office Building",
+        "party": "Democrat",
+        "phone": "202-225-2939",
+        "social": {},
+        "state": "GA",
+        "state_name": "Georgia",
+        "url": null
       }
     ],
     "GA:14": [
@@ -11336,12 +11370,12 @@
     ],
     "SC": [
       {
-        "address": "B33 Russell Senate Office Building Washington DC 20510",
+        "address": "211 Russell Senate Office Building Washington DC 20510",
         "bioguide_id": "G000608",
         "chamber": "senate",
         "class": 2,
         "name": "Darline Graham",
-        "office": "B33 Russell Senate Office Building",
+        "office": "211 Russell Senate Office Building",
         "party": "Republican",
         "phone": "202-224-5972",
         "social": {},
