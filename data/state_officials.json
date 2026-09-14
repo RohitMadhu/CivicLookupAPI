@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T14:37:19.607456+00:00",
+  "generated_at": "2026-09-14T15:28:29.485444+00:00",
   "sources": {
     "openstates_people": "https://github.com/openstates/people"
   },
@@ -23750,7 +23750,7 @@
         "social": {},
         "state": "IL",
         "state_name": "Illinois",
-        "url": "https://www.ilga.gov/House/Members/Details/3441"
+        "url": "https://ilga.gov/house/Rep.asp?GA=97&MemberID=1804"
       }
     ],
     "IL:50": [
@@ -24673,16 +24673,16 @@
     ],
     "IL:97": [
       {
-        "address": "Springfield, IL 62706",
+        "address": "Room 247-E, Stratton Office Building, Springfield, IL 62706",
         "chamber": "lower",
         "district": "97",
         "district_key": "97",
-        "email": "repjessicadixonheitman@gmail.com",
+        "email": "repdixonheitman@repjdh.com",
         "image": "https://www.chicagotribune.com/wp-content/uploads/2026/07/ctc-l-Dixon-Heitman_264932049_246515.jpg?w=1392",
         "name": "Jessica Dixon Heitman",
         "openstates_id": "ocd-person/5ea8a157-c31c-407b-8378-6d80aa7280f9",
         "party": "Democratic",
-        "phone": null,
+        "phone": "217-782-1331",
         "social": {},
         "state": "IL",
         "state_name": "Illinois",
@@ -28965,7 +28965,7 @@
         "chamber": "lower",
         "district": "18",
         "district_key": "18",
-        "email": "ryan.dotson@kylegislature.gov",
+        "email": "samara.heavrin@kylegislature.gov",
         "image": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house18.jpg",
         "name": "Samara Heavrin",
         "openstates_id": "ocd-person/d3176059-683c-48be-9c43-a57da08a2f49",
@@ -37108,7 +37108,7 @@
         "district": "40",
         "district_key": "40",
         "email": "melissa.wells@house.maryland.gov",
-        "image": "https://mgaleg.maryland.gov/2023RS/images/wells02.jpg",
+        "image": "https://nabtu.org/wp-content/uploads/2026/06/Z8A_8680-250x375.jpg",
         "name": "Melissa Wells",
         "openstates_id": "ocd-person/55cb04cb-cd28-44ed-a4a4-dcb2b064ede9",
         "party": "Democratic",
@@ -41881,7 +41881,7 @@
         "district_key": "7",
         "email": "tonyamyersphillips@house.mi.gov",
         "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Tonya_Myers_Phillips_20241022_115414.png",
-        "name": "Tonya Myers Phillips",
+        "name": "Tonya Phillips",
         "openstates_id": "ocd-person/787d9bda-d4dd-47fe-aaf0-348c505211e4",
         "party": "Democratic",
         "phone": "517-373-2276",
@@ -73680,16 +73680,16 @@
     ],
     "PA:12": [
       {
-        "address": null,
+        "address": "Room 223, Irvis Office Building P.O. Box 202012, Harrisburg, PA 17120",
         "chamber": "lower",
         "district": "12",
         "district_key": "12",
-        "email": null,
+        "email": "repdukes@pahouse.net",
         "image": "https://www.pahouse.com/imageHandler/top/125/175/755deff6-049c-f111-afcc-b489d332d98e",
         "name": "Brandon Dukes",
         "openstates_id": "ocd-person/f619eb4d-d296-46b9-af60-12f33d90e6e0",
         "party": "Democratic",
-        "phone": null,
+        "phone": "717-783-4303",
         "social": {},
         "state": "PA",
         "state_name": "Pennsylvania",
@@ -103948,7 +103948,7 @@
     ],
     "WI:11": [
       {
-        "address": null,
+        "address": "State Capitol Room 16 West, P.O. Box 8953 , 2 E. Main St., Madison, WI 53708",
         "chamber": "lower",
         "district": "11",
         "district_key": "11",
@@ -103957,7 +103957,7 @@
         "name": "Sequanna Taylor",
         "openstates_id": "ocd-person/a3db3b70-1e27-44a4-a5ae-025450ae4d3d",
         "party": "Democratic",
-        "phone": null,
+        "phone": "608-237-9111",
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -110481,7 +110481,7 @@
         },
         "state": "AZ",
         "state_name": "Arizona",
-        "url": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1966"
+        "url": "https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1914"
       }
     ],
     "AZ:15": [
@@ -110602,7 +110602,7 @@
         },
         "state": "AZ",
         "state_name": "Arizona",
-        "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2273"
+        "url": "https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1905"
       }
     ],
     "AZ:20": [
@@ -110644,7 +110644,7 @@
         },
         "state": "AZ",
         "state_name": "Arizona",
-        "url": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1956"
+        "url": "https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1867"
       }
     ],
     "AZ:22": [
@@ -111749,7 +111749,7 @@
         },
         "state": "CO",
         "state_name": "Colorado",
-        "url": "https://leg.colorado.gov/legislators/marc-snyder"
+        "url": "https://www.senatedems.co/marc-snyder"
       }
     ],
     "CO:13": [
@@ -115234,7 +115234,7 @@
         "social": {},
         "state": "HI",
         "state_name": "Hawaii",
-        "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=168"
+        "url": "https://capitol.hawaii.gov//memberpage.aspx?member=fukunaga"
       }
     ],
     "HI:12": [
@@ -115509,7 +115509,7 @@
     ],
     "HI:25": [
       {
-        "address": "State Capitol Room 219, 415 S. Beretania St., Honolulu, HI 96813",
+        "address": "State Capitol Room 214, 415 S. Beretania St., Honolulu, HI 96813",
         "chamber": "upper",
         "district": "25",
         "district_key": "25",
@@ -116302,7 +116302,7 @@
         "social": {},
         "state": "IA",
         "state_name": "Iowa",
-        "url": "https://iowasenaterepublicans.com/senators/charlie-mcclintock/"
+        "url": "https://gmail.us7.list-manage.com/subscribe?u=042fc53ef84961eacea578a65&id=5c8a12c5c7"
       }
     ],
     "IA:43": [
@@ -120072,7 +120072,7 @@
         "name": "Cassie Armstrong",
         "openstates_id": "ocd-person/8dbecabb-ef15-4925-8e50-26331e738a05",
         "party": "Democratic",
-        "phone": "502-564-8100",
+        "phone": "502-564-2470",
         "social": {
           "twitter": "cassieforky"
         },
@@ -127268,7 +127268,7 @@
         "social": {},
         "state": "MT",
         "state_name": "Montana",
-        "url": "https://leg.mt.gov/legislator-information/roster/individual/7635"
+        "url": "https://leg.mt.gov/legislator-information/roster/individual/5116"
       }
     ],
     "MT:29": [
@@ -137453,7 +137453,7 @@
     ],
     "SC:13": [
       {
-        "address": "P.O. Box 142, Columbia, SC 29201",
+        "address": "Room 211, Gressette Building, Columbia, SC 29202",
         "chamber": "upper",
         "district": "13",
         "district_key": "13",
@@ -145152,7 +145152,7 @@
     ],
     "WI:32": [
       {
-        "address": "State Capitol Room 22 South, P.O. Box 7882 , 2 E. Main St., Madison, WI 53707",
+        "address": "State Capitol Room 20 South, P.O. Box 7882 , 2 E. Main St., Madison, WI 53707",
         "chamber": "upper",
         "district": "32",
         "district_key": "32",
