@@ -1257,7 +1257,7 @@
           "comment": null,
           "days_to_file": 15,
           "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035408.pdf",
-          "excess_since": 0.1982571966977315,
+          "excess_since": -0.18677560815029337,
           "filer_id": "house_aprilmcclain_delaney",
           "filer_name": "April McClain Delaney",
           "filing_date": "2026-09-09",
@@ -1271,7 +1271,7 @@
           "party": "D",
           "ret_1y": null,
           "ret_30d": 0.3640755795078925,
-          "ret_since": 0.3640755795078925,
+          "ret_since": 0.5234909547816,
           "row_index": null,
           "source_id": "house_clerk",
           "state": "MD",
@@ -1835,7 +1835,7 @@
           "comment": null,
           "days_to_file": 21,
           "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035408.pdf",
-          "excess_since": -1.8075191651532663,
+          "excess_since": -2.194159525263456,
           "filer_id": "house_aprilmcclain_delaney",
           "filer_name": "April McClain Delaney",
           "filing_date": "2026-09-09",
@@ -1849,7 +1849,7 @@
           "party": "D",
           "ret_1y": null,
           "ret_30d": -6.038180206922057,
-          "ret_since": -2.051974069683555,
+          "ret_since": -1.8963962773226761,
           "row_index": null,
           "source_id": "house_clerk",
           "state": "MD",
@@ -1903,7 +1903,7 @@
           "comment": null,
           "days_to_file": 22,
           "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035408.pdf",
-          "excess_since": -3.6807629813944476,
+          "excess_since": -4.071183833138292,
           "filer_id": "house_aprilmcclain_delaney",
           "filer_name": "April McClain Delaney",
           "filing_date": "2026-09-09",
@@ -1917,7 +1917,7 @@
           "party": "D",
           "ret_1y": null,
           "ret_30d": -8.397051956200405,
-          "ret_since": -3.715946970834161,
+          "ret_since": -3.5630121845783105,
           "row_index": null,
           "source_id": "house_clerk",
           "state": "MD",
@@ -2039,7 +2039,7 @@
           "comment": null,
           "days_to_file": 26,
           "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035408.pdf",
-          "excess_since": -7.719376412494766,
+          "excess_since": -8.11180824653313,
           "filer_id": "house_aprilmcclain_delaney",
           "filer_name": "April McClain Delaney",
           "filing_date": "2026-09-09",
@@ -2053,7 +2053,7 @@
           "party": "D",
           "ret_1y": null,
           "ret_30d": -13.494594690720923,
-          "ret_since": -8.899276181000818,
+          "ret_since": -8.754574443935477,
           "row_index": null,
           "source_id": "house_clerk",
           "state": "MD",
@@ -34904,7 +34904,7 @@
           "comment": null,
           "days_to_file": 10,
           "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034895.pdf",
-          "excess_since": -0.06817831690558407,
+          "excess_since": -0.9760781506282572,
           "filer_id": "house_virginia_foxx",
           "filer_name": "Virginia Foxx",
           "filing_date": "2026-07-10",
@@ -34918,7 +34918,7 @@
           "party": "R",
           "ret_1y": null,
           "ret_30d": -0.3931854739523998,
-          "ret_since": 2.6649219161946487,
+          "ret_since": 2.3154246429783236,
           "row_index": null,
           "source_id": "house_clerk",
           "state": "NC",
@@ -34938,7 +34938,7 @@
           "comment": null,
           "days_to_file": 22,
           "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034895.pdf",
-          "excess_since": 0.2877599245160316,
+          "excess_since": -0.6213881321923411,
           "filer_id": "house_virginia_foxx",
           "filer_name": "Virginia Foxx",
           "filing_date": "2026-07-10",
@@ -34952,7 +34952,7 @@
           "party": "R",
           "ret_1y": null,
           "ret_30d": -0.06575795703473424,
-          "ret_since": 3.0249914520509185,
+          "ret_since": 2.6742684113708752,
           "row_index": null,
           "source_id": "house_clerk",
           "state": "NC",
@@ -38310,7 +38310,7 @@
     },
     "oge_douglas_burgum": {
       "filer": {
-        "agency": "Candidates - F.E.C.",
+        "agency": "Department of The Interior",
         "branch": "executive",
         "chamber": null,
         "est_volume": 16744076.5,
@@ -38318,7 +38318,7 @@
         "id": "oge_douglas_burgum",
         "late_filings": 137,
         "level": "Level I",
-        "office": "Presidential Candidate",
+        "office": "Secretary",
         "party": null,
         "photo_url": null,
         "purchases": 77,
@@ -38328,7 +38328,7 @@
       },
       "recent_trades": [
         {
-          "agency": "Candidates - F.E.C.",
+          "agency": "Department of The Interior",
           "amount_range_high": 15000,
           "amount_range_label": "$1,001 - $15,000",
           "amount_range_low": 1001,
@@ -38348,7 +38348,7 @@
           "is_late": 1,
           "level": "Level I",
           "notification_received_over_30d": 0,
-          "office": "Presidential Candidate",
+          "office": "Secretary",
           "owner": null,
           "party": null,
           "ret_1y": null,
@@ -38362,7 +38362,7 @@
           "transaction_type": "Sale (Full)"
         },
         {
-          "agency": "Candidates - F.E.C.",
+          "agency": "Department of The Interior",
           "amount_range_high": 15000,
           "amount_range_label": "$1,001 - $15,000",
           "amount_range_low": 1001,
@@ -38382,7 +38382,7 @@
           "is_late": 1,
           "level": "Level I",
           "notification_received_over_30d": 0,
-          "office": "Presidential Candidate",
+          "office": "Secretary",
           "owner": null,
           "party": null,
           "ret_1y": null,
@@ -38396,7 +38396,7 @@
           "transaction_type": "Sale (Full)"
         },
         {
-          "agency": "Candidates - F.E.C.",
+          "agency": "Department of The Interior",
           "amount_range_high": 15000,
           "amount_range_label": "$1,001 - $15,000",
           "amount_range_low": 1001,
@@ -38416,7 +38416,7 @@
           "is_late": 1,
           "level": "Level I",
           "notification_received_over_30d": 0,
-          "office": "Presidential Candidate",
+          "office": "Secretary",
           "owner": null,
           "party": null,
           "ret_1y": null,
@@ -38430,7 +38430,7 @@
           "transaction_type": "Purchase"
         },
         {
-          "agency": "Candidates - F.E.C.",
+          "agency": "Department of The Interior",
           "amount_range_high": 250000,
           "amount_range_label": "$100,001 - $250,000",
           "amount_range_low": 100001,
@@ -38450,7 +38450,7 @@
           "is_late": 1,
           "level": "Level I",
           "notification_received_over_30d": 0,
-          "office": "Presidential Candidate",
+          "office": "Secretary",
           "owner": null,
           "party": null,
           "ret_1y": null,
@@ -38464,7 +38464,7 @@
           "transaction_type": "Purchase"
         },
         {
-          "agency": "Candidates - F.E.C.",
+          "agency": "Department of The Interior",
           "amount_range_high": 15000,
           "amount_range_label": "$1,001 - $15,000",
           "amount_range_low": 1001,
@@ -38484,7 +38484,7 @@
           "is_late": 1,
           "level": "Level I",
           "notification_received_over_30d": 0,
-          "office": "Presidential Candidate",
+          "office": "Secretary",
           "owner": null,
           "party": null,
           "ret_1y": null,
@@ -38498,7 +38498,7 @@
           "transaction_type": "Purchase"
         },
         {
-          "agency": "Candidates - F.E.C.",
+          "agency": "Department of The Interior",
           "amount_range_high": 15000,
           "amount_range_label": "$1,001 - $15,000",
           "amount_range_low": 1001,
@@ -38518,7 +38518,7 @@
           "is_late": 1,
           "level": "Level I",
           "notification_received_over_30d": 0,
-          "office": "Presidential Candidate",
+          "office": "Secretary",
           "owner": null,
           "party": null,
           "ret_1y": null,
@@ -57880,7 +57880,7 @@
       }
     }
   },
-  "generated_at": "2026-09-27T05:17:34.745654+00:00",
+  "generated_at": "2026-09-27T12:00:52.438737+00:00",
   "indexes": {
     "id:house_abigail_spanberger": [
       "house_abigail_spanberger"
@@ -61258,12 +61258,12 @@
       "tradesWithLag": 66668
     },
     "estVolumeUsd": 7874706679,
-    "generatedAt": "2026-09-26T05:57:58.352Z",
+    "generatedAt": "2026-09-27T09:26:43.008Z",
     "lateFilings": 20642,
     "totalFilers": 447,
-    "totalFilings": 55962,
+    "totalFilings": 55988,
     "totalParsedFilings": 7214,
     "totalTrades": 69403
   },
-  "upstream_generated_at": "2026-09-26T05:57:58.352Z"
+  "upstream_generated_at": "2026-09-27T09:26:43.008Z"
 }
