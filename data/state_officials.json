@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T15:30:21.608761+00:00",
+  "generated_at": "2026-09-28T17:12:04.308467+00:00",
   "sources": {
     "openstates_people": "https://github.com/openstates/people"
   },
@@ -1296,7 +1296,7 @@
     ],
     "AK:12": [
       {
-        "address": "State Capitol Room 404, 120 4th St., Juneau, AK 99801",
+        "address": "State Capitol Room 410, 120 4th St., Juneau, AK 99801",
         "chamber": "lower",
         "district": "12",
         "district_key": "12",
@@ -1729,7 +1729,7 @@
     ],
     "AK:31": [
       {
-        "address": "State Capitol Room 128, 120 4th St., Juneau, AK 99801",
+        "address": "State Capitol Room 126, 120 4th St., Juneau, AK 99801",
         "chamber": "lower",
         "district": "31",
         "district_key": "31",
@@ -4927,7 +4927,7 @@
         "chamber": "lower",
         "district": "55",
         "district_key": "55",
-        "email": "matt.brown@arkansashouse.org",
+        "email": "brownmk@gmail.com",
         "image": "https://www.arkleg.state.ar.us/Content/photos/2023/House/621_sm.jpg",
         "name": "Matt Brown",
         "openstates_id": "ocd-person/d1b32d51-8ec6-4493-afd2-1bc5feb44034",
@@ -8842,27 +8842,6 @@
         "state": "CO",
         "state_name": "Colorado",
         "url": "https://leg.colorado.gov/legislators/jacque-phillips"
-      }
-    ],
-    "CO:32": [
-      {
-        "address": "State Capitol Room 307, Colorado  Building 200 E. Colfax Ave., Denver, CO 80203",
-        "chamber": "lower",
-        "district": "32",
-        "district_key": "32",
-        "email": "manny.rutinel.house@coleg.gov",
-        "image": "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBelZUQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ef4c74094f42d481f610cc35459aa4ca3a78b6eb/Rutinel,%20Manny.jpg",
-        "name": "Manny Rutinel",
-        "openstates_id": "ocd-person/ce4bd827-c1bc-4736-a580-f4f0215e727d",
-        "party": "Democratic",
-        "phone": "303-866-2945",
-        "social": {
-          "facebook": "mannyforcolorado",
-          "twitter": "MannyRutinel"
-        },
-        "state": "CO",
-        "state_name": "Colorado",
-        "url": "https://leg.colorado.gov/legislators/manny-rutinel"
       }
     ],
     "CO:33": [
@@ -13342,7 +13321,7 @@
         "social": {},
         "state": "FL",
         "state_name": "Florida",
-        "url": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4793"
+        "url": "https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4793&LegislativeTermId=91"
       }
     ],
     "FL:104": [
@@ -45475,7 +45454,7 @@
     ],
     "MO:131": [
       {
-        "address": "Room 403-A, 201 W. Capitol Ave., Jefferson City, MO 65101",
+        "address": "Room 309, 201 W. Capitol Ave., Jefferson City, MO 65101",
         "chamber": "lower",
         "district": "131",
         "district_key": "131",
@@ -45995,24 +45974,6 @@
         "url": "https://house.mo.gov/MemberDetails.aspx?district=158"
       }
     ],
-    "MO:159": [
-      {
-        "address": null,
-        "chamber": "lower",
-        "district": "159",
-        "district_key": "159",
-        "email": "dirk.deaton@house.mo.gov",
-        "image": "https://house.mo.gov/MemberPhoto.aspx?id=2090",
-        "name": "Dirk Deaton",
-        "openstates_id": "ocd-person/914b9a95-6dd2-4d1d-8dc4-eed597b02e53",
-        "party": "Republican",
-        "phone": null,
-        "social": {},
-        "state": "MO",
-        "state_name": "Missouri",
-        "url": "https://house.mo.gov/MemberDetails.aspx?district=159"
-      }
-    ],
     "MO:16": [
       {
         "address": "Room 302-1, 201 W. Capitol Ave., Jefferson City, MO 65101",
@@ -46317,24 +46278,6 @@
         "state": "MO",
         "state_name": "Missouri",
         "url": "https://house.mo.gov/MemberDetails.aspx?district=028"
-      }
-    ],
-    "MO:29": [
-      {
-        "address": "Room 109-I, 201 W. Capitol Ave., Jefferson City, MO 65101",
-        "chamber": "lower",
-        "district": "29",
-        "district_key": "29",
-        "email": "aaron.crossley@house.mo.gov",
-        "image": "https://house.mo.gov/MemberPhoto.aspx?id=2366",
-        "name": "Aaron Crossley",
-        "openstates_id": "ocd-person/ba6eb394-0402-49ba-9917-c5618d8a1589",
-        "party": "Democratic",
-        "phone": "573-751-3623",
-        "social": {},
-        "state": "MO",
-        "state_name": "Missouri",
-        "url": "https://house.mo.gov/MemberDetails.aspx?district=29"
       }
     ],
     "MO:3": [
@@ -47685,24 +47628,6 @@
         "state": "MO",
         "state_name": "Missouri",
         "url": "https://house.mo.gov/MemberDetails.aspx?district=098"
-      }
-    ],
-    "MO:99": [
-      {
-        "address": "Room 109-B, 201 W. Capitol Ave., Jefferson City, MO 65101",
-        "chamber": "lower",
-        "district": "99",
-        "district_key": "99",
-        "email": "ian.mackey@house.mo.gov",
-        "image": "https://house.mo.gov/MemberPhoto.aspx?id=2080",
-        "name": "Ian Mackey",
-        "openstates_id": "ocd-person/b93bdb73-001b-43ed-a436-99ad2efe4937",
-        "party": "Democratic",
-        "phone": "573-751-3859",
-        "social": {},
-        "state": "MO",
-        "state_name": "Missouri",
-        "url": "https://house.mo.gov/MemberDetails.aspx?district=099"
       }
     ],
     "MS:1": [
@@ -49602,7 +49527,7 @@
         "district": "86",
         "district_key": "86",
         "email": "sbarnett@house.ms.gov",
-        "image": "https://images.squarespace-cdn.com/content/v1/5472abbae4b0859145039552/1519227639852-W83BICPBB7LGL856WGBQ/Shane.jpg?format=500w",
+        "image": "https://billstatus.ls.state.ms.us/members/house/barnett.jpg",
         "name": "Shane Barnett",
         "openstates_id": "ocd-person/9b8df60b-26ba-4cdc-b862-87b15f81fdc1",
         "party": "Republican",
@@ -60973,22 +60898,6 @@
         "state": "NH",
         "state_name": "New Hampshire",
         "url": "https://gc.nh.gov/house/members/member.aspx?pid=9210"
-      },
-      {
-        "address": "State House 107 N. Main St., Concord, NH 03301",
-        "chamber": "lower",
-        "district": "Rockingham 5",
-        "district_key": "rockingham 5",
-        "email": "michael.vose@gc.nh.gov",
-        "image": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/61167.jpg",
-        "name": "Michael Vose",
-        "openstates_id": "ocd-person/1aa8819a-e1bd-4569-93ec-305ad61e8ea4",
-        "party": "Republican",
-        "phone": "603-271-3661",
-        "social": {},
-        "state": "NH",
-        "state_name": "New Hampshire",
-        "url": "https://gc.nh.gov/house/members/member.aspx?pid=909"
       }
     ],
     "NH:rockingham 6": [
@@ -68986,7 +68895,7 @@
         "social": {},
         "state": "OH",
         "state_name": "Ohio",
-        "url": "https://ohiohouse.gov/members/beryl-piccolantonio"
+        "url": "https://ohiohouse.gov/members/beryl-brown-piccolantonio"
       }
     ],
     "OH:40": [
@@ -69491,24 +69400,6 @@
         "state": "OH",
         "state_name": "Ohio",
         "url": "https://ohiohouse.gov/members/david-thomas"
-      }
-    ],
-    "OH:66": [
-      {
-        "address": "77 S. High St. 11th Floor, Columbus, OH 43215",
-        "chamber": "lower",
-        "district": "66",
-        "district_key": "66",
-        "email": "rep66@ohiohouse.gov",
-        "image": "https://www.legislature.ohio.gov/assets/people/sharon-a-ray/headshots/thumbnails/medium/sharon-a-ray-january-2021-headshot_medium.jpg",
-        "name": "Sharon Ray",
-        "openstates_id": "ocd-person/352d7ee9-256c-4195-a673-17b7ee200948",
-        "party": "Republican",
-        "phone": "614-466-8140",
-        "social": {},
-        "state": "OH",
-        "state_name": "Ohio",
-        "url": "https://ohiohouse.gov/members/sharon-a-ray"
       }
     ],
     "OH:67": [
@@ -73680,7 +73571,7 @@
     ],
     "PA:12": [
       {
-        "address": "Room 223, Irvis Office Building P.O. Box 202012, Harrisburg, PA 17120",
+        "address": "Room 25-A, East Wing P.O. Box 202012, Harrisburg, PA 17120",
         "chamber": "lower",
         "district": "12",
         "district_key": "12",
@@ -78725,24 +78616,6 @@
         "state": "RI",
         "state_name": "Rhode Island",
         "url": "https://www.rilegislature.gov/representatives/caldwell/default.aspx"
-      }
-    ],
-    "RI:31": [
-      {
-        "address": "82 Smith St., Providence, RI 02903",
-        "chamber": "lower",
-        "district": "31",
-        "district_key": "31",
-        "email": "rep-casimiro@rilegislature.gov",
-        "image": "http://www.rilegislature.gov/representatives/Pictures/casimiro.jpg",
-        "name": "Julie Casimiro",
-        "openstates_id": "ocd-person/6e1cd170-ab5c-4095-9fb2-8e92138f6db3",
-        "party": "Democratic",
-        "phone": "401-222-3580",
-        "social": {},
-        "state": "RI",
-        "state_name": "Rhode Island",
-        "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
       }
     ],
     "RI:32": [
@@ -84230,7 +84103,7 @@
         "district": "68",
         "district_key": "68",
         "email": "rep.aron.maberry@capitol.tn.gov",
-        "image": "https://www.cmcss.net/wp-content/uploads/elementor/thumbs/L10A9877-2-scaled-qx0h1ahjmd2n4yug9v0d3onejmbo99kwtpl6ybvbxo.jpg",
+        "image": "https://votemaberry.com/wp-content/uploads/2024/11/AronMaberryHomeBackground2-3.jpg",
         "name": "Aron Maberry",
         "openstates_id": "ocd-person/0b5b90de-2d94-424f-ab28-b434696cb5a9",
         "party": "Republican",
@@ -84547,24 +84420,6 @@
         "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H83"
       }
     ],
-    "TN:84": [
-      {
-        "address": "Room 416, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville, TN 37243",
-        "chamber": "lower",
-        "district": "84",
-        "district_key": "84",
-        "email": "rep.joe.towns@capitol.tn.gov",
-        "image": "http://www.capitol.tn.gov/house/members/images/h84.jpg",
-        "name": "Joe Towns",
-        "openstates_id": "ocd-person/7a3177a1-118c-48ce-bbb8-17ebb1240e00",
-        "party": "Democratic",
-        "phone": "615-741-2189",
-        "social": {},
-        "state": "TN",
-        "state_name": "Tennessee",
-        "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member?district=H84"
-      }
-    ],
     "TN:85": [
       {
         "address": "Room 504, Cordell Hull Building 425 Rep. John Lewis Way North, Nashville, TN 37243",
@@ -84851,24 +84706,6 @@
         "state": "TN",
         "state_name": "Tennessee",
         "url": "https://tnhousegop.org/members/representative-tom-leatherwood/"
-      }
-    ],
-    "TX:1": [
-      {
-        "address": "710 James Bowie Drive, New Boston, TX 75570",
-        "chamber": "lower",
-        "district": "1",
-        "district_key": "1",
-        "email": "gary.vandeaver@house.texas.gov",
-        "image": "https://house.texas.gov/images/members/2540.jpg?v=1",
-        "name": "Gary VanDeaver",
-        "openstates_id": "ocd-person/26617394-4276-4aa7-878c-d20552b260a4",
-        "party": "Republican",
-        "phone": "903-628-0361",
-        "social": {},
-        "state": "TX",
-        "state_name": "Texas",
-        "url": "https://house.texas.gov/members/2540"
       }
     ],
     "TX:10": [
@@ -87309,7 +87146,7 @@
         "district_key": "87",
         "email": "caroline.fairly@house.texas.gov",
         "image": "https://www.house.texas.gov/images/members/4480.jpg?v=1",
-        "name": "Caroline Fairly",
+        "name": "Caroline Dunmoyer",
         "openstates_id": "ocd-person/5c40c2b0-07c1-4c73-b15b-14d0ef6df40e",
         "party": "Republican",
         "phone": "512-463-0470",
@@ -88084,6 +87921,24 @@
         "url": "https://gray.house.gov/"
       }
     ],
+    "US:ca-14": [
+      {
+        "address": "174 Cannon House Office Building, Washington, DC 20515",
+        "chamber": "lower",
+        "district": "CA-14",
+        "district_key": "ca-14",
+        "email": null,
+        "image": null,
+        "name": "Aisha Wahab",
+        "openstates_id": "ocd-person/81c4e80e-8ed7-481f-a22d-1aa65b83f94c",
+        "party": "Democratic",
+        "phone": "202-225-5065",
+        "social": {},
+        "state": "US",
+        "state_name": "US",
+        "url": "https://wahab.house.gov/"
+      }
+    ],
     "US:ca-15": [
       {
         "address": "1404 Longworth House Office Building, Washington, DC 20515",
@@ -88475,7 +88330,7 @@
         "chamber": "lower",
         "district": "CA-32",
         "district_key": "ca-32",
-        "email": "https://sherman.house.gov/help",
+        "email": "https://sherman.house.gov/address_authentication?form=/contact/opinion",
         "image": "https://unitedstates.github.io/images/congress/450x550/S000344.jpg",
         "name": "Brad Sherman",
         "openstates_id": "ocd-person/4015098b-d823-5776-9b47-ceb09bf523a9",
@@ -88730,7 +88585,7 @@
         "chamber": "lower",
         "district": "CA-43",
         "district_key": "ca-43",
-        "email": "https://waters.house.gov/contact",
+        "email": "https://waters.house.gov/address_authentication?form=/contact/message-our-office",
         "image": "https://unitedstates.github.io/images/congress/450x550/W000187.jpg",
         "name": "Maxine Waters",
         "openstates_id": "ocd-person/fc7a4a9e-9274-546f-ae5c-bcf46f3fe0f2",
@@ -88957,7 +88812,7 @@
         "chamber": "lower",
         "district": "CA-6",
         "district_key": "ca-6",
-        "email": null,
+        "email": "https://bera.house.gov/address_authentication?form=/contact/email-me",
         "image": "https://unitedstates.github.io/images/congress/450x550/B001287.jpg",
         "name": "Ami Bera",
         "openstates_id": "ocd-person/79c4f42e-4775-5ed0-a7e1-d0c942ce6c34",
@@ -89001,7 +88856,7 @@
         "chamber": "lower",
         "district": "CA-8",
         "district_key": "ca-8",
-        "email": "https://garamendi.house.gov/address_authentication?form=/contact",
+        "email": "https://garamendi.house.gov/contact/email-congressman-garamendi/",
         "image": "https://unitedstates.github.io/images/congress/450x550/G000559.jpg",
         "name": "John Garamendi",
         "openstates_id": "ocd-person/d4381c32-b267-5e35-b118-c0da3a0a80a1",
@@ -89263,7 +89118,7 @@
         "chamber": "lower",
         "district": "CT-4",
         "district_key": "ct-4",
-        "email": "https://himes.house.gov/email-me-about-legislation",
+        "email": "https://himes.house.gov/contact/email-me/",
         "image": "https://unitedstates.github.io/images/congress/450x550/H001047.jpg",
         "name": "Jim Himes",
         "openstates_id": "ocd-person/e1a8d4da-7cbd-571e-817d-774ff06bb342",
@@ -89395,7 +89250,7 @@
         },
         "state": "US",
         "state_name": "US",
-        "url": "https://webster.house.gov/home"
+        "url": "https://webster.house.gov/"
       }
     ],
     "US:fl-12": [
@@ -89488,7 +89343,7 @@
         "chamber": "lower",
         "district": "FL-16",
         "district_key": "fl-16",
-        "email": "https://buchanan.house.gov/constituent-validation",
+        "email": "https://buchanan.house.gov/contact/email-me/",
         "image": "https://unitedstates.github.io/images/congress/450x550/B001260.jpg",
         "name": "Vern Buchanan",
         "openstates_id": "ocd-person/1e646f7b-600b-503f-9524-3ae95d00cd2d",
@@ -89977,6 +89832,24 @@
         "url": "https://allen.house.gov/"
       }
     ],
+    "US:ga-13": [
+      {
+        "address": "468 Cannon House Office Building, Washington, DC 20515",
+        "chamber": "lower",
+        "district": "GA-13",
+        "district_key": "ga-13",
+        "email": "https://blair.house.gov/address_authentication?form=/contact/email-me",
+        "image": null,
+        "name": "Everton Blair",
+        "openstates_id": "ocd-person/c321ddc7-f72e-47f7-ba32-1fd97b19faca",
+        "party": "Democratic",
+        "phone": "202-225-2939",
+        "social": {},
+        "state": "US",
+        "state_name": "US",
+        "url": "https://blair.house.gov/"
+      }
+    ],
     "US:ga-14": [
       {
         "address": "2201 Rayburn House Office Building, Washington, DC 20515",
@@ -90263,7 +90136,7 @@
         "chamber": "lower",
         "district": "IA-3",
         "district_key": "ia-3",
-        "email": "https://nunn.house.gov/contact",
+        "email": "https://nunn.house.gov/contact/email-zach/",
         "image": "https://unitedstates.github.io/images/congress/450x550/N000193.jpg",
         "name": "Zach Nunn",
         "openstates_id": "ocd-person/144ba1b8-981f-58d8-b85d-c38fca7d524c",
@@ -90632,7 +90505,7 @@
         "chamber": "lower",
         "district": "IL-7",
         "district_key": "il-7",
-        "email": "https://davisforms.house.gov/contact/",
+        "email": null,
         "image": "https://unitedstates.github.io/images/congress/450x550/D000096.jpg",
         "name": "Danny Davis",
         "openstates_id": "ocd-person/a494987e-6674-5df8-a8b2-de4b5a99de86",
@@ -90974,7 +90847,7 @@
         "chamber": "lower",
         "district": "KY-2",
         "district_key": "ky-2",
-        "email": "https://guthrie.house.gov/contact/default.aspx",
+        "email": "https://guthrie.house.gov/contact/",
         "image": "https://unitedstates.github.io/images/congress/450x550/G000558.jpg",
         "name": "Brett Guthrie",
         "openstates_id": "ocd-person/a7ba76d3-828f-52bd-9b30-cdbacf0af2b8",
@@ -91205,7 +91078,7 @@
         "chamber": "lower",
         "district": "MA-1",
         "district_key": "ma-1",
-        "email": "https://neal.house.gov/contact/",
+        "email": "https://neal.house.gov/email-me/",
         "image": "https://unitedstates.github.io/images/congress/450x550/N000015.jpg",
         "name": "Richard Neal",
         "openstates_id": "ocd-person/882d0f96-61bb-57b0-9683-c72425d337e9",
@@ -93638,7 +93511,7 @@
         "chamber": "lower",
         "district": "OH-10",
         "district_key": "oh-10",
-        "email": "https://turner.house.gov/email-me",
+        "email": "https://turner.house.gov/address_authentication?form=/contact/email-me",
         "image": "https://unitedstates.github.io/images/congress/450x550/T000463.jpg",
         "name": "Mike Turner",
         "openstates_id": "ocd-person/bac6c65d-846b-5e60-9532-fa216c99ccf6",
@@ -95715,7 +95588,7 @@
         "chamber": "lower",
         "district": "VA-1",
         "district_key": "va-1",
-        "email": "https://wittman.house.gov/contact/default.aspx",
+        "email": "https://wittmanforms.house.gov/forms/writeyourrep/",
         "image": "https://unitedstates.github.io/images/congress/450x550/W000804.jpg",
         "name": "Rob Wittman",
         "openstates_id": "ocd-person/0adba0f5-0723-584b-8071-3e442a01f2d2",
@@ -106520,6 +106393,24 @@
         "url": "https://www.legis.state.wv.us/House/lawmaker.cfm?member=Delegate+Fluharty"
       }
     ],
+    "WV:50": [
+      {
+        "address": "State Capitol Room 229E, Complex Building 1, Charleston, WV 25305",
+        "chamber": "lower",
+        "district": "50",
+        "district_key": "50",
+        "email": "william.vest@wvhouse.gov",
+        "image": "https://www.wvlegislature.gov/images/members/2025/house/vest_william.jpg",
+        "name": "Bill Vest",
+        "openstates_id": "ocd-person/a49643ec-8dac-4464-8658-1cf68602be17",
+        "party": "Republican",
+        "phone": "304-340-3337",
+        "social": {},
+        "state": "WV",
+        "state_name": "West Virginia",
+        "url": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Vest"
+      }
+    ],
     "WV:51": [
       {
         "address": "State Capitol Room 233E, Complex, Building 1 1900 Kanawha Blvd. East, Charleston, WV 25305",
@@ -109848,27 +109739,6 @@
         "url": "https://arkleg.state.ar.us/Legislators/Detail?member=M.+Johnson"
       }
     ],
-    "AR:18": [
-      {
-        "address": "State Capitol Building 500 Woodlane St., Suite 320, Little Rock, AR 72201",
-        "chamber": "upper",
-        "district": "18",
-        "district_key": "18",
-        "email": "jonathan.dismang@senate.ar.gov",
-        "image": "https://www.arkleg.state.ar.us/Content/photos/2023/Senate/337_sm.jpg",
-        "name": "Jonathan Dismang",
-        "openstates_id": "ocd-person/75b8a2ef-c463-4317-ba03-a368a2f203f2",
-        "party": "Republican",
-        "phone": "501-682-2902",
-        "social": {
-          "facebook": "dismang",
-          "twitter": "dismang"
-        },
-        "state": "AR",
-        "state_name": "Arkansas",
-        "url": "https://arkleg.state.ar.us/Legislators/Detail?member=J.+Dismang"
-      }
-    ],
     "AR:19": [
       {
         "address": "State Capitol Building 500 Woodlane St., Suite 320, Little Rock, AR 72201",
@@ -110966,24 +110836,6 @@
         "state": "CA",
         "state_name": "California",
         "url": "https://ad01.asmrc.org/"
-      }
-    ],
-    "CA:10": [
-      {
-        "address": "1021 O St. Suite 8530, Sacramento, CA 95814",
-        "chamber": "upper",
-        "district": "10",
-        "district_key": "10",
-        "email": "senator.wahab@senate.ca.gov",
-        "image": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/wahab_aisha_d-10_-_crop.jpg",
-        "name": "Aisha Wahab",
-        "openstates_id": "ocd-person/295965df-6c71-4e11-806f-2b7d5be5d45c",
-        "party": "Democratic",
-        "phone": "916-651-4410",
-        "social": {},
-        "state": "CA",
-        "state_name": "California",
-        "url": "https://sd10.senate.ca.gov/"
       }
     ],
     "CA:11": [
@@ -126443,24 +126295,6 @@
         "url": "https://billstatus.ls.state.ms.us/members/senate/tate.xml"
       }
     ],
-    "MS:34": [
-      {
-        "address": "State Capitol Room 405, 400 High St., Jackson, MS 39201",
-        "chamber": "upper",
-        "district": "34",
-        "district_key": "34",
-        "email": "jbarnett@senate.ms.gov",
-        "image": "https://static.votesmart.org/static/canphoto/156222.jpg",
-        "name": "Juan Barnett",
-        "openstates_id": "ocd-person/fcb35ef2-7463-4f8a-9a8a-3bc45b235ecb",
-        "party": "Democratic",
-        "phone": "601-359-2224",
-        "social": {},
-        "state": "MS",
-        "state_name": "Mississippi",
-        "url": "https://billstatus.ls.state.ms.us/members/senate/barnett.xml"
-      }
-    ],
     "MS:35": [
       {
         "address": "State Capitol 400 High St., Jackson, MS 39201",
@@ -127791,6 +127625,24 @@
         "state": "MT",
         "state_name": "Montana",
         "url": "https://archive.legmt.gov/legislator-information/roster/individual/7516"
+      }
+    ],
+    "NC:1": [
+      {
+        "address": "Room 629, 300 N. Salisbury St., Raleigh, NC 27603",
+        "chamber": "upper",
+        "district": "1",
+        "district_key": "1",
+        "email": "jerry.tillett@ncleg.gov",
+        "image": "https://tillettforsenate.com/wp-content/uploads/2025/11/1-scaled-450x450.jpg",
+        "name": "Jerry Tillett",
+        "openstates_id": "ocd-person/de679003-a07a-4f53-bb87-fd9bab0af532",
+        "party": "Republican",
+        "phone": "919-715-8293",
+        "social": {},
+        "state": "NC",
+        "state_name": "North Carolina",
+        "url": "https://www.ncleg.gov/Members/Biography/S/1003"
       }
     ],
     "NC:10": [
@@ -140110,14 +139962,14 @@
         },
         "state": "US",
         "state_name": "US",
-        "url": "https://www.boozman.senate.gov/public/index.cfm/home"
+        "url": "https://www.boozman.senate.gov/public/"
       },
       {
         "address": "326 Russell Senate Office Building, Washington, DC 20510",
         "chamber": "upper",
         "district": "Arkansas",
         "district_key": "arkansas",
-        "email": "https://www.cotton.senate.gov/contact/contact-tom",
+        "email": "https://www.cotton.senate.gov/contact/contact-tom/",
         "image": "https://unitedstates.github.io/images/congress/450x550/C001095.jpg",
         "name": "Tom Cotton",
         "openstates_id": "ocd-person/a0c9885f-b9f8-5045-9e74-044a886b9a6e",
@@ -140398,7 +140250,7 @@
         "chamber": "upper",
         "district": "Hawaii",
         "district_key": "hawaii",
-        "email": "https://www.hirono.senate.gov/contact",
+        "email": "https://www.hirono.senate.gov/contact/email-me-about-an-issue",
         "image": "https://unitedstates.github.io/images/congress/450x550/H001042.jpg",
         "name": "Mazie Hirono",
         "openstates_id": "ocd-person/ee89a520-227a-575d-8379-5d36b6e6b2a2",
@@ -140932,7 +140784,7 @@
         "chamber": "upper",
         "district": "Mississippi",
         "district_key": "mississippi",
-        "email": "https://www.wicker.senate.gov/email-me",
+        "email": "https://www.wicker.senate.gov/contact/email-me/",
         "image": "https://unitedstates.github.io/images/congress/450x550/W000437.jpg",
         "name": "Roger Wicker",
         "openstates_id": "ocd-person/8fe2b037-b8ff-5161-9bb4-196e9f1d9dca",
@@ -141551,7 +141403,7 @@
     ],
     "US:south carolina": [
       {
-        "address": "B33 Russell Senate Office Building, Washington, DC 20510",
+        "address": "211 Russell Senate Office Building, Washington, DC 20510",
         "chamber": "upper",
         "district": "South Carolina",
         "district_key": "south carolina",

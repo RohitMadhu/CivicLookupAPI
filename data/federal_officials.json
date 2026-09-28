@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T15:29:58.193945+00:00",
+  "generated_at": "2026-09-28T17:11:45.652700+00:00",
   "house_by_district": {
     "AK:0": [
       {
@@ -505,7 +505,7 @@
         "social": {},
         "state": "CA",
         "state_name": "California",
-        "url": null
+        "url": "https://gallagher.house.gov/"
       }
     ],
     "CA:10": [
@@ -609,7 +609,7 @@
         "social": {},
         "state": "CA",
         "state_name": "California",
-        "url": null
+        "url": "https://wahab.house.gov/"
       }
     ],
     "CA:15": [
@@ -2684,7 +2684,7 @@
         "social": {},
         "state": "GA",
         "state_name": "Georgia",
-        "url": null
+        "url": "https://blair.house.gov/"
       }
     ],
     "GA:14": [
