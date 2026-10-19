@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T18:23:05.155027+00:00",
+  "generated_at": "2026-10-19T16:01:59.151261+00:00",
   "sources": {
     "openstates_people": "https://github.com/openstates/people"
   },
@@ -20096,24 +20096,6 @@
         "url": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33977&ga=90"
       }
     ],
-    "IA:38": [
-      {
-        "address": "State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319",
-        "chamber": "lower",
-        "district": "38",
-        "district_key": "38",
-        "email": "jon.dunwell@legis.iowa.gov",
-        "image": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=32165",
-        "name": "Jon Dunwell",
-        "openstates_id": "ocd-person/7a97018b-eb0e-46cf-8bd8-26520ff0d1e0",
-        "party": "Republican",
-        "phone": "515-281-3221",
-        "social": {},
-        "state": "IA",
-        "state_name": "Iowa",
-        "url": "https://iowahouserepublicans.nationbuilder.com/reps"
-      }
-    ],
     "IA:39": [
       {
         "address": "State Capitol Building 1007 E. Grand Ave., Des Moines, IA 50319",
@@ -32054,24 +32036,6 @@
         "state": "LA",
         "state_name": "Louisiana",
         "url": "https://house.louisiana.gov/H_Reps/members?ID=76"
-      }
-    ],
-    "LA:77": [
-      {
-        "address": "P.O. Box 94062 900 N. 3rd St., Baton Rouge, LA 70804",
-        "chamber": "lower",
-        "district": "77",
-        "district_key": "77",
-        "email": "wrightm@legis.la.gov",
-        "image": null,
-        "name": "Mark Wright",
-        "openstates_id": "ocd-person/d3ecec03-0408-46f0-8c82-b775f787e6e1",
-        "party": "Republican",
-        "phone": "225-342-6945",
-        "social": {},
-        "state": "LA",
-        "state_name": "Louisiana",
-        "url": "https://house.louisiana.gov/H_Reps/members?ID=77"
       }
     ],
     "LA:78": [
@@ -69402,6 +69366,24 @@
         "url": "https://ohiohouse.gov/members/david-thomas"
       }
     ],
+    "OH:66": [
+      {
+        "address": "77 S. High St. 10th Floor, Columbus, OH 43215",
+        "chamber": "lower",
+        "district": "66",
+        "district_key": "66",
+        "email": "rep66@ohiohouse.gov",
+        "image": "https://img.legistorm.com/people/550/217550.jpg?rand=304840",
+        "name": "Sean Hutson",
+        "openstates_id": "ocd-person/f578440a-e5ea-4775-bb41-94adad15fa73",
+        "party": "Republican",
+        "phone": null,
+        "social": {},
+        "state": "OH",
+        "state_name": "Ohio",
+        "url": "https://ohiohouse.gov/members/sean-hutson"
+      }
+    ],
     "OH:67": [
       {
         "address": "77 S. High St. 12th Floor, Columbus, OH 43215",
@@ -71418,24 +71400,6 @@
         "state": "OK",
         "state_name": "Oklahoma",
         "url": "https://www.okhouse.gov/representatives/ross-ford"
-      }
-    ],
-    "OK:77": [
-      {
-        "address": "Room 501, 2300 N. Lincoln Blvd., Oklahoma City, OK 73105",
-        "chamber": "lower",
-        "district": "77",
-        "district_key": "77",
-        "email": "john.waldron@okhouse.gov",
-        "image": null,
-        "name": "John Waldron",
-        "openstates_id": "ocd-person/6a662cc1-492b-4c65-a77c-9b8b202b1ae5",
-        "party": "Democratic",
-        "phone": "405-557-7410",
-        "social": {},
-        "state": "OK",
-        "state_name": "Oklahoma",
-        "url": "https://www.okhouse.gov/representatives/john-waldron"
       }
     ],
     "OK:78": [
@@ -96390,24 +96354,6 @@
         "state": "UT",
         "state_name": "Utah",
         "url": "https://house.utleg.gov/rep/DEFAYA/"
-      }
-    ],
-    "UT:16": [
-      {
-        "address": "P.O. Box 145030 350 N. State St., Suite 350, Salt Lake City, UT 84114",
-        "chamber": "lower",
-        "district": "16",
-        "district_key": "16",
-        "email": "tlee@le.utah.gov",
-        "image": "https://le.utah.gov/images/legislator/LEETA.jpg",
-        "name": "Trevor Lee",
-        "openstates_id": "ocd-person/3187c9ea-c509-45f3-9eb4-a8ba2d8fd7d9",
-        "party": "Republican",
-        "phone": "801-538-1029",
-        "social": {},
-        "state": "UT",
-        "state_name": "Utah",
-        "url": "https://house.utleg.gov/rep/LEETA/"
       }
     ],
     "UT:17": [
@@ -145509,7 +145455,7 @@
         "district": "3",
         "district_key": "3",
         "email": "trenton.barnhart@wvsenate.gov",
-        "image": "https://www.wvlegislature.gov/images/members/2025/senate/barnhart_trenton.jpg",
+        "image": "http://www.wvlegislature.gov/images/members/2023/house/barnhart_trenton.jpg",
         "name": "Trenton Barnhart",
         "openstates_id": "ocd-person/4a909c49-37c6-4105-ac77-afe4745a1b1b",
         "party": "Republican",
