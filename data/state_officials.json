@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T19:04:33.008913+00:00",
+  "generated_at": "2026-11-23T20:43:59.618866+00:00",
   "sources": {
     "openstates_people": "https://github.com/openstates/people"
   },
@@ -440,7 +440,7 @@
         "chamber": "legislature",
         "district": "18",
         "district_key": "18",
-        "email": "carmendariz@leg.ne.gov",
+        "email": "christy.armendariz@leg.ne.gov",
         "image": "https://www.nebraskalegislature.gov/media/images/senators/dist18/highres/dist18.jpg",
         "name": "Christy Armendariz",
         "openstates_id": "ocd-person/fdac2d3a-3497-4e34-8247-af670c901dd8",
@@ -49077,7 +49077,7 @@
         "district": "62",
         "district_key": "62",
         "email": "varner@house.ms.gov",
-        "image": "https://mcgeerealtyservices.com/wp-content/uploads/2020/09/Lances-Headshot-300x400.gif",
+        "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Lance_Varber.jpeg",
         "name": "Lance Varner",
         "openstates_id": "ocd-person/f9eedb57-45af-4743-b869-ece1ccb643e2",
         "party": "Republican",
@@ -64492,23 +64492,20 @@
     ],
     "NV:1": [
       {
-        "address": "Room 3133, Nevada Assembly 401 S. Carson St., Carson City, NV 89701",
+        "address": "Nevada Assembly 401 S. Carson St., Carson City, NV 89701",
         "chamber": "lower",
         "district": "1",
         "district_key": "1",
-        "email": "daniele.monroemoreno@asm.state.nv.us",
-        "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/MonroeMoreno.Daniele.307.jpg",
-        "name": "Daniele Monroe-Moreno",
-        "openstates_id": "ocd-person/b266a1bc-d8f5-472c-ba8d-e98e0d904ee3",
+        "email": null,
+        "image": "https://esparzafornevada.com/wp-content/uploads/2026/01/esparza-headshot-v2-1.png",
+        "name": "Alexis Esparza",
+        "openstates_id": "ocd-person/c515922f-d8c6-4887-aede-4189ba57ffd9",
         "party": "Democratic",
         "phone": "775-684-8509",
-        "social": {
-          "facebook": "Daniele4Nevada",
-          "twitter": "Daniele4NV"
-        },
+        "social": {},
         "state": "NV",
         "state_name": "Nevada",
-        "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=307"
+        "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/1"
       }
     ],
     "NV:10": [
@@ -64578,20 +64575,17 @@
     ],
     "NV:13": [
       {
-        "address": "Room 4112, Nevada Assembly 401 S. Carson St., Carson City, NV 89701",
+        "address": "Nevada Assembly 401 S. Carson St., Carson City, NV 89701",
         "chamber": "lower",
         "district": "13",
         "district_key": "13",
-        "email": "brian.hibbetts@asm.state.nv.us",
-        "image": "http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/Hibbetts.Brian.394.jpg",
-        "name": "Brian Hibbetts",
-        "openstates_id": "ocd-person/20c9828b-8026-440a-9328-0c2cbcbad016",
-        "party": "Republican",
+        "email": null,
+        "image": "https://img1.wsimg.com/isteam/ip/a4e965e2-c025-48a0-9f91-12551068a576/DanielAndrewsHeadshots-5.jpg/:/rs=w:1280,h:1024",
+        "name": "Dan Andrews",
+        "openstates_id": "ocd-person/3ad670b4-51af-481a-8488-54bbd67d321f",
+        "party": "Democratic",
         "phone": "775-684-8853",
-        "social": {
-          "instagram": "brianhibbettsnv",
-          "twitter": "BrianHibbetts"
-        },
+        "social": {},
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/13"
@@ -64621,24 +64615,20 @@
     ],
     "NV:15": [
       {
-        "address": "Room 3119, Nevada Assembly 401 S. Carson St., Carson City, NV 89701",
+        "address": "Nevada Assembly 401 S. Carson St., Carson City, NV 89701",
         "chamber": "lower",
         "district": "15",
         "district_key": "15",
-        "email": "howard.watts@asm.state.nv.us",
-        "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Watts.Howard.363.jpg",
-        "name": "Howard Watts",
-        "openstates_id": "ocd-person/b88fd854-c97b-4908-a554-583b93bca5c4",
+        "email": null,
+        "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/davila-miguel-headshot-33_20260421_174432_13269.jpg",
+        "name": "Miguel D\u00e1vila",
+        "openstates_id": "ocd-person/ab711af6-6ff7-4965-a7b0-da11fcb883c5",
         "party": "Democratic",
         "phone": "775-684-8835",
-        "social": {
-          "facebook": "WattsForNevada",
-          "instagram": "HowardWattsNV",
-          "twitter": "HowardWattsNV"
-        },
+        "social": {},
         "state": "NV",
         "state_name": "Nevada",
-        "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=363"
+        "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/15"
       }
     ],
     "NV:16": [
@@ -64728,24 +64718,20 @@
     ],
     "NV:2": [
       {
-        "address": "Room 3130, Nevada Assembly 401 S. Carson St., Carson City, NV 89701",
+        "address": "Nevada Assembly 401 S. Carson St., Carson City, NV 89701",
         "chamber": "lower",
         "district": "2",
         "district_key": "2",
-        "email": "heidi.kasama@asm.state.nv.us",
-        "image": "http://www.leg.state.nv.us/Session/36th2025Special/legislators/Assembly/Images/Kasama.Heidi.379.jpg",
-        "name": "Heidi Kasama",
-        "openstates_id": "ocd-person/61389b89-1169-49b3-a17b-c904f2111b4e",
-        "party": "Republican",
+        "email": null,
+        "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/KamilahBywaters2024.jpg",
+        "name": "Kamilah Bywaters",
+        "openstates_id": "ocd-person/bc5b086e-4a0c-4854-9c52-058a5d357f03",
+        "party": "Democratic",
         "phone": "775-684-8827",
-        "social": {
-          "facebook": "heidikasamanv",
-          "instagram": "heidikasamanv",
-          "twitter": "heidikasama4nv"
-        },
+        "social": {},
         "state": "NV",
         "state_name": "Nevada",
-        "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=379"
+        "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/2"
       }
     ],
     "NV:20": [
@@ -64792,43 +64778,35 @@
     ],
     "NV:22": [
       {
-        "address": "Room 3105D, Nevada Assembly 401 S. Carson St., Carson City, NV 89701",
+        "address": "Nevada Assembly 401 S. Carson St., Carson City, NV 89701",
         "chamber": "lower",
         "district": "22",
         "district_key": "22",
-        "email": "melissa.hardy@asm.state.nv.us",
-        "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Hardy.Melissa.364.jpg",
-        "name": "Melissa Hardy",
-        "openstates_id": "ocd-person/5cafbfaf-3066-4080-9754-b53f337ba4ba",
-        "party": "Republican",
+        "email": null,
+        "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Shenea_Booth_20260413_060450.png",
+        "name": "Shenea Booth",
+        "openstates_id": "ocd-person/b24e2485-ba38-4a30-8085-f86ccb5e1706",
+        "party": "Democratic",
         "phone": "775-684-8823",
-        "social": {
-          "facebook": "Hardy4NV",
-          "instagram": "hardy4nevada",
-          "twitter": "Hardy4NV"
-        },
+        "social": {},
         "state": "NV",
         "state_name": "Nevada",
-        "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=364"
+        "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/22"
       }
     ],
     "NV:23": [
       {
-        "address": "Room 4110, Nevada Assembly 401 S. Carson St., Carson City, NV 89701",
+        "address": "Nevada Assembly 401 S. Carson St., Carson City, NV 89701",
         "chamber": "lower",
         "district": "23",
         "district_key": "23",
-        "email": "danielle.gallant@asm.state.nv.us",
-        "image": "http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/Gallant.Danielle.397.jpg",
-        "name": "Danielle Gallant",
-        "openstates_id": "ocd-person/bf8b61a8-585a-4357-82f8-bd8de898262b",
+        "email": null,
+        "image": "https://denisefornevada.com/wp-content/themes/denise-for-nevada/images/denise-2.jpg?v=42",
+        "name": "Denise Fanning",
+        "openstates_id": "ocd-person/3595bac9-9ea1-48f6-8436-6c6c2d3a1497",
         "party": "Republican",
         "phone": "775-684-8503",
-        "social": {
-          "facebook": "DanielleGallant4Nevada",
-          "instagram": "danielle4nevada",
-          "twitter": "Danielle4nv1"
-        },
+        "social": {},
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/23"
@@ -64944,20 +64922,17 @@
     ],
     "NV:29": [
       {
-        "address": "Room 4103, Nevada Assembly 401 S. Carson St., Carson City, NV 89701",
+        "address": "Nevada Assembly 401 S. Carson St., Carson City, NV 89701",
         "chamber": "lower",
         "district": "29",
         "district_key": "29",
-        "email": "joe.dalia@asm.state.nv.us",
-        "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Dalia.Joe.414.jpg",
-        "name": "Joe Dalia",
-        "openstates_id": "ocd-person/282757f9-1693-4ac5-bd98-4315543cd61a",
+        "email": null,
+        "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/AlexPereszlenyi2025.jpg",
+        "name": "Alex Pereszlenyi",
+        "openstates_id": "ocd-person/0ab7b106-2c71-4329-95cd-0caf963d7d3d",
         "party": "Democratic",
         "phone": "775-684-8855",
-        "social": {
-          "instagram": "joedalianv",
-          "twitter": "JosephDalia"
-        },
+        "social": {},
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/29"
@@ -65093,20 +65068,17 @@
     ],
     "NV:35": [
       {
-        "address": "Room 4102, Nevada Assembly 401 S. Carson St., Carson City, NV 89701",
+        "address": "Nevada Assembly 401 S. Carson St., Carson City, NV 89701",
         "chamber": "lower",
         "district": "35",
         "district_key": "35",
-        "email": "rebecca.edgeworth@asm.state.nv.us",
-        "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Edgeworth.Rebecca.411.jpg",
-        "name": "Rebecca Edgeworth",
-        "openstates_id": "ocd-person/0460d67c-f5e3-4ff8-82c3-27caabeff9a2",
-        "party": "Republican",
+        "email": null,
+        "image": "https://www.democracytestkitchen.com/api/portraits/md?url=https%3A%2F%2Fjoespicafornevada.com%2Fwp-content%2Fuploads%2F2026%2F07%2FJS_NOBG_WB-e1782949595161-1024x939.webp",
+        "name": "Joe Spica",
+        "openstates_id": "ocd-person/6c4f715a-9634-476a-88d7-1b6dde8eb53a",
+        "party": "Democratic",
         "phone": "775-684-8573",
-        "social": {
-          "facebook": "EdgeworthForNevada",
-          "twitter": "EdgeworthForNV"
-        },
+        "social": {},
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/35"
@@ -65200,21 +65172,17 @@
     ],
     "NV:4": [
       {
-        "address": "Room 4113, Nevada Assembly 401 S. Carson St., Carson City, NV 89701",
+        "address": "Nevada Assembly 401 S. Carson St., Carson City, NV 89701",
         "chamber": "lower",
         "district": "4",
         "district_key": "4",
-        "email": "lisa.cole@asm.state.nv.us",
-        "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Cole.Lisa.410.jpg",
-        "name": "Lisa Cole",
-        "openstates_id": "ocd-person/1707682b-c409-4d5e-9a2d-9505180de66c",
-        "party": "Republican",
+        "email": null,
+        "image": "https://static.wixstatic.com/media/fa4149_46ae4e2b736e4a9cbdbd8b8f69d85676~mv2.png/v1/fill/w_248,h_248,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot%202026-03-16%20at%201_09_42%20PM.png",
+        "name": "Eileen Eady",
+        "openstates_id": "ocd-person/b0e201c7-f973-4bae-80ce-04aa57966fe6",
+        "party": "Democratic",
         "phone": "775-684-8829",
-        "social": {
-          "facebook": "LisaColeNV",
-          "instagram": "lisacolenevada",
-          "twitter": "LisaColeNV"
-        },
+        "social": {},
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/4"
@@ -65222,45 +65190,38 @@
     ],
     "NV:40": [
       {
-        "address": "Room 3153, Nevada Assembly 401 S. Carson St., Carson City, NV 89701",
+        "address": "Nevada Assembly 401 S. Carson St., Carson City, NV 89701",
         "chamber": "lower",
         "district": "40",
         "district_key": "40",
-        "email": "pk.oneill@asm.state.nv.us",
-        "image": "http://leg.state.nv.us/Session/81st2021/legislators/Assembly/Images/ONeill.PhilipPK.285.jpg",
-        "name": "P.K. O'Neill",
-        "openstates_id": "ocd-person/a964be66-bd32-48ab-b6c4-9ede22177328",
+        "email": null,
+        "image": "https://static.wixstatic.com/media/029b81_a41a05f664204b289e9b537e87867479~mv2.png/v1/fill/w_636,h_743,al_t,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/029b81_a41a05f664204b289e9b537e87867479~mv2.png",
+        "name": "Julie Butler",
+        "openstates_id": "ocd-person/9dcc125c-9565-4af5-a263-fd512c89ceb6",
         "party": "Republican",
         "phone": "775-684-8825",
-        "social": {
-          "facebook": "PKONeill4NV",
-          "twitter": "PKONeillNV"
-        },
+        "social": {},
         "state": "NV",
         "state_name": "Nevada",
-        "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=285"
+        "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/40"
       }
     ],
     "NV:41": [
       {
-        "address": "Room 1102, Nevada Assembly 401 S. Carson St., Carson City, NV 89701",
+        "address": "Nevada Assembly 401 S. Carson St., Carson City, NV 89701",
         "chamber": "lower",
         "district": "41",
         "district_key": "41",
-        "email": "sandra.jauregui@asm.state.nv.us",
-        "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Jauregui.Sandra.344.jpg",
-        "name": "Sandra Jauregui",
-        "openstates_id": "ocd-person/25e09131-39e3-4c58-96b0-6c1ac9e74b19",
+        "email": null,
+        "image": "https://s3.amazonaws.com/ballotpedia-api/storage/uploads/thumbs/200/300/crop/best/Vinny_Spotleson.jpg",
+        "name": "Vinny Spotleson",
+        "openstates_id": "ocd-person/a563ceff-de39-454e-b4d0-f6f17d5bb0ec",
         "party": "Democratic",
         "phone": "775-684-8821",
-        "social": {
-          "facebook": "sandrajaureguinv",
-          "instagram": "sandrajaureguinv",
-          "twitter": "sandra4nv"
-        },
+        "social": {},
         "state": "NV",
         "state_name": "Nevada",
-        "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=344"
+        "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/41"
       }
     ],
     "NV:42": [
@@ -65328,19 +65289,17 @@
     ],
     "NV:7": [
       {
-        "address": "Room 3134, Nevada Assembly 401 S. Carson St., Carson City, NV 89701",
+        "address": "Nevada Assembly 401 S. Carson St., Carson City, NV 89701",
         "chamber": "lower",
         "district": "7",
         "district_key": "7",
-        "email": "tanya.flanagan@asm.state.nv.us",
-        "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Flanagan.Tanya.423.jpg",
-        "name": "Tanya Flanagan",
-        "openstates_id": "ocd-person/1af6f404-0dfc-424a-b6df-227f45782504",
+        "email": null,
+        "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/CameronMiller.jpg",
+        "name": "C.H. Miller",
+        "openstates_id": "ocd-person/53cb6c67-5f07-4a64-9571-4fb1de35a601",
         "party": "Democratic",
         "phone": "775-684-8587",
-        "social": {
-          "twitter": "Tanya_Flanagan"
-        },
+        "social": {},
         "state": "NV",
         "state_name": "Nevada",
         "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/7"
@@ -65370,23 +65329,20 @@
     ],
     "NV:9": [
       {
-        "address": "Room 1104, Nevada Assembly 401 S. Carson St., Carson City, NV 89701",
+        "address": "Nevada Assembly 401 S. Carson St., Carson City, NV 89701",
         "chamber": "lower",
         "district": "9",
         "district_key": "9",
-        "email": "steve.yeager@asm.state.nv.us",
-        "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Yeager.Steve.310.jpg",
-        "name": "Steve Yeager",
-        "openstates_id": "ocd-person/4caae060-1c91-4d9d-a8f9-83d74c7d0f58",
+        "email": null,
+        "image": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Ryan_Hampton_26.jpg",
+        "name": "Ryan Hampton",
+        "openstates_id": "ocd-person/cac81d20-5c7e-4368-8f03-f1c601bde0c7",
         "party": "Democratic",
         "phone": "775-684-8549",
-        "social": {
-          "facebook": "yeager4nevada",
-          "twitter": "SpeakerYeagerNV"
-        },
+        "social": {},
         "state": "NV",
         "state_name": "Nevada",
-        "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=310"
+        "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/9"
       }
     ],
     "NY:1": [
@@ -79309,7 +79265,7 @@
         "district": "7",
         "district_key": "7",
         "email": "rep-morales@rilegislature.gov",
-        "image": "http://www.rilegislature.gov/representatives/Pictures/Morales.JPG",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Providence_mayor_Brett_Smiley_in_Saint_Patrick%27s_Day_Parade.jpg/500px-Providence_mayor_Brett_Smiley_in_Saint_Patrick%27s_Day_Parade.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
         "name": "David Morales",
         "openstates_id": "ocd-person/75bd1298-3fc9-42cc-87c6-23bdc20a7b56",
         "party": "Democratic",
@@ -103713,7 +103669,7 @@
     ],
     "WI:1": [
       {
-        "address": "Room 314 North, State Capitol, PO Box 8952, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "1",
         "district_key": "1",
@@ -103722,7 +103678,7 @@
         "name": "Joel Kitchens",
         "openstates_id": "ocd-person/e127b754-c756-4017-a414-83cff1bb30f5",
         "party": "Republican",
-        "phone": "608-237-9101",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103821,7 +103777,7 @@
     ],
     "WI:15": [
       {
-        "address": "Room 204 North, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "15",
         "district_key": "15",
@@ -103830,7 +103786,7 @@
         "name": "Adam Neylon",
         "openstates_id": "ocd-person/22d8a510-3b36-432a-9d3d-08efe7e74d5e",
         "party": "Republican",
-        "phone": "608-237-9115",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103839,7 +103795,7 @@
     ],
     "WI:16": [
       {
-        "address": "Room 119 North, State Capitol, PO Box 8952, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "16",
         "district_key": "16",
@@ -103848,7 +103804,7 @@
         "name": "Kalan Haywood",
         "openstates_id": "ocd-person/ac00fa62-2863-4ce4-97fb-57c094eaa158",
         "party": "Democratic",
-        "phone": "608-237-9116",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103893,7 +103849,7 @@
     ],
     "WI:19": [
       {
-        "address": "Room 21 North, State Capitol, PO Box 8952, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "19",
         "district_key": "19",
@@ -103902,7 +103858,7 @@
         "name": "Ryan Clancy",
         "openstates_id": "ocd-person/91423371-a92c-4006-ad7d-e21f2f7e666b",
         "party": "Democratic",
-        "phone": "608-237-9119",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103911,7 +103867,7 @@
     ],
     "WI:2": [
       {
-        "address": "Room 214 North, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "2",
         "district_key": "2",
@@ -103920,7 +103876,7 @@
         "name": "Shae Sortwell",
         "openstates_id": "ocd-person/82745ad9-d4b8-48e7-bbb9-3c5d73535c30",
         "party": "Republican",
-        "phone": "608-237-9102",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103947,7 +103903,7 @@
     ],
     "WI:21": [
       {
-        "address": "Room 306 East, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "21",
         "district_key": "21",
@@ -103956,7 +103912,7 @@
         "name": "Jessie Rodriguez",
         "openstates_id": "ocd-person/1dd290f4-6504-4967-9566-55cb3340d303",
         "party": "Republican",
-        "phone": "608-237-9121",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -103965,7 +103921,7 @@
     ],
     "WI:22": [
       {
-        "address": "Room 308 North, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "22",
         "district_key": "22",
@@ -103974,7 +103930,7 @@
         "name": "Paul Melotik",
         "openstates_id": "ocd-person/dab88795-9c78-44c5-a0c7-c93cb677f2e3",
         "party": "Republican",
-        "phone": "608-237-9122",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104019,7 +103975,7 @@
     ],
     "WI:25": [
       {
-        "address": "Room 218 North, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "25",
         "district_key": "25",
@@ -104028,7 +103984,7 @@
         "name": "Paul Tittl",
         "openstates_id": "ocd-person/2e759534-4cf1-43f5-85d0-bf48fea3a048",
         "party": "Republican",
-        "phone": "608-237-9125",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104055,7 +104011,7 @@
     ],
     "WI:27": [
       {
-        "address": "Room 409 North, State Capitol, PO Box 8952, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "27",
         "district_key": "27",
@@ -104064,7 +104020,7 @@
         "name": "Lindee Brill",
         "openstates_id": "ocd-person/a8bf9343-7c1b-4a9d-812c-eef5a89365a6",
         "party": "Republican",
-        "phone": "608-237-9127",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104073,7 +104029,7 @@
     ],
     "WI:28": [
       {
-        "address": "Room 107 West, State Capitol, PO Box 8952, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "28",
         "district_key": "28",
@@ -104082,7 +104038,7 @@
         "name": "Rob Kreibich",
         "openstates_id": "ocd-person/a5d9287a-c3e7-4457-8faf-31024e0e9ac6",
         "party": "Republican",
-        "phone": "608-237-9128",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104091,7 +104047,7 @@
     ],
     "WI:29": [
       {
-        "address": "Room 103 West, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "29",
         "district_key": "29",
@@ -104100,7 +104056,7 @@
         "name": "Treig Pronschinske",
         "openstates_id": "ocd-person/0ea516ae-e0f5-4d3e-baee-124e0b00d70e",
         "party": "Republican",
-        "phone": "608-237-9129",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104109,7 +104065,7 @@
     ],
     "WI:3": [
       {
-        "address": "Room 22 West, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "3",
         "district_key": "3",
@@ -104118,7 +104074,7 @@
         "name": "Ron Tusler",
         "openstates_id": "ocd-person/1c2038cc-ee27-475c-a578-0236dba3f3f3",
         "party": "Republican",
-        "phone": "608-237-9103",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104127,7 +104083,7 @@
     ],
     "WI:30": [
       {
-        "address": "Room 324 East, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "30",
         "district_key": "30",
@@ -104136,7 +104092,7 @@
         "name": "Shannon Zimmerman",
         "openstates_id": "ocd-person/d949fee5-765b-43ea-913c-386fe2b3c441",
         "party": "Republican",
-        "phone": "608-237-9130",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104145,7 +104101,7 @@
     ],
     "WI:31": [
       {
-        "address": "Room 115 West, State Capitol, PO Box 8952, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "31",
         "district_key": "31",
@@ -104154,7 +104110,7 @@
         "name": "Tyler August",
         "openstates_id": "ocd-person/b4554989-ede4-44a0-a541-c2aea2659d39",
         "party": "Republican",
-        "phone": "608-237-9131",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104163,7 +104119,7 @@
     ],
     "WI:32": [
       {
-        "address": "Room 208 North, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "32",
         "district_key": "32",
@@ -104172,7 +104128,7 @@
         "name": "Amanda Nedweski",
         "openstates_id": "ocd-person/5c70d5df-b7a6-471c-a766-05816ee009a5",
         "party": "Republican",
-        "phone": "608-237-9132",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104181,7 +104137,7 @@
     ],
     "WI:33": [
       {
-        "address": "Room 217 West, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "33",
         "district_key": "33",
@@ -104190,7 +104146,7 @@
         "name": "Robin Vos",
         "openstates_id": "ocd-person/c8381cb6-1fcf-4a82-a6c5-5c60773a85e1",
         "party": "Republican",
-        "phone": "608-237-9133",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104199,7 +104155,7 @@
     ],
     "WI:34": [
       {
-        "address": "Room 123 West, State Capitol, PO Box 8953, Madison, WI  53708",
+        "address": null,
         "chamber": "lower",
         "district": "34",
         "district_key": "34",
@@ -104208,7 +104164,7 @@
         "name": "Rob Swearingen",
         "openstates_id": "ocd-person/3a7f3611-78c4-453a-ae50-3cad3761dc9b",
         "party": "Republican",
-        "phone": "608-237-9134",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104217,7 +104173,7 @@
     ],
     "WI:35": [
       {
-        "address": "Room 127 West, State Capitol, PO Box 8952, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "35",
         "district_key": "35",
@@ -104226,7 +104182,7 @@
         "name": "Calvin Callahan",
         "openstates_id": "ocd-person/23c03244-880a-4263-8e2f-18c0c5556b45",
         "party": "Republican",
-        "phone": "608-237-9135",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104235,7 +104191,7 @@
     ],
     "WI:36": [
       {
-        "address": "Room 113 West, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "36",
         "district_key": "36",
@@ -104244,7 +104200,7 @@
         "name": "Jeff Mursau",
         "openstates_id": "ocd-person/5254db79-a23b-4496-ad9b-cc0e7a9b7f3a",
         "party": "Republican",
-        "phone": "608-237-9136",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104253,7 +104209,7 @@
     ],
     "WI:37": [
       {
-        "address": "Room 308 East, State Capitol, PO Box 8952, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "37",
         "district_key": "37",
@@ -104262,7 +104218,7 @@
         "name": "Mark Born",
         "openstates_id": "ocd-person/b6559841-9e69-4435-8788-0d8bc087baed",
         "party": "Republican",
-        "phone": "608-237-9137",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104271,7 +104227,7 @@
     ],
     "WI:38": [
       {
-        "address": "Room 207 North, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "38",
         "district_key": "38",
@@ -104280,7 +104236,7 @@
         "name": "Will Penterman",
         "openstates_id": "ocd-person/790447a2-d03d-4bc7-b15c-a72b25689eb3",
         "party": "Republican",
-        "phone": "608-237-9138",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104289,7 +104245,7 @@
     ],
     "WI:39": [
       {
-        "address": "Room 320 East, State Capitol, PO Box 8952, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "39",
         "district_key": "39",
@@ -104298,7 +104254,7 @@
         "name": "Alex Dallman",
         "openstates_id": "ocd-person/c4afc94c-3bad-4e77-9f81-de613c406860",
         "party": "Republican",
-        "phone": "608-237-9139",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104307,7 +104263,7 @@
     ],
     "WI:4": [
       {
-        "address": "Room 323 North, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "4",
         "district_key": "4",
@@ -104316,7 +104272,7 @@
         "name": "David Steffen",
         "openstates_id": "ocd-person/2a067a93-dffc-4ce7-8975-d37fb67b4512",
         "party": "Republican",
-        "phone": "608-237-9104",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104343,7 +104299,7 @@
     ],
     "WI:41": [
       {
-        "address": "Room 304 East, State Capitol, PO Box 8952, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "41",
         "district_key": "41",
@@ -104352,7 +104308,7 @@
         "name": "Tony Kurtz",
         "openstates_id": "ocd-person/5967b2fb-a060-4262-b10d-6fd27d81bf3f",
         "party": "Republican",
-        "phone": "608-237-9141",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104379,7 +104335,7 @@
     ],
     "WI:43": [
       {
-        "address": "Room 9 North, State Capitol, PO Box 8952, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "43",
         "district_key": "43",
@@ -104388,7 +104344,7 @@
         "name": "Brienne Brown",
         "openstates_id": "ocd-person/f8f3683e-3615-4a4b-bafe-d4d042f291d0",
         "party": "Democratic",
-        "phone": "608-237-9143",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104487,7 +104443,7 @@
     ],
     "WI:49": [
       {
-        "address": "Room 302 North, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "49",
         "district_key": "49",
@@ -104496,7 +104452,7 @@
         "name": "Travis Tranel",
         "openstates_id": "ocd-person/97dae592-4e4a-4cf2-9d56-069d7432b8d9",
         "party": "Republican",
-        "phone": "608-237-9149",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104505,7 +104461,7 @@
     ],
     "WI:5": [
       {
-        "address": "Room 209 North, State Capitol, PO Box 8952, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "5",
         "district_key": "5",
@@ -104514,7 +104470,7 @@
         "name": "Joy Goeben",
         "openstates_id": "ocd-person/b8666d84-956f-40a7-8faa-75709f9d4a12",
         "party": "Republican",
-        "phone": "608-237-9105",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104541,7 +104497,7 @@
     ],
     "WI:51": [
       {
-        "address": "Room 310 North, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "51",
         "district_key": "51",
@@ -104550,7 +104506,7 @@
         "name": "Todd Novak",
         "openstates_id": "ocd-person/c1e8d1c1-380d-4f59-893e-a18f77be21dd",
         "party": "Republican",
-        "phone": "608-237-9151",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104577,7 +104533,7 @@
     ],
     "WI:53": [
       {
-        "address": "Room 223 North, State Capitol, PO Box 8952, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "53",
         "district_key": "53",
@@ -104586,7 +104542,7 @@
         "name": "Dean Kaufert",
         "openstates_id": "ocd-person/72aa0b66-48f0-41fd-8ac8-b33f610d97c7",
         "party": "Republican",
-        "phone": "608-237-9153",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104613,7 +104569,7 @@
     ],
     "WI:55": [
       {
-        "address": "Room 316 North, State Capitol, PO Box 8952, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "55",
         "district_key": "55",
@@ -104622,7 +104578,7 @@
         "name": "Gus Gustafson",
         "openstates_id": "ocd-person/58b31138-e0a5-41ae-bd2f-5713e6c0cc0c",
         "party": "Republican",
-        "phone": "608-237-9155",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104631,7 +104587,7 @@
     ],
     "WI:56": [
       {
-        "address": "Room 318 North, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "56",
         "district_key": "56",
@@ -104640,7 +104596,7 @@
         "name": "Dave Murphy",
         "openstates_id": "ocd-person/1e2717f2-3426-47b6-8e86-a63f0a507c81",
         "party": "Republican",
-        "phone": "608-237-9156",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104649,7 +104605,7 @@
     ],
     "WI:57": [
       {
-        "address": "Room 309 North, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "57",
         "district_key": "57",
@@ -104658,7 +104614,7 @@
         "name": "Kevin Petersen",
         "openstates_id": "ocd-person/43c33bdc-3c41-47cc-8ffb-10a043ecdc93",
         "party": "Republican",
-        "phone": "608-237-9157",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104667,7 +104623,7 @@
     ],
     "WI:58": [
       {
-        "address": "Room 312 North, State Capitol, PO Box 8952, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "58",
         "district_key": "58",
@@ -104676,7 +104632,7 @@
         "name": "Rick Gundrum",
         "openstates_id": "ocd-person/264f7afa-69cb-46f3-97f3-ff8f21a1d68a",
         "party": "Republican",
-        "phone": "608-237-9158",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104685,7 +104641,7 @@
     ],
     "WI:59": [
       {
-        "address": "Room 216 North, State Capitol, PO Box 8952, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "59",
         "district_key": "59",
@@ -104694,7 +104650,7 @@
         "name": "Rob Brooks",
         "openstates_id": "ocd-person/d8956a67-d280-4219-853f-c21ec173f80a",
         "party": "Republican",
-        "phone": "608-237-9159",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104703,7 +104659,7 @@
     ],
     "WI:6": [
       {
-        "address": "Room 219 North, State Capitol, PO Box 8952, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "6",
         "district_key": "6",
@@ -104712,7 +104668,7 @@
         "name": "Elijah Behnke",
         "openstates_id": "ocd-person/de5dfe78-e3a2-4a58-a7f1-bb184bfd1ade",
         "party": "Republican",
-        "phone": "608-237-9106",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104721,7 +104677,7 @@
     ],
     "WI:60": [
       {
-        "address": "Room 109 West, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "60",
         "district_key": "60",
@@ -104730,7 +104686,7 @@
         "name": "Jerry O'Connor",
         "openstates_id": "ocd-person/4e1004c1-d397-4a50-baeb-2d3fbbd2912f",
         "party": "Republican",
-        "phone": "608-237-9160",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104739,7 +104695,7 @@
     ],
     "WI:61": [
       {
-        "address": "Room 3 North, State Capitol, PO Box 8952, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "61",
         "district_key": "61",
@@ -104748,7 +104704,7 @@
         "name": "Bob Donovan",
         "openstates_id": "ocd-person/54522ac6-81ad-4b83-929f-b94e94b8acb4",
         "party": "Republican",
-        "phone": "608-237-9161",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104775,7 +104731,7 @@
     ],
     "WI:63": [
       {
-        "address": "Room 129 West, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "63",
         "district_key": "63",
@@ -104784,7 +104740,7 @@
         "name": "Bob Wittke",
         "openstates_id": "ocd-person/ea4d8d73-19b6-408f-a802-22b2ddf816d9",
         "party": "Republican",
-        "phone": "608-237-9163",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104793,7 +104749,7 @@
     ],
     "WI:64": [
       {
-        "address": "Room 321 West, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "64",
         "district_key": "64",
@@ -104802,7 +104758,7 @@
         "name": "Tip McGuire",
         "openstates_id": "ocd-person/c66ed13a-e5a7-49e0-9cce-02d677c5da15",
         "party": "Democratic",
-        "phone": "608-237-9164",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104847,7 +104803,7 @@
     ],
     "WI:67": [
       {
-        "address": "Room 220 North, State Capitol, PO Box 8952, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "67",
         "district_key": "67",
@@ -104856,7 +104812,7 @@
         "name": "Dave Armstrong",
         "openstates_id": "ocd-person/28caa8bd-605b-4755-85a0-52434a9be02f",
         "party": "Republican",
-        "phone": "608-237-9167",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104865,7 +104821,7 @@
     ],
     "WI:68": [
       {
-        "address": "Room 119 West, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "68",
         "district_key": "68",
@@ -104874,7 +104830,7 @@
         "name": "Rob Summerfield",
         "openstates_id": "ocd-person/e23ff9c6-f6d5-4ada-8974-74c6ce90c422",
         "party": "Republican",
-        "phone": "608-237-9168",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104883,7 +104839,7 @@
     ],
     "WI:69": [
       {
-        "address": "Room 321 East, State Capitol, PO Box 8952, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "69",
         "district_key": "69",
@@ -104892,7 +104848,7 @@
         "name": "Karen Hurd",
         "openstates_id": "ocd-person/1332581f-d860-43a0-b7d9-ddf619451efa",
         "party": "Republican",
-        "phone": "608-237-9169",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104919,7 +104875,7 @@
     ],
     "WI:70": [
       {
-        "address": "Room 13 West, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "70",
         "district_key": "70",
@@ -104928,7 +104884,7 @@
         "name": "Nancy VanderMeer",
         "openstates_id": "ocd-person/5858f406-f96a-4846-8a9e-0bede48d94ed",
         "party": "Republican",
-        "phone": "608-237-9170",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104955,7 +104911,7 @@
     ],
     "WI:72": [
       {
-        "address": "Room 315 North, State Capitol, PO Box 8952, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "72",
         "district_key": "72",
@@ -104964,7 +104920,7 @@
         "name": "Scott Krug",
         "openstates_id": "ocd-person/77257644-eb9a-447d-bcd8-f3e3de7e49e4",
         "party": "Republican",
-        "phone": "608-237-9172",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -104991,7 +104947,7 @@
     ],
     "WI:74": [
       {
-        "address": "Room 125 West, State Capitol, PO Box 8952, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "74",
         "district_key": "74",
@@ -105000,7 +104956,7 @@
         "name": "Chanz Green",
         "openstates_id": "ocd-person/2a6503b4-d030-4569-b5b2-8fe62ff6132d",
         "party": "Republican",
-        "phone": "608-237-9174",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -105009,7 +104965,7 @@
     ],
     "WI:75": [
       {
-        "address": "Room 418 North, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "75",
         "district_key": "75",
@@ -105018,7 +104974,7 @@
         "name": "Duke Tucker",
         "openstates_id": "ocd-person/2a047fc5-2adb-4c4b-9c67-0eda3aa07233",
         "party": "Republican",
-        "phone": "608-237-9175",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -105045,7 +105001,7 @@
     ],
     "WI:77": [
       {
-        "address": "Room 10 West, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "77",
         "district_key": "77",
@@ -105054,7 +105010,7 @@
         "name": "Renuka Mayadev",
         "openstates_id": "ocd-person/8b54c039-be1b-4320-89f8-415ac1afa698",
         "party": "Democratic",
-        "phone": "608-237-9177",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -105081,7 +105037,7 @@
     ],
     "WI:79": [
       {
-        "address": "Room 113 North, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "79",
         "district_key": "79",
@@ -105090,7 +105046,7 @@
         "name": "Lisa Subeck",
         "openstates_id": "ocd-person/eed49381-7c5b-4890-bba3-d63b8681463d",
         "party": "Democratic",
-        "phone": "608-237-9179",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -105117,7 +105073,7 @@
     ],
     "WI:80": [
       {
-        "address": "Room 306 West, State Capitol, PO Box 8952, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "80",
         "district_key": "80",
@@ -105126,7 +105082,7 @@
         "name": "Mike Bare",
         "openstates_id": "ocd-person/1b0b0777-af08-40f2-a45b-3c2431b37722",
         "party": "Democratic",
-        "phone": "608-237-9180",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -105153,7 +105109,7 @@
     ],
     "WI:82": [
       {
-        "address": "Room 105 West, State Capitol, PO Box 8952, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "82",
         "district_key": "82",
@@ -105162,7 +105118,7 @@
         "name": "Scott Allen",
         "openstates_id": "ocd-person/06b28490-4fb0-43fe-9577-60bdb921164b",
         "party": "Republican",
-        "phone": "608-237-9182",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -105171,7 +105127,7 @@
     ],
     "WI:83": [
       {
-        "address": "Room 4 West, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "83",
         "district_key": "83",
@@ -105180,7 +105136,7 @@
         "name": "Dave Maxey",
         "openstates_id": "ocd-person/f20f569f-1f36-4856-9193-b4b938dfcdaf",
         "party": "Republican",
-        "phone": "608-237-9183",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -105189,7 +105145,7 @@
     ],
     "WI:84": [
       {
-        "address": "Room 306 North, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "84",
         "district_key": "84",
@@ -105198,7 +105154,7 @@
         "name": "Chuck Wichgers",
         "openstates_id": "ocd-person/ef921fbc-cb1a-4208-a4ab-b2ea99114f0a",
         "party": "Republican",
-        "phone": "608-237-9184",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -105207,7 +105163,7 @@
     ],
     "WI:85": [
       {
-        "address": "Room 307 North, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "85",
         "district_key": "85",
@@ -105216,7 +105172,7 @@
         "name": "Pat Snyder",
         "openstates_id": "ocd-person/38649f7a-eba4-4908-b264-f95fe908fc7a",
         "party": "Republican",
-        "phone": "608-237-9185",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -105225,7 +105181,7 @@
     ],
     "WI:86": [
       {
-        "address": "Room 212 North, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "86",
         "district_key": "86",
@@ -105234,7 +105190,7 @@
         "name": "John Spiros",
         "openstates_id": "ocd-person/38070b4e-d50c-4bc1-86ad-6739c5edc60a",
         "party": "Republican",
-        "phone": "608-237-9186",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -105243,7 +105199,7 @@
     ],
     "WI:87": [
       {
-        "address": "Room 420 North, State Capitol, PO Box 8952, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "87",
         "district_key": "87",
@@ -105252,7 +105208,7 @@
         "name": "Brent Jacobson",
         "openstates_id": "ocd-person/3089bcca-553d-4637-9b50-2d9698944d5a",
         "party": "Republican",
-        "phone": "608-237-9187",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -105261,7 +105217,7 @@
     ],
     "WI:88": [
       {
-        "address": "Room 304 North, State Capitol, PO Box 8952, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "88",
         "district_key": "88",
@@ -105270,7 +105226,7 @@
         "name": "Ben Franklin",
         "openstates_id": "ocd-person/04b709c6-b487-49c1-9bcf-dfbbc7082beb",
         "party": "Republican",
-        "phone": "608-237-9188",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -105279,7 +105235,7 @@
     ],
     "WI:89": [
       {
-        "address": "Room 17 West, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "89",
         "district_key": "89",
@@ -105288,7 +105244,7 @@
         "name": "Ryan Spaude",
         "openstates_id": "ocd-person/3d4582f2-ed69-468c-ad02-33cbd612199d",
         "party": "Democratic",
-        "phone": "608-237-9189",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -105315,7 +105271,7 @@
     ],
     "WI:90": [
       {
-        "address": "Room 18 West, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "90",
         "district_key": "90",
@@ -105324,7 +105280,7 @@
         "name": "Amaad Rivera-Wagner",
         "openstates_id": "ocd-person/998f8ecc-8772-44f4-a81d-622f567c0142",
         "party": "Democratic",
-        "phone": "608-237-9190",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -105333,7 +105289,7 @@
     ],
     "WI:91": [
       {
-        "address": "Room 322 West, State Capitol, PO Box 8952, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "91",
         "district_key": "91",
@@ -105342,7 +105298,7 @@
         "name": "Jodi Emerson",
         "openstates_id": "ocd-person/71d596fa-95f2-4411-9b7c-9e250380b701",
         "party": "Democratic",
-        "phone": "608-237-9191",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -105351,7 +105307,7 @@
     ],
     "WI:92": [
       {
-        "address": "Room 12 West, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "92",
         "district_key": "92",
@@ -105360,7 +105316,7 @@
         "name": "Clint Moses",
         "openstates_id": "ocd-person/21e310b1-c14b-42e6-b3fc-84c1613c3063",
         "party": "Republican",
-        "phone": "608-237-9192",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -105387,7 +105343,7 @@
     ],
     "WI:94": [
       {
-        "address": "Room 124 North, State Capitol, PO Box 8952, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "94",
         "district_key": "94",
@@ -105396,7 +105352,7 @@
         "name": "Steve Doyle",
         "openstates_id": "ocd-person/b3064a65-976e-4324-a66d-dfd44a0f0e3e",
         "party": "Democratic",
-        "phone": "608-237-9194",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -105405,7 +105361,7 @@
     ],
     "WI:95": [
       {
-        "address": "Room 118 North, State Capitol, PO Box 8952, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "95",
         "district_key": "95",
@@ -105414,7 +105370,7 @@
         "name": "Jill Billings",
         "openstates_id": "ocd-person/7da63875-0a3c-4b03-aaa8-fe48c718eb45",
         "party": "Democratic",
-        "phone": "608-237-9195",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -105441,7 +105397,7 @@
     ],
     "WI:97": [
       {
-        "address": "Room 210 North, State Capitol, PO Box 8952, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "97",
         "district_key": "97",
@@ -105450,7 +105406,7 @@
         "name": "Cindi Duchow",
         "openstates_id": "ocd-person/171aec6e-ba95-4244-9854-84cddf028d90",
         "party": "Republican",
-        "phone": "608-237-9197",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -105459,7 +105415,7 @@
     ],
     "WI:98": [
       {
-        "address": "Room 412 North, State Capitol, PO Box 8953, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "98",
         "district_key": "98",
@@ -105468,7 +105424,7 @@
         "name": "Jim Piwowarczyk",
         "openstates_id": "ocd-person/61dfe0c1-631f-401a-a4db-6641547db7ef",
         "party": "Republican",
-        "phone": "608-237-9198",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -105477,7 +105433,7 @@
     ],
     "WI:99": [
       {
-        "address": "Room 317 North, State Capitol, PO Box 8952, Madison, WI 53708",
+        "address": null,
         "chamber": "lower",
         "district": "99",
         "district_key": "99",
@@ -105486,7 +105442,7 @@
         "name": "Barbara Dittrich",
         "openstates_id": "ocd-person/0580ebef-0cfa-40ae-a4ea-d960e0ea30ee",
         "party": "Republican",
-        "phone": "608-237-9199",
+        "phone": null,
         "social": {},
         "state": "WI",
         "state_name": "Wisconsin",
@@ -131531,20 +131487,20 @@
     ],
     "NV:20": [
       {
-        "address": "Room 2158, Nevada Senate 401 S. Carson St., Carson City, NV 89701",
+        "address": "Nevada Senate 401 S. Carson St., Carson City, NV 89701",
         "chamber": "upper",
         "district": "20",
         "district_key": "20",
-        "email": "jeff.stone@sen.state.nv.us",
-        "image": "http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/Stone.Jeff.390.jpg",
-        "name": "Jeff Stone",
-        "openstates_id": "ocd-person/00ad1837-b472-4ce8-872d-e1eac1c1c6db",
+        "email": null,
+        "image": "http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/Gallant.Danielle.397.jpg",
+        "name": "Danielle Gallant",
+        "openstates_id": "ocd-person/bf8b61a8-585a-4357-82f8-bd8de898262b",
         "party": "Republican",
-        "phone": "775-684-1481",
+        "phone": "775-684-1420",
         "social": {
-          "facebook": "stonefornv",
-          "instagram": "senatorjeffstone",
-          "twitter": "JeffStoneNV"
+          "facebook": "DanielleGallant4Nevada",
+          "instagram": "danielle4nevada",
+          "twitter": "Danielle4nv1"
         },
         "state": "NV",
         "state_name": "Nevada",
@@ -145778,9 +145734,9 @@
         "chamber": "upper",
         "district": "14",
         "district_key": "14",
-        "email": "Laura.Taliaferro@wyoleg.gov",
+        "email": "laura.pearson@wyoleg.gov",
         "image": "https://wyoleg.gov/LegislatorSummary/Photos/68th-PearsonLaura.jpg",
-        "name": "Laura Taliaferro",
+        "name": "Laura Pearson",
         "openstates_id": "ocd-person/c6b78357-5a9d-41e9-b947-1d81227b0f15",
         "party": "Republican",
         "phone": null,
